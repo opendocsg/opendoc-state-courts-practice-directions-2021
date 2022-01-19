@@ -1,407 +1,307 @@
 # Part II: Originating Processes and Documents
 
-## 8. Originating Summonses
+## 8. Operating hours of the State Courts
 
-(1) This Practice Direction applies to originating summonses filed on or after 1 January 2006.
+The various courts, offices and counters within the State Courts have different operating hours. These operating hours may be found the Singapore Courts website at <https://www.judiciary.gov.sg>.        
 
-### Forms for originating summonses
 
-(2) Solicitors’ attention is drawn to Order 12, Rule 9 of the Rules of Court (Cap. 322, R 5) which provides that no appearance need be entered to an originating summons.
+## 9. Hours for the sittings of the State Courts 
 
-(3) Where any legislation requires a party to file an originating summons and the Form is not provided within the legislation, the originating summons must be filed using either Form 4 (Originating Summons) or Form 5 (*Ex Parte* Originating Summons) of Appendix A of the Rules of Court.
+(1) The hours for the sittings of the State Courts shall be as follows, subject to the presiding judicial officer’s discretion in any case to conclude a sitting at such earlier or later time as he may direct:
 
-(4) The parties in Form 4 of Appendix A of the Rules of Court shall be stated as “plaintiff” and “defendant”, or “appellant” and “respondent” as the case may be.
+>(a)**Mentions Courts** (except Court 4A)
 
-(5) The party in Form 5 of Appendix A of the Rules of Court shall be stated as “applicant”.
+>>>>Mondays to Fridays	-	&nbsp;9.00am to 1.00pm and
 
-## 9. Identification numbers to be stated in cause papers
+>>>>>>>>>>>>2.30pm to 5.30pm;
 
-### Parties named in the title of the documents
+>(b) **Court 4A**
+>>>>Mondays to Fridays	-	&nbsp;8.45am to 1.00pm and
 
-(1) Where a party to any proceedings in the State Courts first files a document in such proceedings, he shall state his identification number, in parentheses, in the title of the document immediately below or after his name. Thereafter, all documents subsequently filed in the proceedings by any party shall include this identification number in the title of the documents in parentheses below or after the name of the party to which it applies.
+>>>>>>>>>>>>2.30pm to 5.30pm;
 
-### Parties not named in the title of the documents
+>>>>Saturdays &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;9.00am to 1.00pm
 
-(2) Where a party to any proceedings in the State Courts first files a document in such proceedings, and the name of the party does not appear in the title of the document but does appear in the body of the document, then the identification number of the party should be stated, in parentheses, below or after the first appearance of his name in the document.  Thereafter, all documents subsequently filed in the proceedings by any party shall include this identification number in parentheses immediately below or after the first appearance of the name of the party to which it applies in the subsequent document.
+>(c) **Hearing Courts and Chambers**
 
-### Documents filed by two or more parties
+>>>>Mondays to Fridays	-	&nbsp;9.30am to 1.00pm and
 
-(3) Paragraphs (1) and (2) shall apply, with the necessary modifications, to documents which are filed by more than one party.
+>>>>>>>>>>>>2.30pm to 5.30pm
 
-### Identification numbers for non-parties
+>(d) **Night Courts**
 
-(4) If any person (living or dead), any entity or any property is in part or in whole the subject matter of any proceedings, or is affected by any proceedings, but is not a party thereto, and the name of such person, entity or property is to appear in the title of the documents filed in the proceedings, the party filing the first document in the proceedings must state the identification number of such person, entity or property in parentheses immediately below or after the name of the same. Thereafter, all documents subsequently filed in the proceedings by any party shall include this identification number in parentheses immediately below or after the name of the person, entity or property to which it applies.  If the party filing the first document in the proceedings is unable, after reasonable enquiry, to discover the identification number of the person, entity or property, he may state immediately below or after the name of the same “(ID No. not known)”.  All documents subsequently filed by any party shall then contain these words in parentheses below or after the name of this person, entity or property.
+>>>>Mondays to Thursdays 	-	&nbsp;5.30pm onwards
 
-### Special cases
-
-(5) The following Directions shall apply in addition to the Directions contained in paragraphs (1) to (4):
-
-<ul type='*'>
-	<li>
-    (a) where a party is represented by a litigation representative, paragraphs (1) to (3) shall apply to the litigation representative as if he were parties to the proceedings and the identification numbers of the party and the litigation representative must be stated below or after the name of each, as appropriate;
-  </li>
-	<li>
-    (b) where parties are involved in any proceedings as the personal representatives of the estate of a deceased person, paragraphs (1) to (3) shall apply to the deceased person as if he were a party; and
-  </li>
-	<li>
-    (c) where more than one identification number applies to any party, person, entity or property, all the identification numbers shall be stated in any convenient order.
-  </li>
-</ul>
-
-### Identification numbers
-
-(6) When entering the identification number in the Electronic Filing Service, the full identification number should be entered, including any letters or characters that appear in, at the beginning of, or at the end of the number. Descriptive text which is required to be entered into the actual document, such as “Japanese Identification Card No.”, should not be entered into the electronic form.
-
-### Guidelines for the selection of identification numbers
-
-(7) The following guidelines should be followed in deciding on the appropriate identification number.
-
-<ul type='*'>
-	<li>
-    <p>(a) <strong>Natural person with Singapore identity card</strong></p>
+>(e) **Tribunal / Simplified POHA Proceedings**
 
-    <p>
-    For a natural person who is a Singapore citizen or permanent resident, the identification number shall be the number of the identity card issued under the National Registration Act (Cap. 201).  The 7 digit number as well as the letters at the front and end should be stated. For example: “(NRIC No. S1234567A)”.
-    </p>
-  </li>
-	<li>
-    <p>(b) <strong>Natural person with FIN number</strong></p>
+>>>>Mondays to Fridays	-	&nbsp;8.30am to 12.30pm and
 
-    <p>
-    For a natural person, whether a Singapore citizen or permanent resident or not, who has not been issued with an identity card under the National Registration Act, but has been assigned a FIN number under the Immigration Regulations (Cap. 133, Rg 1), the identification number shall be the FIN number.  The number should be preceded by the prefix “FIN No.”
-    </p>
-  </li>
-	<li>
-    <p>(c) <strong>Natural person: birth certificate or passport number</strong></p>
+>>>>>>>>>>>>2.00pm to 5.30pm
 
-    <p>
-    For a natural person, whether a Singapore citizen or permanent resident or not, who has not been issued with an identity card under the National Registration Act or assigned a FIN number, the identification number shall be the birth certificate or passport number.  The number should be preceded by either of the following, as appropriate, “(Issuing country) BC No.” or “(Issuing country) PP No.”
-    </p>
-  </li>
-	<li>
-    <p>(d) <strong>Natural person: other numbers</strong></p>
+(2) This Practice Direction shall apply to both civil and criminal proceedings.
 
-    <p>
-    For a natural person who is not a Singapore citizen or permanent resident and has not been assigned a FIN number and does not have a birth certificate or passport number, the identification number shall be the number of any identification document he may possess.  Both the number as well as some descriptive words which will enable the nature of the number given and the authority issuing the identification document to be ascertained, should be stated.  For example: “Japanese Identification Card No.”
-    </p>
-  </li>
-	<li>
-    <p>(e) <strong>Deceased person</strong></p>
+## 10. Hearing of urgent applications during weekends and public holidays
 
-    <p>
-    For a deceased natural person, the identification number shall be as set out in sub-paragraphs (a) to (d) above.  However, if such numbers are not available, the identification number shall be the death registration number under the Registration of Births and Deaths Rules (Cap. 267, R 1) or the equivalent foreign provisions, where the death is registered abroad.  The number as well as the following words should be stated: “(Country or place of registration of death) Death Reg. No.”
-    </p>
-  </li>
-	<li>
-    <p>(f) <strong>Company registered under the Companies Act</strong></p>
+(1) There may be occasions when urgent applications for interim injunctions or interim preservation of subject matter of proceedings, evidence and assets to satisfy judgments need to be heard on weekends and public holidays. To request the urgent hearing of such applications, the applicant should contact the Duty Judicial Officer at 9654 0072 during the operating hours of 8.30am to 6:00pm on weekends and Public Holidays. The Duty Judicial Officer will only arrange for the hearing of applications which are so urgent that they cannot be heard the next working day.
 
-    <p>
-    For a company registered under the Companies Act (Cap. 50), the
-    identification number shall be the Unique Entity Number (UEN).
-    </p>
-  </li>
-	<li>
-    <p>(g) <strong>Company registered outside Singapore</strong></p>
+(2) All the necessary papers required for the application must be filed using the Electronic Filing Service and appropriate draft orders of Court must be prepared.   
 
-    <p>
-    For a company registered outside Singapore which is not registered under the
-    Companies Act, the identification number shall be the registration number of
-    the company in the country of registration.
-    </p>
-  </li>
-	<li>
-    <p>(h) <strong>Business registered under the Business Registration Act</strong></p>
+(3) The judicial officer processing the application may direct an applicant to tender the application and supporting documents to the Court by email in lieu of filing as well as provide an undertaking from counsel that all the documents (including the originating process) will be filed in Court the next available working day. 
 
-    <p>
-    For a body registered under the Business Registration Act (Cap. 32), the identification number shall be the UEN.
-    </p>
-  </li>
-	<li>
-    <p>(i) <strong>Limited Liability Partnership registered under the Limited Liability Partnerships Act</strong></p>
+(4) The judicial officer conducting the urgent hearing may, at his or her discretion, give directions for the urgent hearing to take place remotely or, alternatively, with parties attending in person.   
+ 
 
-    <p>
-    For a limited liability partnership registered under the Limited Liability
-    Partnerships Act (Cap. 163A), the identification number shall be the UEN.
-    </p>
-  </li>
-	<li>
-    <p>(j) <strong>Other bodies and associations</strong></p>
 
-    <p>
-    For any other body or association, whether incorporated or otherwise, which
-    does not fall within any of the descriptions in sub-paragraphs (f) to (i) above,
-    the identification number shall be any unique number assigned to the body or
-    association by any authority.  Both the number as well as some descriptive
-    words which will enable the nature of the number given and the authority
-    assigning the number to be ascertained, should be stated.
-    For example: “Singapore Trade Union Reg. No. 123 A”.
-    </p>
-  </li>
-	<li>
-    <p>(k) <strong>No identification numbers exist</strong></p>
+## 11. Duty Registrar 
 
-    <p>
-    Where the appropriate identification numbers referred to in sub-paragraphs
-    (a) to (j) above do not exist in respect of any party, person, entity or
-    property, the following words should be stated immediately below or after
-    the name of that party, person, entity or property concerned: “(No ID No. exists)”.
-    </p>
-  </li>
-</ul>
+(1) The duties of the Duty Registrar are —
 
-### Inability to furnish identification number at the time of filing a document
+>(a) to hear applications made without notice or by consent provided that the summons has been filed in the Electronic Filing System;
 
-(8) If a party who wishes to file a document is unable at the time of filing to furnish the necessary identification numbers required by this Practice Direction, the party may indicate “(ID Not Known)” at the time of filing.  However, when the necessary identification numbers have been obtained, the party must furnish the necessary identification numbers to the Registry through the Electronic Filing Service.
+>(b) to grant approval for any matter pertaining to the administration of the Registry, including giving early or urgent dates and allowing inspection of files; and
 
-### Meaning of document
+>(c) to sign and certify documents.
 
-(9) For avoidance of doubt, the words “document” and “documents” when used in this Practice Direction include all originating processes filed in the State Courts regardless of whether they are governed by the Rules of Court or not.
+(2) The duty hours will be from Mondays to Fridays from 9.30am to 12.30pm and 2.30pm to 5.30pm.
 
-### Non-compliance
+(3) Parties seeking to obtain directions and/or orders from the Duty Registrar shall do so by filing an “Other Hearing Related Request” through the Electronic Filing Service, in accordance with the Workflow for Hearings before the Duty Registrar and Duty Judicial Officer, which can be downloaded from the Singapore Courts’ website at <https://www.judiciary.gov.sg>.   
 
-(10) Any document which does not comply with this Practice Direction may be rejected for filing by the Registry.
+(4) If parties are unable to file a Request on the Electronic Filing Service (eg, because the originating papers for the case have not been filed or accepted), parties may call 6721 7705 to seek directions. In doing so parties should be prepared to explain the urgency of the application or request.
 
-## 10. Citation of Case Numbers / New Court Forum Prefix
+(5) Except as otherwise directed by the Duty Registrar, the filing of the relevant documents will be sufficient for the Duty Registrar's disposal of any application or matter. Documents which are filed using the Electronic Filing Service will be returned to the advocate and solicitor through the Electronic Filing Service to the inbox of the law firm’s computer system or through the service bureau.  
 
-(1) All originating processes and summonses filed in civil matters in the State Courts on or after 1st January 2015 shall bear case numbers in the following Format:
+## 12. Attendance of solicitors in Court
 
-**Description of Court / Type of Application \[Case number\] / Year filed**
+Subject to Practice Direction 36(16), a solicitor appearing in any cause or matter may mention for counsel for all other parties provided that:
 
-For example :
+>(a) the solicitor obtains confirmation of his authority to mention on their behalf for the purpose of the hearing; and
 
-| ***Case number Format*** | ***Type of case***                                  |
-|--------------------------|-----------------------------------------------------|
-| DC / DC 1 / 2015         | Writ of Summons filed in the District Court         |
-| MC / MC 1 / 2015         | Writ of Summons filed in the Magistrate’s Court     |
-| DC / OSS 1 / 2015        | Originating Summons filed in the District Court     |
-| MC / OSS 1 / 2015        | Originating Summons filed in the Magistrate’s Court |
-| DC / SUM 1 / 2015        | Summons filed in a District Court Suit              |
-| MC / SUM 1 / 2015        | Summons filed in a Magistrate’s Court Suit          |
-
-(2) The new Court description or court forum prefix will not be displayed in the Electronic Queue System.  Counsel and parties should disregard the same when taking their queue numbers.
-
-(3) Parties must cite the case number in full in all documents and Requests filed in Court.
-
-## 11. Personal service of processes and documents
-
-(1) The attention of solicitors is drawn to Order 62, Rule 2(1) of the Rules of Court (Cap. 322, R 5) which provides:
-
-> “Personal service must be effected by a process server of the Court or by a solicitor or a solicitor's clerk whose name and particulars have been notified to the Registrar for this purpose:
-
-> Provided that the Registrar may, in a particular cause or matter, allow personal service to be effected by any other named person and shall, in that case, cause to be marked on the document required to be served personally, a memorandum to that effect.”
-
-(2) Solicitors must notify the Registry of the particulars of those clerks who have been authorised by them to serve processes and documents (hereafter referred to as “authorised process servers”) by submitting a request to authorise user through the Electronic Filing Service.
-
-(3) Where such authorised process servers are no longer so authorised, solicitors must revoke or delete the authorisation immediately by submitting a request through the Electronic Filing Service. Solicitors’ clerks do not require the authorisation of the Registrar to effect personal service of processes and documents.
-
-(4) In view of the alternative modes providing for personal service to be effected by a solicitor or a solicitor's clerk, Court process servers will not be assigned to effect personal service of processes and documents unless there are special reasons.  
-
-(5) If it is felt that there are special reasons requiring personal service by a Court process server, a Request for such service must be filed through the Electronic Filing Service, setting out the special reasons.  The approval of the Duty Registrar must be obtained for such service. Once approval has been obtained, the documents for service must be presented at the counter designated for this purpose.  A process server will then be assigned to effect service and an appointment for service convenient to both the litigant and the assigned process server will be given.
-
-(6) On the appointed date, the person accompanying the process server must call at the Registry.  The amount required for the transport charges of the process server (a record of which will be kept) must be tendered, or, alternatively, the process server in question must be informed that transport for him will be provided. The Registry will then instruct the process server to effect service.    
-
-(7) Under no circumstances should any payment be made directly to the process server.
-
-## 12. Substituted Service
-
-(1) In any application for substituted service, the applicant should persuade the Court that the proposed mode of substituted service will bring the document in question to the notice of the person to be served.
-
-(2) Two reasonable attempts at personal service should be made before an application for an order for substituted service is filed. In an application for substituted service, the applicant shall demonstrate by way of affidavit why he or she believes that the attempts at service made were reasonable.
-
-(3) The applicant should, where appropriate, also consider other modes of substituted service, such as AR registered post or electronic means (including electronic mail or Internet transmission) in addition to or in substitution of substituted service by posting on doors or gates of residential and business premises.
-
-(4) An application for substituted service by posting at an address or by AR registered post should contain evidence (for example, relevant search results from the Inland Revenue Authority of Singapore, the Singapore Land Authority, the Housing & Development Board or the Accounting and Corporate Regulatory Authority) that the person to be served is either the owner of, resident or can be located at the property.
-
-(5) For the avoidance of doubt, substituted service by AR registered post is deemed to be effective when the postal service has delivered the document, or attempted to deliver the document (in cases where no one is present or willing to accept the document).
-
-(6) If substituted service is by electronic mail, it has to be shown that the electronic mail account to which the document will be sent belongs to the person to be served and that it is currently active.
-
-(7) An application for substituted service by advertisement (in one issue of the Straits Times if the person to be served is literate in English, or one issue of the Straits Times and one issue of one of the main non-English language newspapers where his language literacy is unknown) should only be considered as a last resort and should contain evidence that the person to be served is literate in the language of the newspaper in which the advertisement will be placed.
-
-(8) For the avoidance of doubt, posting on the Notice Board of the Registry of the State Courts is not available as a proposed mode of substituted service.
+>(b) parties have agreed on the order(s) sought.
 
 ## 13. Amendment of documents
 
-### General requirements for amendment of any document
+(1) Subject to the provisions of this Practice Direction, members of the public are not entitled to attend hearings in chambers in civil proceedings.
 
-(1) Except as otherwise provided by the provisions of this Practice Direction, where any document (inclusive of any pleading) that has been filed in any proceedings is required to be amended and re-filed in Court, a fresh copy of the document with the amendments included must be prepared, regardless of the number and length of the amendments sought to be made.
+(2) Notwithstanding paragraph (1) above, subject to any written law, the Court may, at its discretion, permit interested persons, such as instructing solicitors, foreign legal counsel and parties to the matter, to attend hearings in chambers subject to space, security and interests of justice. In exercising its discretion, the Court may consider a broad range of factors including —
 
-(2) The procedure for amending a document is as follows:
+>(a) the interest that the person seeking permission has in the matter before the Court;
 
-> (a) A fresh amended copy of the document should be produced.
+>(b) the interests of the litigants;
 
-> (b) The number of times the document has been amended shall be indicated in parentheses after the name of the document. For this purpose, an amended document should be entitled “\[document name\] (Amendment No. 1)” or “\[document name\] (Amendment No. 2)”, or as appropriate. For example, a Statement of Claim which is amended for the first time should be filed as “Statement of Claim (Amendment No. 1)”, and a Defence that is amended for the second time should be filed as “Defence (Amendment No. 2)”.
+>(c) the reasons for which such permission is sought; and 
 
-> (c) The changes made in the document from the latest version of the document filed in Court should be indicated in the following way:
+>(d) the Court’s interest in preserving and upholding its authority and dignity.
 
->> (i) deletions shall be made by drawing a single line across the words to be deleted; and
+(3) In granting interested persons the permission to attend hearings in chambers, the Court may, at its discretion, impose the necessary conditions to be complied with.
 
->> (ii) insertions shall be underlined.
 
-### Colour scheme for amendments
+## 14. Absence from Court on medical grounds
 
-(3) In addition, the following colours shall be used to indicate the history of the amendments in the specified documents:
+(1) If —
 
-> (a) black for the first round of amendments;
+>(a) any party to proceedings;
 
-> (b) red for the second round of amendments;
+>(b) any witness;
 
-> (c) green for the third round of amendments;
+>(c) any counsel; or
 
-> (d) blue for the fourth round of amendments; and
+>(d) any officer or other person appointed by the Public Prosecutor to act as a Deputy Public Prosecutor or an Assistant Public Prosecutor in carrying out any of the duties of the Public Prosecutor under the Criminal Procedure Code (Cap 68) or under any other written law,
+is required to attend Court (including any hearing conducted by way of live video or live television link) and wishes to absent himself from Court on medical grounds, he must tender or cause to be tendered to the Court an original medical certificate. Where a medical certificate cannot be tendered in person, it may be tendered by any electronic means which the Court may permit.
 
-> (e) brown for subsequent rounds of amendments.
+(2) Any medical certificate tendered to the Court under paragraph (1) must:
 
-### Amendment for third time or more  
+>(a) state the name of the medical practitioner who issued the certificate;
 
-(4) From the *third* round of amendments onwards, the amended specified document should comprise two versions of the document, i.e. —
+>(b) state the name of the hospital or clinic at which it was issued;
 
-> (a) a clean version without the amendments shown; followed in the same document by
+>(c) state the contact details of the medical practitioner and also of the hospital or clinic;
 
-> (b) a version showing the amendments in colour.
+>(d) be signed by the medical practitioner;
 
-(5) Only one amended document consisting of these two versions is required to be filed.
+>(e) contain a diagnosis of the patient concerned accompanied by a brief description of the symptom(s) and condition(s) forming the basis for the statement in sub-paragraph (2)(f) below (unless the diagnosis cannot or should not normally be disclosed);
 
-### Cases to which the requirements in paragraphs (1) and (2) do not apply
+>(f) contain a statement to the effect that the person to whom the certificate is issued is medically unfit to attend Court, and specify the date(s) on which the person is medically unfit to attend Court;
 
-(6) The directions in paragraph (2)(b) above shall not apply to any originating summons or summons that has been amended from an *inter partes* application to an *ex parte* application or *vice versa*.
+>(g) bear the date on which it was written and, where this differs from the date of consultation, this must be clearly disclosed; and
 
-(7) The directions in paragraphs (2)(c) above shall not apply to any originating process, summons or other electronic form that is composed online through the Electronic Filing Service.
+>(h) be the original document issued by the medical practitioner, if it was issued by the medical practitioner in hard copy.
 
-### Amendment endorsements on electronic forms
+(3) If any information specified in paragraph (2) is not stated in the medical certificate itself, such information must be included in a memorandum attached to the medical certificate.  
 
-(8) Order 20, Rule 10(2) of the Rules of Court requires that an amended pleading or other document be endorsed with a statement that it has been amended, specifying the date on which it was amended and by whom the order (if any) authorising the amendment was made and the date thereof, and if no such order was made, the number of the Rule in Order 20 of the Rules of Court in pursuance of which the amendment was made.
+(4) All information and details in any medical certificate or memorandum must be clearly and legibly printed.
 
-(9) Where electronic forms are amended, the amendment endorsement shall take either one of the following forms:
+(5) If any requirement set out in paragraphs (2) to (4) is not complied with, the Court may reject the medical certificate and decline to excuse the attendance of the person to whom the medical certificate was issued. The Court may then take any action it deems appropriate.
 
-> (a) “By order of court made on \[date order was made\]”; or
+(6) The Court may, if it deems fit, take steps to contact the medical practitioner who appears to have issued a medical certificate for the purpose of authenticating the medical certificate and, where necessary, the party tendering the medical certificate must provide such assistance to the Court as may be necessary to facilitate such authentication.
 
-> (b) “Pursuant to Order 20, Rule \[cite specific rule number\]”.
+(7) This Practice Direction shall apply to both civil and criminal proceedings in the State Courts.
 
-(10) The amendment endorsement shall be appended to the title of the electronic form, after the amendment number as required under paragraph (2)(b) above. Where an electronic form is amended more than once, the endorsement need only cite the basis for the most recent amendment. For example —
 
-> (a) “Originating Summons (Amendment No. 3, by order of court made on 1 January 2013)”;
+## 15. Precedence and preaudience of Senior Counsel
 
-> (b) “Writ of Summons (Amendment No. 1, pursuant to O. 20, r 3)”.
+(1) By virtue of section 31 of the Legal Profession Act (Cap 161) and existing custom and usage, Senior Counsel are given precedence and the right of preaudience.
 
-(11) The date of the electronic form shall reflect the date on which the document is amended.
+(2) In order to give substance to the principle of precedence and preaudience to Senior Counsel, Senior Counsel who intend to appear before Judges or Registrars for summonses hearings should inform the Registrar in writing not later than 2 clear days before the scheduled hearing date. Matters involving Senior Counsel will thereafter be listed first, in the order of their precedence. If Senior Counsel do not appear at the time their matters come on for hearing according to the list, they will have to wait for their turn in accordance with their queue numbers given by the Queue Management System in the State Courts, subject to the Judge’s or Registrar’s overriding discretion.
 
-### Amendments made on original writ or originating summons (where amendments are not numerous or lengthy)
+(3) All other counsel, including those who appear on behalf of Senior Counsel, will continue to be heard in the order of their queue numbers in accordance with the current practice in the State Courts, subject to the Judge’s or Registrar’s overriding discretion
 
-(12) This paragraph applies to writs and originating summonses that have not been filed using the Electronic Filing Service. In addition to the usual endorsement signed by the solicitors pursuant to Practice Direction 14 (Endorsements on originating processes and other documents), there should be re-sealing of the document as required by Order 20, Rule 10(1), of the Rules of Court. The seal will be embossed over the endorsement.
-
-### Amendment of case title to add a party
-
-(13) Where leave of Court has been obtained to add a party to the main case title of a matter, for example, an intervener, a garnishee or any party that was previously a non-party, the applicant or his solicitor is to file a Request through the Electronic Filing Service to add that specific party to the main case title.
-
-## 14. Endorsements on originating processes and other documents
-
-(1) The provisions of this Practice Direction shall apply where it is necessary to include endorsements on any document.
-
-(2) Endorsements are normally made on originating processes and other documents to show the renewal of, amendments to, and authorisation for service of, the document in question.  Such endorsements on originating processes and other documents do not require the Registrar's signature.  This is because such endorsements are pursuant to either an order of Court or the Rules of Court (Cap. 322, R 5).  The Registrar should therefore not be asked to sign such endorsements.
-
-(3) For documents that are filed through the Electronic Filing Service as electronic forms composed online, the following requirements apply:
-
-> (a) Solicitors should select the appropriate endorsement and check the accuracy of the electronic form in the preview stage before filing the originating process or other document. The acceptance by the Registry of electronic forms composed online does not affect the regularity of any endorsements on the document.
-
-> (b) Where endorsements can be made prior to the filing or issuance of a document, those endorsements shall be incorporated into the document before the document is filed or issued.
-
-> (c) Where endorsements must be made on a document which has already been filed or issued, a fresh copy of the document containing the relevant endorsements shall be prepared, and the document must be re-filed or re-issued, as the case may be. An example of this would be renewals of writs of summons.
-
-## 15. Additional endorsements on cause papers
-
-Every affidavit which is filed in conjunction with a summons (but not those filed in conjunction with originating summonses) must have endorsed at the top left-hand corner of the first page of the affidavit the entered number of the summons.
 
 ## 16. Information to be provided in cause papers and documents filed in the State Courts Registry
 
-(1) This Practice Direction shall apply to all cause papers and documents that are not filed using the Electronic Filing Service (EFS).
+(1) In the event that a party is represented by more than one counsel at a hearing, whether in open Court or in chambers, the making of submissions and the questioning of witnesses may be carried out by one counsel for each party only.
 
-(2) Occasionally when members of the staff of the State Courts have to contact lawyers having conduct of an action or charge of a matter, they have sometimes encountered difficulties for reasons such as changes to the constitution of the law firm, changes to the telephone numbers and telephone receptionists in law firms being unable to identify the lawyer concerned.
+(2) If counsel have divided up their work such that it is necessary or desirable that submissions on different issues be made or certain portions of the examination, cross-examination or re-examination be conducted by different counsel, an application should be made to Court at the commencement of the trial or hearing for permission to do so. The following information should be provided to the Court for the purposes of the application:
 
-(3) To facilitate the contacting of lawyers having conduct of an action or charge of a matter by members of the staff of the State Courts, the following information shall be inserted on backing sheets of all cause papers and documents filed in the Registry in the format set out:
+>(a) the issues on which each counsel will be making submissions; and/or
 
-> “(Name of lawyer(s) having conduct of action or charge of matter.)
+>(b) the witnesses to be examined, cross-examined or re-examined by each counsel, or the portions of their evidence for which each counsel will conduct the examination, cross-examination or re-examination.
 
-> (Name of law firm.)
+(3) If permission has been granted in accordance with paragraph (2), counsel should ensure that each confines himself to the issues or portions of evidence in respect of which permission was granted and that there is no overlap in the issues or the examination being dealt with by different counsel for the same party. Further, counsel must not repeat, clarify or expand on any submissions or portions thereof that have been made by another counsel for the same party or examine, cross-examine or re-examine witnesses on portions of their evidence dealt with by another counsel for the same party.
 
-> (Address of law firm.)
+(4) If the permission of the Court is not sought in accordance with paragraph (2), only one counsel will be allowed to make submissions or conduct examination for a party throughout the hearing.
 
-> Tel: (Contact telephone number.)
+(5) This Practice Direction shall apply to both civil and criminal proceedings. 
 
-> Fax: (Contact facsimile number.)
 
-> Ref: (File reference of law firm.)”
+## 17. Court dress
 
-(4) The information is to be inserted as a block near the bottom right hand corner of the backing sheets.
+(1) The attire for male advocates and solicitors appearing in open Court will be an ordinary long-sleeved white shirt with a turn-down collar, a tie of a subdued or sober colour, a dark jacket, dark trousers and black or plain coloured shoes.
 
-## 17. Access to case file, inspection and taking copies of documents and conducting searches
+(2) The attire for female advocates and solicitors appearing in open Court will be a long sleeved white blouse high to the neck, a dark jacket, a dark skirt or dark trousers and black or plain coloured shoes. Conspicuous jewellery or ornaments should not be worn.
 
-### Access by parties to a case file
+(3) When appearing before the Judge or Registrar in chambers, the attire for both men and women will be the same as for open Court.
 
-(1) All parties to a case who are registered users of the Electronic Filing Service may, subject to the provisions of this Practice Direction and any directions of the Court, access the online case file made available through the Electronic Filing Service and may inspect, download soft copies or print hard copies of documents accessible to the parties in the online case file.
 
-(2) Where a party to a case is not a registered user and is unable to access the electronic case file through the Electronic Filing Service, the procedure governing file inspection by non-parties to a case in paragraph (5) below shall be followed.
+## 18. Use of electronic and other devices
 
-(3) All parties to a case shall have the liberty to make amendments at will to administrative details contained in the electronic case file through the Electronic Filing Service, and for this purpose —
+(1) In order to maintain the dignity of Court proceedings in the State Courts, court users are strictly prohibited from making any video and/or image recording in all hearings and sessions in open Court or in chambers.
 
-> (a) administrative details include the contact details of solicitors, the identities of the solicitors, and the nature of the claim; and
+(2) Additionally, audio recording during a hearing or session is strictly prohibited without prior approval of the Judge or Registrar hearing the matter or the person presiding over the session. 
 
-> (b) where a party to a case is not a registered user of the Electronic Filing Service, he may attend at the service bureau to seek assistance to amend the administrative details contained in the electronic case file.
+(3) Court users are permitted to use notebooks, tablets, mobile phones and other electronic devices for the following purposes provided that such use does not in any way disrupt or trivialise the proceedings:
 
-(4) The Registry may require parties to a case to provide supporting documents to substantiate proposed amendments to other details of the electronic case file before the amendment is approved (e.g. amendments to add or remove a party to the case have to be supported by an order of court, and amendments to change the name, gender, identification number, or marital status of a party to the case have to be substantiated by documentary proof).
+>(a) to take notes of evidence during all hearings or sessions and for any other purpose pertaining to the proceedings; or 
 
-### File inspection by non-parties
+>(b) to communicate with external parties during all hearings in open Court unless the Judge hearing the matter or the person presiding over the session expressly disallows this.
 
-(5) In order to inspect a case file containing documents that were filed through the Electronic Filing Service, the following procedure should be followed:
+(4) This Practice Direction shall apply to both civil and criminal proceedings in the State Courts. 
 
-> (a) A Request should be made to obtain leave to inspect the file, which request should —
+(5) This Practice Direction shall also apply to all alternative dispute resolution and counselling sessions conducted in the State Courts.
 
->> (i) be filed using the Electronic Filing Service;
+(6) The attention of court users is also drawn to section 5 of the Administration of Justice (Protection) Act 2016 (Act 19 of 2016).
+ 
 
->> (ii) state the name of the person who is to carry out the search or inspection (and if this person is not a solicitor, his identity card number should also be included in the request, after his name);
+## 19. Personal data
 
->> (iii) state the interest the applicant has in the matter, and the reason for the search or inspection; and
+(1) For the purposes of this Practice Direction: 
 
->> (iv) if the search or inspection is requested for the purpose of ascertaining information for use in a separate suit or matter, clearly state the nature of the information sought and the relevance of such information to the separate suit or matter.
+>(a) “**personal data**” shall have the same meaning as defined in the Personal Data Protection Act 2012 (Act 26 of 2012); and 
 
-> (b) Once approval for inspection has been received from the Court:
+>(b) “**data subject**” means a person whose personal data appears in any document filed in the Registry or an electronic cause book or register maintained by the Registry.
 
->> (i) Registered users can inspect the case file online through the Electronic Filing Service;
+***Consent to collection, use or disclosure of personal data***
 
->> (ii) Parties who are not registered users can inspect the case file by presenting a copy of the approval at the service bureau. After verifying the approval that has been presented, the service bureau will assign a personal computer to the inspecting party for the inspection to be carried out. An inspecting party will usually be allowed only 60 minutes to carry out the inspection. If a longer period is required, the service bureau may impose a charge for use of the computer. The service bureau may impose additional charges for downloading soft copies or printing hard copies of documents from the case file being inspected.
+(2) Consent to the collection, use or disclosure of personal data contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar need not be obtained. 
 
-(6) Requests in hard copy may be submitted to inspect case files containing documents which were not filed using the Electronic Filing Service. The Registry will only accept requests which are printed or typewritten on paper of good quality and signed by the solicitors concerned. Requests which have any erasure marks on them will be rejected. Requests which are double stamped, that is, if the requests were originally short stamped and later stamped to add up to the correct fee, may be rejected.
+(3) Pursuant to Order 26 of the Rules of Court 2021, the Registry may compile and maintain electronic cause books and registers by extracting information, including personal data, contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar. 
 
-(7) Solicitors must communicate to the Registrar in writing the names of their clerks who have their authority to make searches and inspections. Such authority may be in respect of a specific search or inspection or for a specified period.
+***Access to, and correction of, personal data contained in documents filed with, served on, delivered or otherwise conveyed to the Registrar***
 
-(8) For the avoidance of doubt, a non-party who has obtained approval to inspect a case file may take and retain a soft copy of any document that is available for inspection. All copies of documents taken in the course of inspection should not be used for purposes other than those stated in the Request to inspect. Solicitors shall be responsible for informing their clients of this.
+(4) A data subject who wishes to access his personal data contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar must comply with the applicable provisions in the Rules of Court 2021 and these Practice Directions relating to the access to and inspection of case files. 
 
-Obtaining certified true copies of documents
+(5) A data subject shall not be entitled to request information about the ways in which his personal data contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar has been used or disclosed.
 
-(9) Applications to obtain certified true paper copies of documents should be made by way of filing a Request through the Electronic Filing Service, unless the documents concerned have not been filed through the Electronic Filing Service.
+(6) A data subject who wishes to correct any error or omission in his personal data in any document filed with, served on, delivered or otherwise conveyed to the Registrar must comply with the applicable provisions in the Rules of Court 2021 and these Practice Directions relating to the amendment of the relevant document.
 
-(10) The intended use of the certified true copies should be clearly stated in the Request. The relevance and necessity of the certified true copies in relation to their intended use should also be clearly described.
+***Access to, and correction of, personal data contained in electronic cause books and registers maintained by the Registry***
 
-(11) Once approval is received from the Court, the applicant should present a printed copy of the approved Request at the Records Section. After verifying that the Request presented has been approved, the staff of the Records Section will inform the applicant of any additional fees payable. Any additional fees payable should then be stamped on the Request at the State Courts Cashier’s Office. Upon presentation of this stamped Request, the documents will be furnished to the applicant.
+(7) A data subject who wishes to access his personal data contained in any electronic cause book or register must conduct a search through the Electronic Filing Service at a service bureau or at the Registry and shall pay the fees prescribed by the Fourth Schedule to the Rules of Court 2021. 
 
-(12) The fees prescribed by Appendix B to the Rules of Court will be payable for the above services without prejudice to additional printing charges which may be chargeable by the Court or the service bureau for reproducing the copies in paper form.
+(8) A data subject shall not be entitled to request information about the ways in which his personal data contained in any electronic cause book or register has been used or disclosed. 
 
-Electronic cause books and registers maintained by the Registry
+(9) A data subject who wishes to correct any error or omission of his personal data in any electronic cause book or register maintained by the Registry shall comply with the following procedure: 
 
-(13) Order 60 Rule 2 of the Rules of Court provides that the Registry shall maintain information prescribed or required to be kept by the Rules of Court and Practice Directions issued by the Registrar. In addition to any provisions in the Rules of Court, the Registrar hereby directs that the following information shall be maintained by the Registry:
+>(a) The request to correct the error or omission must be made in writing by the data subject or by his solicitor, together with the reason for the requested correction. The request must clearly identify the record and the personal data to be corrected.
 
-> (a) details of all originating processes, including:
+>(b) If the data subject is not represented, his identification and contact details should also be included in the request and a copy of his identity document (including physical or digital identity card) should be provided. 
 
->> (i) details of interlocutory applications;
+>(c) The following documents should accompany the request: 
 
->> (ii) details of appeals filed therein; and
+>>(i) recent copy of the record identifying the error or omission; and 
 
->> (iii) details of probate proceedings, including wills and caveats filed therein;
+>>(ii) supporting document(s) to substantiate the proposed correction.
 
-> (b) details of writs of execution, writs of distress and warrants of arrest; and
+(10) Where a correction is made pursuant to a request under paragraph (9) above, any information that is licensed for use under Practice Direction 33(16) will be updated accordingly with the corrected personal data.
 
-> (c) any other information as may from time to time be deemed necessary.
 
-(14) Searches of this information under Order 60 Rule 3 of the Rules of Court may be conducted through the Electronic Filing Service at a service bureau or at the Records Section. The fees prescribed by Appendix B to the Rules of Court will be payable for the searches.  
+## 20. Authorisation for collection of mail and Court documents
 
-(15) An application may be made by any person for a licence to use any information contained in any electronic cause book or register subject to such terms and conditions as the Registrar may determine. Successful applicants will be required to enter into separate technical services agreements with the Electronic Filing Service provider. Applications under this Practice Direction must be made in writing, identifying the data fields sought and providing details of how the information will be used.’
+(1) Without prejudice to paragraphs (3) and (4) below, all law firms must notify the Registry of the State Courts of the particulars of those person(s) authorised to collect Court documents or mail from the State Courts on their behalf by submitting a request to authorise user through the Electronic Filing Service. 
+
+(2) Where such authorised persons are no longer so authorised, the law firm must revoke or delete the authorisation immediately by submitting a request through the Electronic Filing Service. Until receipt of such notification of revocation or deletion, Court documents and mail shall continue to be released to such authorised persons upon production of evidence of identification.
+
+(3) Any solicitor may collect Court documents and mail on behalf of his firm and any litigant in person may collect Court documents and mail intended for him in any matter in which he is a party.
+
+(4) A law firm may authorise a courier service-provider to collect Court documents or mail from the State Courts on its behalf. At the time of collection, the courier service provider must produce a letter of authorisation on the law firm’s letterhead that is addressed to the courier service-provider. The said letter of authorisation must clearly state —
+
+>(a) the case number;
+
+>(b) the name of the courier service-provider appointed to do the collection; and
+
+>(c) the Court documents or mail to be collected. 
+
+(5) An employee or representative of the courier service-provider collecting the Court documents or mail may be requested to provide evidence that will allow the State Courts to verify that he is an employee or representative from the courier service provider and must acknowledge receipt of the Court documents or mail collected.
+
+
+## 21. Case-related correspondence to be copied to other parties in the cause or matter
+
+(1) All correspondence to the State Courts relating to or in connection with any pending cause or matter must be copied to all other parties to the cause or matter or to their solicitors unless there are good reasons for not so doing, which should be explained in the correspondence to the Court. 
+
+(2) Solicitors are further reminded that the State Courts should not be copied on correspondence between parties or their solicitors. 
+
+(3) The Registry has the discretion to reject or refuse to act on any inappropriate correspondence or correspondence which is not copied to any party in contravention of this Practice Direction.
+
+(4) This Practice Direction shall apply to all proceedings in the State Courts.
+
+
+## 22. Filing directions for payment into and out of Court
+
+(1) Where moneys are to be paid into Court pursuant to a judgment or order of the Court, the judgment or order must be referenced in the Direction to Accountant-General for Payment In and filed into the case file via the Electronic Filing Service for approval by the Court.
+
+(2) Where a party wishes to furnish security for costs for an appeal filed in the State Courts, the Direction to Account-General for Payment In, which shall be prepared using Form 44 of Appendix A2 to these Practice Directions, must reference the provision in the Rules of Court 2021 pursuant to which the security for costs is furnished.
+
+(3) Where moneys are to be paid out of Court pursuant to a judgment or order of the Court, the judgment or order must be referenced in the Direction to Accountant-General for Payment Out and filed into the case file via the Electronic Filing Service for approval by the Court. The following documents (as the case may be) must, where necessary, accompany the filing of the Direction to Accountant-General for Payment Out and be filed into the case file via the Electronic Filing Service for approval by the Court:
+
+>(a) the Notice of Acceptance of Money Paid into Court in Form 28 of Appendix A2 to these Practice Directions; or
+
+>(b) the written consent filed pursuant to Order 18, Rule 12(2) or Order 19, Rule 10(2) of the Rules of Court 2021.
+
+(4) Each Direction to Accountant-General for Payment In or Payment Out must contain amounts in a single currency. Where moneys in different currencies are to be paid into or out of Court, separate Directions must be prepared for each currency in which payment is to be made.
+
+***Direction to Accountant-General for Payment In or Out of Court***
+
+(5) For payments into Court, after the Direction to Accountant-General for Payment In has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment In Party”) must send a copy of the approved Direction to Accountant-General for Payment In and the judgment or order of Court referenced therein to VITAL by email at <VITAL_FS_Receivable@vital.gov.sg>. Upon successful receipt of the documents, VITAL will provide instructions on how electronic payment is to be effected. A receipt will be issued by VITAL to the Payment In Party when payment is received by the Accountant-General. 
+
+(6) For payments out of Court, after the Direction to Accountant-General for Payment Out has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment Out Party”) must send a copy of the approved Direction to Accountant-General for Payment Out and the judgment or order of Court referenced therein to VITAL by email to <VITAL_FS_Receivable@vital.gov.sg>. Upon successful receipt of the documents, VITAL will provide instructions on process for the release of the relevant moneys.
+
+
+## 23. Publication of reports and comments on Court cases 
+
+(1) This Practice Direction applies to any solicitor, litigant (whether represented or unrepresented), the media and any other person who reports or comments on any proceedings which are pending before the State Courts. 
+
+(2) Every person to whom this Practice Direction applies —
+
+>(a) must ensure that any report or comment made by him or her in public on any pending proceedings before the State Courts —
+
+>>(i) does not contravene any existing law or order of Court; and
+
+>>(ii) is not calculated to affect, or be reasonably capable of affecting, the outcome of any decision by the Court. 
+
+>(b) must not publish or publicly report or comment on —
+
+>>(i) any affidavit or statutory declaration which has not been adduced as evidence or been referred to in any hearing whether in open Court or in chambers;
+
+>>(ii) any other Court document which has not been served on the relevant party or parties in the proceedings; or
+
+>>(iii) any statement made by any person in proceedings in chambers where such statement is expressly stated to be confidential or is impliedly confidential, except that a solicitor may inform his or her client of any such statement made in chambers when it is necessary for the solicitor to render proper advice to the clients.
+ 
