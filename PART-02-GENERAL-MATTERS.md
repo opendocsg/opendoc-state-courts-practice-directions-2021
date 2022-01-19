@@ -13,12 +13,12 @@ The various courts, offices and counters within the State Courts have different 
 
 >>>>Mondays to Fridays	-	&nbsp;9.00am to 1.00pm and
 
->>>2.30pm to 5.30pm;
+>>>>2.30pm to 5.30pm;
 
 >(b) **Court 4A**
 >>>>Mondays to Fridays	-	&nbsp;8.45am to 1.00pm and
 
->>>>>>>>>>>>2.30pm to 5.30pm;
+>>>>2.30pm to 5.30pm;
 
 >>>>Saturdays &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;9.00am to 1.00pm
 
@@ -26,7 +26,7 @@ The various courts, offices and counters within the State Courts have different 
 
 >>>>Mondays to Fridays	-	&nbsp;9.30am to 1.00pm and
 
->>>>>>>>>>>>2.30pm to 5.30pm
+>>>>2.30pm to 5.30pm
 
 >(d) **Night Courts**
 
@@ -36,7 +36,7 @@ The various courts, offices and counters within the State Courts have different 
 
 >>>>Mondays to Fridays	-	&nbsp;8.30am to 12.30pm and
 
->>>>>>>>>>>>2.00pm to 5.30pm
+>>>>2.00pm to 5.30pm
 
 (2) This Practice Direction shall apply to both civil and criminal proceedings.
 
