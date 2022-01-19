@@ -1,4 +1,4 @@
-# Part II: Originating Processes and Documents
+# Part II: GENERAL MATTERS
 
 ## 8. Operating hours of the State Courts
 
