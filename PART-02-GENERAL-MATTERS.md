@@ -13,7 +13,7 @@ The various courts, offices and counters within the State Courts have different 
 
 >>>>Mondays to Fridays	-	&nbsp;9.00am to 1.00pm and
 
->>>>>>>>2.30pm to 5.30pm;
+>>>>>>>>>2.30pm to 5.30pm;
 
 >(b) **Court 4A**
 >>>>Mondays to Fridays	-	&nbsp;8.45am to 1.00pm and
