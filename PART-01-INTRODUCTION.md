@@ -1,4 +1,4 @@
-# Part I: Introduction
+# Part I: INTRODUCTION
 
 ## 1. Citation and commencement
 These Practice Directions may be cited as the State Courts Practice Directions 2021 and come into operation on 1 April 2022.
