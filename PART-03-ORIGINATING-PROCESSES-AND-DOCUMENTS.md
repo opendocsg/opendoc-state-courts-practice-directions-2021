@@ -49,37 +49,37 @@
 
 (7) The following guidelines should be followed in deciding on the appropriate identification number.
 
->(a) Natural person with Singapore identity card<br>
+>(a) #### Natural person with Singapore identity card<br>
 <br>For a natural person who is a Singapore citizen or permanent resident, the identification number shall be the number of the identity card issued under the National Registration Act (Cap 201). The seven digit number as well as the letters at the front and end should be stated. For example: “(NRIC No. S1234567A)”.</br>
 
->(b) Natural person with FIN number<br>
+>(b) #### Natural person with FIN number<br>
 For a natural person, whether a Singapore citizen or permanent resident or not, who has not been issued with an identity card under the National Registration Act, but has been assigned a FIN number under the Immigration Regulations (Cap 133, Rg 1), the identification number shall be the FIN number. The number should be preceded by the prefix “FIN No.”
 
->(c) Natural person: birth certificate or passport number<br>
+>(c) #### Natural person: birth certificate or passport number<br>
 For a natural person, whether a Singapore citizen or permanent resident or not, who has not been issued with an identity card under the National Registration Act or assigned a FIN number, the identification number shall be the birth certificate or passport number. The number should be preceded by either of the following, as appropriate, “(Issuing country) BC No.” or “(Issuing country) PP No.”
 
->(d) Natural person: other numbers<br>
+>(d) #### Natural person: other numbers<br>
 For a natural person who is not a Singapore citizen or permanent resident and has not been assigned a FIN number and does not have a birth certificate or passport number, the identification number shall be the number of any identification document he may possess. Both the number as well as some descriptive words which will enable the nature of the number given and the authority issuing the identification document to be ascertained, should be stated. For example: “Japanese Identification Card No.”
 
->(e) Deceased person<br>
+>(e) #### Deceased person<br>
 For a deceased natural person, the identification number shall be as set out in sub-paragraphs (a) to (d) above. However, if such numbers are not available, the identification number shall be the death registration number under the Registration of Births and Deaths Rules (Cap 267, R 1) or the equivalent foreign provisions, where the death is registered abroad. The number as well as the following words should be stated: “(Country or place of registration of death) Death Reg. No.”
 
->(f) Company registered under the Companies Act<br>
+>(f) #### Company registered under the Companies Act<br>
 For a company registered under the Companies Act (Cap 50), the identification number shall be the Unique Entity Number (UEN).
 
->(g) Company registered outside Singapore<br>
+>(g) #### Company registered outside Singapore<br>
 For a company registered outside Singapore which is not registered under the Companies Act, the identification number shall be the registration number of the company in the country of registration.
 
->(h) Business registered under the Business Names Registration Act 2014<br>
+>(h) #### Business registered under the Business Names Registration Act 2014<br>
 For a body registered under the Business Names Registration Act 2014 (Act 29 of 2014), the identification number shall be the UEN.
 
->(i) Limited Liability Partnership registered under the Limited Liability Partnerships Act<br>
+>(i) #### Limited Liability Partnership registered under the Limited Liability Partnerships Act<br>
 For a limited liability partnership registered under the Limited Liability Partnerships Act (Cap 163A), the identification number shall be the UEN.
 
->(j) Other bodies and associations<br>
+>(j) #### Other bodies and associations<br>
 For any other body or association, whether incorporated or otherwise, which does not fall within any of the descriptions in sub-paragraphs (f) to (i) above, the identification number shall be any unique number assigned to the body or association by any authority. Both the number as well as some descriptive words which will enable the nature of the number given and the authority assigning the number to be ascertained, should be stated. For example: “Singapore Trade Union Reg. No. 123 A”.
 
->(k) No identification numbers exist<br>
+>(k) #### No identification numbers exist<br>
 Where the appropriate identification numbers referred to in sub-paragraphs (a) to (j) above do not exist in respect of any party, person, entity or property, the following words should be stated immediately below or after the name of that party, person, entity or property concerned: “(No ID No. exists)”.
 
 ### ***Inability to furnish identification number at the time of filing a document***
