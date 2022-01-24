@@ -36,7 +36,7 @@
 
 (8) Where the Court is of the view that an ADR (including Court ADR) process is suitable, and the party/parties have opted out of the ADR process for reasons deemed to be unsatisfactory, this conduct may be taken into account by the Court when making subsequent costs orders pursuant to Order 21, Rule 2(2)(a) of the Rules of Court 2021, which states: 
 
->>>>>>>>>>>>*“In exercising its power to fix or assess costs, the Court must have regard to all relevant circumstances, including — (a) efforts made by the parties at amicable resolution;”*
+>>>>*“In exercising its power to fix or assess costs, the Court must have regard to all relevant circumstances, including — (a) efforts made by the parties at amicable resolution;”*
 
 (9) Notwithstanding any provision of these Practice Directions, the Court may, in its discretion, direct parties to attend a CC in such manner and at such time as it deems fit.
 
