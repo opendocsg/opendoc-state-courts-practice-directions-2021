@@ -2,13 +2,13 @@
 
 ## 57.Video and telephone conferencing
 
-***Introduction***
+### ***Introduction***
 
 (1) This Practice Direction applies to all proceedings in the State Courts, including criminal proceedings.
 
 (2) Subject to the provisions of any written law, the State Courts may conduct hearings by video conferencing or telephone conferencing using an approved remote communication technology. 
 
-***Guidelines and Procedures***
+### ***Guidelines and Procedures***
 
 (3) The State Courts may prescribe guidelines and procedures on the conduct of hearings by video conferencing or telephone conferencing. These guidelines and procedures will be published on the Singapore Courts website at <https://www.judiciary.gov.sg> and may be updated from time to time.
 
@@ -30,13 +30,12 @@
 
 >(b) whether to conduct a hearing with one or more parties attending by video conferencing or telephone conferencing and any other party attending physically in Court. 
 
-***Dress and etiquette***
+### ***Dress and etiquette***
 
 (6) Where hearings are conducted by video conferencing, all Court rules and practices on dress and etiquette will continue to apply. However, it will not be necessary to stand and/or bow to the Court at the start or end of the hearing or to stand when addressing the Court, when otherwise required to do so for physical attendance.
 
-***Records of hearing***
+### ***Records of hearing***
 
 (7) Where a hearing is conducted by means of video conferencing or telephone conferencing using an approved remote communication technology, all recordings made of the hearing which have been authorised by the Court using such approved remote communication technology will constitute the official record of hearing for the purposes of Order 15, Rule 11(6) of the Rules of Court 2021. 
 
-(8) Unauthorised audio or visual recording of hearings conducted by video conferencing or telephone conferencing is strictly prohibited. In appropriate cases, the Court may require an undertaking that no such recording will be made. Attention is drawn to section 5 of the Administration of Justice (Protection) Act 2016 (Act 19 of 2016) regarding contempt of Court by unauthorised recordings.
-
+(8) Unauthorised audio or visual recording of hearings conducted by video conferencing or telephone conferencing is strictly prohibited. In appropriate cases, the Court may require an undertaking that no such recording will be made. Attention is drawn to section 5 of the Administration of Justice (Protection) Act 2016 (Act 19 of 2016) regarding contempt of Court by unauthorised recordings. 
