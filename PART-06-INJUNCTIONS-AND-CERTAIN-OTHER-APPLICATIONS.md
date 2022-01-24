@@ -31,7 +31,7 @@
 
 (4) Wherever practicable, applications should be made sufficiently early so as to ensure that the Judge has sufficient time to read and consider the application in advance.
 
-***Applications for search orders***
+### ***Applications for search orders***
 
 (5) Form 26 of Appendix A2 to these Practice Directions states that the search order must be served by a supervising solicitor and carried out in his presence and under his supervision. The supervising solicitor should be an experienced solicitor who is not a member or employee of the firm acting for the applicant and who has some familiarity with the operation of search orders. The evidence in support of the application should include the identity and experience of the proposed supervising solicitor.  
 
@@ -73,5 +73,4 @@
 
 (2) An application referred to in paragraph (1) above must be made in Form 15 in Appendix A2 to these Practice Directions. 
 
-(3) If an applicant requires an urgent hearing date, the onus shall lie on the applicant to attend before the Duty Registrar to highlight the nature of the application and to request that the application be fixed for hearing on an urgent basis.
-
+(3) If an applicant requires an urgent hearing date, the onus shall lie on the applicant to attend before the Duty Registrar to highlight the nature of the application and to request that the application be fixed for hearing on an urgent basis. 
