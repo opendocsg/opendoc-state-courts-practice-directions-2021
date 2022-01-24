@@ -26,7 +26,7 @@
 
 (4) Where, at any CC or other hearing, the Court orders the production of documents, or where production is required by Orders 11 and 65 of the Rules of Court 2021, parties are to utilise Form 1 of Appendix A1 to these Practice Directions. 
 
-***Presumption of Alternative Dispute Resolution for all civil claims***
+### ***Presumption of Alternative Dispute Resolution for all civil claims***
 
 (5) A “presumption of Alternative Dispute Resolution” applies to all civil claims filed in the State Courts. For this purpose, the Court may refer appropriate matters for parties to attempt the amicable resolution of disputes through one of the Court alternative dispute resolution modalities (“**Court ADR modalities**”) during a CC. 
 
@@ -47,7 +47,7 @@
 
 ## 35. The SMCL Process
 
-***Scope of the SMCL Process***
+### ***Scope of the SMCL Process***
 
 (1) The Specially Managed Civil List (“**SMCL**”) comprises cases which would benefit from a dedicated and rigorous pre-trial management process in order to bring about an expeditious resolution of the dispute. These cases will be tracked by a docketed team of judicial officers who will deal with all the pre-trial applications and give directions to facilitate the timely disposal of the dispute.
 
@@ -81,7 +81,7 @@
 
 >(n) Any case deemed suitable for the SMCL at the discretion of the Court or on the application of parties. 
 
-***First SMCL CC***
+### ***First SMCL CC***
 
 (3) Subject to the discretion of the Court, where an action has been identified for inclusion in the SMCL:
 
@@ -101,7 +101,7 @@
 
 >(d) Where both parties are represented, a SMCL CC will be fixed to be conducted on a “documents-only” basis. Where at least one party is unrepresented, a physical SMCL CC will be fixed. 
 
-***Subsequent SMCL CCs***
+### ***Subsequent SMCL CCs***
 
 (4) The Court may, at any SMCL CC, give directions for parties to file and serve the Single Application Pending Trial pursuant to Order 9, Rule 9 of the Rules of Court 2021 (“**SAPT**”) and/or give any directions in respect of other stand-alone applications at the SMCL CC. 
 
@@ -115,7 +115,7 @@
 
 (9) Where the action is not disposed of by the Court or settled or otherwise resolved through the actions of the parties, the Court will at an appropriate stage give directions for the matter to be set down for trial. If the matter is set down by the date fixed by the Court, the matter will be fixed for a Pre-Trial CC and any outstanding SMCL CC will be vacated. Where the matter has been set down, parties should seek extended timelines and/or permission to file any further applications at the SMCL CC or from the trial judge if one has been allocated.
 
-***General provisions for procedure of SMCL CCs***
+### ***General provisions for procedure of SMCL CCs***
 
 (10) Where appropriate, the Court may at any SMCL CC refer the case to Court alternative dispute resolution (“**Court ADR**”) or allow time for parties to engage in any other appropriate ADR process.
 
@@ -136,17 +136,17 @@
 
 ## 36. Simplified Process under Order 65 of the Rules of Court 2021
 
-***Scope of the Simplified Process***
+### ***Scope of the Simplified Process***
 
 (1) All Originating Claims filed in the Magistrate’s Court on or after 1 April 2022, save for personal injury claims, non-injury motor accident claims, claims in negligence (including professional negligence claims) and medical negligence claims, are subject to the Simplified Process under Order 65 of the Rules of Court 2021 (“**Simplified Process**”). Where parties to Originating Claims filed in the District Courts (“**DC**”) on or after 1 April 2022 consent for Order 65 to apply to those proceedings by filing Form 3 of Appendix A1 to these Practice Directions, those proceedings will also be subject to the Simplified Process. Where parties to a DC claim have filed Form 3 consenting to the Simplified Process, the parties shall also separately file a Request through the Electronic Filing Service for a Civil Simplified CC to be convened.
 
-***Upfront Discovery***
+### ***Upfront Discovery***
 
 (2) Where copies of documents to be provided together with pleadings, pursuant to Order 65, Rule 2 of the Rules of Court 2021, are voluminous, parties are encouraged to consider supplying the documents in a common electronic format and using storage media that the other party can use.
 
-***CCs under the Simplified Process (“Civil Simplified CC”)***
+### ***CCs under the Simplified Process (“Civil Simplified CC”)***
 
->Before the first Civil Simplified CC
+> #### Before the first Civil Simplified CC
 
 (3) Subject to the discretion of the Court, where a case is identified for the Simplified Process:
 
@@ -170,7 +170,7 @@
 
 (5) The purpose of the Civil Simplified CC is for the Court to consider all available options for the resolution of the case jointly with the parties. In order for the Civil Simplified CC to be effective and fruitful, the solicitors having conduct of the matter should take all necessary instructions from their clients to achieve an amicable resolution of the matter (including exploring the use of any appropriate Court ADR modality), and comply with all directions (including those at Practice Direction 36(3) above), prior to attending the first Civil Simplified CC.
 
->At the Civil Simplified CC
+> #### At the Civil Simplified CC
 
 (6) At the Civil Simplified CCs, the Court may manage the case by, amongst others:
 
@@ -204,7 +204,7 @@
 
 (12) Where the action is not disposed of by the Court or settled or otherwise resolved through the actions of the parties, the Court will at an appropriate stage give directions for the matter to be set down for trial. After the matter is set down, the matter will be fixed for a Pre-Trial CC.  
 
-***General provisions for Civil Simplified CCs***
+### ***General provisions for Civil Simplified CCs***
 
 (13) As far as possible, parties are to agree on the directions that they are seeking from the Court prior to any Civil Simplified CC. If parties are unable to agree, they are to inform the Court of the items of disagreement and submit on their respective positions on each item at the Civil Simplified CC.
 
@@ -223,11 +223,11 @@
 
 ## 37. General Process
 
-***Scope of the General Process***
+### ***Scope of the General Process***
 
 (1) All Originating Claims filed in the District Courts on or after 1 April 2022 that are not subject to the Specially Managed Civil List (“**SMCL**”), Simplified Process or Court Dispute Resolution (“**CDR**”) Process will be subject to the General Process described in this Practice Direction. 
 
-***General Process CCs and SAPT***
+### ***General Process CCs and SAPT***
 
 (2) Subject to the discretion of the Court, where a case is identified for the General Process:
 
@@ -249,7 +249,7 @@
 
 (8) If judgment is entered on liability for damages to be assessed, an Assessment of Damages Case Conference will be fixed around 7 weeks after the date judgment is entered. A CC Notice will be issued to the claimant and the parties against whom judgment on liability has been entered notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
 
-***General provisions for General Process CCs***
+### ***General provisions for General Process CCs***
 
 (9) Where appropriate, the Court can at any General Process CC refer the case to CDRC for Court alternative dispute resolution or to any other appropriate ADR process.
 
@@ -270,7 +270,7 @@
 
 ## 38. Overview of the Court Dispute Resolution case management process (CDR Process) and the use of Court Alternative Dispute Resolution (Court ADR) modalities for civil cases
 
-***Court Dispute Resolution process for personal injury claims, non-injury motor accident claims, medical negligence claims and claims in negligence***
+### ***Court Dispute Resolution process for personal injury claims, non-injury motor accident claims, medical negligence claims and claims in negligence***
 
 (1) The Court Dispute Resolution process (“**the CDR Process**”) will be adopted in the case management of the following types of claims —
 
@@ -286,7 +286,7 @@
 
 (5) The procedure set out in Practice Direction 41 shall apply to claims in negligence, including professional negligence claims.
 
-***Court ADR Modalities***
+### ***Court ADR Modalities***
 
 (6) The Court alternative dispute resolution modalities (“**Court ADR modalities**”) referred to in Practice Direction 34(5) are—
 
@@ -311,9 +311,9 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
  
 ## 39. Personal Injury Claims and Non-injury Motor Accident (“NIMA”) Claims
 
-***Compliance with pre-action protocol***
+### ***Compliance with pre-action protocol***
 
->Personal injury claims
+> #### Personal injury claims
 
 (1) In this Practice Direction, “personal injury claims” —
 
@@ -325,13 +325,13 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (3) For all PIMA and industrial accident claims where action is contemplated in the General Division of the High Court and which is to be transferred to the District Courts, claimants must comply with the PI/NIMA pre-action protocol for accidents occurring on or after 1 December 2016, before commencing court proceedings.
 
->Non-injury motor accident (“**NIMA**”) claims
+> #### Non-injury motor accident (“**NIMA**”) claims
 
 (4) Claimants in all NIMA claims must comply with the PI/NIMA pre-action protocol before commencing court proceedings.
 
 (5) For NIMA claims where action is contemplated in the General Division of the High Court and which is to be transferred to the District Courts, claimants must comply with the PI/NIMA pre-action protocol for motor accidents occurring on or after 1 December 2016, before commencing court proceedings. 
 
-***Duty to comply***
+### ***Duty to comply***
 
 (6) All parties must comply, where applicable, in substance and spirit with the terms of the PI/NIMA pre-action protocol. A breach by one party will not exempt the other parties in the claim from following the applicable protocol.
 
@@ -345,37 +345,37 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (8) In all cases to which the PI/NIMA pre-action protocol applies, the Court will not impose sanctions where there are good reasons for non-compliance. 
 
-***Court Dispute Resolution Case Conferences for all personal injury claims and NIMA claims***
+### ***Court Dispute Resolution Case Conferences for all personal injury claims and NIMA claims***
 
 (9) For all personal injury claims and NIMA claims filed in the Magistrates’ Courts or the District Courts as well as all personal injury claims and NIMA claims filed in the General Division of the High Court on or after 1 April 2022 which are transferred to the District Courts, the Court will convene the first Court Dispute Resolution Case Conference (“**CDR CC**”) under Order 9, Rule 1(2) of the Rules of Court 2021 within 6 weeks after the filing of the notice of intention to contest the claim.
 
 (10) The objective of the CDR CC is to facilitate the amicable resolution of disputes without trial through the provision of an early neutral evaluation (“**ENE**”) on the merits of the case and judge-directed negotiations undergirded by judge-led case management by taking control of and setting the timelines as well as giving directions for the proceedings.  
 
-***First CDR CC***
+### ***First CDR CC***
 
 (11) Solicitors must comply with the relevant CDR CC guidelines set out in Appendix C to these Practice Directions when preparing for and attending a CDR CC for personal injury claims and NIMA claims. 
 
 (12) As the CDR CC may be conducted by email, or through other electronic means, details concerning the applicable email account or other means of communication with the Court in each case, where applicable, will be provided in the relevant correspondence by the State Courts to the parties. Where it is necessary in the circumstances of the case, the Court retains the discretion to direct the personal attendance of solicitors and parties at the CDR CC. 	
 
-***Subsequent CDR CCs***
+### ***Subsequent CDR CCs***
 
 (13) At the CDR CC, the Court will give appropriate directions and fix a further CDR CC as necessary. This may include giving the necessary directions for parties to prepare for the ENE at the next CDR CC date, directing the negotiation process between parties, and giving case management directions to ensure the timely progress of the case to facilitate an early amicable resolution of the dispute. 
 
 (14) If the matter is not disposed of by the Court or settled or otherwise resolved through the actions of the parties in the course of the CDR CC process, the Court may make such orders or give such directions as it thinks fit including directions for the filing and exchange of affidavits of evidence-in-chief, appointment of a single joint expert (for actions commenced in the Magistrates’ Courts) and any other necessary directions to bring the proceedings to trial.
 
-***Request for adjournment of CDR CC***
+### ***Request for adjournment of CDR CC***
 
 (15) A dedicated time slot is set aside for each CDR CC. In order to minimise wastage of time and resources, a request to adjourn a CDR CC	for personal injury claims and NIMA claims shall be made not less than 2 working days before the date of the CDR CC in the manner provided in the relevant correspondence by the State Courts to the parties.  
 
-***Sanction for absence of parties ***
+### ***Sanction for absence of parties ***
 
 (16) Where no party attends the CDR CC, or if the claimant is absent, the Court may exercise its powers under Order 9, Rule 4(1) of the Rules of Court 2021 to dismiss the action. 
 
-***Recording of terms of settlement agreement, consent interlocutory judgment or consent judgment***
+### ***Recording of terms of settlement agreement, consent interlocutory judgment or consent judgment***
 
 (17) If the parties reach agreement on the issue of liability for the claim or quantum of damages or both, they must submit Form 7 of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent interlocutory judgment or consent judgment as the case may be.
 
-***Benchmark rates for cost of rental and loss of use***
+### ***Benchmark rates for cost of rental and loss of use***
 
 (18) Where the dispute involves a claim for damages in respect of a motor accident for cost of rental of a replacement vehicle and/or loss of use, parties shall have regard to the Benchmark Rates for Cost of Rental and Loss of Use at Appendix D of these Practice Directions. 
 
@@ -384,7 +384,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 ## 40. Medical Negligence Claims
 
-***Compliance with Protocol for Medical Negligence Claims***
+### ***Compliance with Protocol for Medical Negligence Claims***
 
 (1) In this Practice Direction, “medical negligence claims” refers generally to all claims arising out of an alleged negligent act or omission in connection with medical or dental diagnosis or treatment.
 
@@ -398,31 +398,31 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 >(c) an order that the defaulting party pay those costs on an indemnity basis.
 
-***Court Dispute Resolution Case Conferences for medical negligence claims***
+### ***Court Dispute Resolution Case Conferences for medical negligence claims***
 
 (4) For all medical negligence claims, the Court will convene the first Court Dispute Resolution Case Conference (“**CDR CC**”) under Order 9, Rule 1(2) of the Rules of Court 2021 within 6 weeks after the filing of the notice of intention to contest the claim.
 
 (5) The objective of the CDR CC is to facilitate the amicable resolution of disputes without trial through the provision of an early neutral evaluation (“**ENE**”) on the merits of the case and judge-directed negotiation undergirded by judge-led case management by taking control of and setting the timelines as well as giving directions for the proceedings.  
 
-***First CDR CC***
+### ***First CDR CC***
 
 (6) As the CDR CC may be conducted by email, or through other electronic means, details concerning the applicable email account or other means of communication with the Court in each case, where applicable, will be provided in the relevant correspondence by the State Courts to the parties. Where it is necessary in the circumstances of the case, the Court retains the discretion to direct the personal attendance of solicitors and parties at the CDR CC. 
 
-***Subsequent CDR CCs***
+### ***Subsequent CDR CCs***
 
 (7) At the CDR CC, the Court will give appropriate directions and fix a further CDR CC as necessary. This may include giving the necessary directions for parties to prepare for the ENE at the next CDR CC date, directing the negotiation process between parties, and giving case management directions to ensure the timely progress of the case to facilitate an early amicable resolution of the dispute. 
 
 (8) If the matter is not disposed of by the Court or settled or otherwise resolved through the actions of the parties in the course of the CDR CC process, the Court may make such orders or give such directions as it thinks fit including directions for the filing and exchange of affidavits of evidence-in-chief, and any other necessary directions to bring the proceedings to trial.
 
-***Request for adjournment of CDR CC***
+### ***Request for adjournment of CDR CC***
 
 (9) A dedicated time slot is set aside for each CDR CC. In order to minimise wastage of time and resources, a request to adjourn a CDR CC	for medical negligence claims shall be made not less than 2 working days before the date of the CDR CC in the manner provided in the relevant correspondence by the State Courts to the parties. 
 
-***Sanction for absence of parties*** 
+### ***Sanction for absence of parties*** 
 
 (10) Where no party attends the CDR CC, or if the claimant is absent, the Court may exercise its powers under Order 9, Rule 4(1) of the Rules of Court 2021 to dismiss the action.  
 
-***Recording of terms of settlement agreement, consent interlocutory judgment or consent judgment***
+### ***Recording of terms of settlement agreement, consent interlocutory judgment or consent judgment***
 
 (11) If the parties reach agreement on the issue of liability for the claim or quantum of damages or both, they must submit Form 7 of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent interlocutory judgment or consent judgment as the case may be.
 
@@ -431,17 +431,17 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (1) This Practice Direction applies to all claims in negligence filed on or after 1 April 2022, including professional negligence claims (but excluding medical negligence, personal injury and non-injury motor accident (“**NIMA**”) claims) (“**claims in negligence**”).
 
-***Court Dispute Resolution Case Conferences for all claims in negligence***
+### ***Court Dispute Resolution Case Conferences for all claims in negligence***
 
 (2) For all claims in negligence, the Court will convene the first Court Dispute Resolution Case Conference (“**CDR CC**”) under Order 9, Rule 1(2) of the Rules of Court 2021 within 6 weeks after the filing of the notice of intention to contest the claim.
 
 (3) The objective of the CDR CC is to facilitate early, cost effective and amicable resolution of the claim through the provision of an early neutral evaluation (“**ENE**”) on the merits of the case and judge-directed negotiations undergirded by judge-led case management by taking control of and setting the timelines as well as giving directions for the proceedings.  
 
-***First CDR CC ***
+### ***First CDR CC ***
 
 (4) As the CDR CC may be conducted by email, or through other electronic means, details concerning the applicable email account or other means of communication with the Court in each case, where applicable, will be provided in the relevant correspondence by the State Courts to the parties. Where it is necessary in the circumstances of the case, the Court retains the discretion to direct the personal attendance of solicitors and parties at the CDR CC. 
 
-***Subsequent CDR CCs***
+### ***Subsequent CDR CCs***
 
 (5) At the CDR CC, the Court will give appropriate directions and fix a further CDR CC as necessary. This may include giving the necessary directions for parties to prepare for the ENE at the next CDR CC date, guiding the negotiation process between parties, and giving case management directions to ensure the timely progress of the case to facilitate an early amicable resolution of the dispute. 
 
@@ -449,15 +449,15 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (7) If the matter is not disposed of by the Court or settled or otherwise resolved through the actions of the parties in the course of the CDR CC process, the Court may make such orders or give such directions as it thinks fit including directions for the filing and exchange of affidavits of evidence-in-chief, appointment of a single joint expert (for actions commenced in the Magistrates’ Court) and any other necessary directions to bring the proceedings to trial.
 
-***Request for adjournment of CDR CC***
+### ***Request for adjournment of CDR CC***
 
 (8) A dedicated time slot is set aside for each CDR CC. In order to minimise wastage of time and resources, a request to adjourn a CDR CC for claims in negligence shall be made not less than 2 working days before the date of the CDR CC in the manner provided in the relevant correspondence by the State Courts to the parties. 
 
-***Sanction for absence of parties***
+### ***Sanction for absence of parties***
 
 (9) Where no party attends the CDR CC, or if the claimant is absent, the Court may exercise its powers under Order 9, Rule 4(1) of the Rules of Court 2021 to dismiss the action. 
 
-***Recording of terms of settlement agreement, consent interlocutory judgment or consent judgment***
+### ***Recording of terms of settlement agreement, consent interlocutory judgment or consent judgment***
 
 (10) If the parties reach agreement on the issue of liability for the claim or quantum of damages or both, they must submit Form 7 of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent interlocutory judgment or consent judgment as the case may be.
 
@@ -466,7 +466,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (1) The aim of mediation is not to determine who is at fault in the dispute. Rather, the mediator will assist the parties in negotiating and agreeing on a possible settlement to their dispute. Parties who are legally represented will attend the mediation hearing with their solicitors, and have the opportunity to communicate with each other as well as the mediator.
 
-***Opening statements***
+### ***Opening statements***
 
 (2) Each party must submit to the Court Dispute Resolution Cluster (“**CDRC**”), and serve on all other parties, a written opening statement not less than 2 working days before the date of the first mediation hearing. 
 
@@ -474,7 +474,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (4) The opening statement shall be concise and not exceed 10 pages.
 
-***Attendance at mediation***
+### ***Attendance at mediation***
 
 (5) All parties shall attend the mediation hearing in person, even if represented by counsel.
 
@@ -482,11 +482,11 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (7) In the case of corporations and other entities, the representative who has the authority to settle the dispute shall attend the mediation hearing. In the event that only a board or body has authority to settle on behalf of the entity, the entity shall send the person who is the most knowledgeable about the case and who is able to recommend a settlement to the representative’s board or body.
 
-***Mediators***
+### ***Mediators***
 
 (8) Mediation will be conducted by either a Judge or a Court Volunteer Mediator. Court Volunteer Mediators are experienced mediators who have been appointed by the State Courts. The parties will be notified by correspondence if their case is to be mediated by a Court Volunteer Mediator.
 
-***Procedure at Mediation***
+### ***Procedure at Mediation***
 
 (9) More information on the mediation process and relevant procedure is set out at the Singapore Courts website at <https://www.judiciary.gov.sg>.
 
@@ -495,7 +495,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (1) The aim of conciliation is not to determine who is at fault in the dispute. The role of the conciliator during the conciliation hearing is to assist the parties in negotiating and agreeing on a possible settlement to their dispute, with the conciliator playing an active role in suggesting an optimal solution for the parties. Parties who are legally represented will attend the conciliation hearing with their solicitors and have the opportunity to communicate with each other as well as the conciliator.
 
-***Opening statements***
+### ***Opening statements***
 
 (2) Each party must submit to the Court Dispute Resolution Cluster (“**CDRC**”), and serve on all other parties, a written opening statement not less than 2 working days before the date of the first conciliation hearing.    
 
@@ -503,7 +503,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (4) The opening statement shall be concise and not exceed 10 pages. It should contain the suggested solution(s) of the dispute by the party submitting the opening statement.  
 
-***Attendance at conciliation***
+### ***Attendance at conciliation***
 
 (5) All parties shall attend the conciliation hearing in person, even if represented by counsel.  
 
@@ -513,7 +513,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (8) Conciliation will be conducted by a Judge of the CDRC. 
 
-***Procedure at Conciliation***
+### ***Procedure at Conciliation***
 
 (9)  More information on the conciliation process and relevant procedure is set out at the Singapore Courts website at <https://www.judiciary.gov.sg>. 
 
@@ -524,7 +524,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (2) Neutral Evaluation involves the parties and their solicitors making presentations of their claims and defences, including the available evidence, followed by the Judge of the Court Dispute Resolution Cluster (“**CDRC**”) giving an assessment of the merits of the case. This process is also useful for helping parties to arrive at areas of agreement and to discuss methods of case management to save costs and time. The details of the structure and ambit of this process may be agreed between the parties at the preliminary conference referred to in paragraph (3) below.
 
-***Preliminary conference with solicitors***
+### ***Preliminary conference with solicitors***
 
 (3) When parties request a Neutral Evaluation, the Court will convene a preliminary conference, with only solicitors in attendance, to discuss and agree on several options regarding the process before the date for Neutral Evaluation is fixed, being —
 
@@ -536,7 +536,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (4) If the option referred to in sub-paragraph (3)(b) above is chosen, the Judge may order that all or some of the expert witnesses testify as a panel to adduce expert evidence. Testifying as a panel involves the concurrent hearing of all expert witnesses in the presence of one another. Each party’s expert witness would be afforded the opportunity to question, clarify or probe any contending views proffered by the other expert.
 
-***Opening Statements***
+### ***Opening Statements***
 
 (5) Each party must submit to the CDRC, and serve on all other parties, a written opening statement not less than 2 working days before the date of the Neutral Evaluation. 
 
@@ -544,20 +544,20 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (7) The opening statement shall be concise and not exceed 10 pages.
 
-***Attendance at Neutral Evaluation***
+### ***Attendance at Neutral Evaluation***
 
 (8) All parties shall attend the Neutral Evaluation hearing in person, even if represented by counsel, unless the Court dispenses with their attendance.
 
 (9) The solicitor who has primary conduct over the case shall be present throughout the Neutral Evaluation hearing.
 
-***Procedure in Neutral Evaluation***
+### ***Procedure in Neutral Evaluation***
 
 (10) More information on the Neutral Evaluation process and relevant procedure is set out at the Singapore Courts website at <https://www.judiciary.gov.sg>.
 
 
 ## 45. Assessment of Damages
 
-***Convening of Assessment of Damages Case Conference***
+### ***Convening of Assessment of Damages Case Conference***
 
 (1) Where interlocutory judgment is entered in any action in the State Courts, in which bifurcation was ordered, for damages to be assessed or for the taking of accounts, an Assessment of Damages Case Conference (“**Assessment CC**”) will be fixed around 7 weeks after the date on which interlocutory judgment is entered. An Assessment CC Notice will be issued to the claimant and any party against whom interlocutory judgment has been entered (if that party has filed a notice of intention to contest), notifying parties of the date of the Assessment CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
 
@@ -569,7 +569,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 >(c) the filing of any notice of appointment for assessment of damages (“**NOAD**”).
 
-***Convening of Assessment of Damages Court Dispute Resolution Conferences***
+### ***Convening of Assessment of Damages Court Dispute Resolution Conferences***
 
 (3) The Court will generally convene the first Assessment of Damages Court Dispute Resolution Conference (“**ADCDR**”) within 4 weeks after the filing and acceptance of the NOAD.
 
@@ -587,7 +587,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 >(b) vacate ADCDR(s) commenced as a result of the inaccurate confirmations provided.
 
-***Conduct of ADCDRs***
+### ***Conduct of ADCDRs***
 
 (6) At ADCDRs, the Court will: —
 
@@ -637,7 +637,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (17) If parties wish to request for an adjournment of an ADCDR, they are to do so at least 5 working days before the date of the ADCDR by way of a “Other Hearing Related Request” filed under the specific Assessment of Damages Sub-Case No. as found in the accepted copy of the NOAD. 
 
-***Fixing of Assessment of Damages Hearings***
+### ***Fixing of Assessment of Damages Hearings***
 
 (18) In all requests for Assessment of Damages hearing dates during the ADCDR process, parties should: 
 
@@ -668,7 +668,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 ## 46. Adjournment or vacation of hearings 
 
-***Trials***
+### ***Trials***
 
 (1) Where dates have been fixed for the trial of any cause or matter, any request for an adjournment or vacation of the trial dates shall, without prejudice to the requirements of Order 9, Rule 9(7) of the Rules of Court 2021, be made by way of summons with a supporting affidavit even in those cases where counsel for the other party or parties consent to the adjournment. A consent summons should be filed if all parties consent to the adjournment.
 
@@ -676,7 +676,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (3) In the event that the hearing of a case is not concluded within the number of days allotted, the Court may direct the hearing of the case to continue beyond the allotted time rather than adjourning the case part-heard to another date. Counsel for parties in all cases should therefore be prepared to continue with the hearing of the matter notwithstanding the fact that the time originally allotted may have expired. Subject to any such directions of the Court, all part-heard cases shall be fixed for continued hearing at short notice. Applications for adjournment of such hearing dates may be granted only for good and sufficient reasons.
 
-***Hearings (other than trials) and Tribunal / Simplified POHA Proceedings***
+### ***Hearings (other than trials) and Tribunal / Simplified POHA Proceedings***
 
 (4) Before parties write to the Court to request an adjournment or vacation of any hearing other than a trial, they should seek the consent of the other party or parties to the matter, and the unavailable date(s) of the other party or parties to the matter. Unilateral requests made without first seeking the consent or views of the other party or parties to the matter will not be entertained, except in the most exceptional circumstances.
 
@@ -713,11 +713,11 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (4) Where a summons is filed in a matter for which a trial date has been fixed, the summons must include a special request informing the Court of the trial date(s).
 
-***Request for approval to file further application***
+### ***Request for approval to file further application***
 
 (5) No application may be taken out by any party other than as directed at the relevant Case Conference (“**CC**”) or with the Court’s approval, save for the applications specified in Order 9, Rule 9(7) of the Rules of Court 2021. The Court’s approval to file further applications must be sought by filing a “Request to Seek Permission for Application”. The request must set out the nature of the intended application, the date of intended filing if approval is granted, whether it is being made within 14 days of the commencement of the trial, and the reasons for why the intended application is necessary at the relevant stage of the proceedings or, in the case of an application to be taken out within 14 days of the commencement of the trial, pursuant to Order 9, Rule 9(10) of the Rules of Court 2021, why there is a special case. The Court will consider the request and may issue directions summarily or alternatively convene a CC. The CC may be conducted on a “documents-only” basis, by video conferencing or telephone conferencing, or with parties in attendance physically in chambers. Where parties are of the view that it would be more appropriate for submissions to be made in a physical or remote Case Conference, a “Request for Case Conference” may be filed in lieu of the “Request to Seek Permission for Application”. The “Request for Case Conference” should set out the reasons why the request for the Court’s approval to file further applications cannot or should not be dealt with asynchronously.
 
-***“Documents-only” hearing of specified categories of civil applications***
+### ***“Documents-only” hearing of specified categories of civil applications***
 
 (6) Originating Applications without notice, summonses without notice, summonses filed by consent and summonses filed under Order 15, Rule 15 of the Rules of Court 2021 will be heard on a “documents-only” basis unless the Court otherwise directs, subject to Order 15, Rule 3(3)(a) of the Rules of Court 2021. The application will be examined by the Judge or Registrar, who may make the order(s) applied for without the attendance of the parties or their counsel (if the Judge or Registrar is satisfied that the application is in order and all other requirements have been complied with) or, alternatively, issue directions and fix the matter for a further hearing.
 
@@ -777,7 +777,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (14) In all cases where a particular judicial officer has been assigned to hear the matter, the Request shall be addressed to the respective judicial officer. In all other cases, the Request shall be addressed to the “Registrar”.
 
-***Applications to be added as party***
+### ***Applications to be added as party***
 
 (15) Any party (the “**prospective party**”) seeking to be added as a party to any proceedings pursuant to Order 9 Rule 10(2) of the Rules of Court 2021 shall file an “Other Hearing Related Request” (the “**Order 9 Rule 10(2) Letter**”), meeting the requirements set out in paragraph (16) below, in the action to which the prospective party seeks to be added.  
 
@@ -827,7 +827,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (4) In addition, applications should not contain alternative prayers when the alternative prayers sought in effect amount to distinct applications. In such a case, separate summonses should be filed. In contrast, the following is an example of an alternative prayer which may be permitted: 
 
->>>>>>>>>>>>In the defendant’s summons setting out a prayer for the striking out of certain paragraphs of the Statement of Claim, the defendant also includes an alternative prayer for the plaintiff to be ordered to amend those paragraphs of the Statement of Claim. 
+>>>>In the defendant’s summons setting out a prayer for the striking out of certain paragraphs of the Statement of Claim, the defendant also includes an alternative prayer for the plaintiff to be ordered to amend those paragraphs of the Statement of Claim. 
 
 (5) Any summons that is not in compliance with this Practice Direction may be rejected by the Registry of the State Courts. 
 
