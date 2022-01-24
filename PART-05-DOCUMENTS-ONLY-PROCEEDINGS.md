@@ -14,7 +14,7 @@
 
 (4) The types of cases that are designated as suitable for “Documents-Only” Civil Trials or Assessments and the additional steps and procedures that will apply for such cases are set out below.
 
-***Designated cases***
+### ***Designated cases***
 
 (5) The following Magistrate’s Court and District Court cases are designated as suitable for “Documents-Only” Civil Trials or Assessments:
 
@@ -28,7 +28,7 @@
 
 >(e) cases where the issues between parties can be determined entirely by legal submissions/arguments.
 
-***Consideration of the suitability of a “Documents-Only” Civil Trial or Assessment of Damages***
+### ***Consideration of the suitability of a “Documents-Only” Civil Trial or Assessment of Damages***
 
 (6) Parties should consider the suitability of their case for a “Documents-Only” Civil Trial or Assessment and counsel should obtain their respective clients’ instructions **prior to attending the following sessions**:
 
@@ -50,7 +50,7 @@
 
 (10) Where requested by the parties, a hearing date will be fixed for them to make oral submissions in support of their respective cases before a decision is delivered. This request for a hearing date can be made in the Request Form. In the case of Civil Trials, such submissions will be made in open Court before the trial judge and in the case of Assessments, such submissions will be made in Chambers before the judicial officer hearing the Assessment.
 
-***Directions for a “Documents-Only” Civil Trial or Assessment***
+### ***Directions for a “Documents-Only” Civil Trial or Assessment***
 
 (11) Where a “Documents-Only” Civil Trial or Assessment is ordered, except as specifically provided herein, there are **no changes to the pre-trial or pre-assessment applications and/or processes** which may be undertaken by parties as provided for under the Rules of Court or Practice Directions until —
 
