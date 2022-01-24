@@ -1,841 +1,452 @@
-# Part IV: CASE MANAGEMENT AND COURT ALTERNATIVE DISPUTE RESOLUTION
+# Part III: ORIGINATING PROCESSES AND DOCUMENTS
 
-# 34. Overview of case management and court dispute resolution frameworks for civil cases
+## 24. Originating Applications
 
-(1) Under the Rules of Court 2021, a Case Conference (“**CC**”) will be fixed for all Originating Claims. CCs will typically be convened around 7 weeks after a Defence is filed in the action, but the Court retains the discretion to convene a CC earlier or later as it deems necessary. 
+(1) This Practice Direction applies to Originating Applications filed on or after 1 April 2022. 
 
-(2) Once a CC has been fixed, a notice will be sent to the claimant and any other party who has filed a notice of intention to contest or not contest and/or a Defence, informing them of the date of the CC, as well as which of the four following case management frameworks applies to the proceedings, namely:
+### ***Forms for Originating Applications***
 
->(a) the Specially Managed Civil List (“**SMCL**”);
+(2) Where any legislation requires a party to file an Originating Application and the Form is not provided within the legislation, the Originating Application must be filed using either Form 15 (Originating Application) or Form 16 (Originating Application (without Notice)) of Appendix A2 to these Practice Directions.
 
->(b) the Simplified Process pursuant to Order 65 of the Rules of Court 2021 (“**Simplified Process**”);
+(3) The parties in Form 15 of Appendix A2 to these Practice Directions shall be stated as “claimant” or “applicant” and “defendant” or “respondent” as the case may be.
 
->(c) the General Process (“**General Process**”); or
-
->(d) the Court Dispute Resolution (“**CDR**”) process at the Court Dispute Resolution Cluster (“**CDRC**”).
-
-(3) This Part of the Practice Directions sets out the provisions relating to the abovementioned frameworks, as follows:
-
->(a) The provisions pertaining to matters undergoing the SMCL process are provided for in Practice Direction 35.
-
->(b) The provisions pertaining to matters undergoing the Simplified Process are provided for in Practice Direction 36.
-
->(c) The provisions pertaining to matters undergoing the General Process are provided for in Practice Direction 37.
-
->(d) The provisions pertaining to matters undergoing the CDR Process are provided for in Practice Directions 38 to 41.
-
-(4) Where, at any CC or other hearing, the Court orders the production of documents, or where production is required by Orders 11 and 65 of the Rules of Court 2021, parties are to utilise Form 1 of Appendix A1 to these Practice Directions. 
-
-### ***Presumption of Alternative Dispute Resolution for all civil claims***
-
-(5) A “presumption of Alternative Dispute Resolution” applies to all civil claims filed in the State Courts. For this purpose, the Court may refer appropriate matters for parties to attempt the amicable resolution of disputes through one of the Court alternative dispute resolution modalities (“**Court ADR modalities**”) during a CC. 
-
-(6) As the use of Court ADR modalities gives parties the opportunity to resolve their disputes faster and more economically compared to determination at trial, parties who wish to undergo Court ADR at an earlier stage must file a request using Form 2 of Appendix A1 to these Practice Directions.
-
-(7) The provisions pertaining to matters undergoing Court ADR modalities are provided for in Practice Directions 38, 42 to 44. 
-
-(8) Where the Court is of the view that an ADR (including Court ADR) process is suitable, and the party/parties have opted out of the ADR process for reasons deemed to be unsatisfactory, this conduct may be taken into account by the Court when making subsequent costs orders pursuant to Order 21, Rule 2(2)(a) of the Rules of Court 2021, which states: 
-
->>>>*“In exercising its power to fix or assess costs, the Court must have regard to all relevant circumstances, including — (a) efforts made by the parties at amicable resolution;”*
-
-(9) Notwithstanding any provision of these Practice Directions, the Court may, in its discretion, direct parties to attend a CC in such manner and at such time as it deems fit.
-
-(10) If the Court orders a party to submit a sealed document setting out the party’s reasons for refusing to attempt ADR pursuant to Order 5, Rule 3(3) of the Rules of Court 2021, the party is to file the sealed document through the Electronic Filing Service into the case file under “ADR Sealed Document” within 7 days from the date of the Court order, unless the Court otherwise directs. The “ADR Sealed Document” does not need to be served on the other party or parties to the case. 
-
-(11) The “ADR Sealed Document” will be sealed upon acceptance by the Registry. Apart from the filing party, the “ADR Sealed Document” will not be available for inspection by any other party or the Court, until the issue of the costs of the action is to be considered.
-
-
-## 35. The SMCL Process
-
-### ***Scope of the SMCL Process***
-
-(1) The Specially Managed Civil List (“**SMCL**”) comprises cases which would benefit from a dedicated and rigorous pre-trial management process in order to bring about an expeditious resolution of the dispute. These cases will be tracked by a docketed team of judicial officers who will deal with all the pre-trial applications and give directions to facilitate the timely disposal of the dispute.
-
-(2) Civil claims exceeding $150,000 in the following categories are included in the SMCL:
-
->(a) Banking; 
-
->(b) Corporate Finance; 
-
->(c) Company Law; 
-
->(d) Intellectual Property; 
-
->(e) Securities; 
-
->(f) Equity and Trust; 
-
->(g) Professional Negligence; 
-
->(h) Construction Disputes; 
-
->(i) Medical Law; 
-
->(j) All cases that are transferred to the State Courts from the High Court, except for motor and industrial accident cases which undergo the Court Dispute Resolution (“**CDR**”) process at the Court Dispute Resolution Cluster (“**CDRC**”);
-
->(k) Consolidated suits where the total claim exceeds $150,000; 
-
->(l) Representative proceedings under Order 4, Rule 6 of the Rules of Court 2021; 
-
->(m) Defamation actions commenced in the District Courts (“**DC**”); and 
-
->(n) Any case deemed suitable for the SMCL at the discretion of the Court or on the application of parties. 
-
-### ***First SMCL CC***
-
-(3) Subject to the discretion of the Court, where an action has been identified for inclusion in the SMCL:
-
->(a) The first SMCL Case Conference (“**CC**”) will be fixed around 7 weeks from the date that the Defence was filed.
-
->(b) An SMCL Notice will be issued to the claimant and any other party who has filed a notice of intention to contest notifying parties that the case has been identified for the SMCL, of the date of the first SMCL CC, and directing parties to provide to the Court within a prescribed time:
-
->>(i) an update on the progress of the matter including attempts at amicable resolution; and
-
->>(ii) a list of directions sought, including the timeframe for each direction. 
-
->(c) The SMCL Notice may also include further directions from the Court, for example: 
-
->>(i) For construction disputes, parties will be directed to provide a Scott Schedule setting out the respective parties’ positions on each item of claim.
-
->>(ii) For defamation actions, parties will be directed to state whether the Pre-Action Protocol for Defamation Actions has been complied with and if not, the outstanding steps to be taken.
-
->(d) Where both parties are represented, a SMCL CC will be fixed to be conducted on a “documents-only” basis. Where at least one party is unrepresented, a physical SMCL CC will be fixed. 
-
-### ***Subsequent SMCL CCs***
-
-(4) The Court may, at any SMCL CC, give directions for parties to file and serve the Single Application Pending Trial pursuant to Order 9, Rule 9 of the Rules of Court 2021 (“**SAPT**”) and/or give any directions in respect of other stand-alone applications at the SMCL CC. 
-
-(5) Further SMCL CCs may be fixed as the Court deems fit or on application by parties.
-
-(6) Where a party intends to file any application (other than any directed at a CC), the Court’s approval to file further applications must be sought by filing a “Request to seek Permission for Application”, copied to all other parties, in accordance with Practice Direction 48(5). Where parties are of the view that it would be more appropriate for submissions to be made in a physical or remote Case Conference, a “Request for Case Conference” may be filed in lieu of the “Request to Seek Permission for Application”. The “Request for Case Conference” should set out the reasons why the request for the Court’s approval to file further applications cannot or should not be dealt with asynchronously. 
-
-(7) Where parties indicate at CC that they will not be filing any SAPT but parties subsequently decide to file an SAPT, parties are to file an “Request to Seek Permission for Application” to inform the Court of their intention and to seek directions for the filing of the SAPT.
-
-(8) If parties wish to extend or vary timelines previously directed by the Court, parties should seek these directions from the Court at the SMCL CC, subject to Practice Directions 48(9)(e) and (g) read with Practice Directions 48(11) to 48(13).
-
-(9) Where the action is not disposed of by the Court or settled or otherwise resolved through the actions of the parties, the Court will at an appropriate stage give directions for the matter to be set down for trial. If the matter is set down by the date fixed by the Court, the matter will be fixed for a Pre-Trial CC and any outstanding SMCL CC will be vacated. Where the matter has been set down, parties should seek extended timelines and/or permission to file any further applications at the SMCL CC or from the trial judge if one has been allocated.
-
-### ***General provisions for procedure of SMCL CCs***
-
-(10) Where appropriate, the Court may at any SMCL CC refer the case to Court alternative dispute resolution (“**Court ADR**”) or allow time for parties to engage in any other appropriate ADR process.
-
-(11) As far as possible, parties are to agree on the directions that they are seeking from the Court prior to any SMCL CC. If parties are unable to agree, they are to inform the Court of the items of disagreement and submit on their respective positions on each item at the SMCL CC.
-
-(12) A party who fails to comply with the directions given and is seeking an extension of time to comply, shall inform the Court of:
-
-(a) the reasons for the directions not having been complied with and for seeking an extension of time; and
-
-(b) whether the other party is agreeable to the extension of time sought.
-
-(13) If any party fails to provide the status update or list of directions sought or fails to comply with the Court’s directions, the Court may proceed to give the necessary directions to the parties, to facilitate the progress of the case.
-
-(14) All updates and requests for directions by the parties, as well as directions given by the Court, shall be communicated to and by the Court through the Electronic Filing Service, unless the Court determines that it is necessary for the parties or their counsel to attend Court for such directions to be dealt with. 
-
-(15) If judgment is entered on liability for damages to be assessed, a further SMCL CC will be fixed around 7 weeks after the date judgment is entered. A fresh SMCL CC Notice will be issued to the claimant and any party against whom judgment on liability has been entered (if that party has filed a notice of intention to contest), notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
-
-
-## 36. Simplified Process under Order 65 of the Rules of Court 2021
-
-### ***Scope of the Simplified Process***
-
-(1) All Originating Claims filed in the Magistrate’s Court on or after 1 April 2022, save for personal injury claims, non-injury motor accident claims, claims in negligence (including professional negligence claims) and medical negligence claims, are subject to the Simplified Process under Order 65 of the Rules of Court 2021 (“**Simplified Process**”). Where parties to Originating Claims filed in the District Courts (“**DC**”) on or after 1 April 2022 consent for Order 65 to apply to those proceedings by filing Form 3 of Appendix A1 to these Practice Directions, those proceedings will also be subject to the Simplified Process. Where parties to a DC claim have filed Form 3 consenting to the Simplified Process, the parties shall also separately file a Request through the Electronic Filing Service for a Civil Simplified CC to be convened.
-
-### ***Upfront Discovery***
-
-(2) Where copies of documents to be provided together with pleadings, pursuant to Order 65, Rule 2 of the Rules of Court 2021, are voluminous, parties are encouraged to consider supplying the documents in a common electronic format and using storage media that the other party can use.
-
-### ***CCs under the Simplified Process (“Civil Simplified CC”)***
-
-> #### Before the first Civil Simplified CC
-
-(3) Subject to the discretion of the Court, where a case is identified for the Simplified Process:
-
->(a) A first Civil Simplified Case Conference (“**CC**”) will be fixed around 7 weeks from the date that the Defence was filed.
-
->(b) A Civil Simplified CC Notice will be issued to the claimant and any other party who has filed a notice of intention to contest notifying parties that the case has been identified for the Simplified Process, of the date of the first Civil Simplified CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for the purposes of the Civil Simplified CC. 
-
->(c) Where both parties are represented, a Civil Simplified CC will be fixed to be conducted by remote hearing via video conferencing. Where at least one party is unrepresented, a physical Civil Simplified CC will be fixed. 
-
-(4) Parties should, 7 days prior to the first Civil Simplified CC:
-
->(a) in addition to the requirements set out in Order 5, Rule 1(2) of the Rules of Court 2021, exchange proposals in writing using Form 4 of Appendix A1 to these Practice Directions on a “without prejudice save as to costs” basis for the amicable resolution of the matter; and
-
->(b) file through the Electronic Filing Service:
-
->>(i) Form 5 of Appendix A1 to these Practice Directions stating the list of issues in the dispute and the list of witnesses they intend to call in support of their case; 
-
->>(ii) the Court ADR Form (Form 6 of Appendix A1 to these Practice Directions) in order to facilitate a considered decision on Court alternative dispute resolution (“**Court ADR**”) options. The Court ADR Form must be read and completed by each party. If there is a solicitor acting for the party, the solicitor must also complete the Form; and
-
->>(iii) the completed checklist enclosed to the Civil Simplified CC Notice.
-
-(5) The purpose of the Civil Simplified CC is for the Court to consider all available options for the resolution of the case jointly with the parties. In order for the Civil Simplified CC to be effective and fruitful, the solicitors having conduct of the matter should take all necessary instructions from their clients to achieve an amicable resolution of the matter (including exploring the use of any appropriate Court ADR modality), and comply with all directions (including those at Practice Direction 36(3) above), prior to attending the first Civil Simplified CC.
-
-> #### At the Civil Simplified CC
-
-(6) At the Civil Simplified CCs, the Court may manage the case by, amongst others:
-
->(a) encouraging the parties to co-operate in the conduct of the proceedings;
-
->(b) assisting the parties to identify and narrow the issues at an early stage;
-
->(c) dealing with any interlocutory issues, including giving such directions for discovery or for the parties to file the Single Application Pending Trial pursuant to Order 9, Rule 9 of the Rules of Court 2021 (“**SAPT**”) as may be necessary;
-
->(d) considering with the parties whether the likely benefits of any step proposed to be taken by a party would justify the costs that will be incurred;
-
->(e) encouraging the parties to negotiate to resolve the issues and/or case, and/or to undergo the appropriate Court ADR modality, as well as facilitating the use of such Court ADR modality having regard to Order 5, Rule 3 of the Rules of Court 2021;
-
->(f) helping the parties to settle the whole or part of the case;
-
->(g) giving such directions as the Court thinks fit in order to ensure that the case progresses expeditiously (including directions for the case to proceed to trial);
-
->(h) fixing timelines to manage and control the progress of the case; and
-
->(i) taking such other action or making such other direction as the Court thinks appropriate in the circumstances including costs sanctions or unless orders.
-
-(7) With the introduction of the concept of the SAPT pursuant to Order 2, Rule 9 of the Rules of Court 2021, the Court may, at or prior to any Civil Simplified CC, give directions for parties to file the SAPT and also give any directions in respect of other stand-alone applications. 
-
-(8) Following from the above directions, the Court may also, if necessary, fix a further Civil Simplified CC, direct parties to provide further status updates to ascertain compliance with the directions given at previous Civil Simplified CCs and give further directions as may be necessary.
-
-(9) Where a party intends to file any application (other than one directed at a CC and any application set out in Order 9, Rule 9(7)(a) to (o) of the Rules of Court 2021), the Court’s approval to file such applications must be sought by filing a “Request to seek Permission for Application”, with a copy to the other party, in accordance with Practice Direction 48(5). Where parties are of the view that it would be more appropriate for submissions to be made in a physical or remote CC, a “Request for Case Conference” may be filed in lieu of the “Request to Seek Permission for Application”. The “Request for Case Conference” should set out the reasons why the request for the Court’s approval to file further applications cannot be dealt with asynchronously.
-
-(10) Where parties indicate at CC that they will not be filing any SAPT but parties subsequently decide to file an SAPT, parties are to file an “Request to Seek Permission for Application” to inform the Court of their intention and to seek directions for the filing of the SAPT.
-
-(11) If parties wish to extend or vary timelines previously directed by the Court, parties should seek these directions from the Court at the Civil Simplified CC, subject to Practice Directions 48(9)(e) and (g) read with Practice Directions 48(11) to 48(13).
-
-(12) Where the action is not disposed of by the Court or settled or otherwise resolved through the actions of the parties, the Court will at an appropriate stage give directions for the matter to be set down for trial. After the matter is set down, the matter will be fixed for a Pre-Trial CC.  
-
-### ***General provisions for Civil Simplified CCs***
-
-(13) As far as possible, parties are to agree on the directions that they are seeking from the Court prior to any Civil Simplified CC. If parties are unable to agree, they are to inform the Court of the items of disagreement and submit on their respective positions on each item at the Civil Simplified CC.
-
-(14) A party who fails to comply with the directions given and is seeking an extension of time to comply, shall inform the Court of
-
->(a) the reasons for the non-compliance and extension of time sought; and
-
->(b) whether the other party is agreeable to the extension of time sought.
-
-(15) In order that parties benefit fully from the process of the Civil Simplified CC, adjournment(s) of any CC will not be granted without good reason. Consent of both parties to the adjournment, without more, is not considered sufficient reason for an adjournment. Practice Direction 46 below sets out the procedure for seeking adjournments or vacation of hearing dates.
-
-(16) The Court will consider, at each Civil Simplified CC, all available options in the case jointly with the parties. Accordingly, at any Civil Simplified CC where the attendance of parties is required, the solicitor in charge of the case for that party (ie, the solicitor who has actual conduct of the case for that party and who is familiar with it) shall attend the Civil Simplified CC. Solicitors for both parties shall attend the Civil Simplified CC.
-
-(17) If judgment is entered on liability for damages to be assessed, an Assessment of damages Case Conference will be fixed around 7 weeks after the date judgment is entered. A CC Notice will be issued to the claimant and any party against whom judgment on liability has been entered (if that party has filed a notice of intention to contest) notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
-
-
-## 37. General Process
-
-### ***Scope of the General Process***
-
-(1) All Originating Claims filed in the District Courts on or after 1 April 2022 that are not subject to the Specially Managed Civil List (“**SMCL**”), Simplified Process or Court Dispute Resolution (“**CDR**”) Process will be subject to the General Process described in this Practice Direction. 
-
-### ***General Process CCs and SAPT***
-
-(2) Subject to the discretion of the Court, where a case is identified for the General Process:
-
->(a) A first General Process Case Conference (“**CC**”) will be fixed around 7 weeks from the date that the Defence was filed. 
-
->(b) A General Process CC Notice will be issued to the claimant and any other party who has filed a notice of intention to contest and/or Defence, notifying parties that the case has been identified for the General Process, of the date of the first General Process CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for the purposes of the General Process CC. 
-
->(c) Where at least one party is unrepresented, a physical General Process CC will be fixed, at which parties are to submit on directions to be obtained and contemplated applications under the Single Application Pending Trial pursuant to Order 9, Rule 9 of the Rules of Court 2021 (“**SAPT**”). Where both parties are represented, a CC will be fixed, to be conducted on a “documents-only” basis, unless otherwise directed by the Court. For CCs conducted on a “documents-only” basis, all updates and requests for directions by the parties, as well as directions given by the Court, shall be communicated to and by the Court through the Electronic Filing Service. 
-
-(3) The Court may at the first General Process CC give directions for the filing of the SAPT. 
-
-(4) Where a party intends to file further any application (other than any directed at a CC), the Court’s approval to file further applications must be sought by filing a “Request to seek Permission for Application”, copied to the other party, in accordance with Practice Direction 48(5). Where parties are of the view that it would be more appropriate for submissions to be made in a physical or remote CC, a “Request for Case Conference” may be filed in lieu of the “Request to Seek Permission for Application”. The “Request for Case Conference” should set out the reasons why the request for the Court’s approval to file further applications cannot be dealt with asynchronously.
-
-(5) Where parties indicate at CC that they will not be filing any SAPT but parties subsequently decide to file an SAPT, parties are to file an “Request to Seek Permission for Application” to inform the Court of their intention and to seek directions for the filing of the SAPT.
-
-(6) If parties wish to extend or vary timelines previously directed by the Court, parties should seek these directions from the Court at the General Process CC, subject to Practice Directions 48(9)(e) and (g) read with Practice Directions 48(11) to 48(13).
-
-(7) Where the action is not disposed of by the Court or settled or otherwise resolved through the actions of the parties, the Court will at an appropriate stage give directions for the matter to be set down for trial. If the matter is set down by the date fixed by the Court, the matter will be fixed for Pre-Trial CC and the further General Process CC will be vacated. Where the matter has been set down, parties should seek extended timelines and/or permission to file any further applications at the Pre-Trial CC or from the trial judge if one has been allocated. 
-
-(8) If judgment is entered on liability for damages to be assessed, an Assessment of Damages Case Conference will be fixed around 7 weeks after the date judgment is entered. A CC Notice will be issued to the claimant and the parties against whom judgment on liability has been entered notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
-
-### ***General provisions for General Process CCs***
-
-(9) Where appropriate, the Court can at any General Process CC refer the case to CDRC for Court alternative dispute resolution or to any other appropriate ADR process.
-
-(10) As far as possible, parties are to agree on the directions that they are seeking from the Court prior to any General Process CC. If parties are unable to agree, they are to inform the Court of the items of disagreement and their respective positions on each item at the General Process CC.
-
-(11) The Court may require the parties to provide submissions explaining the reasons for the directions sought, if:
-
->(a) there is a dispute between the parties on the directions sought; or
-
->(b) if the Court determines that such submissions are necessary, before the Court proceeds to give its directions.
-
-(12) A party who fails to comply with the directions given and is seeking an extension of time to comply, shall inform the Court of:
-
->(a) the reasons for the directions not having been complied with and for seeking an extension of time; and
-
->(b) whether the other party is agreeable to the extension of time sought.
-
-
-## 38. Overview of the Court Dispute Resolution case management process (CDR Process) and the use of Court Alternative Dispute Resolution (Court ADR) modalities for civil cases
-
-### ***Court Dispute Resolution process for personal injury claims, non-injury motor accident claims, medical negligence claims and claims in negligence***
-
-(1) The Court Dispute Resolution process (“**the CDR Process**”) will be adopted in the case management of the following types of claims —
-
->(a) all personal injury claims, non-injury motor accident (“**NIMA**”) claims, claims arising out of an alleged negligent act or omission in connection with medical or dental diagnosis or treatment (“**medical negligence claims**”) and claims in negligence, including professional negligence claims, that are filed in the Magistrates’ Courts and the District Courts; and  
-
->(b) all motor accident claims (whether or not involving any claim for personal injuries) and personal injury claims arising out of an industrial accident that are commenced in the General Division of the High Court on or after 1 April 2022 and transferred to the District Courts (references to personal injury and NIMA claims would hereinafter include these claims).
-
-(2) For claims subject to the CDR Process, the Court will convene a CDR Case Conference (“**CDR CC**”) upon the filing of the notice of intention to contest the claim. 
-
-(3) The procedure and protocol set out in Practice Direction 39 shall apply to personal injury and NIMA claims.
-
-(4) The procedure and protocol set out in Practice Direction 40 shall apply to medical negligence claims.
-
-(5) The procedure set out in Practice Direction 41 shall apply to claims in negligence, including professional negligence claims.
-
-### ***Court ADR Modalities***
-
-(6) The Court alternative dispute resolution modalities (“**Court ADR modalities**”) referred to in Practice Direction 34(5) are—
-
->(a) Mediation;
-
->(b) Conciliation; and
-
->(c) Neutral Evaluation. 
-
-(Solicitors may refer to the Singapore Courts website at <https://www.judiciary.gov.sg> for more information on these modalities.) 
-
-The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of Court ADR modalities.
-
-(7) As the primary aim of Court ADR is to facilitate open and frank discussions between parties to achieve an amicable resolution of their dispute, all communications made in the course of a Court ADR hearing shall be marked by the Judge as being confidential or without prejudice, save for the terms of settlement agreement (unless expressly agreed by all the parties to the settlement as being confidential), consent judgments and consent orders of Court.
-
-(8) The procedure set out in Practice Direction 42 shall apply to mediation hearings.
-
-(9) The procedure set out in Practice Direction 43 shall apply to conciliation hearings
-
-(10) The procedure set out in Practice Direction 44 shall apply to neutral evaluation hearings. 
+(4) The party in Form 16 of Appendix A2 to these Practice Directions shall be stated as “claimant” or “applicant”, as the case may be.
 
  
-## 39. Personal Injury Claims and Non-injury Motor Accident (“NIMA”) Claims
+## 25. Identification numbers and name to be stated in cause papers
 
-### ***Compliance with pre-action protocol***
+### ***Parties named in the title of the documents***
 
-> #### Personal injury claims
+(1) Where a party to any proceedings in the State Courts first files a document in such proceedings, he shall state his identification number, in parentheses, in the title of the document immediately below or after his name. Thereafter, all documents subsequently filed in the proceedings by any party shall include this identification number in the title of the documents in parentheses below or after the name of the party to which it applies.
 
-(1) In this Practice Direction, “personal injury claims” —
+### ***Parties not named in the title of the documents***
 
->(a) refers generally to all claims for personal injuries arising out of motor vehicle accidents (“**PIMA**”), industrial accidents, and claims in negligence, including professional negligence claims, but excludes claims where the pleadings contain an allegation of a negligent act or omission in connection with medical or dental diagnosis or treatment, that are filed in the Magistrates’ Court and the District Courts; and
+(2) Where a party to any proceedings in the State Courts first files a document in such proceedings, and the name of the party does not appear in the title of the document but does appear in the body of the document, then the identification number of the party should be stated, in parentheses, below or after the first appearance of his name in the document. Thereafter, all documents subsequently filed in the proceedings by any party shall include this identification number in parentheses immediately below or after the first appearance of the name of the party to which it applies in the subsequent document.
 
->(b) where action is contemplated or commenced in the General Division of the High Court which is to be transferred to the District Courts, refers to PIMA and industrial accident claims only. 
+### ***Documents filed by two or more parties***
 
-(2) Claimants in all personal injury claims must comply with the pre-action protocol for personal injury and non-injury motor accident claims set out in Appendix B to these Practice Directions (“**PI/NIMA pre-action protocol**”) before commencing court proceedings. 
+(3) Paragraphs (1) and (2) shall apply, with the necessary modifications, to documents which are filed by more than one party.
 
-(3) For all PIMA and industrial accident claims where action is contemplated in the General Division of the High Court and which is to be transferred to the District Courts, claimants must comply with the PI/NIMA pre-action protocol for accidents occurring on or after 1 December 2016, before commencing court proceedings.
+### ***Identification numbers for non-parties***
 
-> #### Non-injury motor accident (“**NIMA**”) claims
+(4) If any person (living or dead), any entity or any property is in part or in whole the subject matter of any proceedings, or is affected by any proceedings, but is not a party thereto, and the name of such person, entity or property is to appear in the title of the documents filed in the proceedings, the party filing the first document in the proceedings must state the identification number of such person, entity or property in parentheses immediately below or after the name of the same. Thereafter, all documents subsequently filed in the proceedings by any party shall include this identification number in parentheses immediately below or after the name of the person, entity or property to which it applies. If the party filing the first document in the proceedings is unable, after reasonable enquiry, to discover the identification number of the person, entity or property, he may state immediately below or after the name of the same “(ID No. not known)”. All documents subsequently filed by any party shall then contain these words in parentheses below or after the name of this person, entity or property.
 
-(4) Claimants in all NIMA claims must comply with the PI/NIMA pre-action protocol before commencing court proceedings.
+### ***Special cases***
 
-(5) For NIMA claims where action is contemplated in the General Division of the High Court and which is to be transferred to the District Courts, claimants must comply with the PI/NIMA pre-action protocol for motor accidents occurring on or after 1 December 2016, before commencing court proceedings. 
+(5) The following directions shall apply in addition to the directions contained in paragraphs (1) to (4):
 
-### ***Duty to comply***
+>(a) where a party is represented by a litigation representative, paragraphs (1) to (3) shall apply to the litigation representative as if he were party to the proceedings and the identification numbers of the party and the litigation representative must be stated below or after the name of each, as appropriate;
 
-(6) All parties must comply, where applicable, in substance and spirit with the terms of the PI/NIMA pre-action protocol. A breach by one party will not exempt the other parties in the claim from following the applicable protocol.
+>(b) where parties are involved in any proceedings as the personal representatives of the estate of a deceased person, paragraphs (1) to (3) shall apply to the deceased person as if he were a party; and
 
-(7) In exercising its discretion and powers as to costs, the Court will have regard to the extent to which the PI/NIMA pre-action protocol has been complied with by the parties. If non-compliance has led to unnecessary costs and interest payable, the Court may make the following orders: 
+>(c) where more than one identification number applies to any party, person, entity or property, all the identification numbers shall be stated in any convenient order.
 
->(a) an order disallowing a defaulting party his costs, or some part of his costs, even if he succeeds; 
+### ***Identification numbers***
 
->(b) an order that the defaulting party pay the other party or parties their costs of the proceedings, or part of those costs; 
+(6) When entering the identification number in the Electronic Filing Service, the full identification number should be entered, including any letters or characters that appear in, at the beginning of, or at the end of the number. Descriptive text which is required to be entered into the actual document, such as “Japanese Identification Card No”, should not be entered into the electronic form.
 
->(c) an order that the defaulting party pay those costs on an indemnity basis.
+### ***Guidelines for the selection of identification numbers***
 
-(8) In all cases to which the PI/NIMA pre-action protocol applies, the Court will not impose sanctions where there are good reasons for non-compliance. 
+(7) The following guidelines should be followed in deciding on the appropriate identification number.
 
-### ***Court Dispute Resolution Case Conferences for all personal injury claims and NIMA claims***
+> #### (a) Natural person with Singapore identity card<br>
+<br>For a natural person who is a Singapore citizen or permanent resident, the identification number shall be the number of the identity card issued under the National Registration Act (Cap 201). The seven digit number as well as the letters at the front and end should be stated. For example: “(NRIC No. S1234567A)”.</br>
 
-(9) For all personal injury claims and NIMA claims filed in the Magistrates’ Courts or the District Courts as well as all personal injury claims and NIMA claims filed in the General Division of the High Court on or after 1 April 2022 which are transferred to the District Courts, the Court will convene the first Court Dispute Resolution Case Conference (“**CDR CC**”) under Order 9, Rule 1(2) of the Rules of Court 2021 within 6 weeks after the filing of the notice of intention to contest the claim.
+> #### (b) Natural person with FIN number<br>
+For a natural person, whether a Singapore citizen or permanent resident or not, who has not been issued with an identity card under the National Registration Act, but has been assigned a FIN number under the Immigration Regulations (Cap 133, Rg 1), the identification number shall be the FIN number. The number should be preceded by the prefix “FIN No.”
 
-(10) The objective of the CDR CC is to facilitate the amicable resolution of disputes without trial through the provision of an early neutral evaluation (“**ENE**”) on the merits of the case and judge-directed negotiations undergirded by judge-led case management by taking control of and setting the timelines as well as giving directions for the proceedings.  
+> #### (c) Natural person: birth certificate or passport number<br>
+For a natural person, whether a Singapore citizen or permanent resident or not, who has not been issued with an identity card under the National Registration Act or assigned a FIN number, the identification number shall be the birth certificate or passport number. The number should be preceded by either of the following, as appropriate, “(Issuing country) BC No.” or “(Issuing country) PP No.”
 
-### ***First CDR CC***
+> #### (d) Natural person: other numbers<br>
+For a natural person who is not a Singapore citizen or permanent resident and has not been assigned a FIN number and does not have a birth certificate or passport number, the identification number shall be the number of any identification document he may possess. Both the number as well as some descriptive words which will enable the nature of the number given and the authority issuing the identification document to be ascertained, should be stated. For example: “Japanese Identification Card No.”
 
-(11) Solicitors must comply with the relevant CDR CC guidelines set out in Appendix C to these Practice Directions when preparing for and attending a CDR CC for personal injury claims and NIMA claims. 
+> #### (e) Deceased person<br>
+For a deceased natural person, the identification number shall be as set out in sub-paragraphs (a) to (d) above. However, if such numbers are not available, the identification number shall be the death registration number under the Registration of Births and Deaths Rules (Cap 267, R 1) or the equivalent foreign provisions, where the death is registered abroad. The number as well as the following words should be stated: “(Country or place of registration of death) Death Reg. No.”
 
-(12) As the CDR CC may be conducted by email, or through other electronic means, details concerning the applicable email account or other means of communication with the Court in each case, where applicable, will be provided in the relevant correspondence by the State Courts to the parties. Where it is necessary in the circumstances of the case, the Court retains the discretion to direct the personal attendance of solicitors and parties at the CDR CC. 	
+> #### (f) Company registered under the Companies Act<br>
+For a company registered under the Companies Act (Cap 50), the identification number shall be the Unique Entity Number (UEN).
 
-### ***Subsequent CDR CCs***
+> #### (g) Company registered outside Singapore<br>
+For a company registered outside Singapore which is not registered under the Companies Act, the identification number shall be the registration number of the company in the country of registration.
 
-(13) At the CDR CC, the Court will give appropriate directions and fix a further CDR CC as necessary. This may include giving the necessary directions for parties to prepare for the ENE at the next CDR CC date, directing the negotiation process between parties, and giving case management directions to ensure the timely progress of the case to facilitate an early amicable resolution of the dispute. 
+> #### (h) Business registered under the Business Names Registration Act 2014<br>
+For a body registered under the Business Names Registration Act 2014 (Act 29 of 2014), the identification number shall be the UEN.
 
-(14) If the matter is not disposed of by the Court or settled or otherwise resolved through the actions of the parties in the course of the CDR CC process, the Court may make such orders or give such directions as it thinks fit including directions for the filing and exchange of affidavits of evidence-in-chief, appointment of a single joint expert (for actions commenced in the Magistrates’ Courts) and any other necessary directions to bring the proceedings to trial.
+> #### (i) Limited Liability Partnership registered under the Limited Liability Partnerships Act<br>
+For a limited liability partnership registered under the Limited Liability Partnerships Act (Cap 163A), the identification number shall be the UEN.
 
-### ***Request for adjournment of CDR CC***
+> #### (j) Other bodies and associations<br>
+For any other body or association, whether incorporated or otherwise, which does not fall within any of the descriptions in sub-paragraphs (f) to (i) above, the identification number shall be any unique number assigned to the body or association by any authority. Both the number as well as some descriptive words which will enable the nature of the number given and the authority assigning the number to be ascertained, should be stated. For example: “Singapore Trade Union Reg. No. 123 A”.
 
-(15) A dedicated time slot is set aside for each CDR CC. In order to minimise wastage of time and resources, a request to adjourn a CDR CC	for personal injury claims and NIMA claims shall be made not less than 2 working days before the date of the CDR CC in the manner provided in the relevant correspondence by the State Courts to the parties.  
+> #### (k) No identification numbers exist<br>
+Where the appropriate identification numbers referred to in sub-paragraphs (a) to (j) above do not exist in respect of any party, person, entity or property, the following words should be stated immediately below or after the name of that party, person, entity or property concerned: “(No ID No. exists)”.
 
-### ***Sanction for absence of parties ***
+### ***Inability to furnish identification number at the time of filing a document***
 
-(16) Where no party attends the CDR CC, or if the claimant is absent, the Court may exercise its powers under Order 9, Rule 4(1) of the Rules of Court 2021 to dismiss the action. 
+(8)If a party who wishes to file a document is unable at the time of filing to furnish the necessary identification numbers required by this Practice Direction, the party may indicate “(ID Not Known)” at the time of filing. However, when the necessary identification numbers have been obtained, the party must furnish the necessary identification numbers to the Registry through the Electronic Filing Service.
 
-### ***Recording of terms of settlement agreement, consent interlocutory judgment or consent judgment***
+### ***Identifying party whose name is unknown, under r 67 of the Supreme Court of Judicature (Protection from Harassment) Rules 2021***
 
-(17) If the parties reach agreement on the issue of liability for the claim or quantum of damages or both, they must submit Form 7 of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent interlocutory judgment or consent judgment as the case may be.
+(9) If a party who wishes to file a document is unable at the time of filing to identify a party by name, and wishes instead to identify the party by:
 
-### ***Benchmark rates for cost of rental and loss of use***
+>(a)an internet location address or website associated with that person, then the internet location address or website should be in the form of a Uniform Resource Locator (“**URL**”). In particular:
 
-(18) Where the dispute involves a claim for damages in respect of a motor accident for cost of rental of a replacement vehicle and/or loss of use, parties shall have regard to the Benchmark Rates for Cost of Rental and Loss of Use at Appendix D of these Practice Directions. 
+>>(i) The URL should not be a dynamic URL (in such a case, the filing party should identify the respondent in a different way).
 
-(19) The Benchmark Rates are meant to serve as a starting point and adjustments may be made according to the circumstances of each case.
+>>(ii) The URL must contain the appropriate scheme (eg, “http://”, “https://” or “ftp://”);
 
+>>(iii) The URL should contain the shortest possible path required to uniquely identify the intended respondent(s).
 
-## 40. Medical Negligence Claims
+>>(iv) A host or domain name should be used in preference to an Internet Protocol Address.
 
-### ***Compliance with Protocol for Medical Negligence Claims***
+>(b)a username, account or other unique identifier used by or associated with that person, then the naming convention should be as follows: [Service] account [Username]. In particular:
 
-(1) In this Practice Direction, “medical negligence claims” refers generally to all claims arising out of an alleged negligent act or omission in connection with medical or dental diagnosis or treatment.
+>>(i) The internet service should be described accurately but as succinctly as possible. In the case of social media/messengers, the short name of the service should be used. In the case of online forums, the top-level domain name should be used.
 
-(2) Parties in medical negligence claims must comply with the terms of the Protocol for Medical Negligence Claims at Appendix E of these Practice Directions (“**the protocol**”) both in substance and spirit. A breach by one party will not exempt the other parties in the claim from following the protocol.
+>>(ii) The username must uniquely identify the party. It is not necessarily the person’s display name (eg, “John Doe”). 
+<br>
 
-(3) In exercising its discretion as to costs, the Court will consider compliance with the protocol. If non-compliance with the protocol has led to unnecessary costs, the Court may make, inter alia, the following orders:
+>>Eg:
 
->(a) an order disallowing a defaulting party his costs, or some part of his costs, even if he succeeds;
+>>>>Instagram account john.doe.67890<br>
+>>>>h<ins>ttps://ubuntuforums.org/</ins> account john.doe.67890
+<br>
 
->(b) an order that the defaulting party pay the other party or parties their costs of the proceedings, or part of those costs; and
+>(c) a phone number (including a phone-based messaging service (eg, WhatsApp)), then the naming convention should be as follows: [Type of Number] number [Phone Number]:
 
->(c) an order that the defaulting party pay those costs on an indemnity basis.
+>>(i) The Type of Number should be either “Mobile” or “Phone”. If the applicant is in doubt, use “Phone”.
 
-### ***Court Dispute Resolution Case Conferences for medical negligence claims***
+>>(ii) In the case of a Singapore number, the phone number should contain eight digits, with a space after the first four digits. In any other case, the phone number may contain spaces between every two, three or four digits, in accordance with any common convention for writing a phone number of that country. Do not use hyphens or dashes.
 
-(4) For all medical negligence claims, the Court will convene the first Court Dispute Resolution Case Conference (“**CDR CC**”) under Order 9, Rule 1(2) of the Rules of Court 2021 within 6 weeks after the filing of the notice of intention to contest the claim.
+>>(iii) For a non-Singapore number, the country code must be indicated in parentheses, with a space thereafter.
 
-(5) The objective of the CDR CC is to facilitate the amicable resolution of disputes without trial through the provision of an early neutral evaluation (“**ENE**”) on the merits of the case and judge-directed negotiation undergirded by judge-led case management by taking control of and setting the timelines as well as giving directions for the proceedings.  
+(10) An applicant must have made reasonable attempts at identifying a party by name before identifying a party by an internet location address, username, account or unique identifier.
 
-### ***First CDR CC***
+(11) The applicant must, in the supporting document(s) or supporting affidavit filed with the claim or originating application (as the case may be):
 
-(6) As the CDR CC may be conducted by email, or through other electronic means, details concerning the applicable email account or other means of communication with the Court in each case, where applicable, will be provided in the relevant correspondence by the State Courts to the parties. Where it is necessary in the circumstances of the case, the Court retains the discretion to direct the personal attendance of solicitors and parties at the CDR CC. 
+>(a) demonstrate the steps taken to identify the other party by name (eg, searches);
+>(b) demonstrate why such steps were reasonable; and
+>(c) exhibit proof of the internet location address or internet service (as the case may be), and proof of the relevant identifier.
 
-### ***Subsequent CDR CCs***
+### ***Meaning of document***
 
-(7) At the CDR CC, the Court will give appropriate directions and fix a further CDR CC as necessary. This may include giving the necessary directions for parties to prepare for the ENE at the next CDR CC date, directing the negotiation process between parties, and giving case management directions to ensure the timely progress of the case to facilitate an early amicable resolution of the dispute. 
+(12) For avoidance of doubt, the words “document” and “documents” when used in this Practice Direction include all originating processes filed in the State Courts regardless of whether they are governed by the Rules of Court 2021 or not.
 
-(8) If the matter is not disposed of by the Court or settled or otherwise resolved through the actions of the parties in the course of the CDR CC process, the Court may make such orders or give such directions as it thinks fit including directions for the filing and exchange of affidavits of evidence-in-chief, and any other necessary directions to bring the proceedings to trial.
+### ***Non-compliance***
 
-### ***Request for adjournment of CDR CC***
+(13) Any document which does not comply with this Practice Direction may be rejected for filing by the Registry.
 
-(9) A dedicated time slot is set aside for each CDR CC. In order to minimise wastage of time and resources, a request to adjourn a CDR CC	for medical negligence claims shall be made not less than 2 working days before the date of the CDR CC in the manner provided in the relevant correspondence by the State Courts to the parties. 
 
-### ***Sanction for absence of parties*** 
+## 26. Citation of case numbers / new Court forum prefix 
 
-(10) Where no party attends the CDR CC, or if the claimant is absent, the Court may exercise its powers under Order 9, Rule 4(1) of the Rules of Court 2021 to dismiss the action.  
+(1) All originating processes and summonses filed in civil matters in the State Courts on or after 1 April 2022 shall bear case numbers in the following Format: 
 
-### ***Recording of terms of settlement agreement, consent interlocutory judgment or consent judgment***
+**<div align ="center">Description of Court / Type of Application [Case number] / Year filed</div>**
 
-(11) If the parties reach agreement on the issue of liability for the claim or quantum of damages or both, they must submit Form 7 of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent interlocutory judgment or consent judgment as the case may be.
+For example:
 
+|  ***Case number format*** |  ***Type of case***                                                                                                                         |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+|     DC / OC 1 / 2022      |     Originating Claim filed in the District Courts                                                                                        |
+|     PHC / OC 1 / 2022     |     Originating Claim filed in Standard Proceedings in the Protection from Harassment Court                                               |
+|     MC / OC   1 / 2022    |     Originating Claim filed in the Magistrates’ Courts                                                                                    |
+|     DC / OA 1 / 2022      |     Originating Application filed in the District Courts                                                                                  |
+|     PHC / OA 1 / 2022     |     Originating Application filed in Standard Proceedings in the Protection from Harassment   Court                                       |
+|     MC / OA 1 / 2022      |     Originating Application filed in the Magistrates’ Courts                                                                              |
+|     DC / SUM 1 / 2022     |     Summons filed in a District Court Suit                                                                                                |
+|     PHC / SUM 1 / 2022    |     Summons filed in an Originating Claim or Originating Application in Standard   Proceedings in the Protection from Harassment Court    |
+|     MC / SUM 1 / 2022     |     Summons filed in a Magistrate’s Court Suit                                                                                            |
+|     SCT/10001/2022        |     Claim filed in the Small Claims Tribunals                                                                                             |
+|     ECT/10001/2022        |     Claim filed in the Employment Claims Tribunals                                                                                        |
+|     CDT/101/2022          |     Claim filed in the Community Disputes Resolution Tribunals                                                                            |
+|     PHC/10001/2022        |     Claim filed in Simplified Proceedings in the Protection from Harassment Court                                                         |
 
-## 41. Claims in negligence (excluding medical negligence, personal injury and non-injury motor accident (“NIMA”) claims)
+(2) Parties must cite the case number in full in all documents filed in Court.
 
-(1) This Practice Direction applies to all claims in negligence filed on or after 1 April 2022, including professional negligence claims (but excluding medical negligence, personal injury and non-injury motor accident (“**NIMA**”) claims) (“**claims in negligence**”).
 
-### ***Court Dispute Resolution Case Conferences for all claims in negligence***
+## 27. Personal service of processes and documents
 
-(2) For all claims in negligence, the Court will convene the first Court Dispute Resolution Case Conference (“**CDR CC**”) under Order 9, Rule 1(2) of the Rules of Court 2021 within 6 weeks after the filing of the notice of intention to contest the claim.
+(1) Court process servers will not be assigned to effect personal service of processes and documents unless there are special reasons.  
 
-(3) The objective of the CDR CC is to facilitate early, cost effective and amicable resolution of the claim through the provision of an early neutral evaluation (“**ENE**”) on the merits of the case and judge-directed negotiations undergirded by judge-led case management by taking control of and setting the timelines as well as giving directions for the proceedings.  
+(2) If it is felt that there are special reasons requiring personal service by a Court process server, a Request for such service must be filed through the Electronic Filing Service, setting out the special reasons. The approval of the Duty Registrar must be obtained for such service. Once approval has been obtained, the documents for service must be presented at the counter designated for this purpose. A process server will then be assigned to effect service and an appointment for service convenient to both the litigant and the assigned process server will be given.
 
-### ***First CDR CC ***
+(3) On the appointed date, the person accompanying the process server must call at the Registry. The amount required for the transport charges of the process server (a record of which will be kept) must be tendered, or, alternatively, the process server in question must be informed that transport for him will be provided. The Registry will then instruct the process server to effect service.   
 
-(4) As the CDR CC may be conducted by email, or through other electronic means, details concerning the applicable email account or other means of communication with the Court in each case, where applicable, will be provided in the relevant correspondence by the State Courts to the parties. Where it is necessary in the circumstances of the case, the Court retains the discretion to direct the personal attendance of solicitors and parties at the CDR CC. 
+(4) Under no circumstances should any payment be made directly to the process server.
 
-### ***Subsequent CDR CCs***
+### ***Application for service out of Singapore of originating process or other court document***
 
-(5) At the CDR CC, the Court will give appropriate directions and fix a further CDR CC as necessary. This may include giving the necessary directions for parties to prepare for the ENE at the next CDR CC date, guiding the negotiation process between parties, and giving case management directions to ensure the timely progress of the case to facilitate an early amicable resolution of the dispute. 
+(5) Under Order 8, Rule 1(2) of the Rules of Court 2021, a claimant applying for the Court’s approval to serve an originating process or other court document out of Singapore must file a supporting affidavit stating, among others, why the Court has the jurisdiction, or is the appropriate court, to hear the action.  
 
-(6) The Court may also refer appropriate matters to one of the Court Alternative Dispute Resolution modalities (“**Court ADR modalities**”) and recommend the use of neutral evaluation, mediation or conciliation, as appropriate, to facilitate the amicable resolution of the case, having regard to factors such as the nature of the case, the factual matrix and the preference of the parties. 
+(6) For the purposes of showing why the Court is the appropriate court to hear the action, the claimant should include in the supporting affidavit any relevant information showing that: 
 
-(7) If the matter is not disposed of by the Court or settled or otherwise resolved through the actions of the parties in the course of the CDR CC process, the Court may make such orders or give such directions as it thinks fit including directions for the filing and exchange of affidavits of evidence-in-chief, appointment of a single joint expert (for actions commenced in the Magistrates’ Court) and any other necessary directions to bring the proceedings to trial.
+>(a) there is a good arguable case that there is sufficient nexus to Singapore;
 
-### ***Request for adjournment of CDR CC***
+>(b) Singapore is the forum conveniens; and
 
-(8) A dedicated time slot is set aside for each CDR CC. In order to minimise wastage of time and resources, a request to adjourn a CDR CC for claims in negligence shall be made not less than 2 working days before the date of the CDR CC in the manner provided in the relevant correspondence by the State Courts to the parties. 
+>(c) there is a serious question to be tried on the merits of the claim.
 
-### ***Sanction for absence of parties***
+(7) Where applicable, for the purposes of sub-paragraph 6(a), the claimant should refer to any of the following non-exhaustive list of factors (as may be applicable) in the supporting affidavit:
 
-(9) Where no party attends the CDR CC, or if the claimant is absent, the Court may exercise its powers under Order 9, Rule 4(1) of the Rules of Court 2021 to dismiss the action. 
+>(a) relief is sought against a person who is domiciled, ordinarily resident or carrying on business in Singapore, or who has property in Singapore;
 
-### ***Recording of terms of settlement agreement, consent interlocutory judgment or consent judgment***
+>(b) an injunction is sought ordering the defendant to do or refrain from doing anything in Singapore (whether or not damages are also claimed in respect of a failure to do or the doing of that thing);
 
-(10) If the parties reach agreement on the issue of liability for the claim or quantum of damages or both, they must submit Form 7 of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent interlocutory judgment or consent judgment as the case may be.
+>(c) the claim is brought against a person duly served in or outside Singapore, and a person outside Singapore is a necessary or proper party to the claim;
 
+>(d) the claim is brought to enforce, rescind, dissolve, annul or otherwise affect a contract, or to recover damages or obtain other relief in respect of the breach of a contract, being (in either case) a contract which —
 
-## 42. Mediation
+>>(i) was made in Singapore, or was made as a result of an essential step being taken in Singapore;
 
-(1) The aim of mediation is not to determine who is at fault in the dispute. Rather, the mediator will assist the parties in negotiating and agreeing on a possible settlement to their dispute. Parties who are legally represented will attend the mediation hearing with their solicitors, and have the opportunity to communicate with each other as well as the mediator.
+>>(ii) was made by or through an agent trading or residing in Singapore on behalf of a principal trading or residing out of Singapore;
 
-### ***Opening statements***
+>>(iii)	is by its terms, or by implication, governed by the law of Singapore; or
 
-(2) Each party must submit to the Court Dispute Resolution Cluster (“**CDRC**”), and serve on all other parties, a written opening statement not less than 2 working days before the date of the first mediation hearing. 
+>>(iv)	contains a term to the effect that that Court will have jurisdiction to hear and determine any action in respect of the contract;
 
-(3) The opening statement shall be in the format prescribed in Form 8 in Appendix A1 to these Practice Directions. 
+>(e) the claim is brought in respect of a breach committed in Singapore of a contract made in or outside Singapore and irrespective of the fact, if such be the case, that the breach was preceded or accompanied by a breach committed outside Singapore that rendered impossible the performance of so much of the contract as ought to have been performed in Singapore;
 
-(4) The opening statement shall be concise and not exceed 10 pages.
+>(f) the claim:
 
-### ***Attendance at mediation***
+>>(i) is founded on a tort, wherever committed, which is constituted, at least in part, by an act or omission occurring in Singapore; or
 
-(5) All parties shall attend the mediation hearing in person, even if represented by counsel.
+>>(ii) is wholly or partly founded on, or is for the recovery of damages in respect of, damage suffered in Singapore caused by a tortious act or omission wherever occurring;
 
-(6) The solicitor who has primary conduct over the case shall be present throughout the mediation hearing.
+>(g) the whole subject matter is immovable property situated in Singapore (with or without rents or profits) or the perpetuation of testimony relating to immovable property so situated;
 
-(7) In the case of corporations and other entities, the representative who has the authority to settle the dispute shall attend the mediation hearing. In the event that only a board or body has authority to settle on behalf of the entity, the entity shall send the person who is the most knowledgeable about the case and who is able to recommend a settlement to the representative’s board or body.
+>(h) the claim is brought to construe, rectify, set aside or enforce an act, deed, will, contract, obligation or liability affecting immovable property situated in Singapore;
 
-### ***Mediators***
+>(i) the claim is made for a debt secured on immovable property situated in Singapore, or is made to assert, declare or determine proprietary or possessory rights, or rights of security, in or over movable property, or to obtain authority to dispose of movable property, situated in Singapore;
 
-(8) Mediation will be conducted by either a Judge or a Court Volunteer Mediator. Court Volunteer Mediators are experienced mediators who have been appointed by the State Courts. The parties will be notified by correspondence if their case is to be mediated by a Court Volunteer Mediator.
+>(j) the claim is brought to execute the trusts of a written instrument, being trusts that ought to be executed according to the law of Singapore and of which the person to be served with the originating process is a trustee, or for any relief or remedy which might be obtained in any such action;
 
-### ***Procedure at Mediation***
+>(k) the claim is made for the administration of the estate of a person who died domiciled in Singapore or for any relief or remedy which might be obtained in any such action;
 
-(9) More information on the mediation process and relevant procedure is set out at the Singapore Courts website at <https://www.judiciary.gov.sg>.
+>(l) the claim is brought in an administration action within the meaning of Order 32 of the Rules of Court 2021;
 
+>(m) the claim is brought to enforce any judgment or arbitral award, or any adjudication determination within the meaning of the Building and Construction Industry Security of Payment Act;
 
-## 43. Conciliation
+>(n) the claim is made under the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the Terrorism (Suppression of Financing) Act or any other written law;
 
-(1) The aim of conciliation is not to determine who is at fault in the dispute. The role of the conciliator during the conciliation hearing is to assist the parties in negotiating and agreeing on a possible settlement to their dispute, with the conciliator playing an active role in suggesting an optimal solution for the parties. Parties who are legally represented will attend the conciliation hearing with their solicitors and have the opportunity to communicate with each other as well as the conciliator.
+>(o) the claim is a restitutionary one (including a claim for quantum meruit or quantum valebat) or for an account or other relief against the defendant as trustee or fiduciary, and the defendant’s alleged liability arises out of any act done, whether by the defendant or otherwise, in Singapore;
 
-### ***Opening statements***
+>(p) the claim is founded on a cause of action arising in Singapore;
 
-(2) Each party must submit to the Court Dispute Resolution Cluster (“**CDRC**”), and serve on all other parties, a written opening statement not less than 2 working days before the date of the first conciliation hearing.    
+>(q) the claim is for a contribution or an indemnity in respect of a liability enforceable by proceedings in Singapore;
 
-(3) The opening statement shall be in the format prescribed in Form 8 in Appendix A1 to these Practice Directions.  
+>(r) the claim is in respect of matters in which the defendant has submitted or agreed to submit to the jurisdiction of the Court;
 
-(4) The opening statement shall be concise and not exceed 10 pages. It should contain the suggested solution(s) of the dispute by the party submitting the opening statement.  
+>(s) the claim concerns the construction, effect or enforcement of any written law; or
 
-### ***Attendance at conciliation***
+>(t) the claim is for a committal order under Order 23 of the Rules of Court 2021.
+ 
 
-(5) All parties shall attend the conciliation hearing in person, even if represented by counsel.  
+## 28. Substituted service 
+(1) In any application for substituted service, the applicant shall satisfy the Court that the proposed mode of substituted service is effective in bringing the document to the notice of the person to be served. 
 
-(6) The solicitor who has primary conduct over the case shall be present throughout the conciliation hearing. 
+(2) Two reasonable attempts at personal service should be made before an application for an order for substituted service is filed. In an application for substituted service, the applicant shall demonstrate by way of affidavit why he or she believes that the attempts at service made were reasonable. 
 
-(7) In the case of corporations and other entities, the representative who has the authority to settle the dispute shall attend the conciliation hearing. In the event that only a board or body has authority to settle on behalf of the entity, the entity shall send the person who is the most knowledgeable about the case and who is able to recommend a settlement to the representative’s board or body.  
+(3) The applicant should, where appropriate, also consider other modes of substituted service, such as AR registered post or electronic means (including electronic mail or Internet transmission) in addition to or in substitution of substituted service by posting on doors or gates of residential and business premises. 
 
-(8) Conciliation will be conducted by a Judge of the CDRC. 
+(4) An application for substituted service by posting at an address or by AR registered post should contain evidence (eg, relevant search results from the Inland Revenue Authority of Singapore, the Singapore Land Authority, the Housing & Development Board or the Accounting and Corporate Regulatory Authority) that the person to be served is either the owner of, resident or can be located at the property. 
 
-### ***Procedure at Conciliation***
+(5) For the avoidance of doubt, substituted service by AR registered post is deemed to be effective when the postal service has delivered the document, or attempted to deliver the document (in cases where no one is present or willing to accept the document). 
 
-(9)  More information on the conciliation process and relevant procedure is set out at the Singapore Courts website at <https://www.judiciary.gov.sg>. 
+(6) If substituted service is by electronic mail, it has to be shown that the electronic mail account to which the document will be sent belongs to the person to be served and that it is currently active. 
 
+(7) An application for substituted service by advertisement (in one issue of the Straits Times if the person to be served is literate in English, or one issue of the Straits Times and one issue of one of the main non-English language newspapers where his language literacy is unknown) should only be considered as a last resort and should contain evidence that the person to be served is literate in the language of the newspaper in which the advertisement will be placed. 
 
-## 44. Neutral Evaluation
+(8) For the avoidance of doubt, posting on the Notice Board of the Registry of the State Courts is not available as a proposed mode of substituted service.
 
-(1) The procedure in this Practice Direction applies only to civil cases where parties have requested for Neutral Evaluation as a Court alternative dispute resolution modality. It does not apply to personal injury claims, motor accident claims, medical negligence claims and other claims in negligence.
 
-(2) Neutral Evaluation involves the parties and their solicitors making presentations of their claims and defences, including the available evidence, followed by the Judge of the Court Dispute Resolution Cluster (“**CDRC**”) giving an assessment of the merits of the case. This process is also useful for helping parties to arrive at areas of agreement and to discuss methods of case management to save costs and time. The details of the structure and ambit of this process may be agreed between the parties at the preliminary conference referred to in paragraph (3) below.
+## 29. Amendment of documents
 
-### ***Preliminary conference with solicitors***
+### ***General requirements for amendment of any document***
 
-(3) When parties request a Neutral Evaluation, the Court will convene a preliminary conference, with only solicitors in attendance, to discuss and agree on several options regarding the process before the date for Neutral Evaluation is fixed, being —
+(1) Except as otherwise provided by the provisions of this Practice Direction, where any document (inclusive of any pleading) that has been filed in any proceedings is required to be amended and re-filed in Court, a fresh copy of the document with the amendments included must be prepared, regardless of the number and length of the amendments sought to be made.
 
-(a) whether the outcome of the Neutral Evaluation is to be binding or non-binding;
+(2) The procedure for amending a document is as follows:
 
-(b) whether the witnesses are to attend and be assessed by the Court; and
+>(a) A fresh amended copy of the document should be produced.
 
-(c) whether affidavits of evidence-in-chief of witnesses are to be filed and used for the neutral evaluation, with or without witnesses’ attendance.
+>(b) The number of times the document has been amended shall be indicated in parentheses after the name of the document. For this purpose, an amended document should be entitled “[document name] (Amendment No. 1)” or “[document name] (Amendment No. 2)”, or as appropriate. For example, a Statement of Claim which is amended for the first time should be filed as “Statement of Claim (Amendment No. 1)”, and a Defence that is amended for the second time should be filed as “Defence (Amendment No. 2)”. 
 
-(4) If the option referred to in sub-paragraph (3)(b) above is chosen, the Judge may order that all or some of the expert witnesses testify as a panel to adduce expert evidence. Testifying as a panel involves the concurrent hearing of all expert witnesses in the presence of one another. Each party’s expert witness would be afforded the opportunity to question, clarify or probe any contending views proffered by the other expert.
+>(c) The changes made in the document from the latest version of the document filed in Court should be indicated in the following way:
 
-### ***Opening Statements***
+>>(i) deletions shall be made by drawing a single line across the words to be deleted; and
 
-(5) Each party must submit to the CDRC, and serve on all other parties, a written opening statement not less than 2 working days before the date of the Neutral Evaluation. 
+>>(ii) insertions shall be underlined.
 
-(6) The opening statement shall be in the format prescribed in Form 9 in Appendix A1 to these Practice Directions. 
+### ***Colour scheme for amendments***
 
-(7) The opening statement shall be concise and not exceed 10 pages.
+(3) In addition, the following colours shall be used to indicate the history of the amendments in the specified documents:
 
-### ***Attendance at Neutral Evaluation***
+>(a) black for the first round of amendments;
 
-(8) All parties shall attend the Neutral Evaluation hearing in person, even if represented by counsel, unless the Court dispenses with their attendance.
+>(b) red for the second round of amendments; 
 
-(9) The solicitor who has primary conduct over the case shall be present throughout the Neutral Evaluation hearing.
+>(c) green for the third round of amendments; 
 
-### ***Procedure in Neutral Evaluation***
+>(d) blue for the fourth round of amendments; and
 
-(10) More information on the Neutral Evaluation process and relevant procedure is set out at the Singapore Courts website at <https://www.judiciary.gov.sg>.
+>(e) brown for subsequent rounds of amendments.
 
+### ***Amendment for third time or more***
 
-## 45. Assessment of Damages
+(4) From the third round of amendments onwards, the amended specified document should comprise two versions of the document, ie —
 
-### ***Convening of Assessment of Damages Case Conference***
+>(a) a clean version without the amendments shown; followed in the same document by
 
-(1) Where interlocutory judgment is entered in any action in the State Courts, in which bifurcation was ordered, for damages to be assessed or for the taking of accounts, an Assessment of Damages Case Conference (“**Assessment CC**”) will be fixed around 7 weeks after the date on which interlocutory judgment is entered. An Assessment CC Notice will be issued to the claimant and any party against whom interlocutory judgment has been entered (if that party has filed a notice of intention to contest), notifying parties of the date of the Assessment CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
+>(b) a version showing the amendments in colour.
 
-(2) At the Assessment CC, and upon an application by the party entitled to the benefit of the judgment in accordance with Order 15, Rule 15 of the Rules of Court 2021, the Court will give such directions as are necessary including, but not limited to, directions for:
+(5) Only one amended document consisting of these two versions is required to be filed.
 
->(a) the production of documents for the Assessment of Damages hearing;
+### ***Cases to which the requirements in paragraphs (1) and (2) do not apply***
 
->(b) the filing and exchange of affidavits of evidence-in-chief for the Assessment of Damages hearing; and
+(6) The directions in sub-paragraph (2)(b) above shall not apply to any Originating Application or summons that has been amended from an application with notice to an application without notice or vice versa.
 
->(c) the filing of any notice of appointment for assessment of damages (“**NOAD**”).
+(7) The directions in sub-paragraph (2)(c) above shall not apply to any originating process, summons or other electronic form that is composed online through the Electronic Filing Service.
 
-### ***Convening of Assessment of Damages Court Dispute Resolution Conferences***
+### ***Amendment endorsements on electronic forms***
 
-(3) The Court will generally convene the first Assessment of Damages Court Dispute Resolution Conference (“**ADCDR**”) within 4 weeks after the filing and acceptance of the NOAD.
+(8) An amended pleading or other document shall be endorsed with a statement that it has been amended, specifying the date on which it was amended and by whom the order (if any) authorising the amendment was made and the date thereof, and if no such order was made, the number of the Rule in the Rules of Court 2021 in pursuance of which the amendment was made. 
 
-(4) The Court retains the discretion to reject the filing of a NOAD when any of the following requirements are not satisfied prior to the filing of said NOAD:
+(9) Where electronic forms are amended, the amendment endorsement shall take either one of the following forms:
 
->(a) All affidavits of evidence-in-chief and/or expert reports which parties intend to rely on at the Assessment of Damages have been duly exchanged at least 5 working days before the filing of the NOAD. 
+>(a) “By order of Court made on [date order was made]”; or
 
->(b) The Checklist for ADCDR in Form 10 of Appendix A1 to these Practice Directions (“**Checklist**”) has been duly completed by all legally represented parties taking part in the proceedings and filed as a supporting document to the NOAD. (Please note that the claimant need not obtain the endorsement of unrepresented individuals/entities for the purposes of completing the Checklist.)
+>(b) “Pursuant to Order 9, Rule [cite specific rule number]”.
 
->(c) The NOAD is filed within the timeline for filing as stipulated by the Court in an order or otherwise directed. 
+(10) The amendment endorsement shall be appended to the title of the electronic form, after the amendment number as required under sub-paragraph (2)(b) above. Where an electronic form is amended more than once, the endorsement need only cite the basis for the most recent amendment. For example —
 
-(5) If parties provide inaccurate confirmations in the Checklist filed, the Court may, at an appropriate juncture: 
+>(a) “Originating Application (Amendment No. 3, by order of Court made on 1 January 2022)”;
 
->(a) strike off the NOAD and the Checklist; and/or 
+>(b) “Originating Claim (Amendment No. 1, pursuant to O. 9, r [•])”. 
 
->(b) vacate ADCDR(s) commenced as a result of the inaccurate confirmations provided.
+(11) The date of the electronic form shall reflect the date on which the document is amended.
 
-### ***Conduct of ADCDRs***
+### ***Amendment of case title to add a party***
 
-(6) At ADCDRs, the Court will: —
+(12) Where the permission of Court has been obtained to add a party to the main case title of a matter, for example, an intervener or any party that was previously a non-party, the applicant or his solicitor is to file a Request through the Electronic Filing Service to add that specific party to the main case title.
 
->(a) facilitate settlement between parties;
 
->(b) provide neutral evaluations of quantum of damages; and/or 
+## 30. Endorsements on originating processes and other documents
 
->(c) conduct a final check on the status of the proceedings between the parties to ensure that they are ready for the Assessment of Damages hearing.
+(1) The provisions of this Practice Direction shall apply where it is necessary to include endorsements on any document.
 
-(7) All ADCDRs are to be conducted on a documents-only basis through the Electronic Filing Service, electronic mail or any other electronic means in accordance with Registrar’s Circular No. 13 of 2020. 
+(2) Endorsements are normally made on originating processes and other documents to show the renewal of, amendments to, and authorisation for service of, the document in question. Such endorsements on originating processes and other documents do not require the Registrar’s signature.  
 
-(8) For the avoidance of doubt, the Court at all times retains the full discretion to direct parties to attend a physical hearing or remote hearing via video or telephone conferencing where it deems fit. Parties may make written requests to Court for hearings to be conducted via video conferencing or in person.
+(3) For documents that are filed through the Electronic Filing Service as electronic forms composed online, the following requirements apply:
 
-(9) Subject to the discretion of the Court, neutral evaluations will only be given in matters where the claimant and at least one other party is represented and will only be given for claims relating to: 
+>(a) Solicitors should select the appropriate endorsement and check the accuracy of the electronic form in the preview stage before filing the originating process or other document. The acceptance by the Registry of electronic forms composed online does not affect the regularity of any endorsements on the document.
 
->(a) damages for pain and suffering arising from personal injuries suffered by a claimant;
+>(b) Where endorsements can be made prior to the filing or issuance of a document, those endorsements shall be incorporated into the document before the document is filed or issued.
 
->(b) loss of future earnings and/or loss of earning capacity; and/or 
+>(c) Where endorsements must be made on a document which has already been filed or issued, a fresh copy of the document containing the relevant endorsements shall be prepared, and the document must be re-filed or re-issued, as the case may be. An example of this would be renewals of Originating Claims.
 
->(c) loss of dependency under section 20 of the Civil Law Act (Cap 43) (“**Civil Law Act**”). 
 
-(10) At the first ADCDR, all parties should be in a position to assess the relative merits of their cases to facilitate a settlement with all relevant information at their disposal. 
+## 31. Additional endorsements on cause papers
+Every affidavit which is filed in conjunction with a summons (but not those filed in conjunction with Originating Applications) must have endorsed at the top left-hand corner of the first page of the affidavit the entered number of the summons. 
 
-(11) For matters falling within Practice Direction 45(9), parties are to submit to the Court, before the first ADCDR, the Quantum Neutral Evaluation Form in Form 11 of Appendix A1 to these Practice Directions for neutral evaluation of such heads of claim in accordance with Registrar’s Circular No. 13 of 2020. 
 
-(12) Upon submission of a duly completed Quantum Neutral Evaluation Form, the Court will proceed on the hearing date to —
+## 32. Information to be provided in cause papers and documents filed in the Registry
 
->(a) consider the Quantum Neutral Evaluation Form submitted by the specified deadline and/or the documents referred to therein without the attendance of parties or their solicitor(s) and provide a neutral evaluation; and/or
+(1) This Practice Direction shall apply to all cause papers and documents that are not filed using the Electronic Filing Service. 
 
->(b) issue directions, fix the matter for a further hearing and/or fix the matter for an Assessment of Damages. 
+(2) To facilitate the contacting of lawyers having conduct of an action or charge of a matter by members of the staff of the State Courts, the following information shall be inserted on backing sheets of all cause papers and documents filed in the Registry in the format set out:
 
-(13) In the event that one party’s position is not stated within the Quantum Neutral Evaluation Form filed by the specified deadline before any hearing date, the Court will not provide a neutral evaluation. Instead, the Court may —
+>>“(Name of lawyer(s) having conduct of action or charge of matter.)<br>
+>>(Name of law firm.)<br>
+>>(Address of law firm.)
 
->(a) issue directions and fix the matter for a further hearing; or
+>>Tel:	(Contact telephone number.)<br>
+>>Fax:	(Contact facsimile number.)<br>
+>>Ref:	(File reference of law firm.)”<br>
 
->(b) vacate the ADCDR and fix the matter for an Assessment of Damages hearing.
+(3)	The information is to be inserted as a block near the bottom right-hand corner of the backing sheets.
 
-(14) If the case is not one for which a neutral evaluation will be given, or if parties decide not to obtain a neutral evaluation from the Court, parties are to update the Court at the first ADCDR on whether there are any on-going negotiations and seek directions on the same, or inform the Court of their availability so an Assessment of Damages hearing may be fixed.
 
-(15) After the first ADCDR, parties may generally expect 2 to 5 more ADCDR hearings before directions moving the matter towards an Assessment of Damages are given.
+## 33. Access to case file, inspection and taking copies of documents and conducting searches 
 
-(16) During the ADCDR process, if there is no settlement or if the Court thinks fit, the Court may —
+### ***Access by parties to a case file***
 
->(a) direct that the matter should proceed for an Assessment of Damages hearing; and/or 
+(1) All parties to a case who are registered users of the Electronic Filing Service may, subject to the provisions of this Practice Direction and any directions of the Court, access the online case file made available through the Electronic Filing Service and may inspect, download soft copies or print hard copies of documents accessible to the parties in the online case file.
 
->(b) make such orders or give such directions as it thinks fit for the just, expeditious and economical disposal of the matter. 
+(2) Where a party to a case is not a registered user and is unable to access the electronic case file through the Electronic Filing Service, the procedure governing file inspection by non-parties to a case in paragraph (5) below shall be followed.
 
-(17) If parties wish to request for an adjournment of an ADCDR, they are to do so at least 5 working days before the date of the ADCDR by way of a “Other Hearing Related Request” filed under the specific Assessment of Damages Sub-Case No. as found in the accepted copy of the NOAD. 
+(3) All parties to a case shall have the liberty to make amendments at will to administrative details contained in the electronic case file through the Electronic Filing Service, and for this purpose —
 
-### ***Fixing of Assessment of Damages Hearings***
+>(a) administrative details include the contact details of solicitors, the identities of the solicitors, and the nature of the claim; and
 
-(18) In all requests for Assessment of Damages hearing dates during the ADCDR process, parties should: 
+>(b) where a party to a case is not a registered user of the Electronic Filing Service, he may attend at the service bureau to seek assistance to amend the administrative details contained in the electronic case file.
 
->(a) specify whether parties require a half-day hearing slot or a shorter hearing slot (as may be suitable where, for example, no defendant or intervener is expected to attend or make contesting submissions at the Assessment of Damages hearing); 
+(4) The Registry may require parties to a case to provide supporting documents to substantiate proposed amendments to other details of the electronic case file before the amendment is approved (eg, amendments to add or remove a party to the case have to be supported by an order of Court, and amendments to change the name, gender, identification number, or marital status of a party to the case have to be substantiated by documentary proof).
 
->(b) provide the unavailable dates of all parties (if possible); and 
+### ***File inspection by non-parties***
 
->(c) specify the name of the Deputy Registrar who provided a neutral evaluation (if any) in the matter or that no neutral evaluation was given.
+(5) In order to inspect a case file containing documents that were filed through the Electronic Filing Service, the following procedure should be followed:
 
-(19) Notwithstanding any other provision of these Practice Directions, in all Assessment of Damages hearings fixed before a Registrar in Chambers, and unless otherwise directed by the Court —
+>(a) A Request should be made to obtain permission to inspect the file, which request should —
 
->(a) the claimant shall, within 3 weeks prior to the date of the Assessment of Damages hearing, serve on the defendant a draft Joint Opening Statement (referred to in sub-paragraph (b) below) with the claimant’s portions duly completed along with the Bundle(s) of Documents;
+>>(i) be filed using the Electronic Filing Service;
 
->(b) the defendant shall, within 2 weeks prior to the date of the Assessment of Damages hearing, serve on the claimant the draft Joint Opening Statement with the defendant’s portions duly completed; and
+>>(ii) state the name of the person who is to carry out the search or inspection (and if this person is not a solicitor, his identity card number should also be included in the request, after his name);
 
->(c) the claimant shall, within 1 week prior to the date of the Assessment of Damages hearing, file through the Electronic Filing Service and serve the duly completed Joint Opening Statement as well as file the Bundle(s) of Documents.
+>>(iii) state the interest the applicant has in the matter, and the reason for the search or inspection; and
 
-(20) The format to be used for the Joint Opening Statement shall be as follows:
+>>(iv) if the search or inspection is requested for the purpose of ascertaining information for use in a separate suit or matter, clearly state the nature of the information sought and the relevance of such information to the separate suit or matter.
 
->(a) Joint Opening Statement for Assessment of Damages for Personal Injury Claims (including loss of dependency claims under section 20 of the Civil Law Act) — Form 12 of Appendix A1 to these Practice Directions;
+>(b) Once approval for inspection has been received from the Court: 
 
->(b) Joint Opening Statement for Assessment of Damages for Non-Injury Motor Accident Claims — Form 13 of Appendix A1 to these Practice Directions; and
+>>(i) Registered users can inspect the case file online through the Electronic Filing Service;
 
->(c) Joint Opening Statement for Assessment of Damages for General Claims excluding Personal Injury and Non-Injury Motor Accident Claims — Form 14 of Appendix A1 to these Practice Directions.
+>>(ii) Parties who are not registered users can inspect the case file by presenting a copy of the approval at the service bureau. After verifying the approval that has been presented, the service bureau will assign a personal computer to the inspecting party for the inspection to be carried out. An inspecting party will usually be allowed only 60 minutes to carry out the inspection. If a longer period is required, the service bureau may impose a charge for use of the computer. The service bureau may impose additional charges for downloading soft copies or printing hard copies of documents from the case file being inspected.
 
-(21) The Forms shall be modified accordingly if there are more than two parties in the proceedings.
+(6) To inspect a case file in civil proceedings that do not use the Electronic Filing Service, the following procedure should be followed:
 
+>(a) A Request should be submitted to the Registry to obtain permission to inspect the case file. The Request should state the name of the person who is to carry out the search or inspection. If this person is not a solicitor, his or her identification and contact details should also be included in the Request, and his or her identification document (including physical or digital identity card) should be produced for verification if requested. The Request should also state the interest that the applicant has in the matter, and the reason for the search or inspection. If the search or inspection is requested for the purpose of ascertaining information for use in a separate suit or matter, the Request should clearly state the nature of the information sought and the relevance of such information to the separate suit or matter.
 
-## 46. Adjournment or vacation of hearings 
+>(b) If approval for inspection is given by the Court, and upon confirmation of the receipt of payment of the fees payable, the inspection of the case file and Court documents will be carried out at the Registry.
 
-### ***Trials***
+>(c) The fees prescribed by the Fourth Schedule to the Rules of Court 2021 will be payable for the provision of the above service
 
-(1) Where dates have been fixed for the trial of any cause or matter, any request for an adjournment or vacation of the trial dates shall, without prejudice to the requirements of Order 9, Rule 9(7) of the Rules of Court 2021, be made by way of summons with a supporting affidavit even in those cases where counsel for the other party or parties consent to the adjournment. A consent summons should be filed if all parties consent to the adjournment.
+(7) Solicitors must communicate to the Registrar in writing the names of their employees who have their authority to make searches and inspections. Such authority may be in respect of a specific search or inspection or for a specified period.
 
-(2) Subject to any directions of the Court, when a case is adjourned, the Registrar will assign such days as are available for the hearing of the case, and counsel will be expected to take the dates at short notice. 
+(8) For the avoidance of doubt, a non-party who has obtained approval to inspect a case file may take and retain a soft copy of any document that is available for inspection. All copies of documents taken in the course of inspection should not be used for purposes other than those stated in the Request to inspect. Solicitors shall be responsible for informing their clients of this.
 
-(3) In the event that the hearing of a case is not concluded within the number of days allotted, the Court may direct the hearing of the case to continue beyond the allotted time rather than adjourning the case part-heard to another date. Counsel for parties in all cases should therefore be prepared to continue with the hearing of the matter notwithstanding the fact that the time originally allotted may have expired. Subject to any such directions of the Court, all part-heard cases shall be fixed for continued hearing at short notice. Applications for adjournment of such hearing dates may be granted only for good and sufficient reasons.
+### ***Obtaining certified true copies of documents***
 
-### ***Hearings (other than trials) and Tribunal / Simplified POHA Proceedings***
+(9) Applications to obtain certified true paper copies of documents should be made by way of filing a Request through the Electronic Filing Service, unless the documents concerned have not been filed through the Electronic Filing Service.
 
-(4) Before parties write to the Court to request an adjournment or vacation of any hearing other than a trial, they should seek the consent of the other party or parties to the matter, and the unavailable date(s) of the other party or parties to the matter. Unilateral requests made without first seeking the consent or views of the other party or parties to the matter will not be entertained, except in the most exceptional circumstances.
+(10) Applications to obtain hard copy extracts or certified true copies of documents in civil proceedings that do not use the Electronic Filing Service may be made by submitting a Request to the Registry:
 
-(5) The request should be made at the earliest possible juncture, and:
+>(a) The intended use of the hard copy extracts or certified true copies should be clearly stated in the Request. The relevance and necessity of the hard copy extracts or certified true copies in relation to their intended use should also be clearly described.
 
->(a) at least 2 working days before the hearing date, setting out the reasons for the request;  
+>(b) The applicant will be informed of the outcome to his or her Request and the fees payable for the provision of the certified true copies if the Request is approved. Upon confirmation of the receipt of payment of the fees payable, the certified true copies will be released to the applicant. The Registry may require verification of the identity of the applicant against his or her identification document (including physical or digital identity card) prior to release of the certified true copies.
 
->(b) provided that in the case of Tribunal / Simplified POHA Proceedings, at least 2 weeks before the hearing date, by way of a Request for Change of Court Date on the Community Justice and Tribunals System, setting out:
+>(c) The fees prescribed by the Fourth Schedule to the Rules of Court 2021 will be payable for the provision of the above service.
 
->>(i) the reasons for the request; and
+(11) The intended use of the certified true copies should be clearly stated in the Request. The relevance and necessity of the certified true copies in relation to their intended use should also be clearly described.
 
->>(ii) the unavailable dates of each party (or his representative) and his witnesses (if applicable) for the 4-week period after the hearing date sought to be refixed/vacated. 
+(12) Once approval is received from the Court, the applicant should present a printed copy of the approved Request at the Central Registry. After verifying that the Request presented has been approved, the staff of the Central Registry will inform the applicant of any additional fees payable and the manner in which payment is to be made. 
 
-(6) If the consent of all other parties to the matter is obtained, the request should state that all parties have consented to the request for the adjournment or vacation. However, this does not mean that the request will be granted as a matter of course. The Court will still evaluate the merits of the request before making its decision. 
+(13) The fees prescribed in the Fourth Schedule to the Rules of Court 2021 will be payable for the above services without prejudice to additional printing charges which may be chargeable by the Court or the service bureau for reproducing the copies in paper form.
 
-(7) If the consent of one or more of the other parties is not obtained, the request should set out the reasons for the other parties’ objections, or explain why the consent of one or more of the other parties cannot be obtained. Any relevant correspondence between the parties should also be annexed. The Court will then evaluate the contents of the request and the relevant correspondence before deciding whether the request should be allowed.
+### ***Electronic cause books and registers maintained by the Registry***
 
+(14) Order 26, Rule 3 of the Rules of Court 2021 provides that the Registry must maintain such Court records and other documents that are required by any written law or which the Registrar considers appropriate. In addition to any provisions in the Rules of Court 2021, the Registrar hereby directs that the following information shall be maintained by the Registry:
 
-## 47. Absence of parties and mode of hearing
-(1) Where an application has been struck off by reason of any party being absent, the Court may direct that the matter be restored by way of summons.
+>(a) details of all originating processes, including:
 
-(2) Where any party is absent without a valid reason for any Case Conference, the Court may exercise its powers under Order 9, Rule 4 of the Rules of Court 2021 to dismiss the action or give judgment for the claimant upon proof of service of the Originating Claim or Originating Application on the defendant.
+>>(i) details of interlocutory applications; and 
 
-(3) In the exercise of its powers under Order 3 Rule 9 of the Rules of Court 2021, the Court may, subject to any written law, direct that Case Conferences or other hearings be carried out with parties in physical attendance or with parties attending via electronic (including through video conferencing), mechanical or any other means. 
+>>(ii) details of appeals filed therein; 
 
+>(b) details of enforcement orders, writs of distress and warrants of arrest; and
 
-## 48. Applications in pending cases
+>(c) any other information as may from time to time be deemed necessary.
 
-(1) All applications in chambers (including summonses, summonses for directions and notices thereunder, and Originating Applications) shall be filed without specifying whether the application is to be heard before a Judge in person or the Registrar.
+(15) Searches of this information under Order 26, Rule 3 of the Rules of Court 2021 may be conducted through the Electronic Filing Service at a service bureau or at the Records Section. The fees prescribed in the Fourth Schedule to the Rules of Court 2021 will be payable for the searches.  
 
-(2) Ordinary summonses shall be endorsed “without notice” or “by consent” and when endorsed “by consent” must bear a certificate to that effect signed by all the solicitors concerned.
-
-(3) Summonses will be routed to the inbox of the applicant solicitor’s Electronic Filing Service account. Where the summons is filed through the service bureau, it may be collected at the service bureau.
-
-(4) Where a summons is filed in a matter for which a trial date has been fixed, the summons must include a special request informing the Court of the trial date(s).
-
-### ***Request for approval to file further application***
-
-(5) No application may be taken out by any party other than as directed at the relevant Case Conference (“**CC**”) or with the Court’s approval, save for the applications specified in Order 9, Rule 9(7) of the Rules of Court 2021. The Court’s approval to file further applications must be sought by filing a “Request to Seek Permission for Application”. The request must set out the nature of the intended application, the date of intended filing if approval is granted, whether it is being made within 14 days of the commencement of the trial, and the reasons for why the intended application is necessary at the relevant stage of the proceedings or, in the case of an application to be taken out within 14 days of the commencement of the trial, pursuant to Order 9, Rule 9(10) of the Rules of Court 2021, why there is a special case. The Court will consider the request and may issue directions summarily or alternatively convene a CC. The CC may be conducted on a “documents-only” basis, by video conferencing or telephone conferencing, or with parties in attendance physically in chambers. Where parties are of the view that it would be more appropriate for submissions to be made in a physical or remote Case Conference, a “Request for Case Conference” may be filed in lieu of the “Request to Seek Permission for Application”. The “Request for Case Conference” should set out the reasons why the request for the Court’s approval to file further applications cannot or should not be dealt with asynchronously.
-
-### ***“Documents-only” hearing of specified categories of civil applications***
-
-(6) Originating Applications without notice, summonses without notice, summonses filed by consent and summonses filed under Order 15, Rule 15 of the Rules of Court 2021 will be heard on a “documents-only” basis unless the Court otherwise directs, subject to Order 15, Rule 3(3)(a) of the Rules of Court 2021. The application will be examined by the Judge or Registrar, who may make the order(s) applied for without the attendance of the parties or their counsel (if the Judge or Registrar is satisfied that the application is in order and all other requirements have been complied with) or, alternatively, issue directions and fix the matter for a further hearing.
-
-(7) If the further hearing is fixed to be heard on a “documents-only” basis, the applicant (or parties, as may be appropriate) is to file written submissions and/or supplementary affidavit(s) supporting the orders he/she wishes to obtain and/or addressing directions issued by the Court at least 5 working days before his/her hearing date. The Court will proceed on the “paper” hearing date to consider all documents filed by the specified deadline, and proceed either to issue orders or to issue further directions and fix the application for a further “paper” hearing. 
-
-(8) In the event the applicant does not file any document or comply with any outstanding directions by the specified deadline before any “paper” hearing date, the Court retains the discretion to strike off the application.
-
-(9) The following applications will be dealt with on a “documents-only” basis unless otherwise directed by the Court:
-
->(a) The withdrawal of an Originating Application, a summons and/or Registrar’s Appeal (“**RA**”), by consent, where:
-
->>(i) all orders in respect of withdrawal, including costs, are agreed; or
-
->>(ii) all orders (save for costs) in respect of withdrawal are agreed, and parties agree that the Court may fix costs pursuant to parties’ written submissions;
-
->(b) for an order in terms of the prayers stated in a summons and/or RA by consent, where:
-
->>(i) all orders (including costs) have been agreed for the full disposal of the relevant application after the filing of the application; or
-
->>(ii) all orders (save for costs) have been agreed for the full disposal of the relevant application after the filing of the application, and parties agree that the Court may fix costs pursuant to parties’ written submissions;
-
->(c) the discharge, by consent, of an order made to examine an enforcement respondent or to produce documents under Order 22, Rule 11 of the Rules of Court 2021;
-
->(d) the withdrawal of Originating Applications or summonses without notice, where the costs order sought is “no order as to costs” or where the applicant agrees that the Court may fix costs pursuant to the applicant’s written submissions;
-
->(e) for directions to be given in CCs, where parties consent to the said directions and/or consent to the Court giving directions after considering parties’ written submissions on the same;
-
->(f) the recording of settlement terms or consent judgments by the Deputy Registrar conducting the relevant CC, and the fixing of costs where parties agree that the Court may fix costs pursuant to parties’ written submissions; and
-
->(g) for orders to be made on any contested interlocutory application, Originating Application or RA, where all parties are represented and agree to have all orders (including costs) for the full disposal of the relevant application determined by the Court, based solely on affidavits and written submissions.
-
-(10) To seek any of the orders set out in sub-paragraphs (9)(a) to (d) above, parties are to file an “Other Hearing Related Request” through the Electronic Filing Service. The Request is to set out the orders sought and make clear that parties have consented to the orders being made without their attendance. Written submissions on costs, if any, are to be filed through the Electronic Filing Service, on the same day as the filing date of the Request. The Request is to be filed at least 5 working days before the next hearing date of the application or appeal.
-
-(11) In respect of the orders set out in sub-paragraphs (9)(e) and (f) above, parties are to file an “Other Hearing Related Request” through the Electronic Filing Service to seek the necessary directions/orders from the Deputy Registrar conducting the relevant CC.
-
-(12) After the receipt of any Request referred to in paragraphs (10) and (11) above, the papers filed will be examined by the Judge or Registrar, as the case may be, and any order(s) and/or directions may be granted without the attendance of counsel and/or parties.
-
-(13) In respect of the orders set out in sub-paragraph (9)(g) above:
-
->(a) The applicant’s counsel is to file an “Other Hearing Related Request” through the Electronic Filing Service to seek a hearing on a “documents-only” basis, enclosing documents showing:
-
->>(i) the consent of all parties to the mode of hearing proposed; and 
-
->>(ii) all parties’ counsel’s certification that all affidavits, written submissions and bundles of authorities for the application have been filed through the Electronic Filing Service and that the application is ready for hearing.
-
->(b) the Request is to be filed at least 5 working days before the next hearing date of the application. The Request shall be rejected in the event of non-compliance with the above conditions in sub-paragraph (13)(a).
-
->(c) Where a Case Conference is fixed for parties to take directions in relation to any application for summary judgment, striking out or setting aside, the parties are to consider the suitability of their case for a hearing conducted on a “documents-only” basis and to obtain their respective clients’ instructions prior to attending the Case Conference, so that the Court can give the necessary directions at the Case Conference.
-
->(d) Where a request for a hearing to be conducted on a “documents-only” basis is allowed, the Court may, upon considering the documents filed in Court: 
-
->>(i) issue further directions for the fair and effective conduct of the hearing;
-
->>(ii) decide on and make orders in respect of the application without requiring the attendance of counsel; or
-
->>(iii) issue a Registrar’s Notice informing parties of the hearing for delivery of decision.
-
-(14) In all cases where a particular judicial officer has been assigned to hear the matter, the Request shall be addressed to the respective judicial officer. In all other cases, the Request shall be addressed to the “Registrar”.
-
-### ***Applications to be added as party***
-
-(15) Any party (the “**prospective party**”) seeking to be added as a party to any proceedings pursuant to Order 9 Rule 10(2) of the Rules of Court 2021 shall file an “Other Hearing Related Request” (the “**Order 9 Rule 10(2) Letter**”), meeting the requirements set out in paragraph (16) below, in the action to which the prospective party seeks to be added.  
-
-(16) The Order 9, Rule 10(2) Letter must: 
-
->(a) identify the action or actions to which the prospective party seeks to be added; 
-
->(b) set out the grounds on and capacity in which the prospective party seeks to be added as a party; 
-
->(c) identify the case conference which it wishes to attend, make submissions at or be heard in, or alternatively, request that a case conference be convened to consider the prospective party’s application; and 
-
->(d) be copied to all the parties already party to the action.  
-
-
-## 49. Consolidated, transferred or converted cases in civil proceedings
-
-(1) Where the Court has ordered that —
-
-(a) two or more actions be consolidated;
-
-(b) a case be transferred from the General Division of the High Court to the State Courts;
-
-(c) a case be transferred from the District Courts to the Magistrates’ Courts;
-
-(d) a case be transferred from the Magistrates’ Courts to the District Courts;
-
-(e) a case be transferred from the Protection from Harassment Court to the Magistrate’s Court;
-
-(f) a case be transferred from the Protection from Harassment Court to the District Court; 
-
-(g) a case be transferred from the Magistrate’s Court to the Protection from Harassment Court;
-
-(h) a case be transferred from the District Court to the Protection from Harassment Court; or
-
-(i) an Originating Application be converted into an Originating Claim,
-
-(2) the applicant or his solicitor must inform the Court of the order for consolidation or transfer or conversion by way of an “Other Hearing Related Request” through the Electronic Filing Service.
-
-
-## 50. Filing of Distinct Applications in Separate Summonses
-
-(1) This Practice Direction shall apply to all applications made in the State Courts, except for applications made as part of a Single Application Pending Trial (“**SAPT**”) or when the Court has directed otherwise. 
-
-(2) A party who intends to make more than one distinct substantive application in a cause or matter must file each application in a separate summons, unless the application is made as part of a SAPT or the Court has directed otherwise.  
-
-(3) Distinct applications should not be combined in a single summons, unless they are inextricably or closely linked, or involve overlapping or substantially similar issues (for example, where applications for the extension or shortening of time, the amendment of pleadings and costs are closely linked to some other more substantive application). 
-
-(4) In addition, applications should not contain alternative prayers when the alternative prayers sought in effect amount to distinct applications. In such a case, separate summonses should be filed. In contrast, the following is an example of an alternative prayer which may be permitted: 
-
->>>>In the defendant’s summons setting out a prayer for the striking out of certain paragraphs of the Statement of Claim, the defendant also includes an alternative prayer for the plaintiff to be ordered to amend those paragraphs of the Statement of Claim. 
-
-(5) Any summons that is not in compliance with this Practice Direction may be rejected by the Registry of the State Courts. 
-
-(6) The Court may also direct the party to file separate summonses before proceeding with the hearing or proceed with the hearing on the solicitor’s undertaking to file further summonses for the distinct applications.
-
-
-## 51.Giving of security by receiver
-
-(1) Where the Court appoints a receiver pursuant to Order 13, Rule 9 of the Rules of Court 2021, the Court may give directions on the form and the amount of any security to be given by the receiver for the proper discharge of the receiver’s duties.
-
-(2) Unless otherwise directed, the security must be by guarantee (in a form approved by the Court) or, if the amount for which the security is to be given does not exceed $10,000, by an undertaking in Form 15 of Appendix A1 to these Practice Directions. The guarantee or undertaking must be filed in the Registry.
+(16) An application may be made by any person for a licence to use any information contained in any electronic cause book or register subject to such terms and conditions as the Registrar may determine. Successful applicants will be required to enter into separate technical services agreements with the Electronic Filing Service provider. Applications under this Practice Direction must be made in writing, identifying the data fields sought and providing details of how the information will be used. 
