@@ -40,6 +40,7 @@ The various courts, offices and counters within the State Courts have different 
 
 (2) This Practice Direction shall apply to both civil and criminal proceedings.
 
+
 ## 10. Hearing of urgent applications during weekends and public holidays
 
 (1) There may be occasions when urgent applications for interim injunctions or interim preservation of subject matter of proceedings, evidence and assets to satisfy judgments need to be heard on weekends and public holidays. To request the urgent hearing of such applications, the applicant should contact the Duty Judicial Officer at 9654 0072 during the operating hours of 8.30am to 6:00pm on weekends and Public Holidays. The Duty Judicial Officer will only arrange for the hearing of applications which are so urgent that they cannot be heard the next working day.
@@ -49,7 +50,6 @@ The various courts, offices and counters within the State Courts have different 
 (3) The judicial officer processing the application may direct an applicant to tender the application and supporting documents to the Court by email in lieu of filing as well as provide an undertaking from counsel that all the documents (including the originating process) will be filed in Court the next available working day. 
 
 (4) The judicial officer conducting the urgent hearing may, at his or her discretion, give directions for the urgent hearing to take place remotely or, alternatively, with parties attending in person.   
- 
 
 
 ## 11. Duty Registrar 
@@ -70,6 +70,7 @@ The various courts, offices and counters within the State Courts have different 
 
 (5) Except as otherwise directed by the Duty Registrar, the filing of the relevant documents will be sufficient for the Duty Registrar's disposal of any application or matter. Documents which are filed using the Electronic Filing Service will be returned to the advocate and solicitor through the Electronic Filing Service to the inbox of the law firm’s computer system or through the service bureau.  
 
+
 ## 12. Attendance of solicitors in Court
 
 Subject to Practice Direction 36(16), a solicitor appearing in any cause or matter may mention for counsel for all other parties provided that:
@@ -77,6 +78,7 @@ Subject to Practice Direction 36(16), a solicitor appearing in any cause or matt
 >(a) the solicitor obtains confirmation of his authority to mention on their behalf for the purpose of the hearing; and
 
 >(b) parties have agreed on the order(s) sought.
+
 
 ## 13. Amendment of documents
 
@@ -189,7 +191,7 @@ is required to attend Court (including any hearing conducted by way of live vide
 (5) This Practice Direction shall also apply to all alternative dispute resolution and counselling sessions conducted in the State Courts.
 
 (6) The attention of court users is also drawn to section 5 of the Administration of Justice (Protection) Act 2016 (Act 19 of 2016).
- 
+
 
 ## 19. Personal data
 
@@ -199,13 +201,13 @@ is required to attend Court (including any hearing conducted by way of live vide
 
 >(b) “**data subject**” means a person whose personal data appears in any document filed in the Registry or an electronic cause book or register maintained by the Registry.
 
-***Consent to collection, use or disclosure of personal data***
+### ***Consent to collection, use or disclosure of personal data***
 
 (2) Consent to the collection, use or disclosure of personal data contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar need not be obtained. 
 
 (3) Pursuant to Order 26 of the Rules of Court 2021, the Registry may compile and maintain electronic cause books and registers by extracting information, including personal data, contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar. 
 
-***Access to, and correction of, personal data contained in documents filed with, served on, delivered or otherwise conveyed to the Registrar***
+### ***Access to, and correction of, personal data contained in documents filed with, served on, delivered or otherwise conveyed to the Registrar***
 
 (4) A data subject who wishes to access his personal data contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar must comply with the applicable provisions in the Rules of Court 2021 and these Practice Directions relating to the access to and inspection of case files. 
 
@@ -213,7 +215,7 @@ is required to attend Court (including any hearing conducted by way of live vide
 
 (6) A data subject who wishes to correct any error or omission in his personal data in any document filed with, served on, delivered or otherwise conveyed to the Registrar must comply with the applicable provisions in the Rules of Court 2021 and these Practice Directions relating to the amendment of the relevant document.
 
-***Access to, and correction of, personal data contained in electronic cause books and registers maintained by the Registry***
+### ***Access to, and correction of, personal data contained in electronic cause books and registers maintained by the Registry***
 
 (7) A data subject who wishes to access his personal data contained in any electronic cause book or register must conduct a search through the Electronic Filing Service at a service bureau or at the Registry and shall pay the fees prescribed by the Fourth Schedule to the Rules of Court 2021. 
 
@@ -278,7 +280,7 @@ is required to attend Court (including any hearing conducted by way of live vide
 
 (4) Each Direction to Accountant-General for Payment In or Payment Out must contain amounts in a single currency. Where moneys in different currencies are to be paid into or out of Court, separate Directions must be prepared for each currency in which payment is to be made.
 
-***Direction to Accountant-General for Payment In or Out of Court***
+### ***Direction to Accountant-General for Payment In or Out of Court***
 
 (5) For payments into Court, after the Direction to Accountant-General for Payment In has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment In Party”) must send a copy of the approved Direction to Accountant-General for Payment In and the judgment or order of Court referenced therein to VITAL by email at <VITAL_FS_Receivable@vital.gov.sg>. Upon successful receipt of the documents, VITAL will provide instructions on how electronic payment is to be effected. A receipt will be issued by VITAL to the Payment In Party when payment is received by the Accountant-General. 
 
