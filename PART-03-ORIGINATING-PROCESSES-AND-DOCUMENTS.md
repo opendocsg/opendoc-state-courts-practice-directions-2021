@@ -4,7 +4,7 @@
 
 (1) This Practice Direction applies to Originating Applications filed on or after 1 April 2022. 
 
-***Forms for Originating Applications***
+### ***Forms for Originating Applications***
 
 (2) Where any legislation requires a party to file an Originating Application and the Form is not provided within the legislation, the Originating Application must be filed using either Form 15 (Originating Application) or Form 16 (Originating Application (without Notice)) of Appendix A2 to these Practice Directions.
 
@@ -15,23 +15,23 @@
  
 ## 25. Identification numbers and name to be stated in cause papers
 
-***Parties named in the title of the documents***
+### ***Parties named in the title of the documents***
 
 (1) Where a party to any proceedings in the State Courts first files a document in such proceedings, he shall state his identification number, in parentheses, in the title of the document immediately below or after his name. Thereafter, all documents subsequently filed in the proceedings by any party shall include this identification number in the title of the documents in parentheses below or after the name of the party to which it applies.
 
-***Parties not named in the title of the documents***
+### ***Parties not named in the title of the documents***
 
 (2) Where a party to any proceedings in the State Courts first files a document in such proceedings, and the name of the party does not appear in the title of the document but does appear in the body of the document, then the identification number of the party should be stated, in parentheses, below or after the first appearance of his name in the document. Thereafter, all documents subsequently filed in the proceedings by any party shall include this identification number in parentheses immediately below or after the first appearance of the name of the party to which it applies in the subsequent document.
 
-***Documents filed by two or more parties***
+### ***Documents filed by two or more parties***
 
 (3) Paragraphs (1) and (2) shall apply, with the necessary modifications, to documents which are filed by more than one party.
 
-***Identification numbers for non-parties***
+### ***Identification numbers for non-parties***
 
 (4) If any person (living or dead), any entity or any property is in part or in whole the subject matter of any proceedings, or is affected by any proceedings, but is not a party thereto, and the name of such person, entity or property is to appear in the title of the documents filed in the proceedings, the party filing the first document in the proceedings must state the identification number of such person, entity or property in parentheses immediately below or after the name of the same. Thereafter, all documents subsequently filed in the proceedings by any party shall include this identification number in parentheses immediately below or after the name of the person, entity or property to which it applies. If the party filing the first document in the proceedings is unable, after reasonable enquiry, to discover the identification number of the person, entity or property, he may state immediately below or after the name of the same “(ID No. not known)”. All documents subsequently filed by any party shall then contain these words in parentheses below or after the name of this person, entity or property.
 
-***Special cases***
+### ***Special cases***
 
 (5) The following directions shall apply in addition to the directions contained in paragraphs (1) to (4):
 
@@ -41,11 +41,11 @@
 
 >(c) where more than one identification number applies to any party, person, entity or property, all the identification numbers shall be stated in any convenient order.
 
-***Identification numbers***
+### ***Identification numbers***
 
 (6) When entering the identification number in the Electronic Filing Service, the full identification number should be entered, including any letters or characters that appear in, at the beginning of, or at the end of the number. Descriptive text which is required to be entered into the actual document, such as “Japanese Identification Card No”, should not be entered into the electronic form.
 
-***Guidelines for the selection of identification numbers***
+### ***Guidelines for the selection of identification numbers***
 
 (7) The following guidelines should be followed in deciding on the appropriate identification number.
 
@@ -82,11 +82,11 @@ For any other body or association, whether incorporated or otherwise, which does
 >(k) No identification numbers exist<br>
 Where the appropriate identification numbers referred to in sub-paragraphs (a) to (j) above do not exist in respect of any party, person, entity or property, the following words should be stated immediately below or after the name of that party, person, entity or property concerned: “(No ID No. exists)”.
 
-***Inability to furnish identification number at the time of filing a document***
+### ***Inability to furnish identification number at the time of filing a document***
 
 (8)If a party who wishes to file a document is unable at the time of filing to furnish the necessary identification numbers required by this Practice Direction, the party may indicate “(ID Not Known)” at the time of filing. However, when the necessary identification numbers have been obtained, the party must furnish the necessary identification numbers to the Registry through the Electronic Filing Service.
 
-***Identifying party whose name is unknown, under r 67 of the Supreme Court of Judicature (Protection from Harassment) Rules 2021***
+### ***Identifying party whose name is unknown, under r 67 of the Supreme Court of Judicature (Protection from Harassment) Rules 2021***
 
 (9) If a party who wishes to file a document is unable at the time of filing to identify a party by name, and wishes instead to identify the party by:
 
@@ -129,11 +129,11 @@ Where the appropriate identification numbers referred to in sub-paragraphs (a) t
 >(b) demonstrate why such steps were reasonable; and
 >(c) exhibit proof of the internet location address or internet service (as the case may be), and proof of the relevant identifier.
 
-***Meaning of document***
+### ***Meaning of document***
 
 (12) For avoidance of doubt, the words “document” and “documents” when used in this Practice Direction include all originating processes filed in the State Courts regardless of whether they are governed by the Rules of Court 2021 or not.
 
-***Non-compliance***
+### ***Non-compliance***
 
 (13) Any document which does not comply with this Practice Direction may be rejected for filing by the Registry.
 
@@ -148,19 +148,19 @@ For example:
 
 |  ***Case number format*** |  ***Type of case***                                                                                                                         |
 |---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-|     DC / OC 1 / 2022      |     Originating   Claim filed in the District Courts                                                                                        |
-|     PHC / OC 1 / 2022     |     Originating   Claim filed in Standard Proceedings in the Protection from Harassment Court                                               |
-|     MC / OC   1 / 2022    |     Originating   Claim filed in the Magistrates’ Courts                                                                                    |
-|     DC / OA 1 / 2022      |     Originating   Application filed in the District Courts                                                                                  |
-|     PHC / OA 1 / 2022     |     Originating   Application filed in Standard Proceedings in the Protection from Harassment   Court                                       |
-|     MC / OA 1 / 2022      |     Originating   Application filed in the Magistrates’ Courts                                                                              |
-|     DC / SUM 1 / 2022     |     Summons   filed in a District Court Suit                                                                                                |
-|     PHC / SUM 1 / 2022    |     Summons   filed in an Originating Claim or Originating Application in Standard   Proceedings in the Protection from Harassment Court    |
-|     MC / SUM 1 / 2022     |     Summons   filed in a Magistrate’s Court Suit                                                                                            |
-|     SCT/10001/2022        |     Claim filed in the Small   Claims Tribunals                                                                                             |
-|     ECT/10001/2022        |     Claim filed in the Employment   Claims Tribunals                                                                                        |
-|     CDT/101/2022          |     Claim filed in the Community   Disputes Resolution Tribunals                                                                            |
-|     PHC/10001/2022        |     Claim filed in Simplified   Proceedings in the Protection from Harassment Court                                                         |
+|     DC / OC 1 / 2022      |     Originating Claim filed in the District Courts                                                                                        |
+|     PHC / OC 1 / 2022     |     Originating Claim filed in Standard Proceedings in the Protection from Harassment Court                                               |
+|     MC / OC   1 / 2022    |     Originating Claim filed in the Magistrates’ Courts                                                                                    |
+|     DC / OA 1 / 2022      |     Originating Application filed in the District Courts                                                                                  |
+|     PHC / OA 1 / 2022     |     Originating Application filed in Standard Proceedings in the Protection from Harassment   Court                                       |
+|     MC / OA 1 / 2022      |     Originating Application filed in the Magistrates’ Courts                                                                              |
+|     DC / SUM 1 / 2022     |     Summons filed in a District Court Suit                                                                                                |
+|     PHC / SUM 1 / 2022    |     Summons filed in an Originating Claim or Originating Application in Standard   Proceedings in the Protection from Harassment Court    |
+|     MC / SUM 1 / 2022     |     Summons filed in a Magistrate’s Court Suit                                                                                            |
+|     SCT/10001/2022        |     Claim filed in the Small Claims Tribunals                                                                                             |
+|     ECT/10001/2022        |     Claim filed in the Employment Claims Tribunals                                                                                        |
+|     CDT/101/2022          |     Claim filed in the Community Disputes Resolution Tribunals                                                                            |
+|     PHC/10001/2022        |     Claim filed in Simplified Proceedings in the Protection from Harassment Court                                                         |
 
 (2) Parties must cite the case number in full in all documents filed in Court.
 
@@ -175,7 +175,7 @@ For example:
 
 (4) Under no circumstances should any payment be made directly to the process server.
 
-***Application for service out of Singapore of originating process or other court document***
+### ***Application for service out of Singapore of originating process or other court document***
 
 (5) Under Order 8, Rule 1(2) of the Rules of Court 2021, a claimant applying for the Court’s approval to serve an originating process or other court document out of Singapore must file a supporting affidavit stating, among others, why the Court has the jurisdiction, or is the appropriate court, to hear the action.  
 
@@ -262,7 +262,7 @@ For example:
 
 ## 29. Amendment of documents
 
-***General requirements for amendment of any document***
+### ***General requirements for amendment of any document***
 
 (1) Except as otherwise provided by the provisions of this Practice Direction, where any document (inclusive of any pleading) that has been filed in any proceedings is required to be amended and re-filed in Court, a fresh copy of the document with the amendments included must be prepared, regardless of the number and length of the amendments sought to be made.
 
@@ -278,7 +278,7 @@ For example:
 
 >>(ii) insertions shall be underlined.
 
-***Colour scheme for amendments***
+### ***Colour scheme for amendments***
 
 (3) In addition, the following colours shall be used to indicate the history of the amendments in the specified documents:
 
@@ -292,8 +292,7 @@ For example:
 
 >(e) brown for subsequent rounds of amendments.
 
-***Amendment for third time or more***
-
+### ***Amendment for third time or more***
 
 (4) From the third round of amendments onwards, the amended specified document should comprise two versions of the document, ie —
 
@@ -302,13 +301,14 @@ For example:
 >(b) a version showing the amendments in colour.
 
 (5) Only one amended document consisting of these two versions is required to be filed.
-***Cases to which the requirements in paragraphs (1) and (2) do not apply***
+
+### ***Cases to which the requirements in paragraphs (1) and (2) do not apply***
 
 (6) The directions in sub-paragraph (2)(b) above shall not apply to any Originating Application or summons that has been amended from an application with notice to an application without notice or vice versa.
 
 (7) The directions in sub-paragraph (2)(c) above shall not apply to any originating process, summons or other electronic form that is composed online through the Electronic Filing Service.
 
-***Amendment endorsements on electronic forms***
+### ***Amendment endorsements on electronic forms***
 
 (8) An amended pleading or other document shall be endorsed with a statement that it has been amended, specifying the date on which it was amended and by whom the order (if any) authorising the amendment was made and the date thereof, and if no such order was made, the number of the Rule in the Rules of Court 2021 in pursuance of which the amendment was made. 
 
@@ -326,7 +326,7 @@ For example:
 
 (11) The date of the electronic form shall reflect the date on which the document is amended.
 
-***Amendment of case title to add a party***
+### ***Amendment of case title to add a party***
 
 (12) Where the permission of Court has been obtained to add a party to the main case title of a matter, for example, an intervener or any party that was previously a non-party, the applicant or his solicitor is to file a Request through the Electronic Filing Service to add that specific party to the main case title.
 
@@ -356,20 +356,20 @@ Every affidavit which is filed in conjunction with a summons (but not those file
 
 (2) To facilitate the contacting of lawyers having conduct of an action or charge of a matter by members of the staff of the State Courts, the following information shall be inserted on backing sheets of all cause papers and documents filed in the Registry in the format set out:
 
->>>>“(Name of lawyer(s) having conduct of action or charge of matter.)<br>
->>>>(Name of law firm.)<br>
->>>>(Address of law firm.)
+>>“(Name of lawyer(s) having conduct of action or charge of matter.)<br>
+>>(Name of law firm.)<br>
+>>(Address of law firm.)
 
->>>>Tel:	(Contact telephone number.)<br>
->>>>Fax:	(Contact facsimile number.)<br>
->>>>Ref:	(File reference of law firm.)”<br>
+>>Tel:	(Contact telephone number.)<br>
+>>Fax:	(Contact facsimile number.)<br>
+>>Ref:	(File reference of law firm.)”<br>
 
 (3)	The information is to be inserted as a block near the bottom right-hand corner of the backing sheets.
 
 
 ## 33. Access to case file, inspection and taking copies of documents and conducting searches 
 
-Access by parties to a case file
+### ***Access by parties to a case file***
 
 (1) All parties to a case who are registered users of the Electronic Filing Service may, subject to the provisions of this Practice Direction and any directions of the Court, access the online case file made available through the Electronic Filing Service and may inspect, download soft copies or print hard copies of documents accessible to the parties in the online case file.
 
@@ -383,7 +383,7 @@ Access by parties to a case file
 
 (4) The Registry may require parties to a case to provide supporting documents to substantiate proposed amendments to other details of the electronic case file before the amendment is approved (eg, amendments to add or remove a party to the case have to be supported by an order of Court, and amendments to change the name, gender, identification number, or marital status of a party to the case have to be substantiated by documentary proof).
 
-***File inspection by non-parties***
+### ***File inspection by non-parties***
 
 (5) In order to inspect a case file containing documents that were filed through the Electronic Filing Service, the following procedure should be followed:
 
@@ -415,7 +415,7 @@ Access by parties to a case file
 
 (8) For the avoidance of doubt, a non-party who has obtained approval to inspect a case file may take and retain a soft copy of any document that is available for inspection. All copies of documents taken in the course of inspection should not be used for purposes other than those stated in the Request to inspect. Solicitors shall be responsible for informing their clients of this.
 
-***Obtaining certified true copies of documents***
+### ***Obtaining certified true copies of documents***
 
 (9) Applications to obtain certified true paper copies of documents should be made by way of filing a Request through the Electronic Filing Service, unless the documents concerned have not been filed through the Electronic Filing Service.
 
@@ -433,7 +433,7 @@ Access by parties to a case file
 
 (13) The fees prescribed in the Fourth Schedule to the Rules of Court 2021 will be payable for the above services without prejudice to additional printing charges which may be chargeable by the Court or the service bureau for reproducing the copies in paper form.
 
-***Electronic cause books and registers maintained by the Registry***
+### ***Electronic cause books and registers maintained by the Registry***
 
 (14) Order 26, Rule 3 of the Rules of Court 2021 provides that the Registry must maintain such Court records and other documents that are required by any written law or which the Registrar considers appropriate. In addition to any provisions in the Rules of Court 2021, the Registrar hereby directs that the following information shall be maintained by the Registry:
 
