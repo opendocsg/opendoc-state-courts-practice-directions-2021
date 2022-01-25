@@ -11,30 +11,30 @@ The various courts, offices and counters within the State Courts have different 
 
 >(a)**Mentions Courts** (except Court 4A)
 
->>>>Mondays to Fridays	-	9.00am to 1.00pm and
+>>>>Mondays to Fridays	-	&nbsp;&nbsp;&nbsp;&nbsp;9.00am to 1.00pm and
 
 >>>>>>>>>2.30pm to 5.30pm;
 
 >(b) **Court 4A**
->>>>Mondays to Fridays	-	&nbsp;&nbsp;8.45am to 1.00pm and
+>>>>Mondays to Fridays	-	&nbsp;&nbsp;&nbsp;&nbsp;8.45am to 1.00pm and
 
 >>>>>>>>>2.30pm to 5.30pm;
 
->>>>Saturdays &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.00am to 1.00pm
+>>>>Saturdays &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.00am to 1.00pm
 
 >(c) **Hearing Courts and Chambers**
 
->>>>Mondays to Fridays	-	&nbsp;&nbsp;9.30am to 1.00pm and
+>>>>Mondays to Fridays	-	&nbsp;&nbsp;&nbsp;&nbsp;9.30am to 1.00pm and
 
 >>>>>>>>>2.30pm to 5.30pm
 
 >(d) **Night Courts**
 
->>>>Mondays to Thursdays 	-	&nbsp;&nbsp;5.30pm onwards
+>>>>Mondays to Thursdays 	-	&nbsp;&nbsp;&nbsp;&nbsp;5.30pm onwards
 
 >(e) **Tribunal / Simplified POHA Proceedings**
 
->>>>Mondays to Fridays	-	&nbsp;&nbsp;8.30am to 12.30pm and
+>>>>Mondays to Fridays	-	&nbsp;&nbsp;&nbsp;&nbsp;8.30am to 12.30pm and
 
 >>>>>>>>>2.00pm to 5.30pm
 
