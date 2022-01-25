@@ -1,6 +1,6 @@
 # Part IV: CASE MANAGEMENT AND COURT ALTERNATIVE DISPUTE RESOLUTION
 
-# 34. Overview of case management and court dispute resolution frameworks for civil cases
+## 34. Overview of case management and court dispute resolution frameworks for civil cases
 
 (1) Under the Rules of Court 2021, a Case Conference (“**CC**”) will be fixed for all Originating Claims. CCs will typically be convened around 7 weeks after a Defence is filed in the action, but the Court retains the discretion to convene a CC earlier or later as it deems necessary. 
 
