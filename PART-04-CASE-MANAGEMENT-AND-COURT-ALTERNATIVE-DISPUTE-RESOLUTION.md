@@ -367,7 +367,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (15) A dedicated time slot is set aside for each CDR CC. In order to minimise wastage of time and resources, a request to adjourn a CDR CC	for personal injury claims and NIMA claims shall be made not less than 2 working days before the date of the CDR CC in the manner provided in the relevant correspondence by the State Courts to the parties.  
 
-### ***Sanction for absence of parties ***
+### ***Sanction for absence of parties***
 
 (16) Where no party attends the CDR CC, or if the claimant is absent, the Court may exercise its powers under Order 9, Rule 4(1) of the Rules of Court 2021 to dismiss the action. 
 
