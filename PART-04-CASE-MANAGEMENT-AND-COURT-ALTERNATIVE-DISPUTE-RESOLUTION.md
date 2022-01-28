@@ -437,7 +437,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (3) The objective of the CDR CC is to facilitate early, cost effective and amicable resolution of the claim through the provision of an early neutral evaluation (“**ENE**”) on the merits of the case and judge-directed negotiations undergirded by judge-led case management by taking control of and setting the timelines as well as giving directions for the proceedings.  
 
-### ***First CDR CC ***
+### ***First CDR CC***
 
 (4) As the CDR CC may be conducted by email, or through other electronic means, details concerning the applicable email account or other means of communication with the Court in each case, where applicable, will be provided in the relevant correspondence by the State Courts to the parties. Where it is necessary in the circumstances of the case, the Court retains the discretion to direct the personal attendance of solicitors and parties at the CDR CC. 
 
