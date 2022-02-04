@@ -129,13 +129,13 @@
 
 >**_Claims subject to the simplified process under Order 65 of the Rules of Court 2021_**
 
-6.1. All cases commenced by Originating Claims on or after 1 April 2022 in a Magistrate's Court and any case commenced by Originating Claims on or after 1 April 2022 in a District Court (where parties have filed their consent in [Form 3](#) of Appendix A1 to these Practice Directions for Order 65 to apply) will be subject to the simplified process under Order 65 of the Rules of Court 2021.
+6.1. All cases commenced by Originating Claims on or after 1 April 2022 in a Magistrate's Court and any case commenced by Originating Claims on or after 1 April 2022 in a District Court (where parties have filed their consent in [Form 3](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%203.pdf) of Appendix A1 to these Practice Directions for Order 65 to apply) will be subject to the simplified process under Order 65 of the Rules of Court 2021.
 
 6.2. The requirement for upfront production under Order 65, Rule 2 of the Rules of Court 2021 apply to such cases. 
 
 6.3. These claims will continue to be called for CDR CC within 6 weeks after the filing of the notice of intention to contest. The rest of the guidelines in Appendix C also apply to CDR CCs for these claims.
 
-6.4. If the matter is not disposed of by the Court or settled or otherwise resolved through the actions of the parties in the course of the CDR CC process, the Court may make such orders or give such directions as it thinks fit including directions for the filing and exchange of affidavits of evidence-in-chief, appointment of a single joint expert (for actions commenced in the Magistrates’ Courts) and any other necessary directions to bring the proceedings to trial.
+6.4. If the matter is not disposed of by the Court or settled or otherwise resolved through the actions of the parties in the course of the CDR CC process, the Court may make such orders or give such directions as it thinks fit including directions for the filing and exchange of affidavits of evidence-in-chief, appointment of a single joint expert (for actions commenced in the Magistrates' Courts) and any other necessary directions to bring the proceedings to trial.
 
 6.5. Where any question requiring the evidence of an expert witness arises and parties are unable to agree on the expert to be appointed, the Court may, having regard to the provisions in Order 12, Rule 3(5) of the Rules of Court 2021, appoint the expert for the parties at a CDR CC. Each party is expected to furnish the following for the determination of the single joint expert:
 
@@ -159,7 +159,7 @@ The Court will appoint the single joint expert after hearing submissions on the 
 
 6.7. Solicitors for all the parties seeking an ENE on liability in PIMA and NIMA claims must prepare a submission with relevant supporting documents for the first CDR CC. Except in cases where no corresponding scenario is provided for in the *Motor Accident Claims Online, Motor Accident Guide* and/or other similar guide solicitors must specify in their submissions the scenario(s) that is/are relevant to the parties’ factual accounts of the accident and state their respective proposals on liability.
 
-6.8	In respect of personal injury claims, whether or not an ENE on liability is given, the Court may, at its own discretion in appropriate cases or at solicitors' request, provide an ENE on quantum. Solicitors requesting for an ENE on quantum must obtain each other’s consent before the CDR CC, and submit the duly completed Quantum Neutral Evaluation Form (*ie*, [Form 11](#)) of Appendix A1 to these Practice Directions) to the Court. 
+6.8	In respect of personal injury claims, whether or not an ENE on liability is given, the Court may, at its own discretion in appropriate cases or at solicitors' request, provide an ENE on quantum. Solicitors requesting for an ENE on quantum must obtain each other’s consent before the CDR CC, and submit the duly completed Quantum Neutral Evaluation Form (*ie*, [Form 11](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2011.pdf)) of Appendix A1 to these Practice Directions) to the Court. 
 
 ### 7. **Help and co-operation of insurers in facilitating CDR**
 
