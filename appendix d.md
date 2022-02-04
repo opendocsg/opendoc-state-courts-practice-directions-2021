@@ -16,10 +16,10 @@ The benchmark rates in this Appendix shall apply to claims for rental and loss o
 </thead>
 <tbody>
 <tr>
-<td><b><u>PRIVATE CARS</u></b></td>
+<td colspan="4"><b><u>PRIVATE CARS</u></b></td>
 </tr>
 <tr>
-  <td>Up to 1,600cc <u>and</u> 97kW (130bhp) <br/> [Category A of COE]</td>
+  <td>Up to 1,600cc <u>and</u> 97kW (130bhp) <br/><br/> [Category A of COE]</td>
 <td>100-120</td>
 <td>60-80</td>
 <td rowspan="3">
@@ -33,7 +33,7 @@ The benchmark rates in this Appendix shall apply to claims for rental and loss o
 </tr>
 </tr>
 <tr>
-<td>Above 1,600cc <u>or</u> 97kW (130bhp) <br/> [Category B of COE]</td>
+<td>Above 1,600cc <u>or</u> 97kW (130bhp) <br/><br/> [Category B of COE]</td>
 <td>120-180</td>
 <td>100-120</td>
 </tr>
@@ -43,7 +43,7 @@ The benchmark rates in this Appendix shall apply to claims for rental and loss o
 <td>150-240</td>
 </tr>
 <tr>
-<td><b><u>MOTORCYCLES</u></b></td>
+<td colspan="4"><b><u>MOTORCYCLES</u></b></td>
 </tr>
 <tr>
 <td>[Category D of COE]</td>
@@ -51,7 +51,7 @@ The benchmark rates in this Appendix shall apply to claims for rental and loss o
 <td>20-50</td>
 </tr>
 <tr>
-<td><b><u>TAXIS</u></b></td>
+<td colspan="4"><b><u>TAXIS</u></b></td>
 </tr>
 <tr>
 <td>Normal Taxis</td>
@@ -75,7 +75,7 @@ The benchmark rates in this Appendix shall apply to claims for rental and loss o
 </td>
 </tr>
 <tr>
-<td><b><u>COMMERCIAL OPERATORS</u></b></td>
+<td colspan="4"><b><u>COMMERCIAL OPERATORS</u></b></td>
 </tr>
 <tr>
 <td>Vans + pick ups</td>
@@ -94,7 +94,7 @@ The benchmark rates in this Appendix shall apply to claims for rental and loss o
 <td>90-180</td>
 </tr>
 <tr>
-  <td><b><u>SMRT / <br/> SBS TRANSIT BUSES</u></b></td>
+  <td colspan="4"><b><u>SMRT / SBS TRANSIT BUSES</u></b></td>
 </tr>
 <tr>
   <td>
@@ -108,7 +108,7 @@ The benchmark rates in this Appendix shall apply to claims for rental and loss o
   </td>
   <td rowspan="4">
     <ul>
-      <li>•	Official rates are usually higher but these rates are generally accepted. Rates may change from year to year depending on earnings of the company.</li>
+      <li>Official rates are usually higher but these rates are generally accepted. Rates may change from year to year depending on earnings of the company.</li>
        <li>Exceptions can be made on a case-by-case basis.</li>
     </ul>
   </td>
