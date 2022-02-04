@@ -24,7 +24,7 @@
 
 ### 3. **LETTER OF CLAIM**
  
-3.1. Before commencing proceedings, the claimant must send a letter of claim to the potential defendant. The letter of claim must be prepared in accordance with [Form 34](#) of Appendix A1 to these Practice Directions. 
+3.1. Before commencing proceedings, the claimant must send a letter of claim to the potential defendant. The letter of claim must be prepared in accordance with [Form 34](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2034.pdf) of Appendix A1 to these Practice Directions. 
 
 3.2. The letter of claim should be marked “Private and Confidential. To be opened by addressee only” and it should not be marked “without prejudice”. It must include the following information:
 
@@ -50,7 +50,7 @@
 
 >>(i) if the claimant is seeking monetary damages, he should indicate the quantum sought and as far as possible, refer to relevant case precedents and/or other authorities; and
 
->>(ii) if the claimant is seeking a retraction, clarification, apology and/or undertaking, he should enclose a draft for the potential defendant’s execution (a sample can be found at [Form 35](#) of Appendix A1 to these Practice Directions);
+>>(ii) if the claimant is seeking a retraction, clarification, apology and/or undertaking, he should enclose a draft for the potential defendant’s execution (a sample can be found at [Form 35](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2035.pdf) of Appendix A1 to these Practice Directions);
 
 >(k) the timeframe given for the potential defendant to respond. Save in cases where there is exceptional urgency, the potential defendant should be given at least 14 days to respond. If a shorter timeframe is imposed, the claimant should explain the reasons for the urgency; and
 
@@ -62,9 +62,9 @@
 
 ### 4. **RESPONSE TO LETTER OF CLAIM**
 
-4.1. The potential defendant must provide a response to the claimant within 14 days of the receipt of the letter of claim (or such other time limit as specified in the letter of claim). The response must be in accordance with [Form 36](#) of Appendix A1 to these Practice Directions. 
+4.1. The potential defendant must provide a response to the claimant within 14 days of the receipt of the letter of claim (or such other time limit as specified in the letter of claim). The response must be in accordance with [Form 36](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2036.pdf) of Appendix A1 to these Practice Directions. 
 
-4.2. If the potential defendant is unable to respond substantively within 14 days (or such other time limit as specified), he must acknowledge receipt within the said 14 days (or any shorter time limit specified) and inform the claimant of the length of time required to respond substantively to the claim. A sample acknowledgement can be found at [Form 37](#) of Appendix A1 to these Practice Directions. 
+4.2. If the potential defendant is unable to respond substantively within 14 days (or such other time limit as specified), he must acknowledge receipt within the said 14 days (or any shorter time limit specified) and inform the claimant of the length of time required to respond substantively to the claim. A sample acknowledgement can be found at [Form 37](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2037.pdf) of Appendix A1 to these Practice Directions. 
 
 4.3. The substantive response must contain the following information:
 
@@ -108,7 +108,7 @@
 
 ### 7. **PRE-ACTION PROTOCOL CHECKLIST**
 
-7.1. Where the claimant decides to commence litigation, he must file, together with the statement of claim, a duly completed Pre-Action Protocol Checklist ([Form 38](#) of Appendix A1 to these Practice Directions). 
+7.1. Where the claimant decides to commence litigation, he must file, together with the statement of claim, a duly completed Pre-Action Protocol Checklist ([Form 38](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2038.pdf) of Appendix A1 to these Practice Directions). 
 
 ### 8. **SANCTIONS FOR NON-COMPLIANCE**
 
