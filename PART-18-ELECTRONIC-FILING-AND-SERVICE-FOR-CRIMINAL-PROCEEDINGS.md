@@ -68,7 +68,7 @@ All criminal prosecutions instituted by or on behalf of the Public Prosecutor, a
 
 (3) The Prosecution or defence must notify the party who is unrepresented of its application.
 
- 
+
 ## 121. Documents
 
 (1) Except for the Statement of Facts and Schedule of Offences, all documents must be electronically filed using the Portable Document Format (“**PDF**”).
