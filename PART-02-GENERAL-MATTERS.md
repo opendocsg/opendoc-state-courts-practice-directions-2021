@@ -11,30 +11,30 @@ The various courts, offices and counters within the State Courts have different 
 
 >(a)**Mentions Courts** (except Court 4A)
 
->>>>Mondays to Fridays	-	&nbsp;&nbsp;&nbsp;&nbsp;9.00am to 1.00pm and
+>>>>Mondays to Fridays	-	9.00am to 1.00pm and
 
 >>>>>>>>>2.30pm to 5.30pm;
 
 >(b) **Court 4A**
->>>>Mondays to Fridays	-	&nbsp;&nbsp;&nbsp;&nbsp;8.45am to 1.00pm and
+>>>>Mondays to Fridays	-	&nbsp;&nbsp;8.45am to 1.00pm and
 
 >>>>>>>>>2.30pm to 5.30pm;
 
->>>>Saturdays &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.00am to 1.00pm
+>>>>Saturdays &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.00am to 1.00pm
 
 >(c) **Hearing Courts and Chambers**
 
->>>>Mondays to Fridays	-	&nbsp;&nbsp;&nbsp;&nbsp;9.30am to 1.00pm and
+>>>>Mondays to Fridays	-	&nbsp;&nbsp;9.30am to 1.00pm and
 
 >>>>>>>>>2.30pm to 5.30pm
 
 >(d) **Night Courts**
 
->>>>Mondays to Thursdays 	-	&nbsp;&nbsp;&nbsp;&nbsp;5.30pm onwards
+>>>>Mondays to Thursdays 	-	&nbsp;&nbsp;5.30pm onwards
 
 >(e) **Tribunal / Simplified POHA Proceedings**
 
->>>>Mondays to Fridays	-	&nbsp;&nbsp;&nbsp;&nbsp;8.30am to 12.30pm and
+>>>>Mondays to Fridays	-	&nbsp;&nbsp;8.30am to 12.30pm and
 
 >>>>>>>>>2.00pm to 5.30pm
 
@@ -270,11 +270,11 @@ is required to attend Court (including any hearing conducted by way of live vide
 
 (1) Where moneys are to be paid into Court pursuant to a judgment or order of the Court, the judgment or order must be referenced in the Direction to Accountant-General for Payment In and filed into the case file via the Electronic Filing Service for approval by the Court.
 
-(2) Where a party wishes to furnish security for costs for an appeal filed in the State Courts, the Direction to Account-General for Payment In, which shall be prepared using Form 44 of Appendix A2 to these Practice Directions, must reference the provision in the Rules of Court 2021 pursuant to which the security for costs is furnished.
+(2) Where a party wishes to furnish security for costs for an appeal filed in the State Courts, the Direction to Account-General for Payment In, which shall be prepared using [Form 44](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2044.pdf) of Appendix A2 to these Practice Directions, must reference the provision in the Rules of Court 2021 pursuant to which the security for costs is furnished.
 
 (3) Where moneys are to be paid out of Court pursuant to a judgment or order of the Court, the judgment or order must be referenced in the Direction to Accountant-General for Payment Out and filed into the case file via the Electronic Filing Service for approval by the Court. The following documents (as the case may be) must, where necessary, accompany the filing of the Direction to Accountant-General for Payment Out and be filed into the case file via the Electronic Filing Service for approval by the Court:
 
->(a) the Notice of Acceptance of Money Paid into Court in Form 28 of Appendix A2 to these Practice Directions; or
+>(a) the Notice of Acceptance of Money Paid into Court in [Form 28](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2028.pdf) of Appendix A2 to these Practice Directions; or
 
 >(b) the written consent filed pursuant to Order 18, Rule 12(2) or Order 19, Rule 10(2) of the Rules of Court 2021.
 
