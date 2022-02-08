@@ -2,7 +2,7 @@
 
 ## 96. Applications for Enforcement Orders 
 
-(1) An application for an Enforcement Order (“**EO**”) in Form 38 of Appendix A2 to these Practice Directions to enforce one or more order(s) or judgment(s) shall be made in the following manner: 
+(1) An application for an Enforcement Order (“**EO**”) in [Form 38](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2038.pdf) of Appendix A2 to these Practice Directions to enforce one or more order(s) or judgment(s) shall be made in the following manner: 
 
 >(a) In the case of orders or judgments by a District Court, Protection from Harassment Court (hearing standard proceedings) or Magistrate’s Court, the application shall be made by way of filing a summons without notice, accompanied by a supporting affidavit. 
 
@@ -40,7 +40,7 @@
 
 >(a) after the enforcement applicant gives written notice to the Bailiff not to take further action on the EO, by filing a “Notice Not To Take Further Action on Enforcement Order” through the Electronic Filing Service; or
 
->(b) after any person who has satisfied a judgment debt files a consent of the judgment creditor in Form 39 of Appendix A2 to these Practice Directions to apply to the Court for the satisfaction to be recorded and the Court has ordered satisfaction to be recorded. 
+>(b) after any person who has satisfied a judgment debt files a consent of the judgment creditor in [Form 39](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2039.pdf) of Appendix A2 to these Practice Directions to apply to the Court for the satisfaction to be recorded and the Court has ordered satisfaction to be recorded. 
 
  
 ## 97. Seizure or attachment under an Enforcement Order
@@ -102,7 +102,7 @@
 
 (1) The enforcement applicant may apply for the enforcement respondent to be examined orally in Court or to make an affidavit or both on the enforcement respondent’s properties, by filing an “Application for Examination of Enforcement Respondent” through the Electronic Filing Service. 
 
-(2) A questionnaire in the recommended format as set out in Form 23 or 24 of Appendix A1 to these Practice Directions (whichever is appropriate) shall be annexed to any Order for Examination when the said Order is served on the enforcement respondent. Solicitors may modify the questionnaires according to the circumstances of each case.
+(2) A questionnaire in the recommended format as set out in [Form 23](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2023.pdf) or [Form 24](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2024.pdf) of Appendix A1 to these Practice Directions (whichever is appropriate) shall be annexed to any Order for Examination when the said Order is served on the enforcement respondent. Solicitors may modify the questionnaires according to the circumstances of each case.
 
 (3) If the enforcement respondent or the enforcement respondent’s solicitor(s) is of the view that any question in the questionnaire is unreasonable, he is to contact the enforcement applicant’s solicitor(s) to ascertain whether the issue can be resolved prior to the hearing for examination. 
 
@@ -117,4 +117,4 @@
 
 ## 101. Committal proceedings
 
-An applicant seeking to lift a suspension order under Order 23, Rule 8(3) of the Rules of Court 2021 to enforce committal orders must prepare his or her own Committal Order in accordance with Form 42 in Appendix A2 to these Practice Directions and bring the same to the hearing. 
+An applicant seeking to lift a suspension order under Order 23, Rule 8(3) of the Rules of Court 2021 to enforce committal orders must prepare his or her own Committal Order in accordance with [Form 42](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2042.pdf) in Appendix A2 to these Practice Directions and bring the same to the hearing. 
