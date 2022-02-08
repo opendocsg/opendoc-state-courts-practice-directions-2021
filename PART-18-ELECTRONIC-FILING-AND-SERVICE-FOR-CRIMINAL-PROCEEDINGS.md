@@ -57,7 +57,7 @@ All criminal prosecutions instituted by or on behalf of the Public Prosecutor, a
 
 (5) For CCDCs, the CCDC Checklist is only required to be submitted before the scheduled Court event by the party applying for an adjournment. 
 
-(6) Where the case involves a charge under the Protection from Harassment Act, the Prosecution must file the checklist in Form 31 of Appendix A1 to these Practice Directions on ICMS when all the charges are ready and before the accused person is called upon to indicate his plea.
+(6) Where the case involves a charge under the Protection from Harassment Act, the Prosecution must file the checklist in [Form 31](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2031.pdf) of Appendix A1 to these Practice Directions on ICMS when all the charges are ready and before the accused person is called upon to indicate his plea.
 
 
 ## 120. Applications
@@ -144,4 +144,6 @@ All criminal prosecutions instituted by or on behalf of the Public Prosecutor, a
 
 (2) If a party chooses to file electronically, each judgment must be uploaded separately with the case citation as the document description. 
 
-(3) A hard copy of the case authorities must be provided to the unrepresented litigant.   
+(3) A hard copy of the case authorities must be provided to the unrepresented litigant.
+
+
