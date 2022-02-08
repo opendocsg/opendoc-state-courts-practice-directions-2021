@@ -8,9 +8,9 @@
 
 (2) Where any legislation requires a party to file an Originating Application and the Form is not provided within the legislation, the Originating Application must be filed using either Form 15 (Originating Application) or Form 16 (Originating Application (without Notice)) of Appendix A2 to these Practice Directions.
 
-(3) The parties in Form 15 of Appendix A2 to these Practice Directions shall be stated as “claimant” or “applicant” and “defendant” or “respondent” as the case may be.
+(3) The parties in [Form 15](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2015.pdf) of Appendix A2 to these Practice Directions shall be stated as “claimant” or “applicant” and “defendant” or “respondent” as the case may be.
 
-(4) The party in Form 16 of Appendix A2 to these Practice Directions shall be stated as “claimant” or “applicant”, as the case may be.
+(4) The party in [Form 16](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2016.pdf) of Appendix A2 to these Practice Directions shall be stated as “claimant” or “applicant”, as the case may be.
 
  
 ## 25. Identification numbers and name to be stated in cause papers
