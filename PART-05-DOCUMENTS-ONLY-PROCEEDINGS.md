@@ -38,7 +38,7 @@
 
 (7) The judicial officer conducting the CC (including ADCDR, as the case may be) will discuss with parties the suitability of the case for a “Documents-Only” Civil Trial or Assessment.
 
-(8) Where parties agree to a “Documents-Only” Civil Trial or Assessment, they must personally execute and file the Request Form set out in Form 16 in Appendix A1 to these Practice Directions. Any Request Form that is executed by solicitors on behalf of their clients will not be accepted.
+(8) Where parties agree to a “Documents-Only” Civil Trial or Assessment, they must personally execute and file the Request Form set out in [Form 16](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2016.pdf) in Appendix A1 to these Practice Directions. Any Request Form that is executed by solicitors on behalf of their clients will not be accepted.
 
 (9) In every case, a “Documents-Only” Civil Trial or Assessment will only be ordered if —
 
