@@ -4,20 +4,20 @@
 
 <ul type="*">
 
-<li><a href="./Forms/Appendix%20A1/Form%201.pdf" download>Form 1</a></li>
-<li><a href="./Forms/Appendix%20A1/Form%202.pdf" download>Form 2</a></li>
-<li><a href="./Forms/Appendix%20A1/Form%203.pdf" download>Form 3</a></li>
+<li><a href="./Forms/Appendix%20A1/Form%201.pdf" download>Form 1 : List Of Documents</a></li>
+<li><a href="./Forms/Appendix%20A1/Form%202.pdf" download>Form 2 : Request For CDR Case Conference/Court ADR</a></li>
+<li><a href="./Forms/Appendix%20A1/Form%203.pdf" download>Form 3 : Consent For The Application Of Order 65 (Simplified Process) To Proceedings In The District Court</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%204.pdf" download>Form 4 : Sample Letter Of Offer</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%205.pdf" download>Form 5 : Claimant’s/ Defendant’s List Of Issues In Dispute And List Of Witnesses</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%206.pdf" download>Form 6 : Court Alternative Dispute Resolution (COURT ADR) Form</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%207.pdf" download>Form 7 : Recording Settlement / Entering Judgment By Consent (NIMA/PI/PIMA)</a></li>
-<li><a href="./Forms/Appendix%20A1/Form%208.pdf" download>Form 8</a></li>
-<li><a href="./Forms/Appendix%20A1/Form%209.pdf" download>Form 9</a></li>
+<li><a href="./Forms/Appendix%20A1/Form%208.pdf" download>Form 8 : Opening Statement For Claimant/Defendant (Mediation/Conciliation)</a></li>
+<li><a href="./Forms/Appendix%20A1/Form%209.pdf" download>Form 9 : Opening Statement For Claimant/Defendant (Neutral Evaluation)</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2010.pdf" download>Form 10 : Checklist For Assessment Of Damages Court Dispute Resolution Conferences (“ADCDR”)</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2011.pdf" download>Form 11 : Quantum Neutral Evaluation Form</a></li>
-<li><a href="./Forms/Appendix%20A1/Form%2012.pdf" download>Form 12</a></li>
-<li><a href="./Forms/Appendix%20A1/Form%2013pdf" download>Form 13</a></li>
-<li><a href="./Forms/Appendix%20A1/Form%2014.pdf" download>Form 14</a></li>
+<li><a href="./Forms/Appendix%20A1/Form%2012.pdf" download>Form 12 : Joint Opening Statement (For Personal Injury Claims)</a></li>
+<li><a href="./Forms/Appendix%20A1/Form%2013pdf" download>Form 13 : JOINT OPENING STATEMENT(For Non-Injury Motor Accident Claims)</a></li>
+<li><a href="./Forms/Appendix%20A1/Form%2014.pdf" download>Form 14 : JOINT OPENING STATEMENT (For General Claims excluding Personal Injury and Non-Injury Motor Accident claims)</a></li>
 <li><a href="../Forms/Appendix%20A1/Form%2015.pdf" download>Form 15 : Receiver’s Security by Undertaking</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2016.pdf" download>Form 16 : Request Form For Civil Trial Or Assessment Of Damages To Be Conducted On A Documents-Only Basis</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2017.pdf" download>Form 17 : Request For Production Of Document Filed In Court Or Court’s Records</a></li>
@@ -439,7 +439,7 @@
 >
 >(h) Either party may send the single joint expert written questions relevant to the issues or matters on which the medical report is sought. The questions must be copied to the other party.
 >
->(i) If the claimant objects to the medical experts proposed by the potential defendant for any relevant specialty, both parties are not precluded from instructing medical experts of their own choice for each relevant specialty that the parties are unable to agree upon. Should the potential defendant wish to arrange for the claimant to undergo a medical examination by his own medical expert, the potential defendant shall within **14 days** from the date of receipt of the claimant';s letter of reply, propose a date and time on which the claimant is to undergo the medical examination. The address at which the claimant must present himself for the medical examination must also be provided. However, if the estimated quantum falls within the jurisdiction of a Magistrate's Court, parties are to be aware of Order 12, Rule 3(5) of the Rules of Court 2021 on the appointment of a single joint expert should the matter be unresolved subsequently and proceed for a simplified trial. Both parties shall in any event not unreasonably withhold consent to the appointment of a single joint expert as far as possible.
+>(i) If the claimant objects to the medical experts proposed by the potential defendant for any relevant specialty, both parties are not precluded from instructing medical experts of their own choice for each relevant specialty that the parties are unable to agree upon. Should the potential defendant wish to arrange for the claimant to undergo a medical examination by his own medical expert, the potential defendant shall within **14 days** from the date of receipt of the claimant's letter of reply, propose a date and time on which the claimant is to undergo the medical examination. The address at which the claimant must present himself for the medical examination must also be provided. However, if the estimated quantum falls within the jurisdiction of a Magistrate's Court, parties are to be aware of Order 12, Rule 3(5) of the Rules of Court 2021 on the appointment of a single joint expert should the matter be unresolved subsequently and proceed for a simplified trial. Both parties shall in any event not unreasonably withhold consent to the appointment of a single joint expert as far as possible.
 
 >Substantive reply to claimant
 
@@ -447,7 +447,7 @@
 
 >(a) The reply shall indicate whether the insurer is defending the claim or whether the defendant is defending the claim personally. Reasons for the insurer's decision not to act must be provided.
 >
->(b)Subject to sub-paragraph (d) below, the reply must state the potential defendant's position on the claim on both liability and quantum (_eg_, whether the claim is admitted or denied) or make an offer of settlement. If the claim is not admitted in full, the potential defendant must give reasons and provide a list of documents together with copies of all relevant supporting documents. The potential defendant is to confirm/state the identity of the person driving his vehicle at the time of the accident and provide the driver';s identification number and address if this is not already stated in the Singapore Accident Statement.
+>(b)Subject to sub-paragraph (d) below, the reply must state the potential defendant's position on the claim on both liability and quantum (_eg_, whether the claim is admitted or denied) or make an offer of settlement. If the claim is not admitted in full, the potential defendant must give reasons and provide a list of documents together with copies of all relevant supporting documents. The potential defendant is to confirm/state the identity of the person driving his vehicle at the time of the accident and provide the driver's identification number and address if this is not already stated in the Singapore Accident Statement.
 >
 >(c) Copies of the Singapore Accident Statements and police reports must be provided by the potential defendant and they must be full and complete and must reflect the names, identification numbers and addresses of all persons involved in the accident together with type-written transcripts of their factual accounts of the accident.
 >
