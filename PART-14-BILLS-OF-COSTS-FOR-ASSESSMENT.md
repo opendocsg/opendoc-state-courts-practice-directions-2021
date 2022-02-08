@@ -1,6 +1,6 @@
 # PART XIV: BILLS OF COSTS FOR ASSESSMENT
 
-##102. Basis of assessment
+## 102. Basis of assessment
 
 Every bill of costs to be assessed pursuant to a judgment or order of Court must be filed together with a copy of the judgment or order of Court. Where an order for assessment is not required under the Rules of Court 2021, the bill of costs shall describe succinctly in its heading the basis of assessment. A bill of costs for assessment between a solicitor and his client pursuant to section 120(3) of the Legal Profession Act (Cap 161) must be filed together with a copy of the document signifying the consent of the parties to assessment.
 
