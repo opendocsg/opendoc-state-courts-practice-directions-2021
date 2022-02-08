@@ -4,7 +4,7 @@
 
 ### ***Issuance of Order to Attend Court***
 
-(1) A request for the Registrar to issue an Order to Attend Court pursuant to Order 15, Rule 4(1) of the Rules of Court 2021 is made by filing Form 29 of Appendix A2 to these Practice Directions. An Order to Attend Court is issued when it is sealed by an officer of the Registry.
+(1) A request for the Registrar to issue an Order to Attend Court pursuant to Order 15, Rule 4(1) of the Rules of Court 2021 is made by filing [Form 29](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2029.pdf) of Appendix A2 to these Practice Directions. An Order to Attend Court is issued when it is sealed by an officer of the Registry.
 
 (2) In Tribunal / Simplified POHA Proceedings, an application for a summons to a witness to attend court is to be made by applying for a Summons to Witness on the Community Justice and Tribunals System.
 
@@ -14,7 +14,7 @@
 
 ### ***Request for documents filed in Court***
 
-(4) A request for production of documents filed in Court or the Court’s records pursuant to Order 15, Rule 4(15) is made in Form 17 of Appendix A1 to these Practice Directions.
+(4) A request for production of documents filed in Court or the Court’s records pursuant to Order 15, Rule 4(15) is made in [Form 17](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2017.pdf) of Appendix A1 to these Practice Directions.
 
 
 ## 59. Giving of evidence by person outside Singapore through live video, live television or live audio link in any proceedings (other than proceedings in a criminal matter)
@@ -38,7 +38,7 @@
 
 ## 60. Form of affidavits
 
-(1) Affidavits must be in Form 31 of Appendix A2 to these Practice Directions. In addition to the requirements under Order 15, Rule 19 of the Rules of Court 2021, affidavits should comply with the other requirements set out in this Practice Direction. 
+(1) Affidavits must be in [Form 31](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2031.pdf) of Appendix A2 to these Practice Directions. In addition to the requirements under Order 15, Rule 19 of the Rules of Court 2021, affidavits should comply with the other requirements set out in this Practice Direction. 
 
 ### ***Affidavits filed electronically*** 
 
@@ -166,7 +166,7 @@ Any affidavit or exhibit which does not comply with the Practice Directions cont
 
 (1) For the purposes of Order 15, Rule 16(6) of the Rules of Court 2021, objections to the contents of affidavits of evidence-in-chief must be taken by filing and serving a notice in Form 18 of Appendix A1 to these Practice Directions.
 
-(2) The notice in Form 18 should set out all the objections to the contents of affidavits of evidence-in-chief that will be raised at the hearing of the cause or matter and all the grounds thereof.
+(2) The notice in [Form 18](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2018.pdf) should set out all the objections to the contents of affidavits of evidence-in-chief that will be raised at the hearing of the cause or matter and all the grounds thereof.
 
 (3) An adjudication on the material objected to in affidavits of evidence-in-chief filed pursuant to an order of the Court should only be sought at the trial or hearing of the cause or matter for which the affidavits of evidence-in-chief were filed, and not before. If an adjudication is sought prior to the trial or hearing of the cause or matter, the application for the adjudication will be adjourned to be dealt with at the trial or hearing of the cause or matter, and the applicant may be ordered to pay the costs of the adjournment.
 
@@ -216,7 +216,7 @@ Any affidavit or exhibit which does not comply with the Practice Directions cont
 
 (2) Parties are to comply with Order 12 of the Rules of Court 2021 if they intend to adduce expert evidence for court proceedings.
 
-(3) Parties must furnish to their intended expert witnesses, prior to any appointment, a copy of Form 19 of Appendix A1 to these Practice Directions. 
+(3) Parties must furnish to their intended expert witnesses, prior to any appointment, a copy of [Form 19](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2019.pdf) of Appendix A1 to these Practice Directions. 
 
 
 ## 68. Panel of experts
@@ -239,6 +239,7 @@ Any affidavit or exhibit which does not comply with the Practice Directions cont
 
 
 ## 69. Production of record of hearing
+
 ### ***Digital Audio Recording and Transcription Service for open Court Trials***
 
 (1) Pursuant to Order 15, Rule 11(6), the Registrar directs that there shall be audio recording of all open Court trials begun by Originating Claim through the digital audio recording and transcription service (“**DART**”).
