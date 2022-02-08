@@ -2,7 +2,7 @@
 
 ## 110. Noting of appearances of advocates/prosecutors
 
-(1) To facilitate the linking of advocates and prosecutors to criminal cases registered via the Integrated Case Management System (“**ICMS**”) and the contacting of advocates and prosecutors having conduct of matters in the State Courts, advocates and prosecutors appearing in cases must each fill in a Form 29 of Appendix A1 to these Practice Directions and hand the duly completed form to the Court officer before their cases are mentioned.
+(1) To facilitate the linking of advocates and prosecutors to criminal cases registered via the Integrated Case Management System (“**ICMS**”) and the contacting of advocates and prosecutors having conduct of matters in the State Courts, advocates and prosecutors appearing in cases must each fill in a [Form 29](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2029.pdf) of Appendix A1 to these Practice Directions and hand the duly completed form to the Court officer before their cases are mentioned.
 
 (2) This practice applies to all criminal trials, Mentions Courts (Court 4A and 4B), Special (ie, traffic and coroner’s) and Night Courts (Court 4AN and 4BN).
 
@@ -35,7 +35,7 @@
 
 (2) An application for a copy of any part of the record of any criminal proceedings for a case registered via the Integrated Case Management System (“**ICMS**”) must be made via ICMS under “Request for Court Records”.
 
-(3) Applications for all other cases must be made in Form 30 in Appendix A1 to these Practice Directions.
+(3) Applications for all other cases must be made in [Form 30](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2030.pdf) in Appendix A1 to these Practice Directions.
 
 (4) On approval of an application that has been electronically filed via ICMS, the record of proceedings will be available for online downloading via ICMS or collection depending on the delivery mode chosen.
 
@@ -64,7 +64,7 @@
 
 ### ***Mentioning of cases in Court***
 
-(4) At each mention in Court, counsel are required to complete and submit to the Court a mention slip setting out the case details and counsel’s application, if any. The format of the mention slip is set out in Form 29 of Appendix A1 to these Practice Directions.
+(4) At each mention in Court, counsel are required to complete and submit to the Court a mention slip setting out the case details and counsel’s application, if any. The format of the mention slip is set out in [Form 29](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2029.pdf) of Appendix A1 to these Practice Directions.
 
 (5) The order of mention of cases is managed by the Court officers in Court. Video link cases are generally mentioned ahead of non-video link cases, and cases involving counsel are generally given priority. Counsel who need to have their cases mentioned urgently (for example, to enable them to attend to other Court commitments) should inform the Court accordingly, and accommodation will be made where possible.
 
@@ -93,5 +93,4 @@
 
 (5) If an accused person is not represented by counsel, the presiding Judge will explain to him the process of a witness giving evidence through a video link.
 
-(6) Microphones have been installed for the Judge, prosecutor, counsel, witness, interpreter and the accused who are physically in Court. The oral proceedings, including the testimony of the witness, will be relayed and broadcast through the courtroom speaker system. When a video link session is in progress, prosecutors and counsel are reminded to speak clearly and slowly into the microphones which are placed on the tables. In order to ensure clarity in the audio transmissions, no two persons should speak simultaneously into the microphones.
-
+(6) Microphones have been installed for the Judge, prosecutor, counsel, witness, interpreter and the accused who are physically in Court. The oral proceedings, including the testimony of the witness, will be relayed and broadcast through the courtroom speaker system. When a video link session is in progress, prosecutors and counsel are reminded to speak clearly and slowly into the microphones which are placed on the tables. In order to ensure clarity in the audio transmissions, no two persons should speak simultaneously into the microphones.  
