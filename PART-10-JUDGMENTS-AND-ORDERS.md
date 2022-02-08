@@ -54,11 +54,11 @@ To reduce unnecessary documentation and to expedite proceedings, solicitors are 
 
 (2) A claimant (or a party in an equivalent position) may apply for a default judgment by filing the following documents through the Electronic Litigation System: 
 
->(a) a Request in Form 11 or Form 14 of Appendix A2 to these Practice Directions;
+>(a) a Request in [Form 11](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2011.pdf) or [Form 14](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2014.pdf) of Appendix A2 to these Practice Directions;
 
->(b) a memorandum of service in Form 12 of Appendix A2 to these Practice Directions; 
+>(b) a memorandum of service in [Form 12](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2012.pdf) of Appendix A2 to these Practice Directions; 
 
->(c) a draft judgment in Form 33 of Appendix A2 to these Practice Directions setting out the terms of the judgment to be made against the defendant;
+>(c) a draft judgment in [Form 33](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2033.pdf) of Appendix A2 to these Practice Directions setting out the terms of the judgment to be made against the defendant;
 
 >(d) an itemised Note of Costs, stating the costs and disbursements to which he is entitled (if any); 
 
@@ -146,4 +146,4 @@ To reduce unnecessary documentation and to expedite proceedings, solicitors are 
 
 (8) In accordance with Order 17, Rule 5(2) of the Rules of Court 2021, interest is to be calculated from the date judgment is granted pursuant to the JID Application until the date of payment. 
 
-(9) The total amount of interest payable need not be specified in the draft judgment tendered to the Court as part of the JID Application.  
+(9) The total amount of interest payable need not be specified in the draft judgment tendered to the Court as part of the JID Application. 
