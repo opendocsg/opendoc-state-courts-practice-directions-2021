@@ -19,11 +19,11 @@
 
 (1) Applicants for injunctions prohibiting the disposal of assets and search orders are required to prepare their orders in accordance with the following Forms in Appendix A2 to these Practice Directions:
 
->(a) Form 24:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Injunction prohibiting disposal of assets in Singapore;
+>(a) [Form 24](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2024.pdf):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Injunction prohibiting disposal of assets in Singapore;
 
->(b) Form 25:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Injunction prohibiting disposal of assets worldwide; and
+>(b) [Form 25](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2025.pdf):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Injunction prohibiting disposal of assets worldwide; and
 
->(c) Form 26:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Order to allow entry and search of premises.
+>(c) [Form 26](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2026.pdf):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Order to allow entry and search of premises.
 
 (2) Any departure from the terms of the prescribed Forms should be justified by the applicant in his supporting affidavit(s).
 
@@ -71,6 +71,6 @@
 
 >(b) by or on behalf of the performer of a performance against a network service provider for information relating to the identity of a user of the network service provider’s primary network who is alleged to have made an unauthorised use of the performance in relation to an electronic recording of the material on, or accessible through, the network service provider’s primary network.
 
-(2) An application referred to in paragraph (1) above must be made in Form 15 in Appendix A2 to these Practice Directions. 
+(2) An application referred to in paragraph (1) above must be made in [Form 15](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2015.pdf) in Appendix A2 to these Practice Directions. 
 
 (3) If an applicant requires an urgent hearing date, the onus shall lie on the applicant to attend before the Duty Registrar to highlight the nature of the application and to request that the application be fixed for hearing on an urgent basis. 
