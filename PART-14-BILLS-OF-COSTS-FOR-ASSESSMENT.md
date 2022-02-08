@@ -1,6 +1,6 @@
 # PART XIV: BILLS OF COSTS FOR ASSESSMENT
 
-## 102. Basis of assessment
+##102. Basis of assessment
 
 Every bill of costs to be assessed pursuant to a judgment or order of Court must be filed together with a copy of the judgment or order of Court. Where an order for assessment is not required under the Rules of Court 2021, the bill of costs shall describe succinctly in its heading the basis of assessment. A bill of costs for assessment between a solicitor and his client pursuant to section 120(3) of the Legal Profession Act (Cap 161) must be filed together with a copy of the document signifying the consent of the parties to assessment.
 
@@ -23,9 +23,9 @@ The attention of solicitors is drawn to Rules 2, 10 and 20 and Appendix 1 of Ord
 
 >>(i) A bill of costs drawn up for assessment between one party to proceedings and another should be divided into three separate sections as required by Order 21, Rule 20 of the Rules of Court 2021.
 
->>(ii) Form 25 in Appendix A1 to these Practice Directions should be used for contentious business in respect of work done for a trial or in contemplation of a trial.
+>>(ii) [Form 25](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2025.pdf) in Appendix A1 to these Practice Directions should be used for contentious business in respect of work done for a trial or in contemplation of a trial.
 
->>(iii) Form 26 in Appendix A1 to these Practice Directions should be used for contentious business in respect of, or in contemplation of, work done other than for a trial (such as work done for an appeal or for a specific interlocutory application).
+>>(iii) [Form 26](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2026.pdf) in Appendix A1 to these Practice Directions should be used for contentious business in respect of, or in contemplation of, work done other than for a trial (such as work done for an appeal or for a specific interlocutory application).
 
 >(b) Solicitor-and-own-client bills:
 
@@ -37,7 +37,7 @@ The attention of solicitors is drawn to Rules 2, 10 and 20 and Appendix 1 of Ord
 
 >>>(C) Any agreement between the solicitor and his own client as to the rate to be used to compute the solicitor’s costs should also be indicated in the bill.
 
->>(ii) Form 27 in Appendix A1 to these Practice Directions should be used for non-contentious business.
+>>(ii) [Form 27](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2027.pdf) in Appendix A1 to these Practice Directions should be used for non-contentious business.
 
 >(c) Bills of costs required to be assessed under section 18(3) of the Motor Vehicles (Third Party Risks and Compensation) Act (Cap 189):
 
@@ -82,7 +82,7 @@ the party-and-party bill.
 
 >>(iv) Where no GST registration number has been allocated to a receiving party, a statement to this effect should be included after the GST registration numbers of the solicitors for the receiving parties, or the receiving parties, as the case may be, in the following manner: 
 
->>>*“Solicitors for claimant/solicitors for 1st defendant/2nd defendant/(or as the case may be)*: no GST Reg. No.”
+>>>*“Solicitors for claimant/solicitors for 1st defendant/2nd defendant/(or as the case may be): no GST Reg. No.”*
 
 >(b) Input tax allowable:
 
@@ -142,7 +142,7 @@ the party-and-party bill.
 
 >(a) the respective solicitors shall confer prior to the date appointed for assessment with a view to resolving, limiting or clarifying the items in dispute; and
 
->(b) any objections in principle or as to quantum of the items claimed in a bill of costs must be indicated by the filing and service of a Notice of Dispute in Form 28 in Appendix A1 to these Practice Directions at least 7 days before the date fixed by the Registrar for the assessment of the bill of costs.
+>(b) any objections in principle or as to quantum of the items claimed in a bill of costs must be indicated by the filing and service of a Notice of Dispute in [Form 28](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2028.pdf) in Appendix A1 to these Practice Directions at least 7 days before the date fixed by the Registrar for the assessment of the bill of costs.
 
 (2) The Registrar may, in his discretion, make any appropriate orders as to costs if any of the above directions have not been complied with.
 
@@ -186,4 +186,6 @@ the party-and-party bill.
 
 >(b) for solicitor-and-client bills filed pursuant to the Legal Aid and Advice Act (Cap 160) where the Director of Legal Aid is the respondent, the receiving party and the Director of Legal Aid need not attend at the assessment and the bill will be assessed in their absence, except that if the assessing Registrar disagrees with the quantum of costs agreed on, he may nonetheless direct the attendance of the Director of Legal Aid at a later date.
 
-(4) If solicitor-and-client costs are required to be assessed pursuant to the provisions of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap 189) and the bill of costs claiming the same is referenced to an earlier party-and-party bill filed pursuant to Practice Direction 103(3)(c), the Public Trustee need not attend the assessment of the bill and the party-and-party and solicitor-and-client costs will be assessed in the absence of the Public Trustee. However, the Public Trustee may attend at the assessment if he so wishes, and shall attend if an express direction is made by the assessing Registrar that he should attend in relation to a particular bill of costs.    
+(4) If solicitor-and-client costs are required to be assessed pursuant to the provisions of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap 189) and the bill of costs claiming the same is referenced to an earlier party-and-party bill filed pursuant to Practice Direction 103(3)(c), the Public Trustee need not attend the assessment of the bill and the party-and-party and solicitor-and-client costs will be assessed in the absence of the Public Trustee. However, the Public Trustee may attend at the assessment if he so wishes, and shall attend if an express direction is made by the assessing Registrar that he should attend in relation to a particular bill of costs.
+
+ 
