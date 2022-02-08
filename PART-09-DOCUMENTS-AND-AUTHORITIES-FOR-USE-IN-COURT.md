@@ -87,7 +87,7 @@
 
 (4) The claimant is to prepare the Bundle of Documents referred in Order 9, Rule 25(10) of the Rules of Court 2021 in the following format.
 
->(a) **Volume I** – the last pleading (which incorporates all the previous pleadings), which should also include any further and better particulars to the relevant pleading. The earlier versions of the pleading should not be included. Any particulars to the pleading should be arranged directly below the relevant pleading. The orders of Court given at the Case Conferences which are relevant for the trial should be included at the end. Where directed by the Court, the plaintiff’s solicitors are to prepare a table in the manner and form set out in Form 20 of Appendix A1 to these Practice Directions. The table seeks to provide an overview of the parties’ positions reflected in the last pleading (which incorporates all the previous pleadings). 
+>(a) **Volume I** – the last pleading (which incorporates all the previous pleadings), which should also include any further and better particulars to the relevant pleading. The earlier versions of the pleading should not be included. Any particulars to the pleading should be arranged directly below the relevant pleading. The orders of Court given at the Case Conferences which are relevant for the trial should be included at the end. Where directed by the Court, the plaintiff’s solicitors are to prepare a table in the manner and form set out in [Form 20](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2020.pdf) of Appendix A1 to these Practice Directions. The table seeks to provide an overview of the parties’ positions reflected in the last pleading (which incorporates all the previous pleadings). 
 
 >>For example:
 
@@ -101,9 +101,9 @@
 >>|4      |Further and Better Particulars to the Defence               |        15/12/2019 |
 >>|5      |Order of Court No. DC/ORC 123/2021                          |         12/2/2021 |
 
->(b) **Volume II** – the documents which the parties are relying on at the trial for which authenticity is not in dispute. A table of contents in the manner and form set out in Form 21 in Appendix A1 to these Practice Directions must also be furnished. It is the responsibility of solicitors for all parties to agree and prepare an agreed bundle as soon as possible. 
+>(b) **Volume II** – the documents which the parties are relying on at the trial for which authenticity is not in dispute. A table of contents in the manner and form set out in [Form 21](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2021.pdf) in Appendix A1 to these Practice Directions must also be furnished. It is the responsibility of solicitors for all parties to agree and prepare an agreed bundle as soon as possible. 
 
->(c) **Volume III** – the documents which the parties are relying on at the trial for which authenticity is in dispute. A table of contents in the manner and form set out in Form 22 in Appendix A1 to these Practice Directions must also be furnished.
+>(c) **Volume III** – the documents which the parties are relying on at the trial for which authenticity is in dispute. A table of contents in the manner and form set out in [Form 22](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2022.pdf) in Appendix A1 to these Practice Directions must also be furnished.
 
 (5) The Bundle of Documents shall be created in compliance with Practice Direction 72(6) and be filed and served through the Electronic Filing Service. A hard copy is to be tendered to the Registry by the date directed by the Court, or, in the absence of any direction, no later than 5 working days before the trial date. 
 
@@ -273,5 +273,4 @@
 
 (8) The Court in exercising its discretion as to costs may, where appropriate in the circumstances, take into account the extent to which counsel has complied with this Practice Direction in the citation of judgments before the Court.
 
-(9) It will remain the duty of counsel to draw the attention of the Court to any judgment, not cited by an opponent, that is adverse to the case being advanced.
-
+(9) It will remain the duty of counsel to draw the attention of the Court to any judgment, not cited by an opponent, that is adverse to the case being advanced.  
