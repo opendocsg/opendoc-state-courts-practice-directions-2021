@@ -24,13 +24,13 @@
 
 >(d) The provisions pertaining to matters undergoing the CDR Process are provided for in Practice Directions 38 to 41.
 
-(4) Where, at any CC or other hearing, the Court orders the production of documents, or where production is required by Orders 11 and 65 of the Rules of Court 2021, parties are to utilise Form 1 of Appendix A1 to these Practice Directions. 
+(4) Where, at any CC or other hearing, the Court orders the production of documents, or where production is required by Orders 11 and 65 of the Rules of Court 2021, parties are to utilise [Form 1](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%201.pdf) of Appendix A1 to these Practice Directions. 
 
 ### ***Presumption of Alternative Dispute Resolution for all civil claims***
 
 (5) A “presumption of Alternative Dispute Resolution” applies to all civil claims filed in the State Courts. For this purpose, the Court may refer appropriate matters for parties to attempt the amicable resolution of disputes through one of the Court alternative dispute resolution modalities (“**Court ADR modalities**”) during a CC. 
 
-(6) As the use of Court ADR modalities gives parties the opportunity to resolve their disputes faster and more economically compared to determination at trial, parties who wish to undergo Court ADR at an earlier stage must file a request using Form 2 of Appendix A1 to these Practice Directions.
+(6) As the use of Court ADR modalities gives parties the opportunity to resolve their disputes faster and more economically compared to determination at trial, parties who wish to undergo Court ADR at an earlier stage must file a request using [Form 2](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%202.pdf) of Appendix A1 to these Practice Directions.
 
 (7) The provisions pertaining to matters undergoing Court ADR modalities are provided for in Practice Directions 38, 42 to 44. 
 
@@ -138,7 +138,7 @@
 
 ### ***Scope of the Simplified Process***
 
-(1) All Originating Claims filed in the Magistrate’s Court on or after 1 April 2022, save for personal injury claims, non-injury motor accident claims, claims in negligence (including professional negligence claims) and medical negligence claims, are subject to the Simplified Process under Order 65 of the Rules of Court 2021 (“**Simplified Process**”). Where parties to Originating Claims filed in the District Courts (“**DC**”) on or after 1 April 2022 consent for Order 65 to apply to those proceedings by filing Form 3 of Appendix A1 to these Practice Directions, those proceedings will also be subject to the Simplified Process. Where parties to a DC claim have filed Form 3 consenting to the Simplified Process, the parties shall also separately file a Request through the Electronic Filing Service for a Civil Simplified CC to be convened.
+(1) All Originating Claims filed in the Magistrate’s Court on or after 1 April 2022, save for personal injury claims, non-injury motor accident claims, claims in negligence (including professional negligence claims) and medical negligence claims, are subject to the Simplified Process under Order 65 of the Rules of Court 2021 (“**Simplified Process**”). Where parties to Originating Claims filed in the District Courts (“**DC**”) on or after 1 April 2022 consent for Order 65 to apply to those proceedings by filing [Form 3](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%203.pdf) of Appendix A1 to these Practice Directions, those proceedings will also be subject to the Simplified Process. Where parties to a DC claim have filed Form 3 consenting to the Simplified Process, the parties shall also separately file a Request through the Electronic Filing Service for a Civil Simplified CC to be convened.
 
 ### ***Upfront Discovery***
 
@@ -158,13 +158,13 @@
 
 (4) Parties should, 7 days prior to the first Civil Simplified CC:
 
->(a) in addition to the requirements set out in Order 5, Rule 1(2) of the Rules of Court 2021, exchange proposals in writing using Form 4 of Appendix A1 to these Practice Directions on a “without prejudice save as to costs” basis for the amicable resolution of the matter; and
+>(a) in addition to the requirements set out in Order 5, Rule 1(2) of the Rules of Court 2021, exchange proposals in writing using [Form 4](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%204.pdf) of Appendix A1 to these Practice Directions on a “without prejudice save as to costs” basis for the amicable resolution of the matter; and
 
 >(b) file through the Electronic Filing Service:
 
->>(i) Form 5 of Appendix A1 to these Practice Directions stating the list of issues in the dispute and the list of witnesses they intend to call in support of their case; 
+>>(i) [Form 5](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%205.pdf) of Appendix A1 to these Practice Directions stating the list of issues in the dispute and the list of witnesses they intend to call in support of their case; 
 
->>(ii) the Court ADR Form (Form 6 of Appendix A1 to these Practice Directions) in order to facilitate a considered decision on Court alternative dispute resolution (“**Court ADR**”) options. The Court ADR Form must be read and completed by each party. If there is a solicitor acting for the party, the solicitor must also complete the Form; and
+>>(ii) the Court ADR Form ([Form 6](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%206.pdf) of Appendix A1 to these Practice Directions) in order to facilitate a considered decision on Court alternative dispute resolution (“**Court ADR**”) options. The Court ADR Form must be read and completed by each party. If there is a solicitor acting for the party, the solicitor must also complete the Form; and
 
 >>(iii) the completed checklist enclosed to the Civil Simplified CC Notice.
 
@@ -373,7 +373,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 ### ***Recording of terms of settlement agreement, consent interlocutory judgment or consent judgment***
 
-(17) If the parties reach agreement on the issue of liability for the claim or quantum of damages or both, they must submit Form 7 of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent interlocutory judgment or consent judgment as the case may be.
+(17) If the parties reach agreement on the issue of liability for the claim or quantum of damages or both, they must submit [Form 7](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%207.pdf) of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent interlocutory judgment or consent judgment as the case may be.
 
 ### ***Benchmark rates for cost of rental and loss of use***
 
@@ -424,7 +424,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 ### ***Recording of terms of settlement agreement, consent interlocutory judgment or consent judgment***
 
-(11) If the parties reach agreement on the issue of liability for the claim or quantum of damages or both, they must submit Form 7 of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent interlocutory judgment or consent judgment as the case may be.
+(11) If the parties reach agreement on the issue of liability for the claim or quantum of damages or both, they must submit [Form 7](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%207.pdf) of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent interlocutory judgment or consent judgment as the case may be.
 
 
 ## 41. Claims in negligence (excluding medical negligence, personal injury and non-injury motor accident (“NIMA”) claims)
@@ -459,7 +459,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 ### ***Recording of terms of settlement agreement, consent interlocutory judgment or consent judgment***
 
-(10) If the parties reach agreement on the issue of liability for the claim or quantum of damages or both, they must submit Form 7 of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent interlocutory judgment or consent judgment as the case may be.
+(10) If the parties reach agreement on the issue of liability for the claim or quantum of damages or both, they must submit [Form 7](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%207.pdf) of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent interlocutory judgment or consent judgment as the case may be.
 
 
 ## 42. Mediation
@@ -470,7 +470,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (2) Each party must submit to the Court Dispute Resolution Cluster (“**CDRC**”), and serve on all other parties, a written opening statement not less than 2 working days before the date of the first mediation hearing. 
 
-(3) The opening statement shall be in the format prescribed in Form 8 in Appendix A1 to these Practice Directions. 
+(3) The opening statement shall be in the format prescribed in [Form 8](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%208.pdf) in Appendix A1 to these Practice Directions. 
 
 (4) The opening statement shall be concise and not exceed 10 pages.
 
@@ -499,7 +499,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (2) Each party must submit to the Court Dispute Resolution Cluster (“**CDRC**”), and serve on all other parties, a written opening statement not less than 2 working days before the date of the first conciliation hearing.    
 
-(3) The opening statement shall be in the format prescribed in Form 8 in Appendix A1 to these Practice Directions.  
+(3) The opening statement shall be in the format prescribed in [Form 8](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%208.pdf) in Appendix A1 to these Practice Directions.  
 
 (4) The opening statement shall be concise and not exceed 10 pages. It should contain the suggested solution(s) of the dispute by the party submitting the opening statement.  
 
@@ -540,7 +540,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (5) Each party must submit to the CDRC, and serve on all other parties, a written opening statement not less than 2 working days before the date of the Neutral Evaluation. 
 
-(6) The opening statement shall be in the format prescribed in Form 9 in Appendix A1 to these Practice Directions. 
+(6) The opening statement shall be in the format prescribed in [Form 9](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%209.pdf) in Appendix A1 to these Practice Directions. 
 
 (7) The opening statement shall be concise and not exceed 10 pages.
 
@@ -577,7 +577,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 >(a) All affidavits of evidence-in-chief and/or expert reports which parties intend to rely on at the Assessment of Damages have been duly exchanged at least 5 working days before the filing of the NOAD. 
 
->(b) The Checklist for ADCDR in Form 10 of Appendix A1 to these Practice Directions (“**Checklist**”) has been duly completed by all legally represented parties taking part in the proceedings and filed as a supporting document to the NOAD. (Please note that the claimant need not obtain the endorsement of unrepresented individuals/entities for the purposes of completing the Checklist.)
+>(b) The Checklist for ADCDR in [Form 10](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2010.pdf) of Appendix A1 to these Practice Directions (“**Checklist**”) has been duly completed by all legally represented parties taking part in the proceedings and filed as a supporting document to the NOAD. (Please note that the claimant need not obtain the endorsement of unrepresented individuals/entities for the purposes of completing the Checklist.)
 
 >(c) The NOAD is filed within the timeline for filing as stipulated by the Court in an order or otherwise directed. 
 
@@ -611,7 +611,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (10) At the first ADCDR, all parties should be in a position to assess the relative merits of their cases to facilitate a settlement with all relevant information at their disposal. 
 
-(11) For matters falling within Practice Direction 45(9), parties are to submit to the Court, before the first ADCDR, the Quantum Neutral Evaluation Form in Form 11 of Appendix A1 to these Practice Directions for neutral evaluation of such heads of claim in accordance with Registrar’s Circular No. 13 of 2020. 
+(11) For matters falling within Practice Direction 45(9), parties are to submit to the Court, before the first ADCDR, the Quantum Neutral Evaluation Form in [Form 11](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2011.pdf) of Appendix A1 to these Practice Directions for neutral evaluation of such heads of claim in accordance with Registrar’s Circular No. 13 of 2020. 
 
 (12) Upon submission of a duly completed Quantum Neutral Evaluation Form, the Court will proceed on the hearing date to —
 
@@ -657,11 +657,11 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (20) The format to be used for the Joint Opening Statement shall be as follows:
 
->(a) Joint Opening Statement for Assessment of Damages for Personal Injury Claims (including loss of dependency claims under section 20 of the Civil Law Act) — Form 12 of Appendix A1 to these Practice Directions;
+>(a) Joint Opening Statement for Assessment of Damages for Personal Injury Claims (including loss of dependency claims under section 20 of the Civil Law Act) — [Form 12](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2012.pdf) of Appendix A1 to these Practice Directions;
 
->(b) Joint Opening Statement for Assessment of Damages for Non-Injury Motor Accident Claims — Form 13 of Appendix A1 to these Practice Directions; and
+>(b) Joint Opening Statement for Assessment of Damages for Non-Injury Motor Accident Claims — [Form 13](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2013.pdf) of Appendix A1 to these Practice Directions; and
 
->(c) Joint Opening Statement for Assessment of Damages for General Claims excluding Personal Injury and Non-Injury Motor Accident Claims — Form 14 of Appendix A1 to these Practice Directions.
+>(c) Joint Opening Statement for Assessment of Damages for General Claims excluding Personal Injury and Non-Injury Motor Accident Claims — [Form 14](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2014.pdf) of Appendix A1 to these Practice Directions.
 
 (21) The Forms shall be modified accordingly if there are more than two parties in the proceedings.
 
@@ -838,4 +838,4 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (1) Where the Court appoints a receiver pursuant to Order 13, Rule 9 of the Rules of Court 2021, the Court may give directions on the form and the amount of any security to be given by the receiver for the proper discharge of the receiver’s duties.
 
-(2) Unless otherwise directed, the security must be by guarantee (in a form approved by the Court) or, if the amount for which the security is to be given does not exceed $10,000, by an undertaking in Form 15 of Appendix A1 to these Practice Directions. The guarantee or undertaking must be filed in the Registry.
+(2) Unless otherwise directed, the security must be by guarantee (in a form approved by the Court) or, if the amount for which the security is to be given does not exceed $10,000, by an undertaking in [Form 15](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2015.pdf) of Appendix A1 to these Practice Directions. The guarantee or undertaking must be filed in the Registry.
