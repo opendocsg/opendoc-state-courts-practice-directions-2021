@@ -256,7 +256,7 @@ the applicable electronic filing and case management system shall be eLitigation
 
 >(f) The above information is to be provided in the following format and filed as a supporting document in Portable Document Format on the Community Justice and Tribunals System:
 
->><table class="tg">
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-1wig" rowspan="2">DVD-R Label</th>
