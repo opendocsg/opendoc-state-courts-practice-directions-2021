@@ -76,13 +76,9 @@ the party-and-party bill.
 
 >>(ii) The GST registration numbers, if any, allocated to the receiving parties or to any one or more of them, as the case may be, must also appear at the top left-hand corner of the first page of the bill of cost.
 
->>(iii) The GST registration numbers should be indicated as follows: 
+>>(iii) The GST registration numbers should be indicated as follows: “GST Reg. No. *(solicitors for claimant/solicitors for 1st defendant/2nd defendant/(or as the case may be))*: xxxxx.”
 
->>>“GST Reg. No. *(solicitors for claimant/solicitors for 1st defendant/2nd defendant/(or as the case may be))*: xxxxx.”
-
->>(iv) Where no GST registration number has been allocated to a receiving party, a statement to this effect should be included after the GST registration numbers of the solicitors for the receiving parties, or the receiving parties, as the case may be, in the following manner: 
-
->>>*“Solicitors for claimant/solicitors for 1st defendant/2nd defendant/(or as the case may be): no GST Reg. No.”*
+>>(iv) Where no GST registration number has been allocated to a receiving party, a statement to this effect should be included after the GST registration numbers of the solicitors for the receiving parties, or the receiving parties, as the case may be, in the following manner: *“Solicitors for claimant/solicitors for 1st defendant/2nd defendant/(or as the case may be): no GST Reg. No.”*
 
 >(b) Input tax allowable:
 
@@ -129,7 +125,7 @@ the party-and-party bill.
 
 (1) As the Registrar’s Certificate of costs under Order 21, Rule 25 of the Rules of Court 2021 will be composed online based on the summary in the bill of costs, solicitors should ensure that the information contained in the summary in the bill of costs accurately reflects the information contained in the bill of costs submitted. 
 
-(2) The procedure for preparation of draft orders in Practice Direction 76 shall, mutatis mutandis, apply to the preparation of the Registrar’s certificate
+(2) The procedure for preparation of draft orders in Practice Direction 76 shall, *mutatis mutandis*, apply to the preparation of the Registrar’s certificate
 
 (3) Solicitors should also ensure that the amounts claimed for goods and services tax in the Registrar’s Certificate are correct.
 
