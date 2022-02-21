@@ -12,7 +12,7 @@
 
 (3) Apart from the requirements under Order 22, Rule 2 of the Rules of Court 2021, the summons or originating application should set out all methods of enforcement that the enforcement applicant seeks in the EO. The supporting affidavit filed should also state, among other things, whether the Bailiff is to enforce the various parts of the EO in any particular sequence or whether all or some parts of the EO may be enforced simultaneously. 
 
-(4) For proceedings in the State Courts, where parties furnish the undertaking in Order 22, Rule 2(4)(m) of the Rules of Court 2021, the terms of the undertaking as set out in Order 22, Rule 2(4)(m)(i) to (iii) should be worded to refer to the “Bailiff” rather than the “Sheriff”. The requirements in Order 22, Rule 2(4)(m) of the Rules of Court 2021 shall also apply to an application for a writ of distress under Order 45, Rule 2 of the Rules of Court 2021.
+(4) For proceedings in the State Courts, where parties furnish the undertaking in Order 22, Rule 2(4)(*m*) of the Rules of Court 2021, the terms of the undertaking as set out in Order 22, Rule 2(4)(*m*)(i) to (iii) should be worded to refer to the “Bailiff” rather than the “Sheriff”. The requirements in Order 22, Rule 2(4)(*m*) of the Rules of Court 2021 shall also apply to an application for a writ of distress under Order 45, Rule 2 of the Rules of Court 2021.
 
 (5) Pursuant to Order 22, Rule 6(2) of the Rules of Court 2021, if no sequence of enforcement is indicated in the EO, the Bailiff may carry out the terms of the EO in any order and sequentially or concurrently. In the absence of any indication of sequence in the EO or any direction by the Court, the Bailiff will carry out the terms of the EO sequentially, and shall adopt the following default sequence of enforcement (where applicable):
 
@@ -76,7 +76,7 @@
 
 ## 98. Claims and objections to seizure or attachment
 
-(1) An objector (as defined in Order 22, Rule 10(1) of the Rules of Court 2021) is to give notice of the objection referred to in Order 22, Rule 10(1)(a) of the Rules of Court 2021 by filing a “Notice of Objection” through the Electronic Filing Service.
+(1) An objector (as defined in Order 22, Rule 10(1) of the Rules of Court 2021) is to give notice of the objection referred to in Order 22, Rule 10(1)(*a)* of the Rules of Court 2021 by filing a “Notice of Objection” through the Electronic Filing Service.
 
 (2) If the enforcement applicant disputes the grounds of objection, the enforcement applicant may file a “Notice of Dispute” through the Electronic Filing Service. If the enforcement applicant accepts the grounds of objection, the enforcement applicant must give the notice referred to in Order 22, Rule 10(3) of the Rules of Court 2021 by filing a “Notice of Enforcement Applicant’s Consent to Release” through the Electronic Filing Service.
 
