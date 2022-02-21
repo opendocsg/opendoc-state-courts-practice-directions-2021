@@ -148,7 +148,7 @@ is required to attend Court (including any hearing conducted by way of live vide
 (3) All other counsel, including those who appear on behalf of Senior Counsel, will continue to be heard in the order of their queue numbers in accordance with the current practice in the State Courts, subject to the Judge’s or Registrar’s overriding discretion
 
 
-## 16. Information to be provided in cause papers and documents filed in the State Courts Registry
+## 16. Submissions and examination by leading and assisting counsel
 
 (1) In the event that a party is represented by more than one counsel at a hearing, whether in open Court or in chambers, the making of submissions and the questioning of witnesses may be carried out by one counsel for each party only.
 
