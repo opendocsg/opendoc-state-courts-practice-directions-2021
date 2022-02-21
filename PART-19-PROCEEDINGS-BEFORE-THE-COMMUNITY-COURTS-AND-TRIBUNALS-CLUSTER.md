@@ -240,16 +240,16 @@ the applicable electronic filing and case management system shall be eLitigation
 
 >(b)	The recordings must be in a file format supported by Microsoft Windows 10 and, in the case of video recordings, must use a codec supported by Microsoft Windows 10. For the purpose of proceedings, the following file types are permitted:
 
-<table>
-  <tr>
-    <td> Audio recordings </td>
-    <td> .mp3, .wma, .wav </td>
-  </tr>
-  <tr>
-    <td> Video recordings </td>
-    <td> .flv, .mp4, .mpg, .wmv </td>
-  </tr>
-</table>
+>><table>
+>>  <tr>
+>>    <td> Audio recordings </td>
+>>    <td> .mp3, .wma, .wav </td>
+>>  </tr>
+>>  <tr>
+>>    <td> Video recordings </td>
+>>    <td> .flv, .mp4, .mpg, .wmv </td>
+>>  </tr>
+>></table>
 
 >(c) Each recording must be saved under a file name in the following format:
 
