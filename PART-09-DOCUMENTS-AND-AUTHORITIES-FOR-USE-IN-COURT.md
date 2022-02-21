@@ -229,7 +229,7 @@
 >|--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 >|    <br>(a)  Singapore          |    <br>1.    Singapore Law   Reports (2010 - ) (SLR current series)<br>   <br>2.    Singapore Law   Reports (Reissue) (SLR(R))<br>   <br>3.    Singapore Law   Reports (1965-2009) (SLR 1965-2009)<br>   <br>4.    Malayan Law   Journal (MLJ)                             |
 >|    <br>(b)  Malaysia           |    <br>Malayan Law Journal (MLJ)                                                                                                                                                                                                                                           |
->|    <br>(c)  England & Wales    |    <br>1.    Law Reports   published by the Incorporated Council of Law Reporting (eg, Queen's   Bench (QB), Appeal Cases (AC), Chancery (Ch), Family (Fam), Probate (P))<br>   <br>2.    Weekly Law   Reports (WLR)<br>   <br>3.    All England Law   Reports (All ER)    |
+>|    <br>(c)  England & Wales    |    <br>1.    Law Reports   published by the Incorporated Council of Law Reporting (*eg*, Queen's   Bench (QB), Appeal Cases (AC), Chancery (Ch), Family (Fam), Probate (P))<br>   <br>2.    Weekly Law   Reports (WLR)<br>   <br>3.    All England Law   Reports (All ER)    |
 >|    <br>(d)  Australia          |    <br>1. Commonwealth Law Reports (CLR)<br>   <br>2.    Australian Law   Reports (ALR)                                                                                                                                                                                    |
 >|    <br>(e)  Canada             |    <br>1.    Supreme Court   Reports (SCR)<br>   <br>2.    Federal Court   Reports (FC)<br>   <br>3.    Dominion Law   Reports (DLR)                                                                                                                                       |
 >|    <br>(f)  New Zealand        |    <br>New Zealand Law Reports (NZLR)                                                                                                                                                                                                                                      |
@@ -263,9 +263,7 @@
 
 >>>> *Level of Court* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SGDC (Singapore District Court)
 
->>>>*Sequential Number* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 25 (twenty-fifth written judgment 
-
->>>>>>>>>>>> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; rendered by the District Courts in 2003)
+>>>>*Sequential Number* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 25 (twenty-fifth written judgment rendered by the District Courts in 2003)
 
 >>>>*Paragraph Number(s)* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paragraphs 3 and 8 of the judgment
 
