@@ -52,7 +52,7 @@
 
 >(d) factual basis for any reasonable defences that may be relied on by the opponent;
 
->(e) whether the applicant is aware of any issues relating to jurisdiction, forum non conveniens or service out of Singapore, and. If so, whether any application relating to these issues has been or will be made;
+>(e) whether the applicant is aware of any issues relating to jurisdiction, *forum non conveniens* or service out of Singapore, and. If so, whether any application relating to these issues has been or will be made;
 
 >(f) an undertaking to pay for losses that may be caused to the opponent or other persons by the granting of the orders sought, stating what assets are available to meet that undertaking and to whom the assets belong; and
 
