@@ -162,9 +162,9 @@ the applicable electronic filing and case management system shall be eLitigation
 
 >>(i) any application or order number in respect of which the application is made/document is filed (as the case may be);
 
->>(ii) the Court or Tribunal (eg, Small Claims Tribunal, Employment Claims Tribunal, Community Disputes Resolution Tribunal, Protection from Harassment Court or District Court) in which the application or document is filed; 
+>>(ii) the Court or Tribunal (*eg*, Small Claims Tribunal, Employment Claims Tribunal, Community Disputes Resolution Tribunal, Protection from Harassment Court or District Court) in which the application or document is filed; 
 
->>(iii) the capacity in which the person is filing the application or document (eg, respondent, relevant party or appointed psychiatrist); 
+>>(iii) the capacity in which the person is filing the application or document (*eg*, respondent, relevant party or appointed psychiatrist); 
 
 >>(iv) if an application is being filed, the other party/parties to the application and their capacity as such; and 
 
