@@ -2,7 +2,7 @@
 
 ## 52. “Documents-only” Civil Trials and Assessments of Damages 
 
-(1) This Practice Direction applies when all parties consent and **elect** to apply for a “Documents-Only” trial in civil proceedings (“**Civil Trial**”) or Assessment of Damages (“**Assessment**”).
+(1) This Practice Direction applies when all parties consent and elect to apply for a “Documents-Only” trial in civil proceedings (“**Civil Trial**”) or Assessment of Damages (“**Assessment**”).
 
 (2) “Documents-Only” Civil Trials and Assessments are hearings in which the final determination of the case will be conducted entirely on the basis of —
 
@@ -10,7 +10,7 @@
 
 >(b) documents and/or written submissions.
 
-(3) Where the option of “Documents-Only” Civil Trials and Assessments is requested by parties and approved by the Courts pursuant to the procedures below, except as otherwise specifically provided for in this Practice Direction, **all pre-trial processes/applications and appeal processes/applications** provided for under the Rules of Court 2021 and these Practice Directions for Originating Claims **will continue to apply to the relevant proceedings**.
+(3) Where the option of “Documents-Only” Civil Trials and Assessments is requested by parties and approved by the Courts pursuant to the procedures below, except as otherwise specifically provided for in this Practice Direction, all pre-trial processes/applications and appeal processes/applications provided for under the Rules of Court 2021 and these Practice Directions for Originating Claims will continue to apply to the relevant proceedings.
 
 (4) The types of cases that are designated as suitable for “Documents-Only” Civil Trials or Assessments and the additional steps and procedures that will apply for such cases are set out below.
 
@@ -20,7 +20,7 @@
 
 >(a) cases where the issues in dispute centre on the interpretation of documents;
 
->(b) cases where the cross-examination of witnesses is not necessary either because there are no disputes of fact, and/or the parties agree to admit affidavits of evidence-in-chief without the attendance of the witnesses (eg, due to the simplicity of issues in dispute, the small value of the claim, or any other valid reason);
+>(b) cases where the cross-examination of witnesses is not necessary either because there are no disputes of fact, and/or the parties agree to admit affidavits of evidence-in-chief without the attendance of the witnesses (*eg*, due to the simplicity of issues in dispute, the small value of the claim, or any other valid reason);
 
 >(c) cases where the Court may determine the dispute based on the existing contemporaneous documents without the testimony of witnesses;
 
@@ -30,7 +30,7 @@
 
 ### ***Consideration of the suitability of a “Documents-Only” Civil Trial or Assessment of Damages***
 
-(6) Parties should consider the suitability of their case for a “Documents-Only” Civil Trial or Assessment and counsel should obtain their respective clients’ instructions **prior to attending the following sessions**:
+(6) Parties should consider the suitability of their case for a “Documents-Only” Civil Trial or Assessment and counsel should obtain their respective clients’ instructions prior to attending the following sessions:
 
 >(a) in the case of all civil matters where **all issues concerning liability have not been agreed or determined**, the first Case Conference (“**CC**”) convened under Order 9, Rule 1 of the Rules of Court 2021; or
 
@@ -52,7 +52,7 @@
 
 ### ***Directions for a “Documents-Only” Civil Trial or Assessment***
 
-(11) Where a “Documents-Only” Civil Trial or Assessment is ordered, except as specifically provided herein, there are **no changes to the pre-trial or pre-assessment applications and/or processes** which may be undertaken by parties as provided for under the Rules of Court or Practice Directions until —
+(11) Where a “Documents-Only” Civil Trial or Assessment is ordered, except as specifically provided herein, there are no changes to the pre-trial or pre-assessment applications and/or processes which may be undertaken by parties as provided for under the Rules of Court or Practice Directions until —
 
 >(a) in the case of a “Documents-Only” Civil Trial, the CC convened after the matter has been set down pursuant to Order 9, Rule 25 of the Rules of Court 2021; and/or
 
