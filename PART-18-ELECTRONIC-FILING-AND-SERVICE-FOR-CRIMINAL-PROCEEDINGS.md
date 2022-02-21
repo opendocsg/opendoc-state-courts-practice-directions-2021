@@ -100,7 +100,7 @@ All criminal prosecutions instituted by or on behalf of the Public Prosecutor, a
 
 (6) Parties may obtain directions of the Case Conference or Criminal Case Disclosure Conference Court or trial Court if they are uncertain if the documents should be electronically filed, submitted on a CD-ROM or tendered by hard copy.
 
-(7) The party tendering a document(s) at trial (ie, the prosecution or defence) must provide hard copies of documents at trial to the unrepresented litigant and to the witness.
+(7) The party tendering a document(s) at trial (*ie*, the prosecution or defence) must provide hard copies of documents at trial to the unrepresented litigant and to the witness.
 
 
 ## 123. Documents which cannot be converted into electronic format
@@ -118,11 +118,11 @@ All criminal prosecutions instituted by or on behalf of the Public Prosecutor, a
 
 (2) In a case where the prosecution is initiated via the Integrated Case Management System (“**ICMS**”), and the Prosecution applies for a gag order which is granted by the Court, the following procedures must be carried out by the Prosecution, after the gag order has been granted:
 
->(a) all necessary amendments must be made to the charge that is to be tendered to the Court, so as to remove references to all information (eg, details of a witness) as are necessary to comply with the terms of the gag order that was granted;
+>(a) all necessary amendments must be made to the charge that is to be tendered to the Court, so as to remove references to all information (*eg*, details of a witness) as are necessary to comply with the terms of the gag order that was granted;
 
 >(b) where an amendment is made to the original charge in line with sub-paragraph (a) above, a copy of the charge so amended (hereafter referred to as the “redacted charge”) must be uploaded into the ICMS in the Redacted Document tab in accordance with the steps as set out in Illustration I in Appendix G to these Practice Directions;
 
->(c) in addition to the redacted charge(s), the original (i.e., non-redacted) copy of the charge(s) will continue to be used for the Court proceedings, and must be uploaded into the ICMS in the usual way.
+>(c) in addition to the redacted charge(s), the original (*ie*, non-redacted) copy of the charge(s) will continue to be used for the Court proceedings, and must be uploaded into the ICMS in the usual way.
 
 
 ## 125. Limits on size and number of documents submitted using the Integrated Case Management System
