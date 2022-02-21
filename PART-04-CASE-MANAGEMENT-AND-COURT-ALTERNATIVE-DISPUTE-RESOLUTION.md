@@ -365,7 +365,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 ### ***Request for adjournment of CDR CC***
 
-(15) A dedicated time slot is set aside for each CDR CC. In order to minimise wastage of time and resources, a request to adjourn a CDR CC	for personal injury claims and NIMA claims shall be made not less than 2 working days before the date of the CDR CC in the manner provided in the relevant correspondence by the State Courts to the parties.  
+(15) A dedicated time slot is set aside for each CDR CC. In order to minimise wastage of time and resources, a request to adjourn a CDR CC	for personal injury claims and NIMA claims shall be made *not less than 2 working days* before the date of the CDR CC in the manner provided in the relevant correspondence by the State Courts to the parties.  
 
 ### ***Sanction for absence of parties***
 
@@ -390,7 +390,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (2) Parties in medical negligence claims must comply with the terms of the Protocol for Medical Negligence Claims at Appendix E of these Practice Directions (“**the protocol**”) both in substance and spirit. A breach by one party will not exempt the other parties in the claim from following the protocol.
 
-(3) In exercising its discretion as to costs, the Court will consider compliance with the protocol. If non-compliance with the protocol has led to unnecessary costs, the Court may make, inter alia, the following orders:
+(3) In exercising its discretion as to costs, the Court will consider compliance with the protocol. If non-compliance with the protocol has led to unnecessary costs, the Court may make, *inter alia*, the following orders:
 
 >(a) an order disallowing a defaulting party his costs, or some part of his costs, even if he succeeds;
 
@@ -416,7 +416,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 ### ***Request for adjournment of CDR CC***
 
-(9) A dedicated time slot is set aside for each CDR CC. In order to minimise wastage of time and resources, a request to adjourn a CDR CC	for medical negligence claims shall be made not less than 2 working days before the date of the CDR CC in the manner provided in the relevant correspondence by the State Courts to the parties. 
+(9) A dedicated time slot is set aside for each CDR CC. In order to minimise wastage of time and resources, a request to adjourn a CDR CC	for medical negligence claims shall be made *not less than 2 working days* before the date of the CDR CC in the manner provided in the relevant correspondence by the State Courts to the parties. 
 
 ### ***Sanction for absence of parties*** 
 
@@ -451,7 +451,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 ### ***Request for adjournment of CDR CC***
 
-(8) A dedicated time slot is set aside for each CDR CC. In order to minimise wastage of time and resources, a request to adjourn a CDR CC for claims in negligence shall be made not less than 2 working days before the date of the CDR CC in the manner provided in the relevant correspondence by the State Courts to the parties. 
+(8) A dedicated time slot is set aside for each CDR CC. In order to minimise wastage of time and resources, a request to adjourn a CDR CC for claims in negligence shall be made *not less than 2 working days* before the date of the CDR CC in the manner provided in the relevant correspondence by the State Courts to the parties. 
 
 ### ***Sanction for absence of parties***
 
