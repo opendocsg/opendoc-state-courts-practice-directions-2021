@@ -236,21 +236,28 @@ the applicable electronic filing and case management system shall be eLitigation
 
 >>>[Party’s name]-[CD-R or DVD-R number]
 
->>>Eg: [John Doe]-[CD1]
+>>>*Eg*: [John Doe]-[CD1]
 
 >(b)	The recordings must be in a file format supported by Microsoft Windows 10 and, in the case of video recordings, must use a codec supported by Microsoft Windows 10. For the purpose of proceedings, the following file types are permitted:
 
->>|     Audio recordings    |     .mp3, .wma, .wav          |
->>|-------------------------|-------------------------------|
->>|     Video recordings    |     .flv, .mp4, .mpg, .wmv    |
+<table>
+  <tr>
+    <td> Audio recordings </td>
+    <td> .mp3, .wma, .wav </td>
+  </tr>
+  <tr>
+    <td> Video recordings </td>
+    <td> .flv, .mp4, .mpg, .wmv </td>
+  </tr>
+</table>
 
 >(c) Each recording must be saved under a file name in the following format:
 
 >>>[Date of recording in YYYY-MM-DD format]-[Actual time that recording started in HH-MM-SS (24h) format]-[Short description of what the recording is meant to show] 
 
->>>Eg: [2020-05-18]-[23-11-00]-[Scolding vulgarities]
+>>>*Eg*: [2020-05-18]-[23-11-00]-[Scolding vulgarities]
 
->(d) A transcript of the important part(s) of the audio or video recording must be prepared to state the relevant fact (i.e., the action that is seen, the exact words that are used, the type(s) of sound(s) that are heard). Where the words that are used in the audio or video recording are not in English, a certified translation of the words into English must be provided.
+>(d) A transcript of the important part(s) of the audio or video recording must be prepared to state the relevant fact (*i.e*., the action that is seen, the exact words that are used, the type(s) of sound(s) that are heard). Where the words that are used in the audio or video recording are not in English, a certified translation of the words into English must be provided.
 
 >(e) Screenshots of the important frame(s) in the video recording to support what is stated in the transcript must be provided.
 
