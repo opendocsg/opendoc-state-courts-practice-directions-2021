@@ -153,7 +153,7 @@
 
 (1) All originating processes and summonses filed in civil matters in the State Courts on or after 1 April 2022 shall bear case numbers in the following Format: 
 
-<p align="center">**Description of Court / Type of Application [Case number] / Year filed** </p>
+<p align="center">###Description of Court / Type of Application [Case number] / Year filed </p>
 
 For example:
 
