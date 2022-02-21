@@ -13,14 +13,14 @@
 
 ## 83. Establishment of Electronic Filing Service and appointment of network service provider
 
-### In exercise of the powers conferred by Order 28, Rules 2 and 3 of the Rules of Court 2021, the Registrar, with the approval of the Chief Justice, hereby —
+In exercise of the powers conferred by Order 28, Rules 2 and 3 of the Rules of Court 2021, the Registrar, with the approval of the Chief Justice, hereby —
 
 >>(a) establishes an Electronic Filing Service known as the Integrated Electronic Litigation System or eLitigation and accessible at <https://www.elitigation.sg>; and
 
 >>(b) appoints CrimsonLogic Pte Ltd as the Electronic Filing Service provider for this service.
 
 
-## 84.Appointment of agent to establish service bureau
+## 84. Appointment of agent to establish service bureau
 
 Pursuant to Order 28, Rule 5 of the Rules of Court 2021, the Registrar hereby appoints CrimsonLogic Pte Ltd as an agent to establish a service bureau at 133 New Bridge Road #19 01/02 Chinatown Point Singapore 059413 (or such other address in Singapore as may be deemed suitable).  
 
@@ -66,7 +66,7 @@ Pursuant to Order 28, Rule 5 of the Rules of Court 2021, the Registrar hereby ap
 
 ## 88. Pagination of documents
 
-Every single page of a document must be paginated so that the pagination on the actual document corresponds with the pagination of the document in the electronic case file. This is to facilitate hearings involving documents.
+Every single page of a document *must* be paginated so that the pagination on the actual document corresponds with the pagination of the document in the electronic case file. This is to facilitate hearings involving documents.
 
 
 ## 89. Documents which cannot be converted into an electronic format
@@ -147,7 +147,7 @@ Pursuant to Order 28, Rules 17(4) and 17(6) of the Rules of Court 2021, the Regi
 
 (4) In addition, all letters should be captioned with the number of the cause to which they relate and the names of the parties. For example:
 
->> **“DC/OC [NO. 12345/2021]** (if originating claim) **Between AB** (and **ANOR** or **ORS**, if there are 2 or more claimants, as the case may be) and CD (and ANOR or ORS, if there are 2 or more defendants, as the case may be)”
+>> **“DC/OC [NO. 12345/2021]** (if originating claim) **Between AB** (and **ANOR** or **ORS**, if there are 2 or more claimants, as the case may be) and **CD** (and **ANOR** or **ORS**, if there are 2 or more defendants, as the case may be)”
 
 (5) If the correspondence relates to an interlocutory application or applications, the reference number of that application or those applications should be stated in the caption below the parties' names. For example:
 
