@@ -142,7 +142,7 @@ To reduce unnecessary documentation and to expedite proceedings, solicitors are 
 
 ### ***Post-judgment interest***
 
-(7) In accordance with Order 17, Rule 5(1)(b) of the Rules of Court 2021, where there is no agreement on interest, the interest on any sum (other than costs) payable under a judgment granted pursuant to a JID Application shall be stated as simple interest at 5.33% per year.
+(7) In accordance with Order 17, Rule 5(1)(*b*) of the Rules of Court 2021, where there is no agreement on interest, the interest on any sum (other than costs) payable under a judgment granted pursuant to a JID Application shall be stated as simple interest at 5.33% per year.
 
 (8) In accordance with Order 17, Rule 5(2) of the Rules of Court 2021, interest is to be calculated from the date judgment is granted pursuant to the JID Application until the date of payment. 
 
