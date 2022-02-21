@@ -19,7 +19,7 @@
 
 ## 59. Giving of evidence by person outside Singapore through live video, live television or live audio link in any proceedings (other than proceedings in a criminal matter)
 
-(1)Any application for permission pursuant to section 62A of the Evidence Act (Cap 97) for any person outside Singapore to give evidence by live video, live television or live audio link in any proceedings (other than proceedings in a criminal matter) must be made expeditiously and, in any case, unless the Court otherwise directs, no later than 4 weeks before the date of commencement of the hearing at which the person is to give evidence. The application is to be made by way of a summons with notice with a supporting affidavit.
+(1) Any application for permission pursuant to section 62A of the Evidence Act (Cap 97) for any person outside Singapore to give evidence by live video, live television or live audio link in any proceedings (other than proceedings in a criminal matter) must be made expeditiously and, in any case, unless the Court otherwise directs, no later than 4 weeks before the date of commencement of the hearing at which the person is to give evidence. The application is to be made by way of a summons with notice with a supporting affidavit.
 
 (2) A party applying for permission for any person outside Singapore to give evidence by live video, live television or live audio link must take note of the relevant legislation and requirements in force in the foreign country or territory where the person is giving evidence. Certain countries or territories may impose prohibitions against, restrictions on, or requirements to obtain permission for or relating to, the giving of evidence by a person in that country or territory for court proceedings in a different country or territory. The party applying for permission must make all necessary enquiries, and take all necessary steps, to ensure that the foreign country or territory where the person is giving evidence raises no objection to the giving of evidence in that country or territory, for court proceedings in Singapore. This may be done by any means that the party considers appropriate, including:
 
@@ -60,7 +60,7 @@
 
 >>(iv) the date the affidavit is filed.
 
->(e) Every page of the affidavit (including separators and exhibits) shall be paginated consecutively, and the page number shall be placed at the top right-hand corner of the page.
+>(e) Every page of the affidavit (*including* separators and exhibits) shall be paginated consecutively, and the page number shall be placed at the top right-hand corner of the page.
 
 (3) Where affidavits are printed in hard copy:
 
@@ -75,7 +75,7 @@
 
 ## 61. Non-documentary exhibits to affidavits
 
-(1) Non-documentary exhibits (eg, samples of merchandise) shall be clearly marked with the exhibit mark in such a manner that there is no likelihood of the exhibit being separated or misplaced. The affidavit should indicate that the exhibit (eg, samples of merchandise) is a non-documentary exhibit and refer to it according to the relevant exhibit number.
+(1) Non-documentary exhibits (eg, samples of merchandise) shall be clearly marked with the exhibit mark in such a manner that there is no likelihood of the exhibit being separated or misplaced. The affidavit should indicate that the exhibit (*eg*, samples of merchandise) is a non-documentary exhibit and refer to it according to the relevant exhibit number.
 
 (2) Where the exhibit consists of more than one item each and every such separate item of the exhibits shall similarly be separately marked with enough of the usual exhibit mark to ensure precise identification.
 
@@ -105,7 +105,7 @@
 
 ### ***Pagination***
 
-(3) Every page of the exhibits, including cover pages, dividing sheets or separators between exhibits, shall be consecutively numbered at the top right-hand corner of each page, following from the page numbers of the affidavit (ie, the first page of the exhibits shall take the number following the last sheet of the affidavit’s main text). The page number of the affidavit must correspond to the page number in the Portable Document Format (“**PDF**”) version that is filed through the Electronic Filing Service.
+(3) Every page of the exhibits, including cover pages, dividing sheets or separators between exhibits, shall be consecutively numbered at the top right-hand corner of each page, following from the page numbers of the affidavit (*ie*, the first page of the exhibits shall take the number following the last sheet of the affidavit’s main text). The page number of the affidavit must correspond to the page number in the Portable Document Format (“**PDF**”) version that is filed through the Electronic Filing Service.
 
 ### ***Dividing Sheets***
 
@@ -123,7 +123,7 @@
 
 ### ***Bookmark***
 
-(5) Each exhibit in the affidavit must be separately book-marked in the PDF document that is filed. The names of the book-marks should follow the initials of the deponent of the affidavit, eg, “TAK-1”, “TAK-2”. 
+(5) Each exhibit in the affidavit must be separately book-marked in the PDF document that is filed. The names of the book-marks should follow the initials of the deponent of the affidavit, *eg*, “TAK-1”, “TAK-2”. 
 
 (6) Where a deponent deposes to more than one affidavit with exhibits in the same action, the numbering of the exhibits in all subsequent affidavits shall run consecutively throughout, and not begin again with each affidavit. For instance, where a deponent in his first affidavit has marked two exhibits as “TAK-1” and “TAK-2”, the first exhibit in his second affidavit should be marked as “TAK-3” instead of “TAK-1”.
 
@@ -133,7 +133,7 @@
 
 ### ***Related documents***
 
-(8) Related documents (eg, correspondence and invoices) may be collected together and collectively exhibited as one exhibit arranged in chronological order, beginning with the earliest at the top, paginated in accordance with paragraph (3) above, and the exhibit must have a front page showing the table of contents of the items in the exhibit.
+(8) Related documents (*eg*, correspondence and invoices) may be collected together and collectively exhibited as one exhibit arranged in chronological order, beginning with the earliest at the top, paginated in accordance with paragraph (3) above, and the exhibit must have a front page showing the table of contents of the items in the exhibit.
 
 
 ## 63. Swearing or affirming of affidavits, statutory declarations and oaths
@@ -187,7 +187,7 @@ Any affidavit or exhibit which does not comply with the Practice Directions cont
 
 >(d) the Court/Chamber number;
 
->(e) the stage of the proceedings (eg, fresh or adjourned hearing);
+>(e) the stage of the proceedings (*eg*, fresh or adjourned hearing);
 
 >(f) the date and time of hearing (in the event the hearing is fixed for more than 1 day, the date and time on which the interpreter’s services are required);
 
