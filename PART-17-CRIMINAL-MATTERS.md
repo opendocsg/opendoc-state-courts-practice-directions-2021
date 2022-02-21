@@ -4,7 +4,7 @@
 
 (1) To facilitate the linking of advocates and prosecutors to criminal cases registered via the Integrated Case Management System (“**ICMS**”) and the contacting of advocates and prosecutors having conduct of matters in the State Courts, advocates and prosecutors appearing in cases must each fill in a [Form 29](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2029.pdf) of Appendix A1 to these Practice Directions and hand the duly completed form to the Court officer before their cases are mentioned.
 
-(2) This practice applies to all criminal trials, Mentions Courts (Court 4A and 4B), Special (ie, traffic and coroner’s) and Night Courts (Court 4AN and 4BN).
+(2) This practice applies to all criminal trials, Mentions Courts (Court 4A and 4B), Special (*ie*, traffic and coroner’s) and Night Courts (Court 4AN and 4BN).
 
 (3) The forms will be placed on all bar tables.
 
