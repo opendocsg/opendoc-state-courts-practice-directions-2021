@@ -169,7 +169,7 @@ is required to attend Court (including any hearing conducted by way of live vide
 
 (1) The attire for male advocates and solicitors appearing in open Court will be an ordinary long-sleeved white shirt with a turn-down collar, a tie of a subdued or sober colour, a dark jacket, dark trousers and black or plain coloured shoes.
 
-(2) The attire for female advocates and solicitors appearing in open Court will be a long sleeved white blouse high to the neck, a dark jacket, a dark skirt or dark trousers and black or plain coloured shoes. Conspicuous jewellery or ornaments should not be worn.
+(2) The attire for female advocates and solicitors appearing in open Court will be a long-sleeved white blouse high to the neck, a dark jacket, a dark skirt or dark trousers and black or plain coloured shoes. Conspicuous jewellery or ornaments should not be worn.
 
 (3) When appearing before the Judge or Registrar in chambers, the attire for both men and women will be the same as for open Court.
 
