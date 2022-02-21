@@ -80,7 +80,7 @@ Subject to Practice Direction 36(16), a solicitor appearing in any cause or matt
 >(b) parties have agreed on the order(s) sought.
 
 
-## 13. Amendment of documents
+## 13. Attendance at hearings in chambers
 
 (1) Subject to the provisions of this Practice Direction, members of the public are not entitled to attend hearings in chambers in civil proceedings.
 
