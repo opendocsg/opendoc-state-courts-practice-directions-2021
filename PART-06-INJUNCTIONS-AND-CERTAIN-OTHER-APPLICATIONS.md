@@ -21,9 +21,9 @@
 
 >(a) [Form 24](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2024.pdf):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Injunction prohibiting disposal of assets in Singapore;
 
->(b) [Form 25](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2025.pdf):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Injunction prohibiting disposal of assets worldwide; and
+>(b) [Form 25](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2025.pdf):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Injunction prohibiting disposal of assets worldwide; and
 
->(c) [Form 26](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2026.pdf):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Order to allow entry and search of premises.
+>(c) [Form 26](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2026.pdf):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Order to allow entry and search of premises.
 
 (2) Any departure from the terms of the prescribed Forms should be justified by the applicant in his supporting affidavit(s).
 
