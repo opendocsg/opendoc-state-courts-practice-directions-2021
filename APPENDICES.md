@@ -155,7 +155,7 @@
 
 ### 1. **Application**
 
-1.1. The object of this protocol is to streamline the management of personal injury claims and non-injury motor accident claims ("**PI/NIMA claims**") and promote early settlement of such claims. It prescribes a framework for negotiation and exchange of information before commencing proceedings.
+1.1 The object of this protocol is to streamline the management of personal injury claims and non-injury motor accident claims ("**PI/NIMA claims**") and promote early settlement of such claims. It prescribes a framework for negotiation and exchange of information before commencing proceedings.
  
 1.2. This protocol applies to actions arising out of:
 >(a) all personal injury claims including —
