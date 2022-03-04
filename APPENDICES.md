@@ -157,7 +157,7 @@
 
 1.1 The object of this protocol is to streamline the management of personal injury claims and non-injury motor accident claims ("**PI/NIMA claims**") and promote early settlement of such claims. It prescribes a framework for negotiation and exchange of information before commencing proceedings.
  
-1.2. This protocol applies to actions arising out of:
+1.2 This protocol applies to actions arising out of:
 >(a) all personal injury claims including —
 >
 >>(i) claims arising out of motor accidents and industrial accidents;
@@ -176,41 +176,41 @@
 
 >>(ii) 1 April 2022 in the High Court (and subsequently transferred to the District Courts).
 
-1.3. Any reference to "the potential defendant" in this protocol refers to the potential defendant if he is not claiming under his insurance policy, or to his insurer if he is claiming under his policy.
+1.3 Any reference to "the potential defendant" in this protocol refers to the potential defendant if he is not claiming under his insurance policy, or to his insurer if he is claiming under his policy.
 
-1.4. Any reference to an "insurer" in this protocol refers to an insurer that is known or could be reasonably known to the claimant or his solicitors.
+1.4 Any reference to an "insurer" in this protocol refers to an insurer that is known or could be reasonably known to the claimant or his solicitors.
 
-1.5. This protocol does not affect any privilege that may apply to any communication between the parties that is undertaken in compliance with it.
+1.5 This protocol does not affect any privilege that may apply to any communication between the parties that is undertaken in compliance with it.
 
-1.6. This protocol encourages the parties to jointly select medical experts before commencing proceedings.
+1.6 This protocol encourages the parties to jointly select medical experts before commencing proceedings.
 
 ### 2. **Notice of Accident and Pre-Repair Survey (applicable only to NIMA claims)**
 
-2.1. Time is of the essence in the joint selection of a motor surveyor and the conduct of a pre-repair survey of the claimant's vehicle.
+2.1 Time is of the essence in the joint selection of a motor surveyor and the conduct of a pre-repair survey of the claimant's vehicle.
 
-2.2. Within **3 working days** of the date of the accident, the claimant must send a notice of accident to the potential defendant and his insurer (or where there is a multi-party collision, to each of the potential defendants and his insurer). This is to facilitate a joint survey of the damage to the claimant's vehicle prior to the commencement of repairs ("**pre-repair survey**"). The pre-repair survey will include a survey of the vehicle when its damaged parts are being dismantled prior to the commencement of repairs.
+2.2 Within **3 working days** of the date of the accident, the claimant must send a notice of accident to the potential defendant and his insurer (or where there is a multi-party collision, to each of the potential defendants and his insurer). This is to facilitate a joint survey of the damage to the claimant's vehicle prior to the commencement of repairs ("**pre-repair survey**"). The pre-repair survey will include a survey of the vehicle when its damaged parts are being dismantled prior to the commencement of repairs.
 
-2.3. Within **2 working days** of receipt of the notice of accident, the insurer must reply to the claimant and if he intends to conduct a pre-repair survey of the claimant's damaged vehicle, he must include in his reply a list of at least three motor surveyors.
+2.3 Within **2 working days** of receipt of the notice of accident, the insurer must reply to the claimant and if he intends to conduct a pre-repair survey of the claimant's damaged vehicle, he must include in his reply a list of at least three motor surveyors.
 
-2.4. Within **2 working days** of receipt of the insurer's reply, the claimant must reply to the insurer stating whether he agrees or has any objections to the appointment of any of the motor surveyors proposed by the insurer. The claimant may specifically select one or more of the proposed motor surveyors. If the claimant fails to reply or fails in his reply to object to any of the motor surveyors listed by the insurer within the time stipulated by this paragraph, the claimant is deemed to have agreed to the appointment of any of the motor surveyors listed by the insurer.
+2.4 Within **2 working days** of receipt of the insurer's reply, the claimant must reply to the insurer stating whether he agrees or has any objections to the appointment of any of the motor surveyors proposed by the insurer. The claimant may specifically select one or more of the proposed motor surveyors. If the claimant fails to reply or fails in his reply to object to any of the motor surveyors listed by the insurer within the time stipulated by this paragraph, the claimant is deemed to have agreed to the appointment of any of the motor surveyors listed by the insurer.
 
-2.5. If the claimant objects to all the motor surveyors proposed by the insurer, he must include in his reply a list of at least three motor surveyors whom he considers as suitable to appoint.
+2.5 If the claimant objects to all the motor surveyors proposed by the insurer, he must include in his reply a list of at least three motor surveyors whom he considers as suitable to appoint.
 
-2.6. Within **2 working days** of receipt of the claimant's list of proposed motor surveyors, the insurer must state whether he agrees or has any objections to any of the motor surveyors proposed by the claimant. The insurer may specifically select one or more of the proposed motor surveyors. If the insurer fails to reply or fails in his reply to object to any of the motor surveyors listed by the claimant within the time stipulated by this paragraph, the insurer is deemed to have agreed to the appointment of any of the motor surveyors listed by the claimant.
+2.6 Within **2 working days** of receipt of the claimant's list of proposed motor surveyors, the insurer must state whether he agrees or has any objections to any of the motor surveyors proposed by the claimant. The insurer may specifically select one or more of the proposed motor surveyors. If the insurer fails to reply or fails in his reply to object to any of the motor surveyors listed by the claimant within the time stipulated by this paragraph, the insurer is deemed to have agreed to the appointment of any of the motor surveyors listed by the claimant.
 
-2.7. The motor surveyor mutually agreed upon by both parties or presumed to be agreed by the claimant or the insurer (as the case may be) shall be referred to as the " **single joint expert**". Upon reaching such agreement, the insurer must **immediately** instruct the single joint expert to conduct the pre-repair survey. Alternatively, upon the expiry of the time stipulated for the claimant/insurer to object to the motor surveyors proposed by the other party and he fails to do so, the insurer/claimant must **immediately** instruct the single joint expert to conduct the pre-repair survey. The single joint expert instructed by the insurer or the claimant (as the case may be) must complete the pre-repair survey within **2 working days** of his appointment.
+2.7 The motor surveyor mutually agreed upon by both parties or presumed to be agreed by the claimant or the insurer (as the case may be) shall be referred to as the " **single joint expert**". Upon reaching such agreement, the insurer must **immediately** instruct the single joint expert to conduct the pre-repair survey. Alternatively, upon the expiry of the time stipulated for the claimant/insurer to object to the motor surveyors proposed by the other party and he fails to do so, the insurer/claimant must **immediately** instruct the single joint expert to conduct the pre-repair survey. The single joint expert instructed by the insurer or the claimant (as the case may be) must complete the pre-repair survey within **2 working days** of his appointment.
 
-2.8. If the insurer objects to all the motor surveyors proposed by the claimant, both parties are not precluded from instructing a motor surveyor of their own choice to conduct the pre-repair survey. In such event, the motor surveyor appointed by the insurer must complete the pre-repair survey for the insurer within **2 working days** from the date of the insurer's reply objecting to all the motor surveyors proposed by the claimant. If the quantum of the potential claim is likely to be within the Magistrate's Court limit, parties are to be aware of Order 12, Rule 3(5) of the Rules of Court 2021 on the appointment of a single joint expert should the matter be unresolved subsequently and proceed for a simplified trial. Both parties shall in any event not unreasonably withhold consent to the appointment of a single joint expert as far as possible.
+2.8 If the insurer objects to all the motor surveyors proposed by the claimant, both parties are not precluded from instructing a motor surveyor of their own choice to conduct the pre-repair survey. In such event, the motor surveyor appointed by the insurer must complete the pre-repair survey for the insurer within **2 working days** from the date of the insurer's reply objecting to all the motor surveyors proposed by the claimant. If the quantum of the potential claim is likely to be within the Magistrate's Court limit, parties are to be aware of Order 12, Rule 3(5) of the Rules of Court 2021 on the appointment of a single joint expert should the matter be unresolved subsequently and proceed for a simplified trial. Both parties shall in any event not unreasonably withhold consent to the appointment of a single joint expert as far as possible.
 
-2.9. Once the pre-repair survey has been conducted, the claimant and the insurer shall negotiate and, as far as possible, come to an agreement on the cost of repairing the claimant's vehicle.
+2.9 Once the pre-repair survey has been conducted, the claimant and the insurer shall negotiate and, as far as possible, come to an agreement on the cost of repairing the claimant's vehicle.
 
-2.10. If parties are unable to come to an agreement on the cost of repairing the vehicle after negotiations, the claimant may proceed to repair his vehicle. The insurer may wish to request for an opportunity to conduct a post repair inspection once the vehicle has been repaired. The request should be made as soon as possible and before the repaired vehicle is returned to the claimant.
+2.10 If parties are unable to come to an agreement on the cost of repairing the vehicle after negotiations, the claimant may proceed to repair his vehicle. The insurer may wish to request for an opportunity to conduct a post repair inspection once the vehicle has been repaired. The request should be made as soon as possible and before the repaired vehicle is returned to the claimant.
 
 ### 3. **Letter of Claim**
 
-3.1. The claimant must send a letter of claim to every potential defendant and his insurer.
+3.1 The claimant must send a letter of claim to every potential defendant and his insurer.
 
-3.2. The letter of claim must set out the full particulars of his claim, including the following information:
+3.2 The letter of claim must set out the full particulars of his claim, including the following information:
 
 >(a) a brief statement of all the relevant and available facts on which the claim is based;
 >
@@ -224,20 +224,20 @@
 >
 >(f) the results of any prosecution or Court proceedings arising from the accident and where the claimant has passed away, the State Coroner's verdict, where available.
  
-3.3. In respect of claims where —
+3.3 In respect of claims where —
 >(a)the estimated quantum falls within the jurisdiction of a Magistrate's Court before any apportionment of liability (but excluding interest); and
 >
 >(b) the claimant intends to appoint one or more experts for the purpose of the proceedings,
 	
 >the claimant shall include his proposed list of expert(s) in each relevant specialty in his letter of claim. Where medical experts are involved, the claimant should preferably include the doctors who provided him treatment and/or review of his medical condition in his proposed list.
 
-3.4. In respect of claims where the estimated quantum exceeds the jurisdiction of a Magistrate's Court, the claimant and the potential defendant and/or their respective insurers are encouraged, to follow the procedure set out in paragraph 4.5 of this protocol for the appointment of a mutually agreed expert.
+3.4 In respect of claims where the estimated quantum exceeds the jurisdiction of a Magistrate's Court, the claimant and the potential defendant and/or their respective insurers are encouraged, to follow the procedure set out in paragraph 4.5 of this protocol for the appointment of a mutually agreed expert.
 
-3.5. If the claimant in a personal injury claim is non-resident in Singapore, the letter of claim must further state the date the claimant is required to depart from Singapore once the relevant permits expire or are cancelled and, where available, the date of his intended departure from Singapore. This is to afford the potential defendant or his insurer an opportunity to arrange for a medical examination of the claimant by a medical expert mutually agreed by both parties in each relevant specialty, or where there is no agreement, a medical re-examination of the claimant by a medical expert appointed by the potential defendant or his insurer prior to the claimant's departure from Singapore.
+3.5 If the claimant in a personal injury claim is non-resident in Singapore, the letter of claim must further state the date the claimant is required to depart from Singapore once the relevant permits expire or are cancelled and, where available, the date of his intended departure from Singapore. This is to afford the potential defendant or his insurer an opportunity to arrange for a medical examination of the claimant by a medical expert mutually agreed by both parties in each relevant specialty, or where there is no agreement, a medical re-examination of the claimant by a medical expert appointed by the potential defendant or his insurer prior to the claimant's departure from Singapore.
 
-3.6. The claimant must enclose with his letter of claim a list of all the documents he intends to rely upon or which are known to be adverse relating to both liability and quantum.
+3.6 The claimant must enclose with his letter of claim a list of all the documents he intends to rely upon or which are known to be adverse relating to both liability and quantum.
 
-3.7. The claimant must enclose with his letter of claim a copy each of all supporting documents he intends to rely upon or which are known to be adverse, where available, such as the following:
+3.7 The claimant must enclose with his letter of claim a copy each of all supporting documents he intends to rely upon or which are known to be adverse, where available, such as the following:
 
 >For all PI claims:
 
@@ -297,29 +297,29 @@
 >
 >(j) if, to the claimant's knowledge, the insurer had waived the requirement for pre-repair survey and/or post-repair inspection of the vehicle, he should state so accordingly in the letter of claim.
 
-3.8. Where the claim is for both personal injury and property damage arising out of a motor accident (a " **mixed claim**"), the claimant is to enclose all the documents set out in paragraph 3.7.
+3.8 Where the claim is for both personal injury and property damage arising out of a motor accident (a " **mixed claim**"), the claimant is to enclose all the documents set out in paragraph 3.7.
 
-3.9. The letter of claim must also instruct the potential defendant to immediately pass the letter and the documents to his insurer if he wishes to claim under his insurance policy. If the potential defendant's insurer is known to the claimant, a copy of the letter of claim must be sent directly to the insurer. The letters to any other potential defendants must be copied to the rest of the parties. The letter(s) to the potential defendant(s) must be sent by way of e-mail, fax or certificate of posting. The letters to insurers must be sent by way of e-mail, fax, AR Registered mail or by hand (in which case an acknowledgement of receipt should be obtained).
+3.9 The letter of claim must also instruct the potential defendant to immediately pass the letter and the documents to his insurer if he wishes to claim under his insurance policy. If the potential defendant's insurer is known to the claimant, a copy of the letter of claim must be sent directly to the insurer. The letters to any other potential defendants must be copied to the rest of the parties. The letter(s) to the potential defendant(s) must be sent by way of e-mail, fax or certificate of posting. The letters to insurers must be sent by way of e-mail, fax, AR Registered mail or by hand (in which case an acknowledgement of receipt should be obtained).
 
-3.10. Where it is not possible to comply with any of the above requirements in notifying the relevant persons or providing documents, the claimant must provide his explanation in the letter of claim.
+3.10 Where it is not possible to comply with any of the above requirements in notifying the relevant persons or providing documents, the claimant must provide his explanation in the letter of claim.
 
 ### 4. **Potential Defendant's response**
 
 >Post-repair inspection of vehicle (applicable only to NIMA and mixed claims)
 
-4.1. If the insurer wishes to conduct a post-repair inspection of the claimant's vehicle not conducted previously, he must make the request to the claimant within **7 days** of receipt of the letter of claim. The insurer must state in the letter of request why a post-repair inspection is now sought, especially if the opportunity for pre-repair survey and/or post-repair inspection had earlier been waived.
+4.1 If the insurer wishes to conduct a post-repair inspection of the claimant's vehicle not conducted previously, he must make the request to the claimant within **7 days** of receipt of the letter of claim. The insurer must state in the letter of request why a post-repair inspection is now sought, especially if the opportunity for pre-repair survey and/or post-repair inspection had earlier been waived.
 
-4.2. The claimant must reply within **7 days** of receipt of the letter of request. Where valid reasons are given by the insurer, the parties shall as far as possible, agree on the arrangements for the post-repair inspection so as to facilitate an amicable resolution of the claim as soon as possible.
+4.2 The claimant must reply within **7 days** of receipt of the letter of request. Where valid reasons are given by the insurer, the parties shall as far as possible, agree on the arrangements for the post-repair inspection so as to facilitate an amicable resolution of the claim as soon as possible.
 
 >Acknowledgment letter
 
-4.3. The potential defendant must send an acknowledgement letter to the claimant within **14 days** from the date of receipt of the letter of claim. If he is ready to take a position on the claim, he must state his position. If not, he must first send an acknowledgement.
+4.3 The potential defendant must send an acknowledgement letter to the claimant within **14 days** from the date of receipt of the letter of claim. If he is ready to take a position on the claim, he must state his position. If not, he must first send an acknowledgement.
 
-4.4. If the claimant does not receive an acknowledgement letter from the potential defendant within the requisite **14 days** , he may commence proceedings without any sanction by the Court.
+4.4 If the claimant does not receive an acknowledgement letter from the potential defendant within the requisite **14 days** , he may commence proceedings without any sanction by the Court.
 
 >Joint selection of medical experts (applicable only to PI claims)
 
-4.5. In respect of claims where the estimated quantum falls within the jurisdiction of a Magistrate's Court, within **14 days** of sending the acknowledgment letter to the claimant, the potential defendant shall send a letter to the claimant stating whether he agrees or has any objections to the appointment of any of the medical experts proposed by the claimant for the relevant specialty.
+4.5 In respect of claims where the estimated quantum falls within the jurisdiction of a Magistrate's Court, within **14 days** of sending the acknowledgment letter to the claimant, the potential defendant shall send a letter to the claimant stating whether he agrees or has any objections to the appointment of any of the medical experts proposed by the claimant for the relevant specialty.
 
 >(a) If the potential defendant agrees to any of the proposed medical experts, the claimant shall send the medical expert in each of the relevant specialty a letter of appointment within **14 days**. The medical expert mutually agreed upon by both parties shall be referred to as the "single joint expert".
 >
@@ -341,7 +341,7 @@
 
 >Substantive reply to claimant
 
-4.6. If the potential defendant replies to the claimant with only an acknowledgement of receipt, within **8 weeks** from the date of receipt of the letter of claim or within **14 days** after inspecting the vehicle, whichever is later, the potential defendant must reply to the claimant substantively. For this purpose, the following provisions will apply:
+4.6 If the potential defendant replies to the claimant with only an acknowledgement of receipt, within **8 weeks** from the date of receipt of the letter of claim or within **14 days** after inspecting the vehicle, whichever is later, the potential defendant must reply to the claimant substantively. For this purpose, the following provisions will apply:
 
 >(a) The reply shall indicate whether the insurer is defending the claim or whether the defendant is defending the claim personally. Reasons for the insurer's decision not to act must be provided.
 >
@@ -357,31 +357,31 @@
 >
 >(g) Pending the receipt of the medical report or other medical expert appointed under paragraph 4.5 (as the case may be), the reply must state the potential defendant's position on liability and his preliminary position on quantum or, if he is unable to do so, reserve his position on quantum. Within **14 days** of receipt of the medical report from the medical expert and/or the vehicle inspection report, the potential defendant must state his position on quantum (_eg_, whether the quantum claimed is admitted or denied) or make an offer of settlement.
 
-4.7. If the claimant does not receive the potential defendant's substantive reply to his letter of claim within the requisite timeframe stipulated in paragraph 4.6, he may commence proceedings without any sanction by the Court.
+4.7 If the claimant does not receive the potential defendant's substantive reply to his letter of claim within the requisite timeframe stipulated in paragraph 4.6, he may commence proceedings without any sanction by the Court.
 
-4.8. The letter of claim and the responses are not intended to have the effect of pleadings in an action.
+4.8 The letter of claim and the responses are not intended to have the effect of pleadings in an action.
 
 ### 5. **Counterclaim**
 
-5.1. If the potential defendant has a counterclaim, he must include it in his reply, giving full particulars of the counterclaim together with all relevant supporting documents. If the potential defendant is pursuing his counterclaim separately, _ie_, his insurer is only handling his defence but not his counterclaim, the potential defendant must send a letter to the claimant giving full particulars of the counterclaim together with all relevant supporting documents within **8 weeks** from receipt of the letter of claim. If the potential defendant has already furnished particulars in a separate letter of claim, he need only refer to that letter of claim in his reply.
+5.1 If the potential defendant has a counterclaim, he must include it in his reply, giving full particulars of the counterclaim together with all relevant supporting documents. If the potential defendant is pursuing his counterclaim separately, _ie_, his insurer is only handling his defence but not his counterclaim, the potential defendant must send a letter to the claimant giving full particulars of the counterclaim together with all relevant supporting documents within **8 weeks** from receipt of the letter of claim. If the potential defendant has already furnished particulars in a separate letter of claim, he need only refer to that letter of claim in his reply.
 
-5.2. Where the counterclaim includes a personal injury, paragraphs 3 and 4 above shall apply with the necessary modifications.
+5.2 Where the counterclaim includes a personal injury, paragraphs 3 and 4 above shall apply with the necessary modifications.
 
-5.3. The letter of claim and the responses are not intended to have the effect of pleadings in the action.
+5.3 The letter of claim and the responses are not intended to have the effect of pleadings in the action.
 
 ### 6. **Third parties**
 
-6.1. Where a potential defendant wishes to bring in a third party, he must inform the claimant and the other potential defendants by letter within **14 days** of receipt of the claimant's letter of claim. The potential defendant shall send to the third party and his insurer a letter each setting out full particulars of his claim against the third party together with a copy each of the claimant's letter of claim and all relevant supporting documents within the same period. The potential defendant's letter to the third party must also expressly instruct the third party to immediately pass the letter and the documents to his insurer if he wishes to claim under his insurance policy. This letter must be copied to the claimant.
+6.1 Where a potential defendant wishes to bring in a third party, he must inform the claimant and the other potential defendants by letter within **14 days** of receipt of the claimant's letter of claim. The potential defendant shall send to the third party and his insurer a letter each setting out full particulars of his claim against the third party together with a copy each of the claimant's letter of claim and all relevant supporting documents within the same period. The potential defendant's letter to the third party must also expressly instruct the third party to immediately pass the letter and the documents to his insurer if he wishes to claim under his insurance policy. This letter must be copied to the claimant.
 
-6.2. The protocol set out in paragraphs 2, 3, 4 and 5 is applicable to the third party or, if he is claiming under his insurance policy, his insurer, as though the potential defendant were the claimant and the third party, or his insurer as the case may be, were the potential defendant.
+6.2 The protocol set out in paragraphs 2, 3, 4 and 5 is applicable to the third party or, if he is claiming under his insurance policy, his insurer, as though the potential defendant were the claimant and the third party, or his insurer as the case may be, were the potential defendant.
 
 ### 7. **Fourth parties**
 
-7.1. Paragraph 6 shall apply with the necessary modifications to fourth party proceedings and so on. All correspondences between the parties must be copied to all the other parties involved in the accident.
+7.1 Paragraph 6 shall apply with the necessary modifications to fourth party proceedings and so on. All correspondences between the parties must be copied to all the other parties involved in the accident.
 
 ### 8. **Potential defendant to bear claimant's loss of use arising from pre-repair survey and/or post-repair inspection**
 
-8.1. Where the potential defendant has asked for a pre-repair survey to be conducted, the potential defendant must compensate the claimant for the loss of use of his vehicle computed from the date of receipt of the claimant's notice of accident until the date the claimant is notified in writing that —
+8.1 Where the potential defendant has asked for a pre-repair survey to be conducted, the potential defendant must compensate the claimant for the loss of use of his vehicle computed from the date of receipt of the claimant's notice of accident until the date the claimant is notified in writing that —
 
 >(a) the pre-repair survey is completed and he may proceed to repair his vehicle; or
 >
@@ -389,29 +389,29 @@
 	
 >as the case may be, inclusive of any intervening Saturday, Sunday or public holiday.
 
-8.2. Where the insurer fails to respond to the claimant within **2**** working days **of receipt of the notice of accident as to whether he wishes to carry out or waive a pre-repair survey, the claimant may proceed to repair the vehicle and the potential defendant must compensate the claimant for the loss of use of his vehicle computed over** 2 working days**, inclusive of any intervening Saturday, Sunday or public holiday.
+8.2 Where the insurer fails to respond to the claimant within **2**** working days **of receipt of the notice of accident as to whether he wishes to carry out or waive a pre-repair survey, the claimant may proceed to repair the vehicle and the potential defendant must compensate the claimant for the loss of use of his vehicle computed over** 2 working days**, inclusive of any intervening Saturday, Sunday or public holiday.
 
-8.3. For avoidance of doubt, the compensation payable to the claimant for loss of use in the instances set out in paragraphs 8.1 and 8.2 is additional to any other claim for loss of use which the claimant may bring against the potential defendant.
+8.3 For avoidance of doubt, the compensation payable to the claimant for loss of use in the instances set out in paragraphs 8.1 and 8.2 is additional to any other claim for loss of use which the claimant may bring against the potential defendant.
 
-8.4. Where an insurer requests for post-repair inspection pursuant to paragraph 4.1, the potential defendant must compensate the claimant for the loss of use of his vehicle for the day that the inspection is conducted.
+8.4 Where an insurer requests for post-repair inspection pursuant to paragraph 4.1, the potential defendant must compensate the claimant for the loss of use of his vehicle for the day that the inspection is conducted.
 
 ### 9. **Medical reports**
 
-9.1. Subject to any litigation privilege, any party who receives a medical report from his medical expert or the single joint expert must within **7 days** of its receipt send a copy of the report to every other party. For the avoidance of doubt, these are medical reports which the parties intend to rely on for the purpose of litigation and neither party need disclose to the other medical reports (if any) that he is not relying on.
+9.1 Subject to any litigation privilege, any party who receives a medical report from his medical expert or the single joint expert must within **7 days** of its receipt send a copy of the report to every other party. For the avoidance of doubt, these are medical reports which the parties intend to rely on for the purpose of litigation and neither party need disclose to the other medical reports (if any) that he is not relying on.
 
 ### 10. **Other information and documents**
 
-10.1. Any party who subsequently receives any information or document they intend to rely upon or which are known to be adverse that was previously unknown or unavailable must, within **7 days** of the receipt, provide every other party with that information or document.
+10.1 Any party who subsequently receives any information or document they intend to rely upon or which are known to be adverse that was previously unknown or unavailable must, within **7 days** of the receipt, provide every other party with that information or document.
 
 ### 11. **Negotiation**
 
-11.1. After all the relevant information and documents have been exchanged or as soon as it is practicable, the parties shall negotiate with a view to settling the matter at the earliest opportunity on both liability and quantum. Litigation should not be commenced prematurely if there are reasonable prospects for a settlement.
+11.1 After all the relevant information and documents have been exchanged or as soon as it is practicable, the parties shall negotiate with a view to settling the matter at the earliest opportunity on both liability and quantum. Litigation should not be commenced prematurely if there are reasonable prospects for a settlement.
 
 11.2. If, after reasonable effort has been made to settle the matter, but there are no reasonable prospects of settlement after a time period of **at least 8 weeks** from the date of receipt of the letter of claim, save where paragraphs 4.4 or 4.7 apply, the claimant may commence legal action after giving **10 clear days'** notice, by e-mail, fax or certificate of posting to the potential defendant and his insurer of his intention to proceed with an originating claim. He must also inform the potential defendant of the names of all the parties he is suing. No such notice is required if the claimant had earlier given notice that the offer being made was final, and legal proceedings would be commenced in the event that the potential defendant did not accept the offer within the specified timeframe.
 
 ### 12. **Interim payment**
 
-12.1. The claimant may in his letter of claim or in a letter sent at any time subsequent thereto, seek one or more pre-action interim payment(s) of damages from the potential defendant. The claimant must state in his letter —
+12.1 The claimant may in his letter of claim or in a letter sent at any time subsequent thereto, seek one or more pre-action interim payment(s) of damages from the potential defendant. The claimant must state in his letter —
 
 >(a) the amount he is seeking as interim payment; or
 >
@@ -419,14 +419,14 @@
 
 >and provide any supporting documents which have not already been furnished to the potential defendant.
 
-12.2. The potential defendant must reply to the claimant within **14 days** of receipt of the letter, stating whether or not the request for interim payment is acceded to and the amount offered. Reasons must be given in the reply if the request is not acceded to in full. Unless the claimant states otherwise, any sum which the potential defendant offers as an interim payment, regardless as to whether the request is acceded to in full or in part, shall be paid to the claimant within **28 days** of the potential defendant's reply.
+12.2 The potential defendant must reply to the claimant within **14 days** of receipt of the letter, stating whether or not the request for interim payment is acceded to and the amount offered. Reasons must be given in the reply if the request is not acceded to in full. Unless the claimant states otherwise, any sum which the potential defendant offers as an interim payment, regardless as to whether the request is acceded to in full or in part, shall be paid to the claimant within **28 days** of the potential defendant's reply.
 
 ### 13. **Costs Guidelines**
-13.1. Where parties have settled both liability and quantum before any action is commenced, a claimant who has sought legal representation to put forward his claim will have incurred costs.
+13.1 Where parties have settled both liability and quantum before any action is commenced, a claimant who has sought legal representation to put forward his claim will have incurred costs.
 
 >NIMA claims
 
-13.2. A guide to the costs to be paid is as follows:
+13.2 A guide to the costs to be paid is as follows:
 
 >| **Sum settled** **(excluding interest if any)** | **Costs allowed** **(exclusive of disbursements)** |
 >| --- | --- |
@@ -436,35 +436,35 @@
 
 >PI claims
 
-13.1. As a guide, where the sum settled (excluding interest if any) is less than $20,000, the pre-trial costs should be between $1,500 and $2,500, exclusive of disbursements.
+13.1 As a guide, where the sum settled (excluding interest if any) is less than $20,000, the pre-trial costs should be between $1,500 and $2,500, exclusive of disbursements.
 
 ### 14. **Costs sanctions in relation to pre-repair survey and post repair inspection**
 
-14.1. Where the claimant has without good reason repaired or caused repairs to be carried out to his vehicle without first complying with paragraph 2 of this protocol in relation to pre-repair survey, then on account of the omission, the Court may impose costs sanctions against the claimant.
+14.1 Where the claimant has without good reason repaired or caused repairs to be carried out to his vehicle without first complying with paragraph 2 of this protocol in relation to pre-repair survey, then on account of the omission, the Court may impose costs sanctions against the claimant.
 
-14.2. Where the defendant disputes the damage to the claimant's vehicle and after the commencement of Court proceedings requests for an inspection of the claimant's vehicle without good reason, the Court may impose costs sanctions against the defendant.
+14.2 Where the defendant disputes the damage to the claimant's vehicle and after the commencement of Court proceedings requests for an inspection of the claimant's vehicle without good reason, the Court may impose costs sanctions against the defendant.
 
 ### 15. **Exceptions**
 
-15.1. The Court will not impose sanctions where there are good reasons for non-compliance with the provisions of this protocol, for example attempt(s) made to resolve the claim through other alternative dispute resolution forums.
+15.1 The Court will not impose sanctions where there are good reasons for non-compliance with the provisions of this protocol, for example attempt(s) made to resolve the claim through other alternative dispute resolution forums.
 
-15.2. The protocol prescribes the timelines to be given to a potential defendant to investigate and respond to a claim before proceedings are commenced. This may not always be possible where a claimant only consults his lawyer close to the end of any relevant limitation period. In such a case, the claimant must give as much notice of the intention to commence proceedings as practicable and the parties shall consider whether the Court might be invited to extend time for service of the pleadings or alternatively, to stay the proceedings while the requirements of this protocol are being complied with.
+15.2 The protocol prescribes the timelines to be given to a potential defendant to investigate and respond to a claim before proceedings are commenced. This may not always be possible where a claimant only consults his lawyer close to the end of any relevant limitation period. In such a case, the claimant must give as much notice of the intention to commence proceedings as practicable and the parties shall consider whether the Court might be invited to extend time for service of the pleadings or alternatively, to stay the proceedings while the requirements of this protocol are being complied with.
 
 ### 16. **Early agreement on liability**
 
-16.1. Where parties have agreed on the issue of liability prior to the commencement of proceedings and wish to issue an originating claim in order for damages to be assessed, the claimant must file an originating claim endorsed with a simplified statement of claim. If a notice of intention to contest is not filed and served after the originating claim is served, the claimant may, in the manner prescribed under the Rules of Court 2021, proceed to enter default interlocutory judgment and take out an application for directions for the assessment of damages.
+16.1 Where parties have agreed on the issue of liability prior to the commencement of proceedings and wish to issue an originating claim in order for damages to be assessed, the claimant must file an originating claim endorsed with a simplified statement of claim. If a notice of intention to contest is not filed and served after the originating claim is served, the claimant may, in the manner prescribed under the Rules of Court 2021, proceed to enter default interlocutory judgment and take out an application for directions for the assessment of damages.
 
 ### 17. **Lodgement of claims below $3,000 with FIDReC** 
 
-17.1. This paragraph applies to NIMA claims where the damages claimed before apportionment of liability is below $3,000 excluding survey fees, interests, costs and disbursements.
+17.1 This paragraph applies to NIMA claims where the damages claimed before apportionment of liability is below $3,000 excluding survey fees, interests, costs and disbursements.
 
-17.2. Unless the case falls within one or more of the exceptions listed in paragraph 18 of this protocol, the claimant shall in every case referred to in paragraph 17.1, lodge his claim with FIDReC at first instance. Upon lodgement, the claim shall be dealt with by FIDReC in accordance with its Terms of Reference relating to the management and resolution of such claims.
+17.2 Unless the case falls within one or more of the exceptions listed in paragraph 18 of this protocol, the claimant shall in every case referred to in paragraph 17.1, lodge his claim with FIDReC at first instance. Upon lodgement, the claim shall be dealt with by FIDReC in accordance with its Terms of Reference relating to the management and resolution of such claims.
 
-17.3. Notwithstanding that the claim is to be lodged with FIDReC, the claimant and potential defendant shall comply with the requirements of this protocol. In this connection, references to the "Court", originating claim/Court action and proceedings in this protocol shall refer to "FIDReC", the lodgement of a claim at FIDReC and proceedings at FIDReC respectively.
+17.3 Notwithstanding that the claim is to be lodged with FIDReC, the claimant and potential defendant shall comply with the requirements of this protocol. In this connection, references to the "Court", originating claim/Court action and proceedings in this protocol shall refer to "FIDReC", the lodgement of a claim at FIDReC and proceedings at FIDReC respectively.
 
 ### 18. **Exceptions to FIDReC proceedings**
 
-18.1. In any case where –
+18.1 In any case where –
 
 >(a) the claimant is a body corporate or partnership;
 >
@@ -486,7 +486,7 @@
 
 ### 19. **Costs sanctions for non-compliance with requirement to lodge the claim/continue with proceedings at FIDReC**
 
-19.1. Where the claimant in a case to which paragraph 17.1 of this protocol applies, has commenced an action in Court, the Court in exercising its discretion as to costs, shall have regard to the following, where applicable:
+19.1 Where the claimant in a case to which paragraph 17.1 of this protocol applies, has commenced an action in Court, the Court in exercising its discretion as to costs, shall have regard to the following, where applicable:
 
 >(a) commencement of Court proceedings before adjudication of the claim by FIDReC;
 >
@@ -494,48 +494,48 @@
 >
 >(c) the claimant has failed to obtain a judgment that is more favourable than the award made at the adjudication of the claim by FIDReC.
 
-19.2. The Court will not impose sanctions on the claimant where there are good reasons for non-compliance, for example attempt(s) made to resolve the claim through other alternative dispute resolution forums.
+19.2 The Court will not impose sanctions on the claimant where there are good reasons for non-compliance, for example attempt(s) made to resolve the claim through other alternative dispute resolution forums.
 
-19.3. Where the claimant has commenced Court proceedings before adjudication of the claim by FIDReC, the Court may stay the action to enable the claimant to lodge his claim and/or complete the proceedings at FIDReC.
+19.3 Where the claimant has commenced Court proceedings before adjudication of the claim by FIDReC, the Court may stay the action to enable the claimant to lodge his claim and/or complete the proceedings at FIDReC.
 
 ### 20. **Application of the Limitation Act (Cap 163)**
 
-20.1. For the avoidance of doubt, the lodgement of a claim and/or continuation of proceedings at FIDReC shall not be construed to operate as a stay of the time limited for the doing of any act as prescribed by the Limitation Act (Cap 163).
+20.1 For the avoidance of doubt, the lodgement of a claim and/or continuation of proceedings at FIDReC shall not be construed to operate as a stay of the time limited for the doing of any act as prescribed by the Limitation Act (Cap 163).
 
-20.2. Should Court proceedings be commenced to prevent the operation of the time bar under the Limitation Act (Cap 163), the Court may nevertheless stay the action thereafter to enable the claimant to lodge his claim and/or complete the proceedings at FIDReC.
+20.2 Should Court proceedings be commenced to prevent the operation of the time bar under the Limitation Act (Cap 163), the Court may nevertheless stay the action thereafter to enable the claimant to lodge his claim and/or complete the proceedings at FIDReC.
 
 
 ## APPENDIX C: Guidelines for Court Dispute Resolution Case Conferences for Personal Injury Claims and Non-Injury Motor Accident Claims
 
 ### 1. **Introduction**
 
-1.1. Pursuant to Practice Direction 39, all personal injury claims and non-injury motor accident ("**NIMA**") claims are to proceed for a Court Dispute Resolution Case Conference ("**CDR CC**") within 6 weeks after the notice of intention to contest has been filed. The CDR CC will be conducted through the process set out in the State Courts Registrar’s Circular No. 2 of 2020. 
+1.1 Pursuant to Practice Direction 39, all personal injury claims and non-injury motor accident ("**NIMA**") claims are to proceed for a Court Dispute Resolution Case Conference ("**CDR CC**") within 6 weeks after the notice of intention to contest has been filed. The CDR CC will be conducted through the process set out in the State Courts Registrar’s Circular No. 2 of 2020. 
 
-1.2. Early neutral evaluation ("**ENE**") will be used in the CDR CC for these cases. This Appendix sets out the guidelines to be followed by solicitors. 
+1.2 Early neutral evaluation ("**ENE**") will be used in the CDR CC for these cases. This Appendix sets out the guidelines to be followed by solicitors. 
 
 ### 2. **Application**
 
-2.1. The guidelines in this Appendix shall apply to all Originating Claims for personal injury claims and NIMA claims that are filed in Court on or after 1 April 2022 and to all motor accident cases (whether or not involving any claim for personal injuries) and actions for personal injuries arising out of an industrial accident that are commenced in the High Court on or after 1 April 2022 and transferred to the District Courts.
+2.1 The guidelines in this Appendix shall apply to all Originating Claims for personal injury claims and NIMA claims that are filed in Court on or after 1 April 2022 and to all motor accident cases (whether or not involving any claim for personal injuries) and actions for personal injuries arising out of an industrial accident that are commenced in the High Court on or after 1 April 2022 and transferred to the District Courts.
 
 ### 3. **Date of CDR CC**
 
-3.1. As stated in Practice Direction 39(12), solicitors in these cases will receive a notice from the Court fixing the first CDR CC.
+3.1 As stated in Practice Direction 39(12), solicitors in these cases will receive a notice from the Court fixing the first CDR CC.
  
-3.2. A request for an adjournment of a CDR CC shall be made in the manner provided in the notice from the Court fixing the CDR CC.
+3.2 A request for an adjournment of a CDR CC shall be made in the manner provided in the notice from the Court fixing the CDR CC.
  
-3.3. The applicant must obtain the consent of the other parties to the adjournment and list the dates that are unsuitable for all the parties. 
+3.3 The applicant must obtain the consent of the other parties to the adjournment and list the dates that are unsuitable for all the parties. 
 
-3.4. The request must be made *not less than 2 working days* before the date of the CDR CC. An adjournment of a CDR CC will be granted only for good reason.
+3.4 The request must be made *not less than 2 working days* before the date of the CDR CC. An adjournment of a CDR CC will be granted only for good reason.
 
 ### 4. **Attendance at CDR CC**
 
-4.1. The Court retains the discretion to direct the personal attendance of counsel and parties at the CDR CC where it is necessary in the circumstances of the case. For instance, the drivers of the vehicles involved in a motor accident and eyewitnesses may be asked to be present at a CDR CC for the purpose of a more accurate ENE or to facilitate in negotiating a settlement. 
+4.1 The Court retains the discretion to direct the personal attendance of counsel and parties at the CDR CC where it is necessary in the circumstances of the case. For instance, the drivers of the vehicles involved in a motor accident and eyewitnesses may be asked to be present at a CDR CC for the purpose of a more accurate ENE or to facilitate in negotiating a settlement. 
 
 ### 5. **Preparation for CDR CC**
 
-5.1. In all personal injury claims and NIMA claims, solicitors should exchange before the first CDR CC, a list of all the relevant documents relating to both liability and quantum.
+5.1 In all personal injury claims and NIMA claims, solicitors should exchange before the first CDR CC, a list of all the relevant documents relating to both liability and quantum.
 
-5.2. In addition, solicitors should exchange all documents they intend to rely upon or which are known to be adverse in the following categories before the first CDR CC.
+5.2 In addition, solicitors should exchange all documents they intend to rely upon or which are known to be adverse in the following categories before the first CDR CC.
 
 >(a) For **personal injury claims or where personal injury forms part of the motor accident claim** — 
 
@@ -618,7 +618,7 @@
 
 >>(xvii) any other supporting documents. 
 
-5.3. **_Additional documents and instructions_**
+5.3 **_Additional documents and instructions_**
 
 >(a) If any *additional* documents apart from those referred to in paragraph 5.2 are required, this shall be made known to the other party well before the first CDR CC date. If a re-inspection of the other party's vehicle is required, it should be conducted and the report exchanged before the first CDR CC.
 
@@ -630,21 +630,21 @@
 
 >(e) Third party proceedings, if any, should be commenced before the first CDR CC. 
 
-5.4. To make the full use of the CDR CC, it is essential that solicitors be well prepared and familiar with their cases. 
+5.4 To make the full use of the CDR CC, it is essential that solicitors be well prepared and familiar with their cases. 
 
 ### 6. **CDR CC** 
 
 >**_Claims subject to the simplified process under Order 65 of the Rules of Court 2021_**
 
-6.1. All cases commenced by Originating Claims on or after 1 April 2022 in a Magistrate's Court and any case commenced by Originating Claims on or after 1 April 2022 in a District Court (where parties have filed their consent in [Form 3](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%203.pdf) of Appendix A1 to these Practice Directions for Order 65 to apply) will be subject to the simplified process under Order 65 of the Rules of Court 2021.
+6.1 All cases commenced by Originating Claims on or after 1 April 2022 in a Magistrate's Court and any case commenced by Originating Claims on or after 1 April 2022 in a District Court (where parties have filed their consent in [Form 3](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%203.pdf) of Appendix A1 to these Practice Directions for Order 65 to apply) will be subject to the simplified process under Order 65 of the Rules of Court 2021.
 
-6.2. The requirement for upfront production under Order 65, Rule 2 of the Rules of Court 2021 apply to such cases. 
+6.2 The requirement for upfront production under Order 65, Rule 2 of the Rules of Court 2021 apply to such cases. 
 
-6.3. These claims will continue to be called for CDR CC within 6 weeks after the filing of the notice of intention to contest. The rest of the guidelines in Appendix C also apply to CDR CCs for these claims.
+6.3 These claims will continue to be called for CDR CC within 6 weeks after the filing of the notice of intention to contest. The rest of the guidelines in Appendix C also apply to CDR CCs for these claims.
 
 6.4. If the matter is not disposed of by the Court or settled or otherwise resolved through the actions of the parties in the course of the CDR CC process, the Court may make such orders or give such directions as it thinks fit including directions for the filing and exchange of affidavits of evidence-in-chief, appointment of a single joint expert (for actions commenced in the Magistrates' Courts) and any other necessary directions to bring the proceedings to trial.
 
-6.5. Where any question requiring the evidence of an expert witness arises and parties are unable to agree on the expert to be appointed, the Court may, having regard to the provisions in Order 12, Rule 3(5) of the Rules of Court 2021, appoint the expert for the parties at a CDR CC. Each party is expected to furnish the following for the determination of the single joint expert:
+6.5 Where any question requiring the evidence of an expert witness arises and parties are unable to agree on the expert to be appointed, the Court may, having regard to the provisions in Order 12, Rule 3(5) of the Rules of Court 2021, appoint the expert for the parties at a CDR CC. Each party is expected to furnish the following for the determination of the single joint expert:
 
 >(a) names and *curriculum vitae* of two experts the party considers suitable to appoint (for which purpose a party may nominate the expert who has conducted an inspection, survey or review for him or provided him with medical treatment);
 
@@ -658,19 +658,19 @@ The Court will appoint the single joint expert after hearing submissions on the 
 
 **_Early Neutral Evaluation on liability and quantum_**
 
-6.6. For personal injury arising out of motor accident ("**PIMA**") claims and NIMA claims, the Court will provide an ENE on liability if — 
+6.6 For personal injury arising out of motor accident ("**PIMA**") claims and NIMA claims, the Court will provide an ENE on liability if — 
 
 >(a) the factual matrix of the particular motor accident does not correspond substantially with any of the scenarios set out in the *Motor Accident Claims Online, Motor Accident Guide* and/or other similar guide; or
 
 >(b) despite the parties' reasonable efforts in resolving the question of liability through negotiation with reference to the *Motor Accident Claims Online, Motor Accident Guide* and/or other similar guide before the CDR CC, no settlement has been reached.
 
-6.7. Solicitors for all the parties seeking an ENE on liability in PIMA and NIMA claims must prepare a submission with relevant supporting documents for the first CDR CC. Except in cases where no corresponding scenario is provided for in the *Motor Accident Claims Online, Motor Accident Guide* and/or other similar guide solicitors must specify in their submissions the scenario(s) that is/are relevant to the parties’ factual accounts of the accident and state their respective proposals on liability.
+6.7 Solicitors for all the parties seeking an ENE on liability in PIMA and NIMA claims must prepare a submission with relevant supporting documents for the first CDR CC. Except in cases where no corresponding scenario is provided for in the *Motor Accident Claims Online, Motor Accident Guide* and/or other similar guide solicitors must specify in their submissions the scenario(s) that is/are relevant to the parties’ factual accounts of the accident and state their respective proposals on liability.
 
 6.8	In respect of personal injury claims, whether or not an ENE on liability is given, the Court may, at its own discretion in appropriate cases or at solicitors' request, provide an ENE on quantum. Solicitors requesting for an ENE on quantum must obtain each other’s consent before the CDR CC, and submit the duly completed Quantum Neutral Evaluation Form (*ie*, [Form 11](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2011.pdf)) of Appendix A1 to these Practice Directions) to the Court. 
 
 ### 7. **Help and co-operation of insurers in facilitating CDR**
 
-7.1. Insurers play a key role in the success of CDR. A CDR CC is intended for substantive evaluation of the issues. CDR CC is unproductive if: 
+7.1 Insurers play a key role in the success of CDR. A CDR CC is intended for substantive evaluation of the issues. CDR CC is unproductive if: 
 
 >(a) parties have not —
 
@@ -686,9 +686,9 @@ The Court will appoint the single joint expert after hearing submissions on the 
 
 ### 8. **Follow up action after CDR CC**
 
-8.1. Solicitors must inform their clients of the outcome of a CDR CC and render their advice expeditiously on the ENE on liability and/or quantum given by the Court. To facilitate settlement, solicitors should obtain their clients’ instructions and make the necessary proposals or offers of settlement early to enable the other party to consider their position or proposal and respond before the next CDR CC date. Reasons shall be given by parties for the position taken on liability and/or quantum so that the solicitors can inform the Court of the basis for their clients’ mandate at the next CDR CC.
+8.1 Solicitors must inform their clients of the outcome of a CDR CC and render their advice expeditiously on the ENE on liability and/or quantum given by the Court. To facilitate settlement, solicitors should obtain their clients’ instructions and make the necessary proposals or offers of settlement early to enable the other party to consider their position or proposal and respond before the next CDR CC date. Reasons shall be given by parties for the position taken on liability and/or quantum so that the solicitors can inform the Court of the basis for their clients’ mandate at the next CDR CC.
 
-8.2. Rather than refraining from taking a position on liability or insisting that agreement on liability is *contingent* on quantum being settled at a particular sum (as is sometimes the case), parties who are able to agree on the issue of liability but not quantum shall consider allowing an *Interlocutory Judgment* to be recorded for liability and proceed for assessment of damages. A hearing to assess damages is generally less costly than a full trial.
+8.2 Rather than refraining from taking a position on liability or insisting that agreement on liability is *contingent* on quantum being settled at a particular sum (as is sometimes the case), parties who are able to agree on the issue of liability but not quantum shall consider allowing an *Interlocutory Judgment* to be recorded for liability and proceed for assessment of damages. A hearing to assess damages is generally less costly than a full trial.
 
 
 ## APPENDIX D: Benchmark Rates for Cost of Rental and Loss of Use
@@ -703,8 +703,8 @@ The benchmark rates in this Appendix shall apply to claims for rental and loss o
 <td rowspan="2"><b>Factors To Be Considered</b></td>
 </tr>
 <tr>
-<td><b>Rental (per day) $</b></td>
-<td><b>Loss of use (per day) $</b></td>
+<td><b>Rental (per day) <br />$</b></td>
+<td><b>Loss of Use (per day) <br />$</b></td>
 </tr>
 </thead>
 <tbody>
@@ -712,18 +712,17 @@ The benchmark rates in this Appendix shall apply to claims for rental and loss o
 <td colspan="4"><b><u>PRIVATE CARS</u></b></td>
 </tr>
 <tr>
-  <td>Up to 1,600cc <u>and</u> 97kW (130bhp) <br/><br/> [Category A of COE]</td>
+<td>Up to 1,600cc <u>and</u> 97kW (130bhp) <br/><br/> [Category A of COE]</td>
 <td>100-120</td>
 <td>60-80</td>
 <td rowspan="3">
 <ol>
-<li>Usage eg, travelling salesman</li>
+<li>Usage *eg*, travelling salesman</li>
 <li>Rental receipts, consider possibility that they may be inflated.</li>
 <li>Luxury cars are dependent on make and model. They generally refer to cars with OMV of $35,000 and above on first registration and/or engine capacity exceeding 3,000 cc.</li>
 <li>No. of days: To refer to surveyor&rsquo;s reports or actual number of days of repair (whichever is shorter) and add Saturdays, Sundays and public holidays</li>
 </ol>
 </td>
-</tr>
 </tr>
 <tr>
 <td>Above 1,600cc <u>or</u> 97kW (130bhp) <br/><br/> [Category B of COE]</td>
@@ -850,17 +849,17 @@ The benchmark rates in this Appendix shall apply to claims for rental and loss o
 
 ### 1. **Aim of protocol on production of documents before action**
 
-1.1. In order for a claimant to consider whether he or she has a viable claim or cause of action against his or her doctor and/or hospital ("**health care providers**") for medical negligence, a medical report and medical records of the patient from the health care providers are often essential. 
+1.1 In order for a claimant to consider whether he or she has a viable claim or cause of action against his or her doctor and/or hospital ("**health care providers**") for medical negligence, a medical report and medical records of the patient from the health care providers are often essential. 
 
-1.2. The aim of Part One of the Protocol for Medical Negligence Claims ("**the Protocol**") is to establish a protocol on production of documents before action. It is to prescribe a framework for exchange of information prior to the filing of an Originating Claim with a view to resolving medical negligence disputes arising out of an alleged negligent act or omission in connection with medical or dental diagnosis or treatment without protracted litigation. It is hoped that this will help to standardise and streamline the production of medical records to a claimant who is considering pursuing a medical negligence claim. It aims to facilitate the exchange of relevant information and medical records so as to increase the prospect that medical negligence disputes can be resolved quickly.
+1.2 The aim of Part One of the Protocol for Medical Negligence Claims ("**the Protocol**") is to establish a protocol on production of documents before action. It is to prescribe a framework for exchange of information prior to the filing of an Originating Claim with a view to resolving medical negligence disputes arising out of an alleged negligent act or omission in connection with medical or dental diagnosis or treatment without protracted litigation. It is hoped that this will help to standardise and streamline the production of medical records to a claimant who is considering pursuing a medical negligence claim. It aims to facilitate the exchange of relevant information and medical records so as to increase the prospect that medical negligence disputes can be resolved quickly.
 
-1.3. Part One of the Protocol will apply from the time a claimant contemplates commencing a medical negligence suit in Court against his or her health care providers. 
+1.3 Part One of the Protocol will apply from the time a claimant contemplates commencing a medical negligence suit in Court against his or her health care providers. 
 
-1.4. The Protocol does not affect any privilege that may apply to communication between parties undertaken in compliance with it (including medical reports and medical records furnished to the claimant's solicitor by the health care providers pursuant to the Protocol).
+1.4 The Protocol does not affect any privilege that may apply to communication between parties undertaken in compliance with it (including medical reports and medical records furnished to the claimant's solicitor by the health care providers pursuant to the Protocol).
 
 ### 2. **Letter of request for medical report and other related medical records**
 
-2.1. The application for the medical report and medical records that may be necessary for the claimant and/or his or her solicitors to ascertain if he or she has a viable cause of action should be made by way of a letter in [Form 32](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2032.pdf) of Appendix A1 to these Practice Directions setting out briefly the basis of the claim and the nature of the information sought in the medical report, including:
+2.1 The application for the medical report and medical records that may be necessary for the claimant and/or his or her solicitors to ascertain if he or she has a viable cause of action should be made by way of a letter in [Form 32](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2032.pdf) of Appendix A1 to these Practice Directions setting out briefly the basis of the claim and the nature of the information sought in the medical report, including:
 
 >(a)	symptoms presented by the claimant or the deceased (in the case where the patient has passed away and the claim is pursued by his or her next-of-kin or executor or administrator of his or her estate) prior to treatment;
 
@@ -876,80 +875,80 @@ The benchmark rates in this Appendix shall apply to claims for rental and loss o
 
 >(g)	prognosis and recommended future treatment, if available.
 
-2.2. The above guidelines on the contents of the medical report are meant to ensure that the report is as comprehensive as possible. Depending on the facts and nature of the medical management in each case, the contents of the medical report may be suitably modified. The application for the medical report may be dispensed with where the harm caused to the patient is *res ipsa loquitur*.
+2.2 The above guidelines on the contents of the medical report are meant to ensure that the report is as comprehensive as possible. Depending on the facts and nature of the medical management in each case, the contents of the medical report may be suitably modified. The application for the medical report may be dispensed with where the harm caused to the patient is *res ipsa loquitur*.
 
-2.3. If the claimant and/or his or her solicitor wish to obtain copies of medical records from the health care provider, this should also be made clear in the letter of request. The various types of medical records that the claimant and/or his or her solicitor may seek from the health care provider are set out in [Form 32](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2032.pdf) of Appendix A1 to these Practice Directions. However, as the medical records to be sought from the health care provider would depend on the nature and focus of the complaint, the type of medical treatment rendered and advice sought as well as whether the health care provider is a medical doctor and/or hospital, the medical records listed in [Form 32](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2032.pdf) of Appendix A1 to these Practice Directions are not exhaustive, but act as a guide. The claimant and/or his or her solicitor can request any other medical records that are relevant and necessary for the claim.
+2.3 If the claimant and/or his or her solicitor wish to obtain copies of medical records from the health care provider, this should also be made clear in the letter of request. The various types of medical records that the claimant and/or his or her solicitor may seek from the health care provider are set out in [Form 32](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2032.pdf) of Appendix A1 to these Practice Directions. However, as the medical records to be sought from the health care provider would depend on the nature and focus of the complaint, the type of medical treatment rendered and advice sought as well as whether the health care provider is a medical doctor and/or hospital, the medical records listed in [Form 32](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2032.pdf) of Appendix A1 to these Practice Directions are not exhaustive, but act as a guide. The claimant and/or his or her solicitor can request any other medical records that are relevant and necessary for the claim.
 
-2.4. As the above and the sample letter of request are guides only, the contents of the actual letter of request and medical report can be suitably modified depending on the facts and nature of medical management of each case.
+2.4 As the above and the sample letter of request are guides only, the contents of the actual letter of request and medical report can be suitably modified depending on the facts and nature of medical management of each case.
 
-2.5. The application for the medical report/medical records should be accompanied by a Consent Form set out in [Form 33](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2033.pdf) of Appendix A1 to these Practice Directions signed by the claimant authorising the health care provider to release the medical report/medical records to the claimant's solicitor.
+2.5 The application for the medical report/medical records should be accompanied by a Consent Form set out in [Form 33](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2033.pdf) of Appendix A1 to these Practice Directions signed by the claimant authorising the health care provider to release the medical report/medical records to the claimant's solicitor.
 
-2.6. Within 7 days of receipt of the application, the health care provider is to inform the claimant what the requisite charges are for the medical report and medical records.
+2.6 Within 7 days of receipt of the application, the health care provider is to inform the claimant what the requisite charges are for the medical report and medical records.
 
-2.7. The medical report and medical records should be provided to the claimant within 6 weeks upon payment of the requisite charges. The claimant may where necessary, seek further information or clarification from the health care provider on any aspect of the report and the health care provider should respond within 4 weeks from receipt of such further request.
+2.7 The medical report and medical records should be provided to the claimant within 6 weeks upon payment of the requisite charges. The claimant may where necessary, seek further information or clarification from the health care provider on any aspect of the report and the health care provider should respond within 4 weeks from receipt of such further request.
 
-2.8. If the health care provider has difficulty complying with the timeline prescribed above, the problem and reason for the difficulty must be explained to the claimant in writing and the necessary extension of time sought.
+2.8 If the health care provider has difficulty complying with the timeline prescribed above, the problem and reason for the difficulty must be explained to the claimant in writing and the necessary extension of time sought.
 
-2.9. If the health care provider fails to provide the requisite medical report, medical records and/or clarification within the timelines prescribed above or agreed extension period, the claimant may proceed to apply to the Court for an order for production before action under Order 11, Rule 11 of the Rules of Court 2021, without further notice to the health care provider. The Court will take into account any unreasonable delay in providing the said medical report, medical records and/or clarification when considering the issue of costs.
+2.9 If the health care provider fails to provide the requisite medical report, medical records and/or clarification within the timelines prescribed above or agreed extension period, the claimant may proceed to apply to the Court for an order for production before action under Order 11, Rule 11 of the Rules of Court 2021, without further notice to the health care provider. The Court will take into account any unreasonable delay in providing the said medical report, medical records and/or clarification when considering the issue of costs.
 
 ### **PART TWO: COMMENCEMENT OF SUIT AND PROCEEDINGS BEFORE TRIAL**
 
 ### 3. **Application**
 
-3.1. Part Two of the Protocol relates to the commencement of proceedings for medical negligence claims and the procedures before trial undertaken in such cases.
+3.1 Part Two of the Protocol relates to the commencement of proceedings for medical negligence claims and the procedures before trial undertaken in such cases.
 
 ### 4. **Filing of medical reports and lists of documents**
 
-4.1. A claimant commencing a medical negligence claim in Court is required to file and serve the main documents relied on in support of the claim including expert report(s) together with the Statement of Claim.
+4.1 A claimant commencing a medical negligence claim in Court is required to file and serve the main documents relied on in support of the claim including expert report(s) together with the Statement of Claim.
 
-4.2.The defendant is also required to file and serve a medical report within 6 weeks after the filing of the notice of intention to contest. 
+4.2 The defendant is also required to file and serve a medical report within 6 weeks after the filing of the notice of intention to contest. 
 
-4.3.For cases that are subject to the simplified process under Order 65 of the Rules of Court 2021 (Magistrates' Courts cases filed on or after 1 April 2022 and by consent, District Courts cases filed on or after 1 April 2022), each party is required to file and serve a list of documents together with the relevant pleading on the other party within the time limited for the service of such pleading under Order 65, Rule 2(1) of the Rules of Court 2021.
+4.3 For cases that are subject to the simplified process under Order 65 of the Rules of Court 2021 (Magistrates' Courts cases filed on or after 1 April 2022 and by consent, District Courts cases filed on or after 1 April 2022), each party is required to file and serve a list of documents together with the relevant pleading on the other party within the time limited for the service of such pleading under Order 65, Rule 2(1) of the Rules of Court 2021.
 
-4.4. For cases that are not subject to the simplified process, if there are documents other than the medical report filed with a claimant's pleading and the medical report that will be filed by a defendant under paragraph 4.2, that party is required to file and serve a list of documents on the other party within 6 weeks after the filing of the notice of intention to contest using [Form 10](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2010.pdf) of Appendix A2 to these Practice Directions.
+4.4 For cases that are not subject to the simplified process, if there are documents other than the medical report filed with a claimant's pleading and the medical report that will be filed by a defendant under paragraph 4.2, that party is required to file and serve a list of documents on the other party within 6 weeks after the filing of the notice of intention to contest using [Form 10](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2010.pdf) of Appendix A2 to these Practice Directions.
 
 ### **5. Steps to be taken after pleadings have been filed and served**
 
-5.1. In order to encourage parties to delineate undisputed facts and issues at an early stage, parties are required to file a list of undisputed facts and issues 2 weeks after the pleadings have been filed and served or as directed by the Court.
+5.1 In order to encourage parties to delineate undisputed facts and issues at an early stage, parties are required to file a list of undisputed facts and issues 2 weeks after the pleadings have been filed and served or as directed by the Court.
 
-5.2. Currently, a party may make an admission of fact in his or her pleadings or other documents under Order 9, Rule 18(2) of the Rules of Court 2021. To avoid doubt, the same applies to medical negligence claims.
+5.2 Currently, a party may make an admission of fact in his or her pleadings or other documents under Order 9, Rule 18(2) of the Rules of Court 2021. To avoid doubt, the same applies to medical negligence claims.
 
 ### **6. Court Dispute Resolution Case Conference**
 
-6.1. For all medical negligence cases that are filed in Court, the Court will convene the first Court Dispute Resolution Case Conference (“CDR CC”) under Order 9 of the Rules of Court 2021 within 6 weeks after the filing of the notice of intention to contest. 
+6.1 For all medical negligence cases that are filed in Court, the Court will convene the first Court Dispute Resolution Case Conference (“CDR CC”) under Order 9 of the Rules of Court 2021 within 6 weeks after the filing of the notice of intention to contest. 
 
-6.2. At the first CDR CC, parties will explore the possibility of resolving the case by mediation, neutral evaluation, conciliation or other forms of Court ADR under the prevailing framework. Solicitors for all parties seeking an early neutral evaluation on liability must file submissions as directed by the Court at the CDR CC. Whether or not an evaluation on liability is given, the Court may, at its own discretion in appropriate cases or at solicitors' request, provide an evaluation on quantum. Solicitors requesting for an evaluation on quantum must obtain each other's consent before the CDR CC, and submit the duly completed Quantum Neutral Evaluation Form (*ie*, [Form 11](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2011.pdf) of Appendix A1 to these Practice Directions) to the Court.
+6.2 At the first CDR CC, parties will explore the possibility of resolving the case by mediation, neutral evaluation, conciliation or other forms of Court ADR under the prevailing framework. Solicitors for all parties seeking an early neutral evaluation on liability must file submissions as directed by the Court at the CDR CC. Whether or not an evaluation on liability is given, the Court may, at its own discretion in appropriate cases or at solicitors' request, provide an evaluation on quantum. Solicitors requesting for an evaluation on quantum must obtain each other's consent before the CDR CC, and submit the duly completed Quantum Neutral Evaluation Form (*ie*, [Form 11](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2011.pdf) of Appendix A1 to these Practice Directions) to the Court.
 
-6.3. No directions for production of documents will be given as most documents would have been produced at the pre-action stage and in the pleadings. However, parties may apply for a broader scope of discovery as provided for under the Rules of Court 2021.
+6.3 No directions for production of documents will be given as most documents would have been produced at the pre-action stage and in the pleadings. However, parties may apply for a broader scope of discovery as provided for under the Rules of Court 2021.
 
-6.4. The Court may, where appropriate, appoint a medical professional to co mediate at the Court ADR hearing. 
+6.4 The Court may, where appropriate, appoint a medical professional to co mediate at the Court ADR hearing. 
 
 ### 7. Compliance with the Protocol
 
-7.1. In the interest of saving time and costs, claimants are expected to use this protocol as a checklist on the required steps to be taken before commencing Court proceedings and during pre-trial proceedings. Parties must comply with the terms of the Protocol in substance and spirit. A breach by one party will not exempt the other parties in the claim from following the Protocol insofar as they are able.
+7.1 In the interest of saving time and costs, claimants are expected to use this protocol as a checklist on the required steps to be taken before commencing Court proceedings and during pre-trial proceedings. Parties must comply with the terms of the Protocol in substance and spirit. A breach by one party will not exempt the other parties in the claim from following the Protocol insofar as they are able.
 
-7.2. In exercising its discretion and powers, the Court will have regard to compliance with this protocol or lack thereof, including staying an action for the party in default to comply with the protocol, and in determining the amount of costs to be awarded.
+7.2 In exercising its discretion and powers, the Court will have regard to compliance with this protocol or lack thereof, including staying an action for the party in default to comply with the protocol, and in determining the amount of costs to be awarded.
 
-7.3. Where there are good reasons for non-compliance, the Court will not impose sanctions against the party in default.  
+7.3 Where there are good reasons for non-compliance, the Court will not impose sanctions against the party in default.  
 
 
 ## APPENDIX F: Pre-Action Protocol for Defamation Actions
 
 ### 1. **APPLICATION**
 
-1.1. This Protocol applies to all defamation (including libel and slander) actions. 
+1.1 This Protocol applies to all defamation (including libel and slander) actions. 
 
-1.2. Parties are expected to comply with the framework prescribed in this Protocol before commencing proceedings in the State Courts. 
+1.2 Parties are expected to comply with the framework prescribed in this Protocol before commencing proceedings in the State Courts. 
 
 >(a) Notwithstanding this, parties may adapt the forms where necessary to suit the facts of their case.
 
 >(b) This Protocol is in addition to any negotiations that parties may be conducting privately or on a "without prejudice" basis.
 
-1.3. In following this Protocol, the parties should act reasonably to keep costs proportionate to the nature and gravity of the case and the stage that the complaint has reached. 
+1.3 In following this Protocol, the parties should act reasonably to keep costs proportionate to the nature and gravity of the case and the stage that the complaint has reached. 
 
 ### 2. **OBJECTIVES**
 
-2.1. This Protocol aims to:
+2.1 This Protocol aims to:
 
 >(a) improve pre-action communication between parties by establishing a timetable for the exchange of information and documents;
 
@@ -959,9 +958,9 @@ The benchmark rates in this Appendix shall apply to claims for rental and loss o
 
 ### 3. **LETTER OF CLAIM**
  
-3.1. Before commencing proceedings, the claimant must send a letter of claim to the potential defendant. The letter of claim must be prepared in accordance with [Form 34](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2034.pdf) of Appendix A1 to these Practice Directions. 
+3.1 Before commencing proceedings, the claimant must send a letter of claim to the potential defendant. The letter of claim must be prepared in accordance with [Form 34](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2034.pdf) of Appendix A1 to these Practice Directions. 
 
-3.2. The letter of claim should be marked “Private and Confidential. To be opened by addressee only” and it should not be marked “without prejudice”. It must include the following information:
+3.2 The letter of claim should be marked “Private and Confidential. To be opened by addressee only” and it should not be marked “without prejudice”. It must include the following information:
 
 >(a) the name of the claimant;
 
@@ -971,7 +970,7 @@ The benchmark rates in this Appendix shall apply to claims for rental and loss o
 
 >(d) the exact words complained of and the date of publication or broadcast (if known), and where possible, a copy, screenshot or transcript of the words complained of should be enclosed;
 
->(e) if the words complained of are not in the English language, a translation of the words in the English language;  
+>(e) if the words complained of are not in the English language, a translation of the words in the English language; [^1] 
 
 >(f) sufficient details of the factual inaccuracies or unsupportable comments within the words complained of to enable the potential defendant to appreciate why the words are inaccurate or unsupportable;
 
@@ -991,17 +990,19 @@ The benchmark rates in this Appendix shall apply to claims for rental and loss o
 
 >(l) a statement by the claimant as to which of the alternative dispute resolution ("**ADR**") options set out at paragraph 6 of this Protocol he proposes to use for the resolution of the dispute for the potential defendant to consider.
 
-3.3. The letter of claim must be sent to the potential defendant by way of certificate of posting, registered post or any other mode which provides the claimant with a written acknowledgement of posting / delivery.
+[^1]: Please refer to Order 3, Rule 7(2) of the Rules of Court 2021.
 
-3.4. Nothing in this Protocol should be construed to operate as a stay of the time limited for the doing of any act as prescribed by the Limitation Act (Cap 163). If, by reason of complying with any part of this Protocol, a claim may be time-barred under any provision of the Limitation Act, the claimant may commence proceedings without complying with this Protocol, or so much of this Protocol that he is unable to comply with by reason of the impending operation of an applicable limitation period. 
+3.3 The letter of claim must be sent to the potential defendant by way of certificate of posting, registered post or any other mode which provides the claimant with a written acknowledgement of posting / delivery.
+
+3.4 Nothing in this Protocol should be construed to operate as a stay of the time limited for the doing of any act as prescribed by the Limitation Act (Cap 163). If, by reason of complying with any part of this Protocol, a claim may be time-barred under any provision of the Limitation Act, the claimant may commence proceedings without complying with this Protocol, or so much of this Protocol that he is unable to comply with by reason of the impending operation of an applicable limitation period. 
 
 ### 4. **RESPONSE TO LETTER OF CLAIM**
 
-4.1. The potential defendant must provide a response to the claimant within 14 days of the receipt of the letter of claim (or such other time limit as specified in the letter of claim). The response must be in accordance with [Form 36](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2036.pdf) of Appendix A1 to these Practice Directions. 
+4.1 The potential defendant must provide a response to the claimant within 14 days of the receipt of the letter of claim (or such other time limit as specified in the letter of claim). The response must be in accordance with [Form 36](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2036.pdf) of Appendix A1 to these Practice Directions. 
 
-4.2. If the potential defendant is unable to respond substantively within 14 days (or such other time limit as specified), he must acknowledge receipt within the said 14 days (or any shorter time limit specified) and inform the claimant of the length of time required to respond substantively to the claim. A sample acknowledgement can be found at [Form 37](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2037.pdf) of Appendix A1 to these Practice Directions. 
+4.2 If the potential defendant is unable to respond substantively within 14 days (or such other time limit as specified), he must acknowledge receipt within the said 14 days (or any shorter time limit specified) and inform the claimant of the length of time required to respond substantively to the claim. A sample acknowledgement can be found at [Form 37](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2037.pdf) of Appendix A1 to these Practice Directions. 
 
-4.3. The substantive response must contain the following information:
+4.3 The substantive response must contain the following information:
 
 >(a) whether, and to what extent, the claimant’s claim is accepted, whether more information is required or whether the claim is rejected;
 
@@ -1023,11 +1024,11 @@ The benchmark rates in this Appendix shall apply to claims for rental and loss o
 
 ### 5. **COUNTERCLAIM**
 
-5.1. If the potential defendant intends to make a counterclaim for defamation and states so in his response, the claimant should provide a response to any such counterclaim within the equivalent period allowed to the potential defendant to respond to the letter of claim. The claimant's response to the potential defendant's counterclaim for defamation shall contain the information at sub-paragraphs 4.3(a) to 4.3(f). 
+5.1 If the potential defendant intends to make a counterclaim for defamation and states so in his response, the claimant should provide a response to any such counterclaim within the equivalent period allowed to the potential defendant to respond to the letter of claim. The claimant's response to the potential defendant's counterclaim for defamation shall contain the information at sub-paragraphs 4.3(a) to 4.3(f). 
 
 ### 6. **ALTERNATIVE DISPUTE RESOLUTION ("ADR") OPTIONS**
 
-6.1. The State Courts regards ADR as crucial in the efficient and cost-effective resolution of disputes. The following are some ADR options which parties should consider prior to commencing an action:
+6.1 The State Courts regards ADR as crucial in the efficient and cost-effective resolution of disputes. The following are some ADR options which parties should consider prior to commencing an action:
 
 >(a) mediation at the Singapore Mediation Centre;
 
@@ -1035,21 +1036,21 @@ The benchmark rates in this Appendix shall apply to claims for rental and loss o
 
 >(c) mediation under the Law Society Mediation Scheme.
 
-6.2. The above list is non-exhaustive and parties are free to consider and propose other ADR mechanisms to resolve the dispute. 
+6.2 The above list is non-exhaustive and parties are free to consider and propose other ADR mechanisms to resolve the dispute. 
 
-6.3. If the claimant and the potential defendant are able to agree on a mode of ADR, the claimant should submit the relevant request for ADR (depending on chosen mode of ADR) within 14 days of the parties' agreement to initiate the ADR process. 
+6.3 If the claimant and the potential defendant are able to agree on a mode of ADR, the claimant should submit the relevant request for ADR (depending on chosen mode of ADR) within 14 days of the parties' agreement to initiate the ADR process. 
 
-6.4. No party can be compelled to enter into any form of ADR.
+6.4 No party can be compelled to enter into any form of ADR.
 
 ### 7. **PRE-ACTION PROTOCOL CHECKLIST**
 
-7.1. Where the claimant decides to commence litigation, he must file, together with the statement of claim, a duly completed Pre-Action Protocol Checklist ([Form 38](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2038.pdf) of Appendix A1 to these Practice Directions). 
+7.1 Where the claimant decides to commence litigation, he must file, together with the statement of claim, a duly completed Pre-Action Protocol Checklist ([Form 38](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2038.pdf) of Appendix A1 to these Practice Directions). 
 
 ### 8. **SANCTIONS FOR NON-COMPLIANCE**
 
-8.1. The State Courts will have regard to the compliance with this Protocol or lack thereof in exercising its discretion and powers in relation to costs orders.
+8.1 The State Courts will have regard to the compliance with this Protocol or lack thereof in exercising its discretion and powers in relation to costs orders.
 
-8.2. Where there are good reasons for non-compliance, the Court will not impose sanctions against the party in default. 
+8.2 Where there are good reasons for non-compliance, the Court will not impose sanctions against the party in default. 
 
 
 ## APPENDIX G: Uploading Redacted Charges Under Practice Direction 124
