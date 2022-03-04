@@ -166,7 +166,7 @@
 
 >>(iii) claims arising from fatal accidents,
 		
->where it is contemplated that action will be commenced on or after 1 April 2022 in the Magistrates Courts or the District Courts, as the case may be, but does not apply to medical negligence claims; and
+>where it is contemplated that action will be commenced on or after 1 April 2022 in the Magistrates' Courts or the District Courts, as the case may be, but does not apply to medical negligence claims; and
 
 >(b) all personal injury claims arising out of motor accidents (whether or not involving any claim for property damage arising out of the same accident) and industrial accidents where it is contemplated that action will be commenced on or after 1 April 2022 in the High Court (and subsequently transferred to the District Courts).
 	
@@ -239,7 +239,7 @@
 
 3.7 The claimant must enclose with his letter of claim a copy each of all supporting documents he intends to rely upon or which are known to be adverse, where available, such as the following:
 
->For all PI claims:
+>**For all PI claims:**
 
 >(a) full and complete Singapore Accident Statements and police reports together with type-written transcripts of all persons involved in the accident;
 >
@@ -273,7 +273,7 @@
 >
 >(p) any other supporting documents.
 
->For NIMA claims:
+>**For NIMA claims:**
 
 >The claimant must enclose with his letter of claim a copy each of the documents he intends to rely upon supporting the claim for property damage, such as the following:
 
@@ -305,19 +305,19 @@
 
 ### 4. **Potential Defendant's response**
 
->Post-repair inspection of vehicle (applicable only to NIMA and mixed claims)
+>**Post-repair inspection of vehicle (applicable only to NIMA and mixed claims)**
 
 4.1 If the insurer wishes to conduct a post-repair inspection of the claimant's vehicle not conducted previously, he must make the request to the claimant within **7 days** of receipt of the letter of claim. The insurer must state in the letter of request why a post-repair inspection is now sought, especially if the opportunity for pre-repair survey and/or post-repair inspection had earlier been waived.
 
 4.2 The claimant must reply within **7 days** of receipt of the letter of request. Where valid reasons are given by the insurer, the parties shall as far as possible, agree on the arrangements for the post-repair inspection so as to facilitate an amicable resolution of the claim as soon as possible.
 
->Acknowledgment letter
+>**Acknowledgment letter**
 
 4.3 The potential defendant must send an acknowledgement letter to the claimant within **14 days** from the date of receipt of the letter of claim. If he is ready to take a position on the claim, he must state his position. If not, he must first send an acknowledgement.
 
 4.4 If the claimant does not receive an acknowledgement letter from the potential defendant within the requisite **14 days** , he may commence proceedings without any sanction by the Court.
 
->Joint selection of medical experts (applicable only to PI claims)
+>**Joint selection of medical experts (applicable only to PI claims)**
 
 4.5 In respect of claims where the estimated quantum falls within the jurisdiction of a Magistrate's Court, within **14 days** of sending the acknowledgment letter to the claimant, the potential defendant shall send a letter to the claimant stating whether he agrees or has any objections to the appointment of any of the medical experts proposed by the claimant for the relevant specialty.
 
@@ -339,7 +339,7 @@
 >
 >(i) If the claimant objects to the medical experts proposed by the potential defendant for any relevant specialty, both parties are not precluded from instructing medical experts of their own choice for each relevant specialty that the parties are unable to agree upon. Should the potential defendant wish to arrange for the claimant to undergo a medical examination by his own medical expert, the potential defendant shall within **14 days** from the date of receipt of the claimant's letter of reply, propose a date and time on which the claimant is to undergo the medical examination. The address at which the claimant must present himself for the medical examination must also be provided. However, if the estimated quantum falls within the jurisdiction of a Magistrate's Court, parties are to be aware of Order 12, Rule 3(5) of the Rules of Court 2021 on the appointment of a single joint expert should the matter be unresolved subsequently and proceed for a simplified trial. Both parties shall in any event not unreasonably withhold consent to the appointment of a single joint expert as far as possible.
 
->Substantive reply to claimant
+>**Substantive reply to claimant**
 
 4.6 If the potential defendant replies to the claimant with only an acknowledgement of receipt, within **8 weeks** from the date of receipt of the letter of claim or within **14 days** after inspecting the vehicle, whichever is later, the potential defendant must reply to the claimant substantively. For this purpose, the following provisions will apply:
 
@@ -351,7 +351,7 @@
 >
 >(d) The potential defendant is to enclose any pre-repair and/or post-repair survey/inspection report(s).
 >
->(e) The potential defendant is to specify the particular scenario in the _Motor Accident Claims Online,_Motor Accident Guide_ and/or other similar guidethat is applicable to his account of the accident, enclose with his reply a copy of the relevant page of the scenario and, except where the claim is denied, make an offer on liability.
+>(e) The potential defendant is to specify the particular scenario in the _Motor Accident Claims Online_, _Motor Accident Guide_ and/or other similar guidethat is applicable to his account of the accident, enclose with his reply a copy of the relevant page of the scenario and, except where the claim is denied, make an offer on liability.
 >
 >(f) If the insurer is the party replying to the claimant, the reply must also state the name(s), telephone number(s) and fax number(s) of the insurance officer(s) handling the matter and the insurer's file reference number(s), to facilitate correspondence.
 >
@@ -389,7 +389,7 @@
 	
 >as the case may be, inclusive of any intervening Saturday, Sunday or public holiday.
 
-8.2 Where the insurer fails to respond to the claimant within **2**** working days **of receipt of the notice of accident as to whether he wishes to carry out or waive a pre-repair survey, the claimant may proceed to repair the vehicle and the potential defendant must compensate the claimant for the loss of use of his vehicle computed over** 2 working days**, inclusive of any intervening Saturday, Sunday or public holiday.
+8.2 Where the insurer fails to respond to the claimant within **2 working days** of receipt of the notice of accident as to whether he wishes to carry out or waive a pre-repair survey, the claimant may proceed to repair the vehicle and the potential defendant must compensate the claimant for the loss of use of his vehicle computed over **2 working days**, inclusive of any intervening Saturday, Sunday or public holiday.
 
 8.3 For avoidance of doubt, the compensation payable to the claimant for loss of use in the instances set out in paragraphs 8.1 and 8.2 is additional to any other claim for loss of use which the claimant may bring against the potential defendant.
 
@@ -424,7 +424,7 @@
 ### 13. **Costs Guidelines**
 13.1 Where parties have settled both liability and quantum before any action is commenced, a claimant who has sought legal representation to put forward his claim will have incurred costs.
 
->NIMA claims
+>**NIMA claims**
 
 13.2 A guide to the costs to be paid is as follows:
 
@@ -434,7 +434,7 @@
 >| $1,000 to $9,999 | $300 to $700 |
 >| $10,000 and above | $500 to $1,000 |
 
->PI claims
+>**PI claims**
 
 13.1 As a guide, where the sum settled (excluding interest if any) is less than $20,000, the pre-trial costs should be between $1,500 and $2,500, exclusive of disbursements.
 
