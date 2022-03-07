@@ -696,6 +696,42 @@ The Court will appoint the single joint expert after hearing submissions on the 
 The benchmark rates in this Appendix shall apply to claims for rental and loss of use of a motor vehicle made in cases filed in the Magistrates' Courts and the District Courts on or after 1 April 2022 and to cases filed in the High Court on or after 1 April 2022 and transferred to the District Courts.
 
 <table>
+<tbody>
+  <tr>
+    <td rowspan="2">Type</td>
+    <td colspan="2">Benchmark Rates</td>
+    <td rowspan="2">Factors To Be Considered</td>
+  </tr>
+  <tr>
+    <td>Rental<br>(per day)<br>$</td>
+    <td>Loss of Use<br>(per day)<br>$</td>
+  </tr>
+  <tr>
+    <td>Private Cars</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Up to 1,600cc and 97kW (130bhp)<br>[Category A of COE]</td>
+    <td>100-120</td>
+    <td>60-80</td>
+    <td rowspan="3">1. Usage eg, travelling salesman<br>2. Rental receipts, consider possibility that they may be inflated.<br>3. Luxury cars are dependent on make and model. They generally refer to cars with OMV of $35,000 and above on first registration and/or engine capacity exceeding 3,000 cc.<br>4. No. of days: To refer to surveyor’s reports or actual number of days of repair (whichever is shorter) and add Saturdays, Sundays and public holidays</td>
+  </tr>
+  <tr>
+    <td>Above 1,600cc or 97kW (130bhp)<br>[Category B of COE]</td>
+    <td>120-180</td>
+    <td>100-120</td>
+  </tr>
+  <tr>
+    <td>Luxury Cars<br>(including Super cars)</td>
+    <td>220 or more</td>
+    <td>150-240</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
 <thead>
 <tr>
 <td rowspan="2"><b>Type</b></td>
