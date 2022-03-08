@@ -9,15 +9,15 @@ Every bill of costs to be assessed pursuant to a judgment or order of Court must
 
 The attention of solicitors is drawn to Rules 2, 10 and 20 and Appendix 1 of Order 21 of the Rules of Court 2021. In addition, solicitors are to abide by the following requirements in relation to the form of bills of costs.
 
-(1) Margins
+(1) **Margins
 
 >A blank margin of not less than 10mm wide must be provided on all four sides for each page of the bill of costs.
 
-(2) Pagination
+(2) **Pagination
 
 >Every page of a bill of costs must be paginated consecutively at the centre of the top of the page. The attention of solicitors is drawn to Practice Direction 88 regarding pagination of documents filed using the Electronic Filing Service.
 
-(3) Format
+(3) **Format
 
 >(a) Party-and-party bills:
 
@@ -50,7 +50,7 @@ The attention of solicitors is drawn to Rules 2, 10 and 20 and Appendix 1 of Ord
 >>(iv) It is not necessary to repeat serially in the solicitor-and-own-client bill the items which have been serially set out in the party-and-party bill. It is sufficient, ordinarily, to incorporate all such items by reference and proceed to set out in detail any additional items, *ie*, items not already set out in the party-and-party bill. However, if a sum claimed for an item of disbursement in the solicitor-and-own-client bill is different from the corresponding sum claimed in the party-and-party bill, it will be necessary to set out serially again in the solicitor-and-own-client bill all the items of disbursement already set out in the party-and-party bill (including, where appropriate, the different sum or sums claimed) as well as additional items of disbursement not so set out. In addition, the global sums claimed for sections 1 and 2 of the solicitor-and-own-client bill should be indicated at the end of the respective sections whether or not they are the same sums as those claimed for sections 1 and 2 of 
 the party-and-party bill.
 
-(4) Particulars
+(4) **Particulars
 
 >(a) Sufficient particulars must be included in the bill of costs so as to enable the Registrar to exercise his discretion under Order 21, Rule 2 of the Rules of Court 2021.
 
@@ -66,7 +66,7 @@ the party-and-party bill.
 
 >(d) The information required by the Electronic Filing Service to compose the bill of costs summary includes the costs claimed under Sections 1, 2 and 3 of the bill of costs.
 
-(5) Goods and Services Tax
+(5) **Goods and Services Tax
 
 >A party claiming goods and services tax ( “**GST**”) in a bill of costs must comply with the directions set out in this paragraph. A party who fails to comply with the directions set out in this paragraph will be presumed not to be claiming GST in the bill concerned.
 
