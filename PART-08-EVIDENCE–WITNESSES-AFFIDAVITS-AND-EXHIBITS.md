@@ -75,7 +75,7 @@
 
 ## 61. Non-documentary exhibits to affidavits
 
-(1) Non-documentary exhibits (eg, samples of merchandise) shall be clearly marked with the exhibit mark in such a manner that there is no likelihood of the exhibit being separated or misplaced. The affidavit should indicate that the exhibit (*eg*, samples of merchandise) is a non-documentary exhibit and refer to it according to the relevant exhibit number.
+(1) Non-documentary exhibits (*eg*, samples of merchandise) shall be clearly marked with the exhibit mark in such a manner that there is no likelihood of the exhibit being separated or misplaced. The affidavit should indicate that the exhibit (*eg*, samples of merchandise) is a non-documentary exhibit and refer to it according to the relevant exhibit number.
 
 (2) Where the exhibit consists of more than one item each and every such separate item of the exhibits shall similarly be separately marked with enough of the usual exhibit mark to ensure precise identification.
 
