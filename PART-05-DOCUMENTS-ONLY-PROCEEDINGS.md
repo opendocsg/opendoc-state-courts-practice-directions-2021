@@ -32,9 +32,9 @@
 
 (6) Parties should consider the suitability of their case for a “Documents-Only” Civil Trial or Assessment and counsel should obtain their respective clients’ instructions prior to attending the following sessions:
 
->(a) in the case of all civil matters where **all issues concerning liability have not been agreed or determined**, the first Case Conference (“**CC**”) convened under Order 9, Rule 1 of the Rules of Court 2021; or
+>(a) in the case of all civil matters where all issues concerning liability have not been agreed or determined, the first Case Conference (“**CC**”) convened under Order 9, Rule 1 of the Rules of Court 2021; or
 
->(b) in the case of civil matters where interlocutory judgment has been entered for damages to be assessed, the first Assessment of Damages Court Dispute Resolution Conference (“**ADCDR**”) convened pursuant to Practice Direction 45 **after the filing of the Notice of Appointment for Assessment of Damages**. 
+>(b) in the case of civil matters where interlocutory judgment has been entered for damages to be assessed, the first Assessment of Damages Court Dispute Resolution Conference (“**ADCDR**”) convened pursuant to Practice Direction 45 after the filing of the Notice of Appointment for Assessment of Damages. 
 
 (7) The judicial officer conducting the CC (including ADCDR, as the case may be) will discuss with parties the suitability of the case for a “Documents-Only” Civil Trial or Assessment.
 
