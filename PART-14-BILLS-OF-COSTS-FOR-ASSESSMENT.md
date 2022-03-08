@@ -78,7 +78,7 @@ the party-and-party bill.
 
 >>(iii) The GST registration numbers should be indicated as follows: “GST Reg. No. *(solicitors for claimant/solicitors for 1st defendant/2nd defendant/(or as the case may be))*: xxxxx.”
 
->>(iv) Where no GST registration number has been allocated to a receiving party, a statement to this effect should be included after the GST registration numbers of the solicitors for the receiving parties, or the receiving parties, as the case may be, in the following manner: *“Solicitors for claimant/solicitors for 1st defendant/2nd defendant/(or as the case may be): no GST Reg. No.”*
+>>(iv) Where no GST registration number has been allocated to a receiving party, a statement to this effect should be included after the GST registration numbers of the solicitors for the receiving parties, or the receiving parties, as the case may be, in the following manner: *“Solicitors for claimant/solicitors for 1st defendant/2nd defendant/(or as the case may be):* no GST Reg. No.”
 
 >(b) Input tax allowable:
 
