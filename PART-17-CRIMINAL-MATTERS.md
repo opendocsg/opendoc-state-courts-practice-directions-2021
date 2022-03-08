@@ -20,11 +20,11 @@
 
 ## 112. Magistrate's complaints (Private summonses)
 
-(1) Framing of criminal charges
+(1) **Framing of criminal charges
 
 >Solicitors representing the complainants are to frame and submit the charges when the complaints are filed. This will facilitate the immediate issuance of the summons if it is so ordered by the Duty Magistrate. This paragraph does not apply to Magistrate’s complaints filed at the Community Courts and Tribunals Cluster Complaints Counter. 
 
-(2) Infringement of copyright/trademarks
+(2) **Infringement of copyright/trademarks
 
 >Magistrate's complaints involving infringement of copyright/trademarks must be sworn by authorised representatives. A letter of authorisation to that effect must be attached to the complaint.
 
