@@ -89,11 +89,11 @@
 
 (3) Auctions:
 
->(a) Sale by Bailiff
+>(a) **Sale by Bailiff**
 
 >If a scheduled auction is not proceeded with, or is abandoned, due to the absence of the enforcement applicant or the enforcement applicant’s solicitor or other authorised representative, the Bailiff may at his discretion release any or all of the items seized.
 
->(b) Sale by auctioneer
+>(b) **Sale by auctioneer**
 
 >Under Order 22, Rule 7(5) of the Rules of Court 2021, where the value of the seized property is estimated by the Bailiff to be more than $20,000, the sale must be carried out by an auctioneer and by public auction. The auctioneer shall be engaged by the enforcement applicant, and the auction must be advertised by the auctioneer at least once in a printed local newspaper and at least 14 days before the date of auction. All costs and expenses incurred in connection with the auction shall be borne by the enforcement applicant and may be added to the judgment debt.
 
