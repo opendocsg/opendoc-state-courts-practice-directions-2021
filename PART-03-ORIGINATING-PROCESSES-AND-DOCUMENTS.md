@@ -29,7 +29,7 @@
 
 ### ***Identification numbers for non-parties***
 
-(4) If any person (living or dead), any entity or any property is in part or in whole the subject matter of any proceedings, or is affected by any proceedings, but is not a party thereto, and the name of such person, entity or property is to appear in the title of the documents filed in the proceedings, the party filing the first document in the proceedings must state the identification number of such person, entity or property in parentheses immediately below or after the name of the same. Thereafter, all documents subsequently filed in the proceedings by any party shall include this identification number in parentheses immediately below or after the name of the person, entity or property to which it applies. If the party filing the first document in the proceedings is unable, after reasonable enquiry, to discover the identification number of the person, entity or property, he may state immediately below or after the name of the same “(ID No. not known)”. All documents subsequently filed by any party shall then contain these words in parentheses below or after the name of this person, entity or property.
+(4) If any person (living or dead), any entity or any property is in part or in whole the subject matter of any proceedings, or is affected by any proceedings, but is not a party thereto, and the name of such person, entity or property is to appear in the title of the documents filed in the proceedings, the party filing the first document in the proceedings must state the identification number of such person, entity or property in parentheses immediately below or after the name of the same. Thereafter, all documents subsequently filed in the proceedings by any party shall include this identification number in parentheses immediately below or after the name of the person, entity or property to which it applies. If the party filing the first document in the proceedings is unable, after reasonable enquiry, to discover the identification number of the person, entity or property, he may state immediately below or after the name of the same “(ID Unknown)”. All documents subsequently filed by any party shall then contain these words in parentheses below or after the name of this person, entity or property.
 
 ### ***Special cases***
 
@@ -95,7 +95,7 @@
 
 ### ***Inability to furnish identification number at the time of filing a document***
 
-(8)If a party who wishes to file a document is unable at the time of filing to furnish the necessary identification numbers required by this Practice Direction, the party may indicate “(ID Not Known)” at the time of filing. However, when the necessary identification numbers have been obtained, the party must furnish the necessary identification numbers to the Registry through the Electronic Filing Service.
+(8)If a party who wishes to file a document is unable at the time of filing to furnish the necessary identification numbers required by this Practice Direction, the party may indicate “(ID Unknown)” at the time of filing. However, when the necessary identification numbers have been obtained, the party must furnish the necessary identification numbers to the Registry through the Electronic Filing Service.
 
 ### ***Identifying party whose name is unknown, under r 67 of the Supreme Court of Judicature (Protection from Harassment) Rules 2021***
 
@@ -433,7 +433,7 @@ Every affidavit which is filed in conjunction with a summons (but not those file
 
 ### ***Obtaining certified true copies of documents***
 
-(9) Applications to obtain certified true paper copies of documents should be made by way of filing a Request through the Electronic Filing Service, unless the documents concerned have not been filed through the Electronic Filing Service.
+(9) Users are encouraged to use the Authentic Court Order system to validate orders of court issued after 2 January 2020 by going to https://www.courtorders.gov.sg. However, certified true copies of orders of court will still be available upon application. Applications to obtain certified true paper copies of documents should be made by way of filing a Request through the Electronic Filing Service, unless the documents concerned have not been filed through the Electronic Filing Service.
 
 (10) Applications to obtain hard copy extracts or certified true copies of documents in civil proceedings that do not use the Electronic Filing Service may be made by submitting a Request to the Registry:
 
