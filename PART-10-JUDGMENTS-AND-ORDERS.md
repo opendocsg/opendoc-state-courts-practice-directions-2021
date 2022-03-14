@@ -2,9 +2,9 @@
 
 ## 76. Draft orders of Court
 
-(1) In this Practice Direction, “order” has the same meaning as that given in Chapter 12 of the Rules of Court 2021. 
+(1) In this Practice Direction, “order” has the same meaning as that given in Order 17 of the Rules of Court 2021. 
 
-(2) Parties to summonses shall, after agreeing on the draft judgment, engross a final copy of such draft for the Registrar’s Signature. Draft orders of Court for summonses without notice may be submitted with the summons and the supporting affidavit when these are filed. 
+(2) Parties to summonses shall, after agreeing on the draft judgment, engross a final copy of such draft for the Registrar’s signature. Draft orders of Court for summonses without notice may be submitted with the summons and the supporting affidavit when these are filed. 
 
 (3) Unless the Registrar or the Court orders otherwise, draft orders shall be composed in electronic form through the Electronic Litigation System.
 
@@ -52,13 +52,13 @@ To reduce unnecessary documentation and to expedite proceedings, solicitors are 
 
 >(b) states in his notice of intention to contest or not to contest that he does not intend to contest all or some of the claims. 
 
-(2) A claimant (or a party in an equivalent position) may apply for a default judgment by filing the following documents through the Electronic Litigation System: 
+(2) A claimant (or a party in an equivalent position) may apply for a default judgment by filing the following documents through the Electronic Filing Service: 
 
->(a) a Request in [Form 11](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2011.pdf) or [Form 14](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2014.pdf) of Appendix A2 to these Practice Directions;
+>(a) an application in [Form 11](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2011.pdf) or [Form 14](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2014.pdf) of Appendix A2 (found under “Judgment in Default of a Notice of Intention to Contest or Not Contest” or “Judgment in Default of Defence / Defence to Counterclaim” respectively in the Orders/Judgments category in the Electronic Filing Service) to these Practice Directions;
 
->(b) a memorandum of service in [Form 12](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2012.pdf) of Appendix A2 to these Practice Directions; 
+>(b) a memorandum of service in [Form 12](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2012.pdf) of Appendix A2 to these Practice Directions (if not already filed); ; 
 
->(c) a draft judgment in [Form 33](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2033.pdf) of Appendix A2 to these Practice Directions setting out the terms of the judgment to be made against the defendant;
+>(c) a draft judgment setting out the terms of the judgment to be made against the defendant;
 
 >(d) an itemised Note of Costs, stating the costs and disbursements to which he is entitled (if any); 
 
@@ -66,7 +66,7 @@ To reduce unnecessary documentation and to expedite proceedings, solicitors are 
 
 >(f) where the judgment is for possession of immovable property, a certificate by the claimant’s solicitor (or where the claimant is acting in person, an affidavit) stating that no relief is sought in the nature of the reliefs under Order 52, Rule 1 of the Rules of Court 2021. 
 
-(3) In order to satisfy itself that a defendant is in default of a notice of intention to contest or not contest a claim or service of defence or defence to counterclaim, the Court may require an affidavit to be filed stating the time and manner service of the Originating Claim (or counterclaim, where judgment is sought for failure to file and serve a defence to counterclaim) was effected on the defendant, as well as the steps taken to ascertain that the defendant had failed to serve a notice of intention to contest or not contest a clam or a defence or a defence to counterclaim, as the case may be.
+(3) In order to satisfy itself that a defendant is in default of a notice of intention to contest or not contest a claim or service of defence or defence to counterclaim, the Court may require an affidavit to be filed stating the time and manner service of the Originating Claim (or counterclaim, where judgment is sought for failure to file and serve a defence to counterclaim) was effected on the defendant, as well as the steps taken to ascertain that the defendant had failed to serve a notice of intention to contest or not contest a claim or a defence or a defence to counterclaim, as the case may be.
 
  
 ## 79. Consent judgments 
