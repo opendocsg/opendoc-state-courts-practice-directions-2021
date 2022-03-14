@@ -107,7 +107,7 @@ Subject to Practice Direction 36(16), a solicitor appearing in any cause or matt
 
 >(c) any counsel; or
 
->(d) any officer or other person appointed by the Public Prosecutor to act as a Deputy Public Prosecutor or an Assistant Public Prosecutor in carrying out any of the duties of the Public Prosecutor under the Criminal Procedure Code (Cap 68) or under any other written law,
+>(d) any officer or other person appointed by the Public Prosecutor to act as a Deputy Public Prosecutor or an Assistant Public Prosecutor in carrying out any of the duties of the Public Prosecutor under the Criminal Procedure Code 2010 or under any other written law,
 is required to attend Court (including any hearing conducted by way of live video or live television link) and wishes to absent himself from Court on medical grounds, he must tender or cause to be tendered to the Court an original medical certificate. Where a medical certificate cannot be tendered in person, it may be tendered by any electronic means which the Court may permit.
 
 (2) Any medical certificate tendered to the Court under paragraph (1) must:
@@ -141,7 +141,7 @@ is required to attend Court (including any hearing conducted by way of live vide
 
 ## 15. Precedence and preaudience of Senior Counsel
 
-(1) By virtue of section 31 of the Legal Profession Act (Cap 161) and existing custom and usage, Senior Counsel are given precedence and the right of preaudience.
+(1) By virtue of section 31 of the Legal Profession Act 1966 and existing custom and usage, Senior Counsel are given precedence and the right of preaudience.
 
 (2) In order to give substance to the principle of precedence and preaudience to Senior Counsel, Senior Counsel who intend to appear before Judges or Registrars for summonses hearings should inform the Registrar in writing not later than 2 clear days before the scheduled hearing date. Matters involving Senior Counsel will thereafter be listed first, in the order of their precedence. If Senior Counsel do not appear at the time their matters come on for hearing according to the list, they will have to wait for their turn in accordance with their queue numbers given by the Queue Management System in the State Courts, subject to the Judge’s or Registrar’s overriding discretion.
 
@@ -190,14 +190,13 @@ is required to attend Court (including any hearing conducted by way of live vide
 
 (5) This Practice Direction shall also apply to all alternative dispute resolution and counselling sessions conducted in the State Courts.
 
-(6) The attention of court users is also drawn to section 5 of the Administration of Justice (Protection) Act 2016 (Act 19 of 2016).
-
+(6) The attention of court users is also drawn to section 5 of the Administration of Justice (Protection) Act 2016.
 
 ## 19. Personal data
 
 (1) For the purposes of this Practice Direction: 
 
->(a) “**personal data**” shall have the same meaning as defined in the Personal Data Protection Act 2012 (Act 26 of 2012); and 
+>(a) “**personal data**” shall have the same meaning as defined in the Personal Data Protection Act 2012; and 
 
 >(b) “**data subject**” means a person whose personal data appears in any document filed in the Registry or an electronic cause book or register maintained by the Registry.
 
@@ -270,7 +269,7 @@ is required to attend Court (including any hearing conducted by way of live vide
 
 (1) Where moneys are to be paid into Court pursuant to a judgment or order of the Court, the judgment or order must be referenced in the Direction to Accountant-General for Payment In and filed into the case file via the Electronic Filing Service for approval by the Court.
 
-(2) Where a party wishes to furnish security for costs for an appeal filed in the State Courts, the Direction to Account-General for Payment In, which shall be prepared using [Form 44](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2044.pdf) of Appendix A2 to these Practice Directions, must reference the provision in the Rules of Court 2021 pursuant to which the security for costs is furnished.
+(2) Where a party wishes to furnish security for costs for an appeal filed in the State Courts, the Direction to Accountant-General for Payment In, which shall be prepared using [Form 44](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2044.pdf) of Appendix A2 to these Practice Directions, must reference the provision in the Rules of Court 2021 pursuant to which the security for costs is furnished.
 
 (3) Where moneys are to be paid out of Court pursuant to a judgment or order of the Court, the judgment or order must be referenced in the Direction to Accountant-General for Payment Out and filed into the case file via the Electronic Filing Service for approval by the Court. The following documents (as the case may be) must, where necessary, accompany the filing of the Direction to Accountant-General for Payment Out and be filed into the case file via the Electronic Filing Service for approval by the Court:
 
