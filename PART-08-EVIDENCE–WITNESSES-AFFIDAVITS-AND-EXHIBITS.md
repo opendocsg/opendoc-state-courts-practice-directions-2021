@@ -19,7 +19,7 @@
 
 ## 59. Giving of evidence by person outside Singapore through live video, live television or live audio link in any proceedings (other than proceedings in a criminal matter)
 
-(1) Any application for permission pursuant to section 62A of the Evidence Act (Cap 97) for any person outside Singapore to give evidence by live video, live television or live audio link in any proceedings (other than proceedings in a criminal matter) must be made expeditiously and, in any case, unless the Court otherwise directs, no later than 4 weeks before the date of commencement of the hearing at which the person is to give evidence. The application is to be made by way of a summons with notice with a supporting affidavit.
+(1) Any application for permission pursuant to section 62A of the Evidence Act 1893 for any person outside Singapore to give evidence by live video, live television or live audio link in any proceedings (other than proceedings in a criminal matter) must be made expeditiously and, in any case, unless the Court otherwise directs, no later than 4 weeks before the date of commencement of the hearing at which the person is to give evidence. The application is to be made by way of a summons with notice with a supporting affidavit.
 
 (2) A party applying for permission for any person outside Singapore to give evidence by live video, live television or live audio link must take note of the relevant legislation and requirements in force in the foreign country or territory where the person is giving evidence. Certain countries or territories may impose prohibitions against, restrictions on, or requirements to obtain permission for or relating to, the giving of evidence by a person in that country or territory for court proceedings in a different country or territory. The party applying for permission must make all necessary enquiries, and take all necessary steps, to ensure that the foreign country or territory where the person is giving evidence raises no objection to the giving of evidence in that country or territory, for court proceedings in Singapore. This may be done by any means that the party considers appropriate, including:
 
@@ -150,7 +150,7 @@
 
 ### ***Swearing and signing of affidavits in Singapore before, and completing of attestation by, commissioner for oaths through live video link or live television link***
 
-(6) For the purposes of Order 15, Rule 22 of the Rules of Court 2021, the deponent and the commissioner for oaths may sign the affidavit electronically by applying a security procedure that results in a secure electronic signature under section 18 of the Electronic Transactions Act (Cap 88).
+(6) For the purposes of Order 15, Rule 22 of the Rules of Court 2021, the deponent and the commissioner for oaths may sign the affidavit electronically by applying a security procedure that results in a secure electronic signature under section 18 of the Electronic Transactions Act 2010.
 
 (7) The affidavit should be made, as far as possible, as if the deponent were appearing before the commissioner for oaths in person, and the attestation must state that the affidavit was sworn (or affirmed) and signed in Singapore with the deponent appearing before the commissioner for oaths through a live video link or live television link, or that the affidavit was signed by the deponent and/or the commissioner for oaths electronically in Singapore, or both, as the case may be.
 
