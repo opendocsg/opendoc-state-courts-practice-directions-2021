@@ -101,7 +101,7 @@
 <li><a href="./Forms/Appendix%20A2/Form%2046.pdf" download>Form 46 : Statutory Declaration</a></li>
 <li><a href="./Forms/Appendix%20A2/Form%2047.pdf" download>Form 47 : Reference Under Article 100 of the Constitution for Opinion on Constitutional Question</a></li>
 <li><a href="./Forms/Appendix%20A2/Form%2048.pdf" download>Form 48 : Originating Claim in Action <i>In Rem</i></a></li>
-<li><a href="./Forms/Appendix%20A2/Form%2049.pdf" download>Form 49 : Notice of Intention to Content or Not Contest an Originating Claim in Action <i>In Rem</i></a></li>
+<li><a href="./Forms/Appendix%20A2/Form%2049.pdf" download>Form 49 : Notice of Intention to Contest or Not Contest an Originating Claim in Action <i>In Rem</i></a></li>
 <li><a href="./Forms/Appendix%20A2/Form%2050.pdf" download>Form 50 : Application for Judgment for Failing to File Notice of Intention to Contest or Not Contest / When Notice of Intention Not to Contest All or Some Claims is Filed </a></li>
 <li><a href="./Forms/Appendix%20A2/Form%2051.pdf" download>Form 51 : Warrant of Arrest</a></li>
 <li><a href="./Forms/Appendix%20A2/Form%2052.pdf" download>Form 52 : Caveat against Arrest</a></li>
@@ -111,7 +111,7 @@
 <li><a href="./Forms/Appendix%20A2/Form%2056.pdf" download>Form 56 : Withdrawal of Caveat</a></li>
 <li><a href="./Forms/Appendix%20A2/Form%2057.pdf" download>Form 57 : Bail Bond</a></li>
 <li><a href="./Forms/Appendix%20A2/Form%2058.pdf" download>Form 58 : Commission for Appraisement and Sale</a></li>
-<li><a href="./Forms/Appendix%20A2/Form%2059.pdf" download>Form 59 : Order for Recognition of Foreign Judgment / Recognition and Enforcement of Foreign Judgment / Enforcement of Judicial Settlement under the Choice of Court Agreements Act</a></li>
+<li><a href="./Forms/Appendix%20A2/Form%2059.pdf" download>Form 59 : Order for Recognition of a Foreign Judgment / Recognition and Enforcement of a Foreign Judgment / Enforcement of a Judicial Settlement under the Choice of Court Agreements Act</a></li>
 <li><a href="./Forms/Appendix%20A2/Form%2060.pdf" download>Form 60 : Order for Registration of Commitment / Competition Commission Direction / Competition Appeal Board Decision</a></li>
 <li><a href="./Forms/Appendix%20A2/Form%2061.pdf" download>Form 61 : Search Warrant under Section 34 of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act</a></li>
 <li><a href="./Forms/Appendix%20A2/Form%2062.pdf" download>Form 62 : Order to Arrest Judgment Debtor Likely to Leave Singapore</a></li>
