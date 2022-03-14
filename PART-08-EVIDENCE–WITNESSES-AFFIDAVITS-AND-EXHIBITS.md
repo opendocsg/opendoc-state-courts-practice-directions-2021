@@ -135,6 +135,10 @@
 
 (8) Related documents (*eg*, correspondence and invoices) may be collected together and collectively exhibited as one exhibit arranged in chronological order, beginning with the earliest at the top, paginated in accordance with paragraph (3) above, and the exhibit must have a front page showing the table of contents of the items in the exhibit.
 
+### ***References to exhibits in text of affidavit***
+
+(9)	Where the text of an affidavit makes reference to a documentary exhibit, the page number(s) of the affidavit where the relevant portions of the documentary exhibit can be found should be set out alongside the number of the exhibit in question.
+
 
 ## 63. Swearing or affirming of affidavits, statutory declarations and oaths
 
