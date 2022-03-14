@@ -13,25 +13,25 @@ These Practice Directions may be cited as the State Courts Practice Directions 2
 
 > (a) **Tribunal Proceedings** means:
 
->> (i) proceedings before the Small Claims Tribunals under the Small Claims Tribunals Act (Cap 308) (“**SCTA**”);
+>> (i) proceedings before the Small Claims Tribunals under the Small Claims Tribunals Act 1984 (“**SCTA**”);
 
->> (ii) proceedings before the District Court under sections 38 or 42 of the SCTA and rules 20F or 28A of the Small Claims Tribunals Rules (Cap 308, R 1) (“**SCT Rules**”);
+>> (ii) proceedings before the District Court under sections 38 or 42 of the SCTA and rules 20F or 28A of the Small Claims Tribunals Rules (“**SCT Rules**”);
 
->> (iii) applications to the District Court for leave to appeal to the General Division of the High Court under section 38 of the Small Claims Tribunals Act (Cap 308) or for a stay of execution pending appeal under section 42 of the SCTA and rules 20F or 28A of the SCT Rules;
+>> (iii) applications to the District Court for leave to appeal to the General Division of the High Court under section 38 of the SCTA or for a stay of execution pending appeal under section 42 of the SCTA and rules 20F or 28A of the SCT Rules;
 
->> (iv) proceedings before the Employment Claims Tribunals under the Employment Claims Act 2016 (Act 21 of 2016) (“**ECA**”);
+>> (iv) proceedings before the Employment Claims Tribunals under the Employment Claims Act 2016 (“**ECA**”);
 
->> (v) proceedings before the District Court under sections 7, 23 and 24 of the ECA and rules 25 and 33 and Part 9 of the Employment Claims Rules 2017 (S 104 of 2017) (“**EC Rules**”);
+>> (v) proceedings before the District Court under sections 7, 23 and 24 of the ECA and rules 25 and 33 and Part 9 of the Employment Claims Rules 2017 (“**EC Rules**”);
 
 >> (vi) applications to the District Court for the registration or setting-aside of a settlement agreement, for leave to appeal to the General Division of the High Court or for a stay of execution pending appeal, under sections 7, 23 and 24 of the ECA respectively and rules 25 and 33 and Part 9 of the EC Rules;
 
->> (vii) proceedings before the Community Disputes Resolution Tribunals under the Community Disputes Resolution Act 2015 (Act 7 of 2015); and
+>> (vii) proceedings before the Community Disputes Resolution Tribunals under the Community Disputes Resolution Act 2015; and
 
-> (b) **Simplified POHA Proceedings** means simplified proceedings before the Protection from Harassment Court as defined in the Supreme Court of Judicature (Protection from Harassment) Rules 2021 (S 359 of 2021).
+> (b) **Simplified POHA Proceedings** means simplified proceedings before the Protection from Harassment Court as defined in the Supreme Court of Judicature (Protection from Harassment) Rules 2021.
 
 (4) The State Courts Practice Directions, as in force immediately before the coming into effect of these Practice Directions, shall continue to apply to civil proceedings commenced in the State Courts before 1 April 2022.
 
-(5) These Practice Directions shall apply to criminal proceedings in the State Courts, regardless of when they were commenced, only if the Practice Direction expressly provides that it will apply to such proceedings.
+(5) To the extent that these Practice Directions are applicable to criminal proceedings in the State Courts, they shall for the avoidance of doubt apply regardless of when such criminal proceedings were commenced.
 
 
 ## 3. Citation of legislation in proceedings
@@ -40,7 +40,7 @@ These Practice Directions may be cited as the State Courts Practice Directions 2
 
 (2)	In these Practice Directions, any reference to a repealed provision of any written law is a reference to that provision as in force immediately before the date the provision is repealed.
 
-(3)	Any reference to “Rules of Court 2021” is a reference to the Rules of Court (Cap 322, R 5) as in force on or after 1 April 2022.
+(3)	Any reference to “Rules of Court 2021” is a reference to the Rules of Court 2021 as in force on or after 1 April 2022.
 
 
 ## 4. Calculation of time
