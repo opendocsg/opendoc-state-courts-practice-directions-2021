@@ -64,7 +64,7 @@ The various courts, offices and counters within the State Courts have different 
 
 (2) The duty hours will be from Mondays to Fridays from 9.30am to 12.30pm and 2.30pm to 5.30pm.
 
-(3) Parties seeking to obtain directions and/or orders from the Duty Registrar shall do so by filing an “Other Hearing Related Request” through the Electronic Filing Service, in accordance with the Workflow for Hearings before the Duty Registrar and Duty Judicial Officer, which can be downloaded from the Singapore Courts’ website at <https://www.judiciary.gov.sg>.   
+(3) Parties seeking to obtain directions and/or orders from the Duty Registrar shall do so by filing an “Other Hearing Related Request” through the Electronic Filing Service, in accordance with the Workflow for Hearings before the Duty Registrar and Duty Judicial Officer, which can be downloaded from the Singapore Courts website at <https://www.judiciary.gov.sg>.   
 
 (4) If parties are unable to file a Request on the Electronic Filing Service (eg, because the originating papers for the case have not been filed or accepted), parties may call 6721 7705 to seek directions. In doing so parties should be prepared to explain the urgency of the application or request.
 
