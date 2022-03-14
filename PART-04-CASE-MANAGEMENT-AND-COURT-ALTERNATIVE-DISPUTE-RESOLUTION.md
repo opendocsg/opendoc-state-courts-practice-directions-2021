@@ -107,9 +107,9 @@
 
 (5) Further SMCL CCs may be fixed as the Court deems fit or on application by parties.
 
-(6) Where a party intends to file any application (other than any directed at a CC), the Court’s approval to file further applications must be sought by filing a “Request to seek Permission for Application”, copied to all other parties, in accordance with Practice Direction 48(5). Where parties are of the view that it would be more appropriate for submissions to be made in a physical or remote Case Conference, a “Request for Case Conference” may be filed in lieu of the “Request to Seek Permission for Application”. The “Request for Case Conference” should set out the reasons why the request for the Court’s approval to file further applications cannot or should not be dealt with asynchronously. 
+(6) Where a party intends to file any application (other than one directed at a CC and any application set out in Order 9, Rule 9(7)(a) to (o) of the Rules of Court 2021), the Court’s approval to file such applications must be sought by filing a “Request for Permission to file Application”, copied to all other parties, in accordance with Practice Direction 48(5). Where parties are of the view that it would be more appropriate for submissions to be made at a physical or remote CC, a “Request for Case Conference” may be filed in lieu of the “Request for Permission to file Application”. The “Request for Case Conference” should set out the reasons why the request for the Court’s approval to file further applications cannot or should not be dealt with asynchronously
 
-(7) Where parties indicate at CC that they will not be filing any SAPT but parties subsequently decide to file an SAPT, parties are to file an “Request to Seek Permission for Application” to inform the Court of their intention and to seek directions for the filing of the SAPT.
+(7) Where parties indicate at the CC that they will not be filing any SAPT but parties subsequently decide to file an SAPT, parties are to file a “Request for Permission to file Application” to inform the Court of their intention and to seek directions for the filing of the SAPT.
 
 (8) If parties wish to extend or vary timelines previously directed by the Court, parties should seek these directions from the Court at the SMCL CC, subject to Practice Directions 48(9)(e) and (g) read with Practice Directions 48(11) to 48(13).
 
@@ -138,9 +138,9 @@
 
 ### ***Scope of the Simplified Process***
 
-(1) All Originating Claims filed in the Magistrate’s Court on or after 1 April 2022, save for personal injury claims, non-injury motor accident claims, claims in negligence (including professional negligence claims) and medical negligence claims, are subject to the Simplified Process under Order 65 of the Rules of Court 2021 (“**Simplified Process**”). Where parties to Originating Claims filed in the District Courts (“**DC**”) on or after 1 April 2022 consent for Order 65 to apply to those proceedings by filing [Form 3](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%203.pdf) of Appendix A1 to these Practice Directions, those proceedings will also be subject to the Simplified Process. Where parties to a DC claim have filed Form 3 consenting to the Simplified Process, the parties shall also separately file a Request through the Electronic Filing Service for a Civil Simplified CC to be convened.
+(1) All Originating Claims filed in the Magistrate’s Court on or after 1 April 2022, save for personal injury claims, non-injury motor accident claims, claims in negligence (including professional negligence claims) and medical negligence claims, are subject to the Simplified Process under Order 65 of the Rules of Court 2021 (“**Simplified Process**”). Where parties to Originating Claims filed in the District Courts (“**DC**”) on or after 1 April 2022 consent for Order 65 to apply to those proceedings by filing [Form 3](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%203.pdf) of Appendix A1 to these Practice Directions, those proceedings will also be subject to the Simplified Process. Where parties to a DC claim have filed Form 3 consenting to the Simplified Process, the parties shall also separately file a Request through the Electronic Filing Service for a Civil Simplified Case Conference (“**CC**”) to be convened.
 
-### ***Upfront Discovery***
+### ***Upfront Production of Documents***
 
 (2) Where copies of documents to be provided together with pleadings, pursuant to Order 65, Rule 2 of the Rules of Court 2021, are voluminous, parties are encouraged to consider supplying the documents in a common electronic format and using storage media that the other party can use.
 
@@ -150,7 +150,7 @@
 
 (3) Subject to the discretion of the Court, where a case is identified for the Simplified Process:
 
->(a) A first Civil Simplified Case Conference (“**CC**”) will be fixed around 7 weeks from the date that the Defence was filed.
+>(a) A first Civil Simplified CC will be fixed around 7 weeks from the date that the Defence was filed.
 
 >(b) A Civil Simplified CC Notice will be issued to the claimant and any other party who has filed a notice of intention to contest notifying parties that the case has been identified for the Simplified Process, of the date of the first Civil Simplified CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for the purposes of the Civil Simplified CC. 
 
@@ -166,7 +166,7 @@
 
 >>(ii) the Court ADR Form ([Form 6](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%206.pdf) of Appendix A1 to these Practice Directions) in order to facilitate a considered decision on Court alternative dispute resolution (“**Court ADR**”) options. The Court ADR Form must be read and completed by each party. If there is a solicitor acting for the party, the solicitor must also complete the Form; and
 
->>(iii) the completed checklist enclosed to the Civil Simplified CC Notice.
+>>(iii) the completed checklist enclosed with the Civil Simplified CC Notice.
 
 (5) The purpose of the Civil Simplified CC is for the Court to consider all available options for the resolution of the case jointly with the parties. In order for the Civil Simplified CC to be effective and fruitful, the solicitors having conduct of the matter should take all necessary instructions from their clients to achieve an amicable resolution of the matter (including exploring the use of any appropriate Court ADR modality), and comply with all directions (including those at Practice Direction 36(3) above), prior to attending the first Civil Simplified CC.
 
@@ -196,9 +196,9 @@
 
 (8) Following from the above directions, the Court may also, if necessary, fix a further Civil Simplified CC, direct parties to provide further status updates to ascertain compliance with the directions given at previous Civil Simplified CCs and give further directions as may be necessary.
 
-(9) Where a party intends to file any application (other than one directed at a CC and any application set out in Order 9, Rule 9(7)(a) to (o) of the Rules of Court 2021), the Court’s approval to file such applications must be sought by filing a “Request to seek Permission for Application”, with a copy to the other party, in accordance with Practice Direction 48(5). Where parties are of the view that it would be more appropriate for submissions to be made in a physical or remote CC, a “Request for Case Conference” may be filed in lieu of the “Request to Seek Permission for Application”. The “Request for Case Conference” should set out the reasons why the request for the Court’s approval to file further applications cannot be dealt with asynchronously.
+(9) Where a party intends to file any application (other than one directed at a CC and any application set out in Order 9, Rule 9(7)(a) to (o) of the Rules of Court 2021), the Court’s approval to file such applications must be sought by filing a “Request for Permission to file Application”, copied to all other parties, in accordance with Practice Direction 48(5). Where parties are of the view that it would be more appropriate for submissions to be made at a physical or remote CC, a “Request for Case Conference” may be filed in lieu of the “Request for Permission to file Application”. The “Request for Case Conference” should set out the reasons why the request for the Court’s approval to file further applications cannot or should not be dealt with asynchronously.
 
-(10) Where parties indicate at CC that they will not be filing any SAPT but parties subsequently decide to file an SAPT, parties are to file an “Request to Seek Permission for Application” to inform the Court of their intention and to seek directions for the filing of the SAPT.
+(10) Where parties indicate at the CC that they will not be filing any SAPT but parties subsequently decide to file an SAPT, parties are to file a “Request for Permission to file Application” to inform the Court of their intention and to seek directions for the filing of the SAPT.
 
 (11) If parties wish to extend or vary timelines previously directed by the Court, parties should seek these directions from the Court at the Civil Simplified CC, subject to Practice Directions 48(9)(e) and (g) read with Practice Directions 48(11) to 48(13).
 
@@ -218,7 +218,7 @@
 
 (16) The Court will consider, at each Civil Simplified CC, all available options in the case jointly with the parties. Accordingly, at any Civil Simplified CC where the attendance of parties is required, the solicitor in charge of the case for that party (ie, the solicitor who has actual conduct of the case for that party and who is familiar with it) shall attend the Civil Simplified CC. Solicitors for both parties shall attend the Civil Simplified CC.
 
-(17) If judgment is entered on liability for damages to be assessed, an Assessment of damages Case Conference will be fixed around 7 weeks after the date judgment is entered. A CC Notice will be issued to the claimant and any party against whom judgment on liability has been entered (if that party has filed a notice of intention to contest) notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
+(17) If judgment is entered on liability for damages to be assessed, an Assessment of Damages CC will be fixed around 7 weeks after the date judgment is entered. A CC Notice will be issued to the claimant and any party against whom judgment on liability has been entered (if that party has filed a notice of intention to contest) notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
 
 
 ## 37. General Process
@@ -239,15 +239,15 @@
 
 (3) The Court may at the first General Process CC give directions for the filing of the SAPT. 
 
-(4) Where a party intends to file further any application (other than any directed at a CC), the Court’s approval to file further applications must be sought by filing a “Request to seek Permission for Application”, copied to the other party, in accordance with Practice Direction 48(5). Where parties are of the view that it would be more appropriate for submissions to be made in a physical or remote CC, a “Request for Case Conference” may be filed in lieu of the “Request to Seek Permission for Application”. The “Request for Case Conference” should set out the reasons why the request for the Court’s approval to file further applications cannot be dealt with asynchronously.
+(4) Where a party intends to file any application (other than one directed at a CC and any application set out in Order 9, Rule 9(7)(a) to (o) of the Rules of Court 2021), the Court’s approval to file such applications must be sought by filing a “Request for Permission to file Application”, copied to the other party, in accordance with Practice Direction 48(5). Where parties are of the view that it would be more appropriate for submissions to be made at a physical or remote CC, a “Request for Case Conference” may be filed in lieu of the “Request for Permission to file Application”. The “Request for Case Conference” should set out the reasons why the request for the Court’s approval to file further applications cannot be dealt with asynchronously.
 
-(5) Where parties indicate at CC that they will not be filing any SAPT but parties subsequently decide to file an SAPT, parties are to file an “Request to Seek Permission for Application” to inform the Court of their intention and to seek directions for the filing of the SAPT.
+(5) Where parties indicate at the CC that they will not be filing any SAPT but parties subsequently decide to file an SAPT, parties are to file a “Request for Permission to file Application” to inform the Court of their intention and to seek directions for the filing of the SAPT.
 
 (6) If parties wish to extend or vary timelines previously directed by the Court, parties should seek these directions from the Court at the General Process CC, subject to Practice Directions 48(9)(e) and (g) read with Practice Directions 48(11) to 48(13).
 
 (7) Where the action is not disposed of by the Court or settled or otherwise resolved through the actions of the parties, the Court will at an appropriate stage give directions for the matter to be set down for trial. If the matter is set down by the date fixed by the Court, the matter will be fixed for Pre-Trial CC and the further General Process CC will be vacated. Where the matter has been set down, parties should seek extended timelines and/or permission to file any further applications at the Pre-Trial CC or from the trial judge if one has been allocated. 
 
-(8) If judgment is entered on liability for damages to be assessed, an Assessment of Damages Case Conference will be fixed around 7 weeks after the date judgment is entered. A CC Notice will be issued to the claimant and the parties against whom judgment on liability has been entered notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
+(8) If judgment is entered on liability for damages to be assessed, an Assessment of Damages CC will be fixed around 7 weeks after the date judgment is entered. A CC Notice will be issued to the claimant and the parties against whom judgment on liability has been entered notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
 
 ### ***General provisions for General Process CCs***
 
@@ -373,7 +373,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 ### ***Recording of terms of settlement agreement, consent interlocutory judgment or consent judgment***
 
-(17) If the parties reach agreement on the issue of liability for the claim or quantum of damages or both, they must submit [Form 7](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%207.pdf) of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent interlocutory judgment or consent judgment as the case may be.
+(17) If the parties reach agreement on the issue of liability for the claim or quantum of damages or both, they must submit [Form 7](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%207.pdf) of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent judgment on liability or consent judgment as the case may be.
 
 ### ***Benchmark rates for cost of rental and loss of use***
 
@@ -424,7 +424,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 ### ***Recording of terms of settlement agreement, consent interlocutory judgment or consent judgment***
 
-(11) If the parties reach agreement on the issue of liability for the claim or quantum of damages or both, they must submit [Form 7](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%207.pdf) of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent interlocutory judgment or consent judgment as the case may be.
+(11) If the parties reach agreement on the issue of liability for the claim or quantum of damages or both, they must submit [Form 7](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%207.pdf) of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent judgment on liability or consent judgment as the case may be.
 
 
 ## 41. Claims in negligence (excluding medical negligence, personal injury and non-injury motor accident (“NIMA”) claims)
@@ -459,7 +459,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 ### ***Recording of terms of settlement agreement, consent interlocutory judgment or consent judgment***
 
-(10) If the parties reach agreement on the issue of liability for the claim or quantum of damages or both, they must submit [Form 7](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%207.pdf) of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent interlocutory judgment or consent judgment as the case may be.
+(10) If the parties reach agreement on the issue of liability for the claim or quantum of damages or both, they must submit [Form 7](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%207.pdf) of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent judgment on liability or consent judgment as the case may be.
 
 
 ## 42. Mediation
@@ -559,7 +559,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 ### ***Convening of Assessment of Damages Case Conference***
 
-(1) Where interlocutory judgment is entered in any action in the State Courts, in which bifurcation was ordered, for damages to be assessed or for the taking of accounts, an Assessment of Damages Case Conference (“**Assessment CC**”) will be fixed around 7 weeks after the date on which interlocutory judgment is entered. An Assessment CC Notice will be issued to the claimant and any party against whom interlocutory judgment has been entered (if that party has filed a notice of intention to contest), notifying parties of the date of the Assessment CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
+(1)(1)               Where judgment on liability is entered in any action in the State Courts, in which bifurcation was ordered, for damages to be assessed or for the taking of accounts, an Assessment of Damages Case Conference (“**Assessment CC**”) will be fixed around 7 weeks after the date on which judgment on liability is entered. An Assessment CC Notice will be issued to the claimant and any party against whom judgment on liability has been entered (if that party has filed a notice of intention to contest), notifying parties of the date of the Assessment CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
 
 (2) At the Assessment CC, and upon an application by the party entitled to the benefit of the judgment in accordance with Order 15, Rule 15 of the Rules of Court 2021, the Court will give such directions as are necessary including, but not limited to, directions for:
 
@@ -568,6 +568,8 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 >(b) the filing and exchange of affidavits of evidence-in-chief for the Assessment of Damages hearing; and
 
 >(c) the filing of any notice of appointment for assessment of damages (“**NOAD**”).
+
+(2A) In addition to the directions listed in sub-paragraph 2 above, directions for a Single Application Pending Trial (“**SAPT**”) to be filed may also be given at an Assessment CC, even if an SAPT has previously been filed in the liability phase of proceedings by a party. In both phases, in accordance with the Ideals in Order 3, Rule 1 of the Rules of Court 2021, the Court has the discretion to order a single application dealing with all matters that are necessary for the case to proceed expeditiously towards trial or assessment. 
 
 ### ***Convening of Assessment of Damages Court Dispute Resolution Conferences***
 
@@ -607,7 +609,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 >(b) loss of future earnings and/or loss of earning capacity; and/or 
 
->(c) loss of dependency under section 20 of the Civil Law Act (Cap 43) (“**Civil Law Act**”). 
+>(c) loss of dependency under section 20 of the Civil Law Act 1909 (“**Civil Law Act**”). 
 
 (10) At the first ADCDR, all parties should be in a position to assess the relative merits of their cases to facilitate a settlement with all relevant information at their disposal. 
 
@@ -617,7 +619,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 >(a) consider the Quantum Neutral Evaluation Form submitted by the specified deadline and/or the documents referred to therein without the attendance of parties or their solicitor(s) and provide a neutral evaluation; and/or
 
->(b) issue directions, fix the matter for a further hearing and/or fix the matter for an Assessment of Damages. 
+>(b) issue directions, fix the matter for a further hearing and/or fix the matter for an Assessment of Damages hearing. 
 
 (13) In the event that one party’s position is not stated within the Quantum Neutral Evaluation Form filed by the specified deadline before any hearing date, the Court will not provide a neutral evaluation. Instead, the Court may —
 
@@ -657,7 +659,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (20) The format to be used for the Joint Opening Statement shall be as follows:
 
->(a) Joint Opening Statement for Assessment of Damages for Personal Injury Claims (including loss of dependency claims under section 20 of the Civil Law Act) — [Form 12](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2012.pdf) of Appendix A1 to these Practice Directions;
+>(a) Joint Opening Statement for Assessment of Damages for Personal Injury Claims (including loss of dependency claims under section 20 of the Civil Law Act 1909) — [Form 12](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2012.pdf) of Appendix A1 to these Practice Directions;
 
 >(b) Joint Opening Statement for Assessment of Damages for Non-Injury Motor Accident Claims — [Form 13](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2013.pdf) of Appendix A1 to these Practice Directions; and
 
@@ -700,7 +702,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (2) Where any party is absent without a valid reason for any Case Conference, the Court may exercise its powers under Order 9, Rule 4 of the Rules of Court 2021 to dismiss the action or give judgment for the claimant upon proof of service of the Originating Claim or Originating Application on the defendant.
 
-(3) In the exercise of its powers under Order 3 Rule 9 of the Rules of Court 2021, the Court may, subject to any written law, direct that Case Conferences or other hearings be carried out with parties in physical attendance or with parties attending via electronic (including through video conferencing), mechanical or any other means. 
+(3) In the exercise of its powers under Order 3, Rule 9 of the Rules of Court 2021, the Court may, subject to any written law, direct that Case Conferences or other hearings be carried out with parties in physical attendance or with parties attending via electronic (including through video conferencing), mechanical or any other means. 
 
 
 ## 48. Applications in pending cases
@@ -715,7 +717,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 ### ***Request for approval to file further application***
 
-(5) No application may be taken out by any party other than as directed at the relevant Case Conference (“**CC**”) or with the Court’s approval, save for the applications specified in Order 9, Rule 9(7) of the Rules of Court 2021. The Court’s approval to file further applications must be sought by filing a “Request to Seek Permission for Application”. The request must set out the nature of the intended application, the date of intended filing if approval is granted, whether it is being made within 14 days of the commencement of the trial, and the reasons for why the intended application is necessary at the relevant stage of the proceedings or, in the case of an application to be taken out within 14 days of the commencement of the trial, pursuant to Order 9, Rule 9(10) of the Rules of Court 2021, why there is a special case. The Court will consider the request and may issue directions summarily or alternatively convene a CC. The CC may be conducted on a “documents-only” basis, by video conferencing or telephone conferencing, or with parties in attendance physically in chambers. Where parties are of the view that it would be more appropriate for submissions to be made in a physical or remote Case Conference, a “Request for Case Conference” may be filed in lieu of the “Request to Seek Permission for Application”. The “Request for Case Conference” should set out the reasons why the request for the Court’s approval to file further applications cannot or should not be dealt with asynchronously.
+(5) (5)	No application may be taken out by any party other than as directed at the relevant Case Conference (“**CC**”) or with the Court’s approval, save for the applications specified in Order 9, Rule 9(7) of the Rules of Court 2021. The Court’s approval to file further applications must be sought by filing a “Request for Permission to file Application”. The request must set out the nature of the intended application, the date of intended filing if approval is granted, whether it is being made within 14 days of the commencement of the trial, and the reasons for why the intended application is necessary at the relevant stage of the proceedings or, in the case of an application to be taken out within 14 days of the commencement of the trial, pursuant to Order 9, Rule 9(10) of the Rules of Court 2021, why there is a special case. The Court will consider the request and may issue directions summarily or alternatively convene a CC. The CC may be conducted on a “documents-only” basis, by video conferencing or telephone conferencing, or with parties in attendance physically in chambers. Where parties are of the view that it would be more appropriate for submissions to be made at a physical or remote Case Conference, a “Request for Case Conference” may be filed in lieu of the “Request for Permission to file Application”. The “Request for Case Conference” should set out the reasons why the request for the Court’s approval to file further applications cannot or should not be dealt with asynchronously.
 
 ### ***“Documents-only” hearing of specified categories of civil applications***
 
@@ -787,7 +789,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 >(b) set out the grounds on and capacity in which the prospective party seeks to be added as a party; 
 
->(c) identify the case conference which it wishes to attend, make submissions at or be heard in, or alternatively, request that a case conference be convened to consider the prospective party’s application; and 
+>(c) identify the case conference which he/she wishes to attend, make submissions at or be heard in, or alternatively, request that a case conference be convened to consider the prospective party’s application; and 
 
 >(d) be copied to all the parties already party to the action.  
 
@@ -814,7 +816,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (i) an Originating Application be converted into an Originating Claim,
 
-(2) the applicant or his solicitor must inform the Court of the order for consolidation or transfer or conversion by way of an “Other Hearing Related Request” through the Electronic Filing Service.
+the applicant or his solicitor must inform the Court of the order for consolidation or transfer or conversion by way of an “Other Hearing Related Request” through the Electronic Filing Service.
 
 
 ## 50. Filing of Distinct Applications in Separate Summonses
