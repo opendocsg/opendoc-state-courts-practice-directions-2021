@@ -52,13 +52,13 @@
 
 >(d) factual basis for any reasonable defences that may be relied on by the opponent;
 
->(e) whether the applicant is aware of any issues relating to jurisdiction, *forum non conveniens* or service out of Singapore, and. If so, whether any application relating to these issues has been or will be made;
+>(e) whether the applicant is aware of any issues relating to jurisdiction, *forum non conveniens* or service out of Singapore, and, if so, whether any application relating to these issues has been or will be made;
 
 >(f) an undertaking to pay for losses that may be caused to the opponent or other persons by the granting of the orders sought, stating what assets are available to meet that undertaking and to whom the assets belong; and
 
 >(g) any other material facts which the Court should be aware of.
 
-(2) An applicant must prepare skeletal submissions on the points to be raised at the hearing of the application without notice. At the hearing, the applicant shall give a copy of the skeletal submissions to the Court and to any opponent present. The applicant shall file the skeletal submissions by the next working day. 
+(2) An applicant must prepare skeletal submissions on the points to be raised at the hearing of the application without notice. At the hearing, the applicant shall give a copy of the skeletal submissions to the Court and to any opponent present. 
 
 (3) The Court may also require the applicant to prepare a note of the hearing setting out the salient points and arguments canvassed before the Court and may order such a note to be served together with the Court documents on any opponent who is not present at the hearing or within a reasonable time after the service of the Court documents.
 
