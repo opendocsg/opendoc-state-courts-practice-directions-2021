@@ -51,15 +51,15 @@
 
 > #### (a) Natural person with Singapore identity card
 
->For a natural person who is a Singapore citizen or permanent resident, the identification number shall be the number of the identity card issued under the National Registration Act (Cap 201). The seven digit number as well as the letters at the front and end should be stated. For example: “(NRIC No. S1234567A)”.
+>For a natural person who is a Singapore citizen or permanent resident, the identification number shall be the number of the identity card issued under the National Registration Act 1965. The seven digit number as well as the letters at the front and end should be stated. For example: “(NRIC No. S1234567A)”.
 
 > #### (b) Natural person with FIN number
 
->For a natural person, whether a Singapore citizen or permanent resident or not, who has not been issued with an identity card under the National Registration Act, but has been assigned a FIN number under the Immigration Regulations (Cap 133, Rg 1), the identification number shall be the FIN number. The number should be preceded by the prefix “FIN No.”
+>For a natural person, whether a Singapore citizen or permanent resident or not, who has not been issued with an identity card under the National Registration Act 1965, but has been assigned a FIN number under the Immigration Regulations , the identification number shall be the FIN number. The number should be preceded by the prefix “FIN No.”
 
 > #### (c) Natural person: birth certificate or passport number
 
->For a natural person, whether a Singapore citizen or permanent resident or not, who has not been issued with an identity card under the National Registration Act or assigned a FIN number, the identification number shall be the birth certificate or passport number. The number should be preceded by either of the following, as appropriate, “(Issuing country) BC No.” or “(Issuing country) PP No.”
+>For a natural person, whether a Singapore citizen or permanent resident or not, who has not been issued with an identity card under the National Registration Act 1965 or assigned a FIN number, the identification number shall be the birth certificate or passport number. The number should be preceded by either of the following, as appropriate, “(Issuing country) BC No.” or “(Issuing country) PP No.”
 
 > #### (d) Natural person: other numbers
 
@@ -67,23 +67,23 @@
 
 > #### (e) Deceased person
 
->For a deceased natural person, the identification number shall be as set out in sub-paragraphs (a) to (d) above. However, if such numbers are not available, the identification number shall be the death registration number under the Registration of Births and Deaths Rules (Cap 267, R 1) or the equivalent foreign provisions, where the death is registered abroad. The number as well as the following words should be stated: “(Country or place of registration of death) Death Reg. No.”
+>For a deceased natural person, the identification number shall be as set out in sub-paragraphs (a) to (d) above. However, if such numbers are not available, the identification number shall be the death registration number under the Registration of Births and Deaths Rules or the equivalent foreign provisions, where the death is registered abroad. The number as well as the following words should be stated: “(Country or place of registration of death) Death Reg. No.”
 
-> #### (f) Company registered under the Companies Act
+> #### (f) Company registered under the Companies Act 1967
 
->For a company registered under the Companies Act (Cap 50), the identification number shall be the Unique Entity Number (UEN).
+>For a company registered under the Companies Act 1967, the identification number shall be the Unique Entity Number (UEN).
 
 > #### (g) Company registered outside Singapore
 
->For a company registered outside Singapore which is not registered under the Companies Act, the identification number shall be the registration number of the company in the country of registration.
+>For a company registered outside Singapore which is not registered under the Companies Act 1967, the identification number shall be the registration number of the company in the country of registration.
 
 > #### (h) Business registered under the Business Names Registration Act 2014
 
->For a body registered under the Business Names Registration Act 2014 (Act 29 of 2014), the identification number shall be the UEN.
+>For a body registered under the Business Names Registration Act 2014, the identification number shall be the UEN.
 
-> #### (i) Limited Liability Partnership registered under the Limited Liability Partnerships Act
+> #### (i) Limited Liability Partnership registered under the Limited Liability Partnerships Act 2005
 
->For a limited liability partnership registered under the Limited Liability Partnerships Act (Cap 163A), the identification number shall be the UEN.
+>For a limited liability partnership registered under the Limited Liability Partnerships Act 2005, the identification number shall be the UEN.
 
 > #### (j) Other bodies and associations
 
@@ -168,6 +168,11 @@ For example:
 |     DC / SUM 1 / 2022     |     Summons filed in a District Court Suit                                                                                                |
 |     PHC / SUM 1 / 2022    |     Summons filed in an Originating Claim or Originating Application in Standard   Proceedings in the Protection from Harassment Court    |
 |     MC / SUM 1 / 2022     |     Summons filed in a Magistrate’s Court Suit                                                                                            |
+|     DC / EOA 1 / 2022     |     Originating Application for Enforcement Order filed in the District Courts                                                            |
+|     MC / EOA 1 / 2022     |     Originating Application for Enforcement Order filed in the Magistrates’ Courts                                                        |
+|     DC / EO 1 / 2022      |     Summons for Enforcement Order filed in the District Courts                                                                            |
+|     MC / EO 1 / 2022      |     Summons for Enforcement Order filed in the Magistrates’ Courts                                                                        |
+|     PHC / EO 1 / 2022     |     Summons for Enforcement Order filed in Standard Proceedings in the Protection from Harassment Court                                   |
 |     SCT/10001/2022        |     Claim filed in the Small Claims Tribunals                                                                                             |
 |     ECT/10001/2022        |     Claim filed in the Employment Claims Tribunals                                                                                        |
 |     CDT/101/2022          |     Claim filed in the Community Disputes Resolution Tribunals                                                                            |
@@ -236,9 +241,9 @@ For example:
 
 >(l) the claim is brought in an administration action within the meaning of Order 32 of the Rules of Court 2021;
 
->(m) the claim is brought to enforce any judgment or arbitral award, or any adjudication determination within the meaning of the Building and Construction Industry Security of Payment Act;
+>(m) the claim is brought to enforce any judgment or arbitral award, or any adjudication determination within the meaning of the Building and Construction Industry Security of Payment Act 2004;
 
->(n) the claim is made under the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the Terrorism (Suppression of Financing) Act or any other written law;
+>(n) the claim is made under the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992, the Terrorism (Suppression of Financing) Act 2002 or any other written law;
 
 >(o) the claim is a restitutionary one (including a claim for quantum meruit or quantum valebat) or for an account or other relief against the defendant as trustee or fiduciary, and the defendant’s alleged liability arises out of any act done, whether by the defendant or otherwise, in Singapore;
 
@@ -454,7 +459,7 @@ Every affidavit which is filed in conjunction with a summons (but not those file
 
 >>(ii) details of appeals filed therein; 
 
->(b) details of enforcement orders, writs of distress and warrants of arrest; and
+>(b) details of enforcement orders, writs of distress and orders of arrest; and
 
 >(c) any other information as may from time to time be deemed necessary.
 
