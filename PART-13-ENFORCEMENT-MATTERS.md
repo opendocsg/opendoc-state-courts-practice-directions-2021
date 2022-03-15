@@ -34,7 +34,7 @@
 
 >(b) If an enforcement applicant obtains an EO to attach debts held in two different financial institutions representing debts owing by the two financial institutions to the enforcement respondent, as well as to seize and sell properties belonging to the enforcement respondent at a single address (eg, the enforcement respondent’s residential address), the enforcement applicant shall attach three draft Notice(s) of Seizure or Attachment when extracting the EO. 
 
-(7) An EO is valid in the first instance for 12 months beginning with the date of issue. If a party wishes to extend the validity of the EO for a period of 12 months at any time beginning with the day on which the EO is made, it shall make an application to the Court for extension before the day on which the EO would otherwise expire. Such application is to be made by filing a “Request for Extension of Validity of Enforcement Order” through the Electronic Filing Service.
+(7) An EO is valid in the first instance for 12 months beginning with the date of issue. If a party wishes to extend the validity of the EO for a period of 12 months at any time beginning with the day on which the EO is made, it shall make an application to the Court for extension before the day on which the EO would otherwise expire. Such application is to be made by filing a "Summons for Extension of Validity of Enforcement Order" through the Electronic Filing Service.
 
 (8) An EO ceases to be valid:
 
