@@ -2,7 +2,7 @@
 
 ## 102. Basis of assessment
 
-Every bill of costs to be assessed pursuant to a judgment or order of Court must be filed together with a copy of the judgment or order of Court. Where an order for assessment is not required under the Rules of Court 2021, the bill of costs shall describe succinctly in its heading the basis of assessment. A bill of costs for assessment between a solicitor and his client pursuant to section 120(3) of the Legal Profession Act (Cap 161) must be filed together with a copy of the document signifying the consent of the parties to assessment.
+Every bill of costs to be assessed pursuant to a judgment or order of Court must be filed together with a copy of the judgment or order of Court. Where an order for assessment is not required under the Rules of Court 2021, the bill of costs shall describe succinctly in its heading the basis of assessment. A bill of costs for assessment between a solicitor and his client pursuant to section 120(3) of the Legal Profession Act 1966 must be filed together with a copy of the document signifying the consent of the parties to assessment.
 
 
 ## 103. Form of bills of costs
@@ -39,11 +39,11 @@ The attention of solicitors is drawn to Rules 2, 10 and 20 and Appendix 1 of Ord
 
 >>(ii) [Form 27](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2027.pdf) in Appendix A1 to these Practice Directions should be used for non-contentious business.
 
->(c) Bills of costs required to be assessed under section 18(3) of the Motor Vehicles (Third Party Risks and Compensation) Act (Cap 189):
+>(c) Bills of costs required to be assessed under section 18(3) of the Motor Vehicles (Third Party Risks and Compensation) Act 1960:
 
 >>(i) Whenever a solicitor-and-own-client bill is required to be assessed by virtue of the above-captioned Act, a bill should be drawn up for assessment between the solicitor and his own client *and* another bill drawn up for assessment between the client and the other party to the proceedings in which the solicitor acted for the client. A waiver of the filing fees for the solicitor-and-own-client bill may be requested for when this bill is filed.
 
->>(ii) The party-and-party bill should be filed first and the solicitor-and-own-client should reference the first bill.
+>>(ii) The party-and-party bill should be filed first and the solicitor-and-own-client bill should reference the first bill.
 
 >>(iii) The party-and-party bill and the solicitor-and-own-client bill can be drawn up as described in sub-paragraphs (a) and (b) above with the modification set out in sub-paragraph (iv) below.
 
@@ -66,9 +66,9 @@ the party-and-party bill.
 
 >(d) The information required by the Electronic Filing Service to compose the bill of costs summary includes the costs claimed under Sections 1, 2 and 3 of the bill of costs.
 
-(5) **Goods and Services Tax
+(5) **Goods and Services Tax**
 
->A party claiming goods and services tax ( “**GST**”) in a bill of costs must comply with the directions set out in this paragraph. A party who fails to comply with the directions set out in this paragraph will be presumed not to be claiming GST in the bill concerned.
+>A party claiming goods and services tax ("**GST**") in a bill of costs must comply with the directions set out in this paragraph. A party who fails to comply with the directions set out in this paragraph will be presumed not to be claiming GST in the bill concerned.
 
 >(a) GST registration number:
 
@@ -82,7 +82,7 @@ the party-and-party bill.
 
 >(b) Input tax allowable:
 
->The proportion of input tax for which the receiving parties, or one or more of them, are not entitled to credit should be stated, as a percentage, in parentheses after the GST registration number of the party or parties concerned. For a person who is not liable to be registered within the meaning of the First Schedule to the Goods and Services Tax Act (Cap 117A), this proportion should be 100%.
+>The proportion of input tax for which the receiving parties, or one or more of them, are not entitled to credit should be stated, as a percentage, in parentheses after the GST registration number of the party or parties concerned. For a person who is not liable to be registered within the meaning of the First Schedule to the Goods and Services Tax Act 1993, this proportion should be 100%.
 
 >(c) Apportionment:
 
@@ -146,7 +146,7 @@ the party-and-party bill.
 
 (4) The information required by the Electronic Filing Service to compose the Notice of Dispute summary includes the amounts of costs to be awarded under Sections 1, 2 and 3 of the bill of costs according to the respondent.
 
- 
+ 
 ## 106. Amount allowed as disbursement on account of use of electronic transmission
 
 (1) If a document is filed using the Electronic Filing Service, $0.40 for each page of the document thus filed shall be allowed as costs between parties to proceedings. Such costs may be claimed by a receiving party from the paying party where the receiving party is entitled to costs for the filing of the document. These costs shall be allowed in addition to all other disbursements and Court fees.
@@ -172,16 +172,16 @@ the party-and-party bill.
 
 (3) If the Public Trustee or the Director of Legal Aid (as the case may be), agrees with the amounts claimed in the bill of costs, then —
 
->(a) for solicitor-and-client costs required to be assessed pursuant to the provisions of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap 189) —
+>(a) for solicitor-and-client costs required to be assessed pursuant to the provisions of the Motor Vehicles (Third-Party Risks and Compensation) Act 1960 —
 
 >>(i) where no party-and-party bill of costs has been filed; or
 
 >>(ii) where the solicitor-and-client costs are not referenced to a party-and- party bill filed earlier,
 
->>the receiving party and the Public Trustee need not attend at the assessment and the bill will be assessed in their absence, except that if the assessing Registrar disagrees with the quantum of costs agreed on, he may nonetheless direct the attendance of the Public Trustee at a later date;
+>>the receiving party and the Public Trustee need not attend at the assessment and the bill will be assessed in their absence, except that if the assessing Registrar disagrees with the quantum of costs agreed on, he may nonetheless direct the attendance of the receiving party and the Public Trustee at a later date;
 
->(b) for solicitor-and-client bills filed pursuant to the Legal Aid and Advice Act (Cap 160) where the Director of Legal Aid is the respondent, the receiving party and the Director of Legal Aid need not attend at the assessment and the bill will be assessed in their absence, except that if the assessing Registrar disagrees with the quantum of costs agreed on, he may nonetheless direct the attendance of the Director of Legal Aid at a later date.
+>(b) for solicitor-and-client bills filed pursuant to the Legal Aid and Advice Act 1995 where the Director of Legal Aid is the respondent, the receiving party and the Director of Legal Aid need not attend at the assessment and the bill will be assessed in their absence, except that if the assessing Registrar disagrees with the quantum of costs agreed on, he may nonetheless direct the attendance of the receiving party and the Director of Legal Aid at a later date.
 
-(4) If solicitor-and-client costs are required to be assessed pursuant to the provisions of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap 189) and the bill of costs claiming the same is referenced to an earlier party-and-party bill filed pursuant to Practice Direction 103(3)(c), the Public Trustee need not attend the assessment of the bill and the party-and-party and solicitor-and-client costs will be assessed in the absence of the Public Trustee. However, the Public Trustee may attend at the assessment if he so wishes, and shall attend if an express direction is made by the assessing Registrar that he should attend in relation to a particular bill of costs.
+(4) If solicitor-and-client costs are required to be assessed pursuant to the provisions of the Motor Vehicles (Third-Party Risks and Compensation) Act 1960 and the bill of costs claiming the same is referenced to an earlier party-and-party bill filed pursuant to Practice Direction 103(3)(c), the Public Trustee need not attend the assessment of the bill and the party-and-party and solicitor-and-client costs will be assessed in the absence of the Public Trustee. However, the Public Trustee may attend at the assessment if he so wishes, and shall attend if an express direction is made by the assessing Registrar that he should attend in relation to a particular bill of costs.
 
  
