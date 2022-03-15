@@ -6,27 +6,27 @@
 
 >(a) pre-trial or plead guilty procedure;
 
->(b) procedure in respect of bails and bonds under Division 5 of Part VI of the Criminal Procedure Code (Cap 68);
+>(b) procedure in respect of bails and bonds under Division 5 of Part VI of the Criminal Procedure Code 2010;
 
->(c) procedure under section 370 of the Criminal Procedure Code (Cap 68);
+>(c) procedure under section 370 of the Criminal Procedure Code 2010;
 
->(d) procedure for the search of premises or persons and the seizure of property (including any procedure under section 35(7) of the Criminal Procedure Code for the release of any property seized, or prohibited from being disposed of or dealt with under section 35(1) of the Criminal Procedure Code (Cap 68));
+>(d) procedure for the search of premises or persons and the seizure of property (including any procedure under section 35(7) of the Criminal Procedure Code 2010 for the release of any property seized, or prohibited from being disposed of or dealt with under section 35(1) of the Criminal Procedure Code 2010);
 
 >(e) procedure for an inquiry to determine the order or orders to be made in respect of any property produced before the Court for which there are competing claims;
 
->(f) procedure for the surrender and return of travel documents under sections 112 and 113 of the Criminal Procedure Code (Cap 68);
+>(f) procedure for the surrender and return of travel documents under sections 112 and 113 of the Criminal Procedure Code 2010;
 
->(g) procedure for issuing summonses to persons to appear before the Court under section 115 of the Criminal Procedure Code (Cap 68);
+>(g) procedure for issuing summonses to persons to appear before the Court under section 115 of the Criminal Procedure Code 2010;
 
->(h) procedure for appeal under Division 1 of Part XX of the Criminal Procedure Code (Cap 68);
+>(h) procedure for appeal under Division 1 of Part XX of the Criminal Procedure Code 2010;
 
->(i) procedure for the taking of evidence under section 21 of the Mutual Assistance in Criminal Matters Act (Cap 190A);
+>(i) procedure for the taking of evidence under section 21 of the Mutual Assistance in Criminal Matters Act 2000;
 
->(j) application for the issue of a warrant under section 10(1) or 24(1) of the Extradition Act (Cap 103); and
+>(j) application for the issue of a warrant under section 10(1) or 24(1) of the Extradition Act 1968; and
 
 >(k) any trial of any offence.
 
-(2) The directions in this Part must be read in conjunction with the Criminal Procedure Code (Electronic Filing and Service for State Courts and Youth Courts) Regulations 2013 (S 448 of 2013).
+(2) The directions in this Part must be read in conjunction with the Criminal Procedure Code (Electronic Filing and Service for State Courts and Youth Courts) Regulations 2013).
 
  
 ## 117. Initiation of prosecution
@@ -57,7 +57,7 @@ All criminal prosecutions instituted by or on behalf of the Public Prosecutor, a
 
 (5) For CCDCs, the CCDC Checklist is only required to be submitted before the scheduled Court event by the party applying for an adjournment. 
 
-(6) Where the case involves a charge under the Protection from Harassment Act, the Prosecution must file the checklist in [Form 31](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2031.pdf) of Appendix A1 to these Practice Directions on ICMS when all the charges are ready and before the accused person is called upon to indicate his plea.
+(6) Where the case involves a charge under the Protection from Harassment Act 2014, the Prosecution must file the checklist in Form 31 of Appendix A1 to these Practice Directions on ICMS when all the charges are ready and before the accused person is called upon to indicate his plea.
 
 
 ## 120. Applications
