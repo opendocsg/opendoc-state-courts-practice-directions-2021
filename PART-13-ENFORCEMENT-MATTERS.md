@@ -42,10 +42,20 @@
 
 >(b) after any person who has satisfied a judgment debt files a consent of the judgment creditor in [Form 39](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2039.pdf) of Appendix A2 to these Practice Directions to apply to the Court for the satisfaction to be recorded and the Court has ordered satisfaction to be recorded. 
 
- 
+ 
 ## 97. Seizure or attachment under an Enforcement Order
 
-(1) After the enforcement applicant extracts the Enforcement Order (“**EO**”), the Bailiff shall fix a first appointment for enforcement, and shall issue a Letter of Appointment (including a request for deposit) to inform the enforcement applicant of the date and time of the first enforcement attempt. Enforcement may be carried out between the hours of 9.00am and 5.00pm, at the Bailiff’s discretion, unless the Bailiff or Court otherwise orders. 
+(1) After the enforcement applicant extracts the Enforcement Order ("**EO**"), the Bailiff shall fix a first appointment for enforcement, and shall issue a Letter of Appointment (including a request for deposit) to inform the enforcement applicant of the date and time of the first enforcement attempt. Enforcement may be carried out between the hours of 9.00am and 5.00pm, at the Bailiff’s discretion, unless the Bailiff or Court otherwise orders. 
+
+(1A) Where, under Order 22, Rule 6(4) of the Rules of Court 2021, an enforcement order is carried out by the Bailiff serving:
+
+>(a)	a notice of seizure on any person or entity; 
+
+>(b)	a notice of seizure on the Singapore Land Authority; or
+
+>(c)	a notice of attachment on any financial institution or non-party;
+ 
+the Bailiff may engage, or direct the enforcement applicant to engage, the services of any appropriate persons or service provider, including the enforcement applicant's solicitors, to effect service of such notice of seizure or attachment.
 
 (2) Upon the Bailiff’s request, the enforcement applicant or the enforcement applicant’s solicitor or other authorised representative must accompany the Bailiff when the Bailiff carries out the enforcement order: 
 
@@ -65,20 +75,22 @@
 
 >(c) the enforcement applicant shall at his expense, upon the direction of the Bailiff, engage any security personnel, locksmith or any other person or facility as the Bailiff deems appropriate to assist in effecting entry into the premises and the enforcement process.
 
-(4) Under Order 22, Rule 6(9)(a) of the Rules of Court 2021, a non-party who is served with a Notice of Attachment must, within 14 days of service of the Notice of Attachment, inform the Bailiff of the amount owing by the non-party to the enforcement respondent that is available to be attached. Within 7 days of receipt of this information, the Bailiff will inform the non-party of the commission due to the Bailiff. The commission shall be handed or paid over to the Bailiff in priority to the money that is to be handed or paid over to the enforcement applicant.
+(4) Under Order 22, Rule 6(9)(*a*) of the Rules of Court 2021, a non-party who is served with a Notice of Attachment must, within 14 days of service of the Notice of Attachment, inform the Bailiff of the amount owing by the non-party to the enforcement respondent that is available to be attached. The non-party must copy the enforcement applicant when providing the Bailiff with this information. If no notice of objection is filed under Order 22, Rule 10 of the Rules of Court 2021, the Bailiff will inform the non-party of the commission due to the Bailiff within 7 days of receipt of this information. The commission shall be handed or paid over to the Bailiff in priority to the money that is to be handed or paid over to the enforcement applicant.
 
 (5) A non-party who is served with a Notice of Attachment and who has handed or paid over to the enforcement applicant the money due to the enforcement respondent must inform the Bailiff of such handing or payment within 7 days of the same.
 
 (6) If, after the first enforcement attempt, the enforcement applicant wishes to proceed with a subsequent enforcement attempt under an enforcement method, or one or more of the remaining enforcement methods ordered in the EO, the enforcement applicant shall file a “Request to Proceed with Seizure / Enforcement” via the Electronic Filing Service. 
 
-(7) If, at any stage, the enforcement applicant does not wish to proceed with a subsequent enforcement attempt under an enforcement method, or any of the remaining enforcement methods ordered in the EO, the enforcement applicant shall file a “Notice Not to Take Further Action on Enforcement Order” via the Electronic Filing Service.  
+(7) If, at any stage, the enforcement applicant does not wish to proceed with a subsequent enforcement attempt under an enforcement method, or any of the remaining enforcement methods ordered in the EO, the enforcement applicant shall file a “Notice Not to Take Further Action on Enforcement Order” via the Electronic Filing Service.  
 
 
 ## 98. Claims and objections to seizure or attachment
 
-(1) An objector (as defined in Order 22, Rule 10(1) of the Rules of Court 2021) is to give notice of the objection referred to in Order 22, Rule 10(1)(*a)* of the Rules of Court 2021 by filing a “Notice of Objection” through the Electronic Filing Service.
+(1) An objector (as defined in Order 22, Rule 10(1) of the Rules of Court 2021) is to give notice of the objection referred to in Order 22, Rule 10(1)(*a*) of the Rules of Court 2021 by filing a "Notice of Objection" (in Form 22A of Appendix A1 to these Practice Directions) through the Electronic Filing Service.
 
-(2) If the enforcement applicant disputes the grounds of objection, the enforcement applicant may file a “Notice of Dispute” through the Electronic Filing Service. If the enforcement applicant accepts the grounds of objection, the enforcement applicant must give the notice referred to in Order 22, Rule 10(3) of the Rules of Court 2021 by filing a “Notice of Enforcement Applicant’s Consent to Release” through the Electronic Filing Service.
+(2) If the enforcement applicant disputes the grounds of objection, the enforcement applicant may file a "Notice of Dispute to Objection" (in Form 22B of Appendix A1 to these Practice Directions) through the Electronic Filing Service. If the enforcement applicant accepts the grounds of objection, the enforcement applicant must give the notice referred to in Order 22, Rule 10(3) of the Rules of Court 2021 by filing a "Consent to Release" (in Form 22C of Appendix A1 to these Practice Directions) through the Electronic Filing Service.
+
+(3)	If the Bailiff directs the objector to make the application referred to in Order 22, Rule 10(4) of the Rules of Court 2021, the objector must make such application by filing a "Summons for Order to Release Property / Debt" (in Form 22D of Appendix A1 to these Practice Directions) through the Electronic Filing Service.
 
 
 ## 99. Sale and valuation of seized property
@@ -95,24 +107,25 @@
 
 >(b) **Sale by auctioneer**
 
->Under Order 22, Rule 7(5) of the Rules of Court 2021, where the value of the seized property is estimated by the Bailiff to be more than $20,000, the sale must be carried out by an auctioneer and by public auction. The auctioneer shall be engaged by the enforcement applicant, and the auction must be advertised by the auctioneer at least once in a printed local newspaper and at least 14 days before the date of auction. All costs and expenses incurred in connection with the auction shall be borne by the enforcement applicant and may be added to the judgment debt.
+>Under Order 22, Rule 7(5) and (7) of the Rules of Court 2021, where the value of the seized property is estimated by the Bailiff to be more than $20,000, or where the property in question is immovable property, the sale must be carried out by an auctioneer and by public auction. The auctioneer shall be engaged by the enforcement applicant, and the auction must be advertised by the auctioneer at least once in a printed local newspaper and at least 14 days before the date of auction. Under Order 22, Rule 7(4) of the Rules of Court 2021, where the value of the seized property is estimated by the Bailiff to be $20,000 or less, the sale may be carried out by the Bailiff and may be by private treaty or by public auction. Where the sale is by public auction, the auctioneer shall be engaged by the enforcement applicant, and the Bailiff may direct that the auction be advertised by the auctioneer at least once in a printed local newspaper and at least 14 days before the date of auction. 
 
+>All costs and expenses incurred in connection with the auction shall be borne by the enforcement applicant and may be added to the judgment debt.
 
 ## 100. Examination of enforcement respondent
 
-(1) The enforcement applicant may apply for the enforcement respondent to be examined orally in Court or to make an affidavit or both on the enforcement respondent’s properties, by filing an “Application for Examination of Enforcement Respondent” through the Electronic Filing Service. 
+(1) The enforcement applicant may apply for the enforcement respondent to be examined orally in Court or to make an affidavit or both on the enforcement respondent's properties, by filing an "Summons for Examination of Enforcement Respondent" through the Electronic Filing Service. 
 
-(2) A questionnaire in the recommended format as set out in [Form 23](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2023.pdf) or [Form 24](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2024.pdf) of Appendix A1 to these Practice Directions (whichever is appropriate) shall be annexed to any Order for Examination when the said Order is served on the enforcement respondent. Solicitors may modify the questionnaires according to the circumstances of each case.
+(2) A questionnaire in the recommended format as set out in Form 23 or 24 of Appendix A1 to these Practice Directions (whichever is appropriate) shall be annexed to any Order for Examination when the said Order is served on the enforcement respondent. Enforcement applicants may modify the questionnaires according to the circumstances of each case.
 
-(3) If the enforcement respondent or the enforcement respondent’s solicitor(s) is of the view that any question in the questionnaire is unreasonable, he is to contact the enforcement applicant’s solicitor(s) to ascertain whether the issue can be resolved prior to the hearing for examination. 
+(3) If the enforcement respondent is of the view that any question in the questionnaire is unreasonable, he is to contact the enforcement applicant to ascertain whether the issue can be resolved prior to the hearing for examination. 
 
-(4) At the hearing for examination, the answered questionnaire is to be produced to the Deputy Registrar and received as evidence upon confirmation on oath by the enforcement respondent (or if the enforcement respondent is an entity, its officer(s) to be examined) that his answers provided are true and correct. Counsel for the enforcement applicant may then apply to discharge the enforcement respondent or proceed with examination by further questioning. 
+(4) At the hearing for examination, the answered questionnaire is to be produced to the Deputy Registrar and received as evidence upon confirmation on oath by the enforcement respondent (or if the enforcement respondent is an entity, its officer(s) to be examined) that his answers provided are true and correct. The enforcement applicant may then apply to discharge the enforcement respondent or proceed with examination by further questioning. 
 
 (5) The enforcement respondent need not attend at the examination hearing if:
 
 >(a) he has provided his answers to the questionnaire by way of an affidavit or statutory declaration; and
 
->(b) the counsel for the enforcement applicant agrees to discharge the Order for Examination prior to or at the hearing for examination.
+>(b) the enforcement applicant agrees to apply for a discharge of the Order for Examination prior to or at the hearing for examination.
 
 
 ## 101. Committal proceedings
