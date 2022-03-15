@@ -45,13 +45,13 @@
 
 (1) For the purposes of the following rules:
 
-(a) Rule 8A of the Small Claims Tribunals Rules (Cap 308, R 1);
+(a) Rule 8A of the Small Claims Tribunals Rules;
 
-(b) Rule 3A of the Employment Claims Rules 2017 (S 104 of 2017);
+(b) Rule 3A of the Employment Claims Rules 2017;
 
-(c) Rule 4A of the Community Disputes Resolution Tribunals Rules 2015 (S 565 of 2015); and
+(c) Rule 4A of the Community Disputes Resolution Tribunals Rules 2015; and
 
-(d) Rule 7 of the Supreme Court of Judicature (Protection from Harassment) Rules 2021 (S 359 of 2021),
+(d) Rule 7 of the Supreme Court of Judicature (Protection from Harassment) Rules 2021,
 
 the electronic filing and case management system established is the Community Justice and Tribunals System (“**CJTS**”) and is accessible at <https://www.judiciary.gov.sg/services/CJTS>.
 
@@ -61,23 +61,23 @@ the electronic filing and case management system established is the Community Ju
 
 >(a) Appeals to the General Division of the High Court from:
 
->>(i) the Small Claims Tribunals, under Part VIII of the Small Claims Tribunals Rules (Cap 308, R 1);
+>>(i) the Small Claims Tribunals, under Part VIII of the Small Claims Tribunals Rules;
 
->>(ii) the Employment Claims Tribunals, under rules 26–32 of the Employment Claims Rules 2017 (S 104 of 2017);
+>>(ii) the Employment Claims Tribunals, under rules 26–32 of the Employment Claims Rules 2017;
 
->>(iii) the Community Disputes Resolution Tribunals, under rule 17 of the Community Disputes Resolution Tribunals Rules (S 565 of 2015); and
+>>(iii) the Community Disputes Resolution Tribunals, under rule 17 of the Community Disputes Resolution Tribunals Rules 2015; and
 
->>(iv) simplified proceedings before the Protection from Harassment Court, under rules 41–47 of the Supreme Court of Judicature (Protection from Harassment) Rules 2021 (S 359 of 2021);
+>>(iv) simplified proceedings before the Protection from Harassment Court, under rules 41–47 of the Supreme Court of Judicature (Protection from Harassment) Rules 2021;
 
 >(b) Applications for a stay of execution:
 
->>(i) to the General Division of the High Court (but not the District Courts or Small Claims Tribunals), under section 42 of the Small Claims Tribunals Act (Cap 308) and rule 28A of the Small Claims Tribunals Rules (Cap 308, R 1);
+>>(i) to the General Division of the High Court (but not the District Courts or Small Claims Tribunals), under section 42 of the Small Claims Tribunals Act 1984 and rule 28A of the Small Claims Tribunals Rules;
 
->>(ii) to the General Division of the High Court (but not the District Courts), under section 24 of the Employment Claims Act (Act 21 of 2016) and rule 33 of the Employment Claims Rules 2017 (S 104 of 2017);
+>>(ii) to the General Division of the High Court (but not the District Courts), under section 24 of the Employment Claims Act 2016 and rule 33 of the Employment Claims Rules 2017;
 
->>(iii) to the General Division of the High Court (but not the Community Disputes Resolution Tribunals), under section 27 of the Community Disputes Resolution Act (Act 7 of 2015); and
+>>(iii) to the General Division of the High Court (but not the Community Disputes Resolution Tribunals), under section 27 of the Community Disputes Resolution Act 2015; and
 
->>(iv) to the General Division of the High Court (but not the Protection from Harassment Court), under rule 48 of the Supreme Court of Judicature (Protection from Harassment) Rules 2021 (S 359 of 2021),
+>>(iv) to the General Division of the High Court (but not the Protection from Harassment Court), under rule 48 of the Supreme Court of Judicature (Protection from Harassment) Rules 2021,
 
 the applicable form shall be filed in hard copy at the Registry of the State Courts, unless otherwise directed by the Court or Registry.
 
@@ -85,15 +85,15 @@ the applicable form shall be filed in hard copy at the Registry of the State Cou
 
 >(a) applications to transfer proceedings under:
 
->>(i) section 10 of the Small Claims Tribunals Act (cap 308); 
+>>(i) section 10 of the Small Claims Tribunals Act 1984; 
 
->>(ii) section 17 of the Employment Claims Act (Act 21 of 2016);
+>>(ii) section 17 of the Employment Claims Act 2016;
 
->>(iii) section 20 of the Community Disputes Resolution Act (Act 7 of 2015); and
+>>(iii) section 20 of the Community Disputes Resolution Act 2015; and
 
->>(iv) rules 79(1)(a), (b), (c), (e) and (g) of the Supreme Court of Judicature (Protection from Harassment) Rules 2021 (S 359 of 2021) read with section 16J Protection from Harassment Act (Cap. 256A); and
+>>(iv) rules 79(1)(*a*), (*b*), (*c*), (*e*) and (*g*) of the Supreme Court of Judicature (Protection from Harassment) Rules 2021 read with section 16J Protection from Harassment Act 2014; and
 
->(b) standard proceedings (as defined in the Supreme Court of Judicature (Protection from Harassment) Rules 2021 (S 359 of 2021)) before the Protection from Harassment Court; 
+>(b) standard proceedings (as defined in the Supreme Court of Judicature (Protection from Harassment) Rules 2021) before the Protection from Harassment Court; 
 
 >(c) enforcing any order:
 
@@ -132,17 +132,16 @@ the applicable electronic filing and case management system shall be eLitigation
 
 ### ***Location of forms***
 
-(1) The forms set out on the Internet website of the Community Justice and Tribunals System (“**CJTS**”) are:
+(1) The forms set out on the Internet website of the Community Justice and Tribunals System ("**CJTS**") are:
 
->(a) the appropriate Forms (as defined in rule 3 of the Small Claims Tribunals Rules) (Cap 308, R1);
+>(a)	the appropriate Forms (as defined in rule 3 of the Small Claims Tribunals Rules);
 
->(b) the relevant Forms (as defined in rule 1A of the Employment Claims Rules 2017) (S 104 of 2017); 
+>(b)	the relevant Forms (as defined in rule 1A of the Employment Claims Rules 2017); 
 
->(c) the relevant Forms (as defined in rule 2A of the Community Disputes Resolution Tribunals Rules 2015) (S 565 of 2015); and
+>(c)	the relevant Forms (as defined in rule 2A of the Community Disputes Resolution Tribunals Rules 2015); and
 
->(d) the appropriate Forms (as defined in rule 2 of the Supreme Court of Judicature (Protection from Harassment) Rules 2021 (S 359 of 2021)),
+>(d)	the appropriate Forms (as defined in rule 2 of the Supreme Court of Judicature (Protection from Harassment) Rules 2021),
 
->to be used for the purposes of proceedings (or, in the case of para (d), simplified proceedings) under the respective Rules.
 
 ### ***Filing of application or document in Tribunal / Simplified POHA Proceedings***
 
@@ -370,7 +369,7 @@ To facilitate any attempts at mediation, a party who is represented by a solicit
 
 >(d) act as the LIP’s agent when dealing with other parties;
 
->(e) exercise any of the privileges extended to advocates and solicitors under the Legal Profession Act (Cap 161), such as to address the Court, make oral submissions, conduct litigation, examine witnesses, or sign documents on the LIP’s behalf;
+>(e) exercise any of the privileges extended to advocates and solicitors under the Legal Profession Act 1966, such as to address the Court, make oral submissions, conduct litigation, examine witnesses, or sign documents on the LIP's behalf;
 
 >(f) communicate with the LIP during the proceedings in a manner that would disrupt the proceedings;
 
