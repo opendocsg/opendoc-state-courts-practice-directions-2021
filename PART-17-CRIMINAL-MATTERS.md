@@ -16,7 +16,7 @@
 (1) In all criminal proceedings, counsel shall submit their own bundle of authorities. 
 
 (2) In this regard, the provisions of Practice Direction 73(10) to (11) above shall, with the necessary modifications, be complied with.
- 
+ 
 
 ## 112. Magistrate's complaints (Private summonses)
 
@@ -43,13 +43,13 @@
 
 (6) Where the copy of any record of proceedings applied for is not collected by the applicant within the time given by paragraph (5), the copy of the record of proceedings shall be disposed of and the applicant must make a fresh application if he still requires a copy of the relevant record of proceedings.
 
-(7) The relevant fee prescribed by the Criminal Procedure Code (Prescribed Fees) Regulations 2013 (S 364 of 2013), Fees (State Courts – Criminal Jurisdiction) Order 2014 (S 673 of 2014) (as the case may be) must be paid by the applicant at the time he makes the application.
+(7) The relevant fee prescribed by the Criminal Procedure Code (Prescribed Fees) Regulations 2013, Fees (State Courts – Criminal Jurisdiction) Order 2014 (as the case may be) must be paid by the applicant at the time he makes the application.
 
 (8) The applicant shall be allowed to download or collect the copy of the record of proceedings applied for only if the fees payable therefor, including any balance fee payable, have been fully paid by him.
 
 (9) Any application for the waiver or remission of any fee payable for a copy of any record of proceedings may be made to the Registrar of the State Courts and the grant of such an application shall be in the absolute discretion of the Registrar.
 
- 
+ 
 ## 114. Appearance at the State Courts via video link of defendants remanded at Changi Prison Complex
 
 ### ***Application***
@@ -83,7 +83,7 @@
 
 ## 115. Witnesses giving evidence through live video link
 
-(1) A person in Singapore (other than the accused person) may, with leave of the Court, give evidence through a live video or live television link in any trial, inquiry, appeal or other proceedings as specified in sections 281(1) and (2) of the Criminal Procedure Code (Cap 68).
+(1) A person in Singapore (other than the accused person) may, with leave of the Court, give evidence through a live video or live television link in any trial, inquiry, appeal or other proceedings as specified in sections 281(1) and (2) of the Criminal Procedure Code 2010.
 
 (2) Attention is also drawn to sections 28(1) and (2) of the COVID-19 (Temporary Measures) Act 2020 (“**CTMA**”), pursuant to which a Court may require a witness (whether in Singapore or elsewhere) or an accused person to give evidence by means of a live video or live television link, subject to the satisfaction of the conditions specified therein. This Practice Direction shall apply with the necessary modification to the giving of evidence through a live video or live television link by a witness or an accused person pursuant to section 28 of the CTMA, for such time as the CTMA remains in force.
 
