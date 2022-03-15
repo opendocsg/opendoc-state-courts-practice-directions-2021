@@ -2,7 +2,7 @@
 
 ## 81. Requests for further arguments before the Judge or Registrar
 
-(1) All requests for further arguments shall be made by way of a Request electronic form and filed through the Electronic Filing Service.
+(1) All requests for further arguments shall be made by way of a "Request for Further Arguments" and filed through the Electronic Filing Service.
 
 (2) The party filing the Request must, either in the Request or a document attached thereto: 
 
