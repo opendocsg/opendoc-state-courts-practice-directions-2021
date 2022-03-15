@@ -172,13 +172,13 @@
 		
 >where it is contemplated that action will be commenced on or after 1 April 2022 in the Magistrates' Courts or the District Courts, as the case may be, but does not apply to medical negligence claims; and
 
->(b) all personal injury claims arising out of motor accidents (whether or not involving any claim for property damage arising out of the same accident) and industrial accidents where it is contemplated that action will be commenced on or after 1 April 2022 in the High Court (and subsequently transferred to the District Courts).
+>(b) all personal injury claims arising out of motor accidents (whether or not involving any claim for property damage arising out of the same accident) and industrial accidents where it is contemplated that action will be commenced on or after 1 April 2022 in the General Division of the High Court (and subsequently transferred to the District Courts). 
 	
 >(c) non-injury motor accidents where it is contemplated that action will be commenced on or after:
 
 >>(i) 1 April 2022 with the Financial Industry Disputes Resolution Centre Ltd ("**FIDReC**") or in the Magistrates' Courts or the District Courts, as the case may be; and
 
->>(ii) 1 April 2022 in the High Court (and subsequently transferred to the District Courts).
+>>(ii) 1 April 2022 in the General Division of the High Court (and subsequently transferred to the District Courts). 
 
 1.3 Any reference to "the potential defendant" in this protocol refers to the potential defendant if he is not claiming under his insurance policy, or to his insurer if he is claiming under his policy.
 
@@ -502,11 +502,11 @@
 
 19.3 Where the claimant has commenced Court proceedings before adjudication of the claim by FIDReC, the Court may stay the action to enable the claimant to lodge his claim and/or complete the proceedings at FIDReC.
 
-### 20. **Application of the Limitation Act (Cap 163)**
+### 20. **Application of the Limitation Act 1959**
 
-20.1 For the avoidance of doubt, the lodgement of a claim and/or continuation of proceedings at FIDReC shall not be construed to operate as a stay of the time limited for the doing of any act as prescribed by the Limitation Act (Cap 163).
+20.1 For the avoidance of doubt, the lodgement of a claim and/or continuation of proceedings at FIDReC shall not be construed to operate as a stay of the time limited for the doing of any act as prescribed by the Limitation Act 1959.
 
-20.2 Should Court proceedings be commenced to prevent the operation of the time bar under the Limitation Act (Cap 163), the Court may nevertheless stay the action thereafter to enable the claimant to lodge his claim and/or complete the proceedings at FIDReC.
+20.2 Should Court proceedings be commenced to prevent the operation of the time bar under the Limitation Act 1959, the Court may nevertheless stay the action thereafter to enable the claimant to lodge his claim and/or complete the proceedings at FIDReC.
 
 
 ## APPENDIX C: Guidelines for Court Dispute Resolution Case Conferences for Personal Injury Claims and Non-Injury Motor Accident Claims
@@ -697,7 +697,7 @@ The Court will appoint the single joint expert after hearing submissions on the 
 
 ## APPENDIX D: Benchmark Rates for Cost of Rental and Loss of Use
 
-The benchmark rates in this Appendix shall apply to claims for rental and loss of use of a motor vehicle made in cases filed in the Magistrates' Courts and the District Courts on or after 1 April 2022 and to cases filed in the High Court on or after 1 April 2022 and transferred to the District Courts.
+The benchmark rates in this Appendix shall apply to claims for rental and loss of use of a motor vehicle made in cases filed in the Magistrates' Courts and the District Courts on or after 1 April 2022 and to cases filed in the General Division of the High Court on or after 1 April 2022 and transferred to the District Courts.
 
 <a href="./Forms/Appendix_D.pdf" download>Appendix D</a>
 
@@ -852,7 +852,7 @@ The benchmark rates in this Appendix shall apply to claims for rental and loss o
 
 3.3 The letter of claim must be sent to the potential defendant by way of certificate of posting, registered post or any other mode which provides the claimant with a written acknowledgement of posting / delivery.
 
-3.4 Nothing in this Protocol should be construed to operate as a stay of the time limited for the doing of any act as prescribed by the Limitation Act (Cap 163). If, by reason of complying with any part of this Protocol, a claim may be time-barred under any provision of the Limitation Act, the claimant may commence proceedings without complying with this Protocol, or so much of this Protocol that he is unable to comply with by reason of the impending operation of an applicable limitation period. 
+3.4 Nothing in this Protocol should be construed to operate as a stay of the time limited for the doing of any act as prescribed by the Limitation Act 1959. If, by reason of complying with any part of this Protocol, a claim may be time-barred under any provision of the Limitation Act 1959, the claimant may commence proceedings without complying with this Protocol, or so much of this Protocol that he is unable to comply with by reason of the impending operation of an applicable limitation period.
 
 ### 4. **RESPONSE TO LETTER OF CLAIM**
 
