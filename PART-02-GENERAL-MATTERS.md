@@ -198,25 +198,25 @@ is required to attend Court (including any hearing conducted by way of live vide
 
 >(a) “**personal data**” shall have the same meaning as defined in the Personal Data Protection Act 2012; and 
 
->(b) “**data subject**” means a person whose personal data appears in any document filed in the Registry or an electronic cause book or register maintained by the Registry.
+>(b) “**data subject**” means a person whose personal data appears in any document filed in the Registry or an electronic cause book or register maintained by the Registr, for both civil and criminal proceedings.
 
 ### ***Consent to collection, use or disclosure of personal data***
 
 (2) Consent to the collection, use or disclosure of personal data contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar need not be obtained. 
 
-(3) Pursuant to Order 26 of the Rules of Court 2021, the Registry may compile and maintain electronic cause books and registers by extracting information, including personal data, contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar. 
+(3) The Registry may compile and maintain electronic cause books and registers by extracting information, including personal data, contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar. 
 
 ### ***Access to, and correction of, personal data contained in documents filed with, served on, delivered or otherwise conveyed to the Registrar***
 
-(4) A data subject who wishes to access his personal data contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar must comply with the applicable provisions in the Rules of Court 2021 and these Practice Directions relating to the access to and inspection of case files. 
+(4) A data subject who wishes to access his personal data contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar must, where necessary, comply with the applicable provisions in the Rules of Court 2021 and these Practice Directions relating to the access to and inspection of case files. 
 
 (5) A data subject shall not be entitled to request information about the ways in which his personal data contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar has been used or disclosed.
 
-(6) A data subject who wishes to correct any error or omission in his personal data in any document filed with, served on, delivered or otherwise conveyed to the Registrar must comply with the applicable provisions in the Rules of Court 2021 and these Practice Directions relating to the amendment of the relevant document.
+(6) A data subject who wishes to correct any error or omission in his personal data in any document filed with, served on, delivered or otherwise conveyed to the Registrar must, where necessary, comply with the applicable provisions in the Rules of Court 2021 and/or these Practice Directions relating to the amendment of the relevant document.
 
 ### ***Access to, and correction of, personal data contained in electronic cause books and registers maintained by the Registry***
 
-(7) A data subject who wishes to access his personal data contained in any electronic cause book or register must conduct a search through the Electronic Filing Service at a service bureau or at the Registry and shall pay the fees prescribed by the Fourth Schedule to the Rules of Court 2021. 
+(7) A data subject who wishes to access his personal data contained in any electronic cause book or register must conduct a search through the relevant electronic filing service or at the Registry and shall pay any required fees (eg, the fees prescribed by the Fourth Schedule to the Rules of Court 2021).  
 
 (8) A data subject shall not be entitled to request information about the ways in which his personal data contained in any electronic cause book or register has been used or disclosed. 
 
