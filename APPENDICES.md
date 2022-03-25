@@ -704,7 +704,7 @@ The Court will appoint the single joint expert after hearing submissions on the 
 
 The benchmark rates in this Appendix shall apply to claims for rental and loss of use of a motor vehicle made in cases filed in the Magistrates' Courts and the District Courts on or after 1 April 2022 and to cases filed in the General Division of the High Court on or after 1 April 2022 and transferred to the District Courts.
 
-<a href="./Forms/Appendix_D.pdf" download>Appendix D</a>
+<a href="./Forms/Appendix_D_v2.pdf" download>Appendix D</a>
 
 ## APPENDIX E: Protocol for Medical Negligence Claims
 
