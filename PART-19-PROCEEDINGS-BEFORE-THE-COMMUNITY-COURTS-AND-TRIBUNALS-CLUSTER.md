@@ -45,13 +45,13 @@
 
 (1) For the purposes of the following rules:
 
-(a) Rule 8A of the Small Claims Tribunals Rules;
-
-(b) Rule 3A of the Employment Claims Rules 2017;
-
-(c) Rule 4A of the Community Disputes Resolution Tribunals Rules 2015; and
-
-(d) Rule 7 of the Supreme Court of Judicature (Protection from Harassment) Rules 2021,
+> (a) Rule 8A of the Small Claims Tribunals Rules;
+> 
+> (b) Rule 3A of the Employment Claims Rules 2017;
+> 
+> (c) Rule 4A of the Community Disputes Resolution Tribunals Rules 2015; and
+> 
+> (d) Rule 7 of the Supreme Court of Judicature (Protection from Harassment) Rules 2021,
 
 the electronic filing and case management system established is the Community Justice and Tribunals System (“**CJTS**”) and is accessible at <https://www.judiciary.gov.sg/services/CJTS>.
 
