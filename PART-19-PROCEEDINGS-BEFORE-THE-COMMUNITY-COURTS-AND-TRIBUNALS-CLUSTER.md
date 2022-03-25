@@ -256,7 +256,7 @@ the applicable electronic filing and case management system shall be eLitigation
 
 >>>*Eg*: [2020-05-18]-[23-11-00]-[Scolding vulgarities]
 
->(d) A transcript of the important part(s) of the audio or video recording must be prepared to state the relevant fact (*ie*., the action that is seen, the exact words that are used, the type(s) of sound(s) that are heard). Where the words that are used in the audio or video recording are not in English, a certified translation of the words into English must be provided.
+>(d) A transcript of the important part(s) of the audio or video recording must be prepared to state the relevant fact (*ie*, the action that is seen, the exact words that are used, the type(s) of sound(s) that are heard). Where the words that are used in the audio or video recording are not in English, a certified translation of the words into English must be provided.
 
 >(e) Screenshots of the important frame(s) in the video recording to support what is stated in the transcript must be provided.
 
