@@ -142,6 +142,7 @@ the applicable electronic filing and case management system shall be eLitigation
 
 >(d)	the appropriate Forms (as defined in rule 2 of the Supreme Court of Judicature (Protection from Harassment) Rules 2021),
 
+to be used for the purposes of proceedings (or, in the case of para (d), simplified proceedings) under the respective Rules.
 
 ### ***Filing of application or document in Tribunal / Simplified POHA Proceedings***
 
