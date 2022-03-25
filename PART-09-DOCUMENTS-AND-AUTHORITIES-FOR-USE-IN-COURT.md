@@ -12,7 +12,7 @@
 
 (4) Notwithstanding anything else in this Practice Direction, in the event that a party uses bundles of authorities in paper form for a hearing, the following directions in this paragraph shall apply:
 
->(a) The party shall still comply with paragraph (7) and file an electronic copy of the bundle of authorities through the Electronic Filing Service
+>(a) The party shall still comply with paragraph (7) and file an electronic copy of the bundle of authorities through the Electronic Filing Service.
 
 >(b) The party using the paper copy of the bundle of authorities shall bear the onus of producing the bundle at every hearing at which it is required. The Court will neither retain nor undertake to produce for hearings the paper copy of the bundle.
 
@@ -36,7 +36,7 @@
 
 >(a) Index pages must be prepared. For documents that involve multiple volumes, a table of contents for all volumes must be placed at the beginning of Volume I, and each volume must contain its own table of contents. 
 
->(b) Bookmarks should be created in a PDF file for each such reference in the index. There should be as many book-marks in that PDF file as there are references in the index to documents in that PDF file.
+>(b) Bookmarks should be created in a PDF file for each such reference in the index. There should be as many book marks in that PDF file as there are references in the index to documents in that PDF file.
 
 >(c) The name given to each bookmark should be the same as the corresponding reference in the index.
 
@@ -77,7 +77,7 @@
 
 (1) This Practice Direction shall apply to trials in open Court.
 
-(2) Order 9, Rule 25(9)-(10) of the Rules of Court 2021 requires the parties to be directed to file and serve their affidavits of the evidence-in-chief (“**AEICs**”) of all witnesses; a bundle of documents and an opening statement. This Practice Direction prescribes the contents and the format of these documents. 
+(2) Order 9, Rule 25(9)-(10) of the Rules of Court 2021 requires the parties to be directed to file and serve their affidavits of the evidence-in-chief (“**AEICs**”) of all witnesses, a bundle of documents and an opening statement. This Practice Direction prescribes the contents and the format of these documents. 
 
 ### ***Bundle of AEICs***
 
@@ -85,7 +85,7 @@
 
 ### ***Bundle of Documents pursuant to Order 9, Rule 25(10)***
 
-(4) The claimant is to prepare the Bundle of Documents referred in Order 9, Rule 25(10) of the Rules of Court 2021 in the following format.
+(4) The claimant is to prepare the Bundle of Documents referred to in Order 9, Rule 25(10) of the Rules of Court 2021 in the following format.
 
 >(a) **Volume I** – the last pleading (which incorporates all the previous pleadings), which should also include any further and better particulars to the relevant pleading. The earlier versions of the pleading should not be included. Any particulars to the pleading should be arranged directly below the relevant pleading. The orders of Court given at the Case Conferences which are relevant for the trial should be included at the end. Where directed by the Court, the plaintiff’s solicitors are to prepare a table in the manner and form set out in [Form 20](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2020.pdf) of Appendix A1 to these Practice Directions. The table seeks to provide an overview of the parties’ positions reflected in the last pleading (which incorporates all the previous pleadings). 
 
