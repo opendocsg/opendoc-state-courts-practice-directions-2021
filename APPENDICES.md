@@ -96,7 +96,7 @@
 <li><a href="./Forms/Appendix%20A2/Form%2041.pdf" download>Form 41 : Order for Examination of Enforcement Respondent</a></li>
 <li><a href="./Forms/Appendix%20A2/Form%2042.pdf" download>Form 42 : Committal Order</a></li>
 <li><a href="./Forms/Appendix%20A2/Form%2043.pdf" download>Form 43 : Order for Review of Detention</a></li>
-<li><a href="./Forms/Appendix%20A2/Form%2044.pdf" download>Form 44 : Directions to Accountant General</a></li>
+<li><a href="./Forms/Appendix%20A2/Form%2044.pdf" download>Form 44 : Directions to Accountant-General</a></li>
 <li><a href="./Forms/Appendix%20A2/Form%2045-v2.pdf" download>Form 45 : Authority to Company to Register Transfer</a></li>
 <li><a href="./Forms/Appendix%20A2/Form%2046.pdf" download>Form 46 : Statutory Declaration</a></li>
 <li><a href="./Forms/Appendix%20A2/Form%2047.pdf" download>Form 47 : Reference Under Article 100 of the Constitution for Opinion on Constitutional Question</a></li>
@@ -115,7 +115,7 @@
 <li><a href="./Forms/Appendix%20A2/Form%2060.pdf" download>Form 60 : Order for Registration of Commitment / Competition Commission Direction / Competition Appeal Board Decision</a></li>
 <li><a href="./Forms/Appendix%20A2/Form%2061.pdf" download>Form 61 : Search Warrant under Section 34 of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act</a></li>
 <li><a href="./Forms/Appendix%20A2/Form%2062.pdf" download>Form 62 : Order to Arrest Judgment Debtor Likely to Leave Singapore</a></li>
-<li><a href="./Forms/Appendix%20A2/Form%2063.pdf" download>Form 63 : Order to Arrest Non Appearing Judgment Debtor</a></li>
+<li><a href="./Forms/Appendix%20A2/Form%2063.pdf" download>Form 63 : Order to Arrest Non-Appearing Judgment Debtor</a></li>
 <li><a href="./Forms/Appendix%20A2/Form%2064.pdf" download>Form 64 : Order of Arrest / Attachment of Property before Judgment</a></li>
 <li><a href="./Forms/Appendix%20A2/Form%2065.pdf" download>Form 65 : Judgment Debtor Summons</a></li>
 <li><a href="./Forms/Appendix%20A2/Form%2066.pdf" download>Form 66 : Notice of Application for Permission to Issue Judgment Debtor Summons</a></li>
@@ -360,7 +360,7 @@
 >
 >(d) The potential defendant is to enclose any pre-repair and/or post-repair survey/inspection report(s).
 >
->(e) The potential defendant is to specify the particular scenario in the _Motor Accident Claims Online_, _Motor Accident Guide_ and/or other similar guidethat is applicable to his account of the accident, enclose with his reply a copy of the relevant page of the scenario and, except where the claim is denied, make an offer on liability.
+>(e) The potential defendant is to specify the particular scenario in the _Motor Accident Claims Online_, _Motor Accident Guide_ and/or other similar guide that is applicable to his account of the accident, enclose with his reply a copy of the relevant page of the scenario and, except where the claim is denied, make an offer on liability.
 >
 >(f) If the insurer is the party replying to the claimant, the reply must also state the name(s), telephone number(s) and fax number(s) of the insurance officer(s) handling the matter and the insurer's file reference number(s), to facilitate correspondence.
 >
@@ -416,7 +416,7 @@
 
 11.1 After all the relevant information and documents have been exchanged or as soon as it is practicable, the parties shall negotiate with a view to settling the matter at the earliest opportunity on both liability and quantum. Litigation should not be commenced prematurely if there are reasonable prospects for a settlement.
 
-11.2. If, after reasonable effort has been made to settle the matter, but there are no reasonable prospects of settlement after a time period of **at least 8 weeks** from the date of receipt of the letter of claim, save where paragraphs 4.4 or 4.7 apply, the claimant may commence legal action after giving **10 clear days'** notice, by e-mail, fax or certificate of posting to the potential defendant and his insurer of his intention to proceed with an originating claim. He must also inform the potential defendant of the names of all the parties he is suing. No such notice is required if the claimant had earlier given notice that the offer being made was final, and legal proceedings would be commenced in the event that the potential defendant did not accept the offer within the specified timeframe.
+11.2 If, after reasonable effort has been made to settle the matter, but there are no reasonable prospects of settlement after a time period of **at least 8 weeks** from the date of receipt of the letter of claim, save where paragraphs 4.4 or 4.7 apply, the claimant may commence legal action after giving **10 clear days'** notice, by e-mail, fax or certificate of posting to the potential defendant and his insurer of his intention to proceed with an originating claim. He must also inform the potential defendant of the names of all the parties he is suing. No such notice is required if the claimant had earlier given notice that the offer being made was final, and legal proceedings would be commenced in the event that the potential defendant did not accept the offer within the specified timeframe.
 
 ### 12. **Interim payment**
 
@@ -651,7 +651,7 @@
 
 6.3 These claims will continue to be called for CDR CC within 6 weeks after the filing of the notice of intention to contest. The rest of the guidelines in Appendix C also apply to CDR CCs for these claims.
 
-6.4. If the matter is not disposed of by the Court or settled or otherwise resolved through the actions of the parties in the course of the CDR CC process, the Court may make such orders or give such directions as it thinks fit including directions for the filing and exchange of affidavits of evidence-in-chief, appointment of a single joint expert (for actions commenced in the Magistrates' Courts) and any other necessary directions to bring the proceedings to trial.
+6.4 If the matter is not disposed of by the Court or settled or otherwise resolved through the actions of the parties in the course of the CDR CC process, the Court may make such orders or give such directions as it thinks fit including directions for the filing and exchange of affidavits of evidence-in-chief, appointment of a single joint expert (for actions commenced in the Magistrates' Courts) and any other necessary directions to bring the proceedings to trial.
 
 6.5 Where any question requiring the evidence of an expert witness arises and parties are unable to agree on the expert to be appointed, the Court may, having regard to the provisions in Order 12, Rule 3(5) of the Rules of Court 2021, appoint the expert for the parties at a CDR CC. Each party is expected to furnish the following for the determination of the single joint expert:
 
