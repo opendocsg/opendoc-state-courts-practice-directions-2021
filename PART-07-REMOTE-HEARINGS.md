@@ -38,4 +38,4 @@
 
 (7) Where a hearing is conducted by means of video conferencing or telephone conferencing using an approved remote communication technology, all recordings made of the hearing which have been authorised by the Court using such approved remote communication technology will constitute the official record of hearing for the purposes of Order 15, Rule 11(6) of the Rules of Court 2021. 
 
-(8) Unauthorised audio or visual recording of hearings conducted by video conferencing or telephone conferencing is strictly prohibited. In appropriate cases, the Court may require an undertaking that no such recording will be made. Attention is drawn to section 5 of the Administration of Justice (Protection) Act 2016 (Act 19 of 2016) regarding contempt of Court by unauthorised recordings. 
+(8) Unauthorised audio or visual recording of hearings conducted by video conferencing or telephone conferencing is strictly prohibited. In appropriate cases, the Court may require an undertaking that no such recording will be made. Attention is drawn to section 5 of the Administration of Justice (Protection) Act 2016 regarding contempt of Court by unauthorised recordings. 
