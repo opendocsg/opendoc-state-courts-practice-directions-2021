@@ -108,6 +108,7 @@ Subject to Practice Direction 36(16), a solicitor appearing in any cause or matt
 >(c) any counsel; or
 
 >(d) any officer or other person appointed by the Public Prosecutor to act as a Deputy Public Prosecutor or an Assistant Public Prosecutor in carrying out any of the duties of the Public Prosecutor under the Criminal Procedure Code 2010 or under any other written law,
+
 is required to attend Court (including any hearing conducted by way of live video or live television link) and wishes to absent himself from Court on medical grounds, he must tender or cause to be tendered to the Court an original medical certificate. Where a medical certificate cannot be tendered in person, it may be tendered by any electronic means which the Court may permit.
 
 (2) Any medical certificate tendered to the Court under paragraph (1) must:
