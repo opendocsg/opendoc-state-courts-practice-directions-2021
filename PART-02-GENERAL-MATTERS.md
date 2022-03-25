@@ -252,7 +252,7 @@ is required to attend Court (including any hearing conducted by way of live vide
 
 >(c) the Court documents or mail to be collected. 
 
-(5) An employee or representative of the courier service-provider collecting the Court documents or mail may be requested to provide evidence that will allow the State Courts to verify that he is an employee or representative from the courier service provider and must acknowledge receipt of the Court documents or mail collected.
+(5) An employee or representative of the courier service provider collecting the Court documents or mail may be requested to provide evidence that will allow the State Courts to verify that he is an employee or representative from the courier service provider and must acknowledge receipt of the Court documents or mail collected.
 
 
 ## 21. Case-related correspondence to be copied to other parties in the cause or matter
