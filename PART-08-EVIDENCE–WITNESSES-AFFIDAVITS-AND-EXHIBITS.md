@@ -105,7 +105,7 @@
 
 ### ***Pagination***
 
-(3) Every page of the exhibits, including cover pages, dividing sheets or separators between exhibits, shall be consecutively numbered at the top right-hand corner of each page, following from the page numbers of the affidavit (*ie*, the first page of the exhibits shall take the number following the last sheet of the affidavit’s main text). The page number of the affidavit must correspond to the page number in the Portable Document Format (“**PDF**”) version that is filed through the Electronic Filing Service.
+(3) Every page of the exhibits, _including cover pages, dividing sheets or separators between exhibits_, shall be consecutively numbered at the top right-hand corner of each page, following from the page numbers of the affidavit (*ie*, the first page of the exhibits shall take the number following the last sheet of the affidavit’s main text). The page number of the affidavit must correspond to the page number in the Portable Document Format (“**PDF**”) version that is filed through the Electronic Filing Service.
 
 ### ***Dividing Sheets***
 
