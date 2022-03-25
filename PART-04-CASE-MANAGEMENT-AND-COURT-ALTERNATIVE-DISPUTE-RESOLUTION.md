@@ -239,7 +239,7 @@
 
 (3) The Court may at the first General Process CC give directions for the filing of the SAPT. 
 
-(4) Where a party intends to file any application (other than one directed at a CC and any application set out in Order 9, Rule 9(7)(a) to (o) of the Rules of Court 2021), the Court’s approval to file such applications must be sought by filing a “Request for Permission to file Application”, copied to the other party, in accordance with Practice Direction 48(5). Where parties are of the view that it would be more appropriate for submissions to be made at a physical or remote CC, a “Request for Case Conference” may be filed in lieu of the “Request for Permission to file Application”. The “Request for Case Conference” should set out the reasons why the request for the Court’s approval to file further applications cannot be dealt with asynchronously.
+(4) Where a party intends to file any application (other than one directed at a CC and any application set out in Order 9, Rule 9(7)(_a_) to (_o_) of the Rules of Court 2021), the Court’s approval to file such applications must be sought by filing a “Request for Permission to file Application”, copied to the other party, in accordance with Practice Direction 48(5). Where parties are of the view that it would be more appropriate for submissions to be made at a physical or remote CC, a “Request for Case Conference” may be filed in lieu of the “Request for Permission to file Application”. The “Request for Case Conference” should set out the reasons why the request for the Court’s approval to file further applications cannot be dealt with asynchronously.
 
 (5) Where parties indicate at the CC that they will not be filing any SAPT but parties subsequently decide to file an SAPT, parties are to file a “Request for Permission to file Application” to inform the Court of their intention and to seek directions for the filing of the SAPT.
 
@@ -798,23 +798,15 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (1) Where the Court has ordered that —
 
-(a) two or more actions be consolidated;
-
-(b) a case be transferred from the General Division of the High Court to the State Courts;
-
-(c) a case be transferred from the District Courts to the Magistrates’ Courts;
-
-(d) a case be transferred from the Magistrates’ Courts to the District Courts;
-
-(e) a case be transferred from the Protection from Harassment Court to the Magistrate’s Court;
-
-(f) a case be transferred from the Protection from Harassment Court to the District Court; 
-
-(g) a case be transferred from the Magistrate’s Court to the Protection from Harassment Court;
-
-(h) a case be transferred from the District Court to the Protection from Harassment Court; or
-
-(i) an Originating Application be converted into an Originating Claim,
+> (a) two or more actions be consolidated;
+> (b) a case be transferred from the General Division of the High Court to the State Courts;
+> (c) a case be transferred from the District Courts to the Magistrates’ Courts;
+> (d) a case be transferred from the Magistrates’ Courts to the District Courts;
+> (e) a case be transferred from the Protection from Harassment Court to the Magistrate’s Court;
+> (f) a case be transferred from the Protection from Harassment Court to the District Court; 
+> (g) a case be transferred from the Magistrate’s Court to the Protection from Harassment Court;
+> (h) a case be transferred from the District Court to the Protection from Harassment Court; or
+> (i) an Originating Application be converted into an Originating Claim,
 
 the applicant or his solicitor must inform the Court of the order for consolidation or transfer or conversion by way of an “Other Hearing Related Request” through the Electronic Filing Service.
 
