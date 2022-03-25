@@ -799,13 +799,21 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 (1) Where the Court has ordered that —
 
 > (a) two or more actions be consolidated;
+>
 > (b) a case be transferred from the General Division of the High Court to the State Courts;
+> 
 > (c) a case be transferred from the District Courts to the Magistrates’ Courts;
+> 
 > (d) a case be transferred from the Magistrates’ Courts to the District Courts;
+> 
 > (e) a case be transferred from the Protection from Harassment Court to the Magistrate’s Court;
+> 
 > (f) a case be transferred from the Protection from Harassment Court to the District Court; 
+> 
 > (g) a case be transferred from the Magistrate’s Court to the Protection from Harassment Court;
+> 
 > (h) a case be transferred from the District Court to the Protection from Harassment Court; or
+> 
 > (i) an Originating Application be converted into an Originating Claim,
 
 the applicant or his solicitor must inform the Court of the order for consolidation or transfer or conversion by way of an “Other Hearing Related Request” through the Electronic Filing Service.
