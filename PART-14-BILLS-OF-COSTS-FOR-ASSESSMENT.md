@@ -178,7 +178,7 @@ the party-and-party bill.
 
 >>(ii) where the solicitor-and-client costs are not referenced to a party-and- party bill filed earlier,
 
->>the receiving party and the Public Trustee need not attend at the assessment and the bill will be assessed in their absence, except that if the assessing Registrar disagrees with the quantum of costs agreed on, he may nonetheless direct the attendance of the receiving party and the Public Trustee at a later date;
+>the receiving party and the Public Trustee need not attend at the assessment and the bill will be assessed in their absence, except that if the assessing Registrar disagrees with the quantum of costs agreed on, he may nonetheless direct the attendance of the receiving party and the Public Trustee at a later date;
 
 >(b) for solicitor-and-client bills filed pursuant to the Legal Aid and Advice Act 1995 where the Director of Legal Aid is the respondent, the receiving party and the Director of Legal Aid need not attend at the assessment and the bill will be assessed in their absence, except that if the assessing Registrar disagrees with the quantum of costs agreed on, he may nonetheless direct the attendance of the receiving party and the Director of Legal Aid at a later date.
 
