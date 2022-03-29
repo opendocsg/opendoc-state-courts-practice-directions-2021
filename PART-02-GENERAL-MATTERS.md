@@ -199,7 +199,7 @@ is required to attend Court (including any hearing conducted by way of live vide
 
 >(a) “**personal data**” shall have the same meaning as defined in the Personal Data Protection Act 2012; and 
 
->(b) “**data subject**” means a person whose personal data appears in any document filed in the Registry or an electronic cause book or register maintained by the Registr, for both civil and criminal proceedings.
+>(b) “**data subject**” means a person whose personal data appears in any document filed in the Registry or an electronic cause book or register maintained by the Registry, for both civil and criminal proceedings.
 
 ### ***Consent to collection, use or disclosure of personal data***
 
@@ -209,7 +209,7 @@ is required to attend Court (including any hearing conducted by way of live vide
 
 ### ***Access to, and correction of, personal data contained in documents filed with, served on, delivered or otherwise conveyed to the Registrar***
 
-(4) A data subject who wishes to access his personal data contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar must, where necessary, comply with the applicable provisions in the Rules of Court 2021 and these Practice Directions relating to the access to and inspection of case files. 
+(4) A data subject who wishes to access his personal data contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar must, where necessary, comply with the applicable provisions in the Rules of Court 2021 and/or these Practice Directions relating to the access to and inspection of case files. 
 
 (5) A data subject shall not be entitled to request information about the ways in which his personal data contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar has been used or disclosed.
 
@@ -217,7 +217,7 @@ is required to attend Court (including any hearing conducted by way of live vide
 
 ### ***Access to, and correction of, personal data contained in electronic cause books and registers maintained by the Registry***
 
-(7) A data subject who wishes to access his personal data contained in any electronic cause book or register must conduct a search through the relevant electronic filing service or at the Registry and shall pay any required fees (eg, the fees prescribed by the Fourth Schedule to the Rules of Court 2021).  
+(7) A data subject who wishes to access his personal data contained in any electronic cause book or register must conduct a search through the relevant electronic filing service or at the Registry and shall pay any required fees (_eg_, the fees prescribed by the Fourth Schedule to the Rules of Court 2021).  
 
 (8) A data subject shall not be entitled to request information about the ways in which his personal data contained in any electronic cause book or register has been used or disclosed. 
 
