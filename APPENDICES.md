@@ -833,7 +833,7 @@ The benchmark rates in this Appendix shall apply to claims for rental and loss o
 
 >(d) the exact words complained of and the date of publication or broadcast (if known), and where possible, a copy, screenshot or transcript of the words complained of should be enclosed;
 
->(e) if the words complained of are not in the English language, a translation of the words in the English language; <sup>1</sup>[^1] 
+>(e) if the words complained of are not in the English language, a translation of the words in the English language; [^1] 
 
 >(f) sufficient details of the factual inaccuracies or unsupportable comments within the words complained of to enable the potential defendant to appreciate why the words are inaccurate or unsupportable;
 
