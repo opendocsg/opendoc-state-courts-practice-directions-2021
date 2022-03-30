@@ -36,7 +36,7 @@
 
 >(a) Index pages must be prepared. For documents that involve multiple volumes, a table of contents for all volumes must be placed at the beginning of Volume I, and each volume must contain its own table of contents. 
 
->(b) Bookmarks should be created in a PDF file for each such reference in the index. There should be as many book marks in that PDF file as there are references in the index to documents in that PDF file.
+>(b) Bookmarks should be created in a PDF file for each such reference in the index. There should be as many bookmarks in that PDF file as there are references in the index to documents in that PDF file.
 
 >(c) The name given to each bookmark should be the same as the corresponding reference in the index.
 
