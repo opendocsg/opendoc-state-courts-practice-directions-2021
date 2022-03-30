@@ -123,7 +123,7 @@
 
 ### ***Bookmark***
 
-(5) Each exhibit in the affidavit must be separately book marked in the PDF document that is filed. The names of the book marks should follow the initials of the deponent of the affidavit, *eg*, “TAK-1”, “TAK-2”. 
+(5) Each exhibit in the affidavit must be separately book marked in the PDF document that is filed. The names of the bookmarks should follow the initials of the deponent of the affidavit, *eg*, “TAK-1”, “TAK-2”. 
 
 (6) Where a deponent deposes to more than one affidavit with exhibits in the same action, the numbering of the exhibits in all subsequent affidavits shall run consecutively throughout, and not begin again with each affidavit. For instance, where a deponent in his first affidavit has marked two exhibits as “TAK-1” and “TAK-2”, the first exhibit in his second affidavit should be marked as “TAK-3” instead of “TAK-1”.
 
