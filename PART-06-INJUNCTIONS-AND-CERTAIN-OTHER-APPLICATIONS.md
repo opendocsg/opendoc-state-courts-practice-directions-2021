@@ -58,7 +58,7 @@
 
 >(g) any other material facts which the Court should be aware of.
 
-(2) Without limiting Practice Direction 72(3), an applicant must prepare and file skeletal arguments on the points to be raised at the hearing of the application without notice. At the hearing, the applicant must give a copy of the skeletal arguments to the Court and to any opponent present
+(2) Without limiting Practice Direction 72(3), an applicant must prepare and file skeletal arguments on the points to be raised at the hearing of the application without notice. At the hearing, the applicant must give a copy of the skeletal arguments to the Court and to any opponent present.
 
 (3) The Court may also require the applicant to prepare a note of the hearing setting out the salient points and arguments canvassed before the Court and may order such a note to be served together with the Court documents on any opponent who is not present at the hearing or within a reasonable time after the service of the Court documents.
 
