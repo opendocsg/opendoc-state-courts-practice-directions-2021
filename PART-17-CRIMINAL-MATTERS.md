@@ -81,16 +81,29 @@
 >(d) where the Court considers it expedient in any other circumstances.
 
 
-## 115. Witnesses giving evidence through live video link
+## 115. Witnesses (including the accused person) giving evidence through live video or television link
 
-(1) A person in Singapore (other than the accused person) may, with leave of the Court, give evidence through a live video or live television link in any trial, inquiry, appeal or other proceedings as specified in sections 281(1) and (2) of the Criminal Procedure Code 2010.
+(1) A witness (including the accused person) may, with the Court’s permission, give evidence through a live video or live television link in any trial, inquiry, appeal or other proceedings as specified in section 281 of the Criminal Procedure Code 2010.
 
-(2) Attention is also drawn to sections 28(1) and (2) of the COVID-19 (Temporary Measures) Act 2020 (“**CTMA**”), pursuant to which a Court may require a witness (whether in Singapore or elsewhere) or an accused person to give evidence by means of a live video or live television link, subject to the satisfaction of the conditions specified therein. This Practice Direction shall apply with the necessary modification to the giving of evidence through a live video or live television link by a witness or an accused person pursuant to section 28 of the CTMA, for such time as the CTMA remains in force.
+(2) The Court’s permission is required for evidence to be adduced via a video link. The application for permission should be made as early as practicable, and at the pre-trial case conference. If no pre-trial case conference is scheduled, the application should nevertheless be made as soon as practicable, to the Registrar of the State Courts. In addition to the need for timeliness, 
 
-(3) Leave of the Court is required for evidence to be adduced via a video link. The application for leave should be made as early as practicable. This must not be later than the pre-trial conference. If no pre-trial conference is scheduled, this application must be made not later than the time the trial dates are allocated, either to the Court at the mentions stage or the Registrar of the State Courts.  
+> (a)	where the application is for the accused person to give evidence by means of a live video or live television link, the application should also state:
+>> (i)	where the accused person will be giving evidence from (whether a place within a Court, a prison, an approved centre in Singapore, or otherwise);
+>> 
+>> (ii)	the administrative and technical facilities and arrangements to be made at the place from which the accused person is to make an appearance or to give evidence from; and
+>> 
+>> (iii)	the reasons for making such an application, and in particular, why it would be in the interests of justice to allow the application;
+> 
+> (b)	where the application is for a witness (not being the accused) who is not in Singapore to give evidence from a place that is not in Singapore by means of a live video or live television link, the application should also state:
+>> (i)	whether the witness is a witness specified in section 281(5B)(_c_) of the Criminal Procedure Code 2010, and if so, the capacity of the witness (_eg_, an expert witness, factual witness or otherwise);
+>> 
+>> (ii)	the administrative and technical facilities and arrangements to be made at the place from which the witness is to give evidence; and
+>> 
+>> (iii)	the reasons for making such an application, and in particular, why it would be in the interests of justice to allow the application.
 
-(4) The Court may, in a proper case, permit appropriate person(s) to be present with the witness at the place where the witness is giving evidence from. Such person(s) may include a parent, a guardian, an officer of the Court, a counsellor, a social worker or any such other person(s) as the Court deems fit.
+(3) The Court may, in a proper case, permit appropriate person(s) to be present with the witness (including an accused person giving evidence as a witness, where appropriate) at the place where the witness is giving evidence from. Such person(s) may include a parent, a guardian, an officer of the Court, a counsellor, a social worker or any such other person(s) as the Court deems fit.  
 
-(5) If an accused person is not represented by counsel, the presiding Judge will explain to him the process of a witness giving evidence through a video link.
+(4) If an accused person is not represented by counsel, the presiding Judge will explain to him the process of a witness or the accused person (as the case may be) giving evidence through a video link.
 
-(6) Microphones have been installed for the Judge, prosecutor, counsel, witness, interpreter and the accused who are physically in Court. The oral proceedings, including the testimony of the witness, will be relayed and broadcast through the courtroom speaker system. When a video link session is in progress, prosecutors and counsel are reminded to speak clearly and slowly into the microphones which are placed on the tables. In order to ensure clarity in the audio transmissions, no two persons should speak simultaneously into the microphones.  
+(5) Microphones have been installed for the Judge, prosecutor, counsel, witness, interpreter and the accused who are physically in Court. The oral proceedings, including the testimony of the witness, will be relayed and broadcast through the courtroom speaker system. When a video link session is in progress, prosecutors and counsel who are physically in Court are reminded to speak clearly and slowly into the microphones which are placed on the tables. In order to ensure clarity in the audio transmissions, no two persons should speak simultaneously into the microphones.
+ 
