@@ -1,0 +1,361 @@
+(function() {
+    // Data Blob
+    // =============================================================================
+    // The main "blob" of site data constructed by liquid
+    // We cherry pick to minimize size
+    // Also because jsonify doesn't work quite right and collapses the page objects
+    // into just strings when we jsonify the whole site
+    var pages = [
+        
+        {
+                name: "APPENDICES.md",
+                title: "Appendices",
+                url: "/APPENDICES.html",
+                escapedPath: "APPENDICES.md",
+                dir: "/",
+                tocId: "toc_/",
+                documentInfo: ["State Courts Practice Directions 2021","",["PART-01-INTRODUCTION.md","PART-02-GENERAL-MATTERS.md","PART-03-ORIGINATING-PROCESSES-AND-DOCUMENTS.md","PART-04-CASE-MANAGEMENT-AND-COURT-ALTERNATIVE-DISPUTE-RESOLUTION.md","PART-05-DOCUMENTS-ONLY-PROCEEDINGS.md","PART-06-INJUNCTIONS-AND-CERTAIN-OTHER-APPLICATIONS.md","PART-07-REMOTE-HEARINGS.md","PART-08-EVIDENCE–WITNESSES-AFFIDAVITS-AND-EXHIBITS.md","PART-09-DOCUMENTS-AND-AUTHORITIES-FOR-USE-IN-COURT.md","PART-10-JUDGMENTS-AND-ORDERS.md","PART-11-FURTHER-ARGUMENTS.md","PART-12-ELECTRONIC-FILING-SERVICE.md","PART-13-ENFORCEMENT-MATTERS.md","PART-14-BILLS-OF-COSTS-FOR-ASSESSMENT.md","PART-15-DEFAMATION-ACTIONS.md","PART-16-REFERENCE-TO-ACTUARIAL-TABLES-IN-PERSONAL-INJURY-AND-DEATH-CLAIMS.md","PART-17-CRIMINAL-MATTERS.md","PART-18-ELECTRONIC-FILING-AND-SERVICE-FOR-CRIMINAL-PROCEEDINGS.md","PART-19-PROCEEDINGS-BEFORE-THE-COMMUNITY-COURTS-AND-TRIBUNALS-CLUSTER.md","APPENDICES.md"]]
+            },
+            
+        {
+                name: "PART-01-INTRODUCTION.md",
+                title: "Part I: INTRODUCTION",
+                url: "/PART-01-INTRODUCTION.html",
+                escapedPath: "PART-01-INTRODUCTION.md",
+                dir: "/",
+                tocId: "toc_/",
+                documentInfo: ["State Courts Practice Directions 2021","",["PART-01-INTRODUCTION.md","PART-02-GENERAL-MATTERS.md","PART-03-ORIGINATING-PROCESSES-AND-DOCUMENTS.md","PART-04-CASE-MANAGEMENT-AND-COURT-ALTERNATIVE-DISPUTE-RESOLUTION.md","PART-05-DOCUMENTS-ONLY-PROCEEDINGS.md","PART-06-INJUNCTIONS-AND-CERTAIN-OTHER-APPLICATIONS.md","PART-07-REMOTE-HEARINGS.md","PART-08-EVIDENCE–WITNESSES-AFFIDAVITS-AND-EXHIBITS.md","PART-09-DOCUMENTS-AND-AUTHORITIES-FOR-USE-IN-COURT.md","PART-10-JUDGMENTS-AND-ORDERS.md","PART-11-FURTHER-ARGUMENTS.md","PART-12-ELECTRONIC-FILING-SERVICE.md","PART-13-ENFORCEMENT-MATTERS.md","PART-14-BILLS-OF-COSTS-FOR-ASSESSMENT.md","PART-15-DEFAMATION-ACTIONS.md","PART-16-REFERENCE-TO-ACTUARIAL-TABLES-IN-PERSONAL-INJURY-AND-DEATH-CLAIMS.md","PART-17-CRIMINAL-MATTERS.md","PART-18-ELECTRONIC-FILING-AND-SERVICE-FOR-CRIMINAL-PROCEEDINGS.md","PART-19-PROCEEDINGS-BEFORE-THE-COMMUNITY-COURTS-AND-TRIBUNALS-CLUSTER.md","APPENDICES.md"]]
+            },
+            
+        {
+                name: "PART-02-GENERAL-MATTERS.md",
+                title: "Part II: GENERAL MATTERS",
+                url: "/PART-02-GENERAL-MATTERS.html",
+                escapedPath: "PART-02-GENERAL-MATTERS.md",
+                dir: "/",
+                tocId: "toc_/",
+                documentInfo: ["State Courts Practice Directions 2021","",["PART-01-INTRODUCTION.md","PART-02-GENERAL-MATTERS.md","PART-03-ORIGINATING-PROCESSES-AND-DOCUMENTS.md","PART-04-CASE-MANAGEMENT-AND-COURT-ALTERNATIVE-DISPUTE-RESOLUTION.md","PART-05-DOCUMENTS-ONLY-PROCEEDINGS.md","PART-06-INJUNCTIONS-AND-CERTAIN-OTHER-APPLICATIONS.md","PART-07-REMOTE-HEARINGS.md","PART-08-EVIDENCE–WITNESSES-AFFIDAVITS-AND-EXHIBITS.md","PART-09-DOCUMENTS-AND-AUTHORITIES-FOR-USE-IN-COURT.md","PART-10-JUDGMENTS-AND-ORDERS.md","PART-11-FURTHER-ARGUMENTS.md","PART-12-ELECTRONIC-FILING-SERVICE.md","PART-13-ENFORCEMENT-MATTERS.md","PART-14-BILLS-OF-COSTS-FOR-ASSESSMENT.md","PART-15-DEFAMATION-ACTIONS.md","PART-16-REFERENCE-TO-ACTUARIAL-TABLES-IN-PERSONAL-INJURY-AND-DEATH-CLAIMS.md","PART-17-CRIMINAL-MATTERS.md","PART-18-ELECTRONIC-FILING-AND-SERVICE-FOR-CRIMINAL-PROCEEDINGS.md","PART-19-PROCEEDINGS-BEFORE-THE-COMMUNITY-COURTS-AND-TRIBUNALS-CLUSTER.md","APPENDICES.md"]]
+            },
+            
+        {
+                name: "PART-03-ORIGINATING-PROCESSES-AND-DOCUMENTS.md",
+                title: "Part III: ORIGINATING PROCESSES AND DOCUMENTS",
+                url: "/PART-03-ORIGINATING-PROCESSES-AND-DOCUMENTS.html",
+                escapedPath: "PART-03-ORIGINATING-PROCESSES-AND-DOCUMENTS.md",
+                dir: "/",
+                tocId: "toc_/",
+                documentInfo: ["State Courts Practice Directions 2021","",["PART-01-INTRODUCTION.md","PART-02-GENERAL-MATTERS.md","PART-03-ORIGINATING-PROCESSES-AND-DOCUMENTS.md","PART-04-CASE-MANAGEMENT-AND-COURT-ALTERNATIVE-DISPUTE-RESOLUTION.md","PART-05-DOCUMENTS-ONLY-PROCEEDINGS.md","PART-06-INJUNCTIONS-AND-CERTAIN-OTHER-APPLICATIONS.md","PART-07-REMOTE-HEARINGS.md","PART-08-EVIDENCE–WITNESSES-AFFIDAVITS-AND-EXHIBITS.md","PART-09-DOCUMENTS-AND-AUTHORITIES-FOR-USE-IN-COURT.md","PART-10-JUDGMENTS-AND-ORDERS.md","PART-11-FURTHER-ARGUMENTS.md","PART-12-ELECTRONIC-FILING-SERVICE.md","PART-13-ENFORCEMENT-MATTERS.md","PART-14-BILLS-OF-COSTS-FOR-ASSESSMENT.md","PART-15-DEFAMATION-ACTIONS.md","PART-16-REFERENCE-TO-ACTUARIAL-TABLES-IN-PERSONAL-INJURY-AND-DEATH-CLAIMS.md","PART-17-CRIMINAL-MATTERS.md","PART-18-ELECTRONIC-FILING-AND-SERVICE-FOR-CRIMINAL-PROCEEDINGS.md","PART-19-PROCEEDINGS-BEFORE-THE-COMMUNITY-COURTS-AND-TRIBUNALS-CLUSTER.md","APPENDICES.md"]]
+            },
+            
+        {
+                name: "PART-04-CASE-MANAGEMENT-AND-COURT-ALTERNATIVE-DISPUTE-RESOLUTION.md",
+                title: "Part IV: CASE MANAGEMENT AND COURT ALTERNATIVE DISPUTE RESOLUTION",
+                url: "/PART-04-CASE-MANAGEMENT-AND-COURT-ALTERNATIVE-DISPUTE-RESOLUTION.html",
+                escapedPath: "PART-04-CASE-MANAGEMENT-AND-COURT-ALTERNATIVE-DISPUTE-RESOLUTION.md",
+                dir: "/",
+                tocId: "toc_/",
+                documentInfo: ["State Courts Practice Directions 2021","",["PART-01-INTRODUCTION.md","PART-02-GENERAL-MATTERS.md","PART-03-ORIGINATING-PROCESSES-AND-DOCUMENTS.md","PART-04-CASE-MANAGEMENT-AND-COURT-ALTERNATIVE-DISPUTE-RESOLUTION.md","PART-05-DOCUMENTS-ONLY-PROCEEDINGS.md","PART-06-INJUNCTIONS-AND-CERTAIN-OTHER-APPLICATIONS.md","PART-07-REMOTE-HEARINGS.md","PART-08-EVIDENCE–WITNESSES-AFFIDAVITS-AND-EXHIBITS.md","PART-09-DOCUMENTS-AND-AUTHORITIES-FOR-USE-IN-COURT.md","PART-10-JUDGMENTS-AND-ORDERS.md","PART-11-FURTHER-ARGUMENTS.md","PART-12-ELECTRONIC-FILING-SERVICE.md","PART-13-ENFORCEMENT-MATTERS.md","PART-14-BILLS-OF-COSTS-FOR-ASSESSMENT.md","PART-15-DEFAMATION-ACTIONS.md","PART-16-REFERENCE-TO-ACTUARIAL-TABLES-IN-PERSONAL-INJURY-AND-DEATH-CLAIMS.md","PART-17-CRIMINAL-MATTERS.md","PART-18-ELECTRONIC-FILING-AND-SERVICE-FOR-CRIMINAL-PROCEEDINGS.md","PART-19-PROCEEDINGS-BEFORE-THE-COMMUNITY-COURTS-AND-TRIBUNALS-CLUSTER.md","APPENDICES.md"]]
+            },
+            
+        {
+                name: "PART-05-DOCUMENTS-ONLY-PROCEEDINGS.md",
+                title: "Part V: “DOCUMENTS-ONLY” PROCEEDINGS",
+                url: "/PART-05-DOCUMENTS-ONLY-PROCEEDINGS.html",
+                escapedPath: "PART-05-DOCUMENTS-ONLY-PROCEEDINGS.md",
+                dir: "/",
+                tocId: "toc_/",
+                documentInfo: ["State Courts Practice Directions 2021","",["PART-01-INTRODUCTION.md","PART-02-GENERAL-MATTERS.md","PART-03-ORIGINATING-PROCESSES-AND-DOCUMENTS.md","PART-04-CASE-MANAGEMENT-AND-COURT-ALTERNATIVE-DISPUTE-RESOLUTION.md","PART-05-DOCUMENTS-ONLY-PROCEEDINGS.md","PART-06-INJUNCTIONS-AND-CERTAIN-OTHER-APPLICATIONS.md","PART-07-REMOTE-HEARINGS.md","PART-08-EVIDENCE–WITNESSES-AFFIDAVITS-AND-EXHIBITS.md","PART-09-DOCUMENTS-AND-AUTHORITIES-FOR-USE-IN-COURT.md","PART-10-JUDGMENTS-AND-ORDERS.md","PART-11-FURTHER-ARGUMENTS.md","PART-12-ELECTRONIC-FILING-SERVICE.md","PART-13-ENFORCEMENT-MATTERS.md","PART-14-BILLS-OF-COSTS-FOR-ASSESSMENT.md","PART-15-DEFAMATION-ACTIONS.md","PART-16-REFERENCE-TO-ACTUARIAL-TABLES-IN-PERSONAL-INJURY-AND-DEATH-CLAIMS.md","PART-17-CRIMINAL-MATTERS.md","PART-18-ELECTRONIC-FILING-AND-SERVICE-FOR-CRIMINAL-PROCEEDINGS.md","PART-19-PROCEEDINGS-BEFORE-THE-COMMUNITY-COURTS-AND-TRIBUNALS-CLUSTER.md","APPENDICES.md"]]
+            },
+            
+        {
+                name: "PART-06-INJUNCTIONS-AND-CERTAIN-OTHER-APPLICATIONS.md",
+                title: "Part VI: INJUNCTIONS AND CERTAIN OTHER APPLICATIONS",
+                url: "/PART-06-INJUNCTIONS-AND-CERTAIN-OTHER-APPLICATIONS.html",
+                escapedPath: "PART-06-INJUNCTIONS-AND-CERTAIN-OTHER-APPLICATIONS.md",
+                dir: "/",
+                tocId: "toc_/",
+                documentInfo: ["State Courts Practice Directions 2021","",["PART-01-INTRODUCTION.md","PART-02-GENERAL-MATTERS.md","PART-03-ORIGINATING-PROCESSES-AND-DOCUMENTS.md","PART-04-CASE-MANAGEMENT-AND-COURT-ALTERNATIVE-DISPUTE-RESOLUTION.md","PART-05-DOCUMENTS-ONLY-PROCEEDINGS.md","PART-06-INJUNCTIONS-AND-CERTAIN-OTHER-APPLICATIONS.md","PART-07-REMOTE-HEARINGS.md","PART-08-EVIDENCE–WITNESSES-AFFIDAVITS-AND-EXHIBITS.md","PART-09-DOCUMENTS-AND-AUTHORITIES-FOR-USE-IN-COURT.md","PART-10-JUDGMENTS-AND-ORDERS.md","PART-11-FURTHER-ARGUMENTS.md","PART-12-ELECTRONIC-FILING-SERVICE.md","PART-13-ENFORCEMENT-MATTERS.md","PART-14-BILLS-OF-COSTS-FOR-ASSESSMENT.md","PART-15-DEFAMATION-ACTIONS.md","PART-16-REFERENCE-TO-ACTUARIAL-TABLES-IN-PERSONAL-INJURY-AND-DEATH-CLAIMS.md","PART-17-CRIMINAL-MATTERS.md","PART-18-ELECTRONIC-FILING-AND-SERVICE-FOR-CRIMINAL-PROCEEDINGS.md","PART-19-PROCEEDINGS-BEFORE-THE-COMMUNITY-COURTS-AND-TRIBUNALS-CLUSTER.md","APPENDICES.md"]]
+            },
+            
+        {
+                name: "PART-07-REMOTE-HEARINGS.md",
+                title: "Part VII: REMOTE HEARINGS",
+                url: "/PART-07-REMOTE-HEARINGS.html",
+                escapedPath: "PART-07-REMOTE-HEARINGS.md",
+                dir: "/",
+                tocId: "toc_/",
+                documentInfo: ["State Courts Practice Directions 2021","",["PART-01-INTRODUCTION.md","PART-02-GENERAL-MATTERS.md","PART-03-ORIGINATING-PROCESSES-AND-DOCUMENTS.md","PART-04-CASE-MANAGEMENT-AND-COURT-ALTERNATIVE-DISPUTE-RESOLUTION.md","PART-05-DOCUMENTS-ONLY-PROCEEDINGS.md","PART-06-INJUNCTIONS-AND-CERTAIN-OTHER-APPLICATIONS.md","PART-07-REMOTE-HEARINGS.md","PART-08-EVIDENCE–WITNESSES-AFFIDAVITS-AND-EXHIBITS.md","PART-09-DOCUMENTS-AND-AUTHORITIES-FOR-USE-IN-COURT.md","PART-10-JUDGMENTS-AND-ORDERS.md","PART-11-FURTHER-ARGUMENTS.md","PART-12-ELECTRONIC-FILING-SERVICE.md","PART-13-ENFORCEMENT-MATTERS.md","PART-14-BILLS-OF-COSTS-FOR-ASSESSMENT.md","PART-15-DEFAMATION-ACTIONS.md","PART-16-REFERENCE-TO-ACTUARIAL-TABLES-IN-PERSONAL-INJURY-AND-DEATH-CLAIMS.md","PART-17-CRIMINAL-MATTERS.md","PART-18-ELECTRONIC-FILING-AND-SERVICE-FOR-CRIMINAL-PROCEEDINGS.md","PART-19-PROCEEDINGS-BEFORE-THE-COMMUNITY-COURTS-AND-TRIBUNALS-CLUSTER.md","APPENDICES.md"]]
+            },
+            
+        {
+                name: "PART-08-EVIDENCE–WITNESSES-AFFIDAVITS-AND-EXHIBITS.md",
+                title: "PART VIII: EVIDENCE – WITNESSES, AFFIDAVITS AND EXHIBITS",
+                url: "/PART-08-EVIDENCE%E2%80%93WITNESSES-AFFIDAVITS-AND-EXHIBITS.html",
+                escapedPath: "PART-08-EVIDENCE%E2%80%93WITNESSES-AFFIDAVITS-AND-EXHIBITS.md",
+                dir: "/",
+                tocId: "toc_/",
+                documentInfo: ["State Courts Practice Directions 2021","",["PART-01-INTRODUCTION.md","PART-02-GENERAL-MATTERS.md","PART-03-ORIGINATING-PROCESSES-AND-DOCUMENTS.md","PART-04-CASE-MANAGEMENT-AND-COURT-ALTERNATIVE-DISPUTE-RESOLUTION.md","PART-05-DOCUMENTS-ONLY-PROCEEDINGS.md","PART-06-INJUNCTIONS-AND-CERTAIN-OTHER-APPLICATIONS.md","PART-07-REMOTE-HEARINGS.md","PART-08-EVIDENCE–WITNESSES-AFFIDAVITS-AND-EXHIBITS.md","PART-09-DOCUMENTS-AND-AUTHORITIES-FOR-USE-IN-COURT.md","PART-10-JUDGMENTS-AND-ORDERS.md","PART-11-FURTHER-ARGUMENTS.md","PART-12-ELECTRONIC-FILING-SERVICE.md","PART-13-ENFORCEMENT-MATTERS.md","PART-14-BILLS-OF-COSTS-FOR-ASSESSMENT.md","PART-15-DEFAMATION-ACTIONS.md","PART-16-REFERENCE-TO-ACTUARIAL-TABLES-IN-PERSONAL-INJURY-AND-DEATH-CLAIMS.md","PART-17-CRIMINAL-MATTERS.md","PART-18-ELECTRONIC-FILING-AND-SERVICE-FOR-CRIMINAL-PROCEEDINGS.md","PART-19-PROCEEDINGS-BEFORE-THE-COMMUNITY-COURTS-AND-TRIBUNALS-CLUSTER.md","APPENDICES.md"]]
+            },
+            
+        {
+                name: "PART-09-DOCUMENTS-AND-AUTHORITIES-FOR-USE-IN-COURT.md",
+                title: "PART IX: DOCUMENTS AND AUTHORITIES FOR USE IN COURT",
+                url: "/PART-09-DOCUMENTS-AND-AUTHORITIES-FOR-USE-IN-COURT.html",
+                escapedPath: "PART-09-DOCUMENTS-AND-AUTHORITIES-FOR-USE-IN-COURT.md",
+                dir: "/",
+                tocId: "toc_/",
+                documentInfo: ["State Courts Practice Directions 2021","",["PART-01-INTRODUCTION.md","PART-02-GENERAL-MATTERS.md","PART-03-ORIGINATING-PROCESSES-AND-DOCUMENTS.md","PART-04-CASE-MANAGEMENT-AND-COURT-ALTERNATIVE-DISPUTE-RESOLUTION.md","PART-05-DOCUMENTS-ONLY-PROCEEDINGS.md","PART-06-INJUNCTIONS-AND-CERTAIN-OTHER-APPLICATIONS.md","PART-07-REMOTE-HEARINGS.md","PART-08-EVIDENCE–WITNESSES-AFFIDAVITS-AND-EXHIBITS.md","PART-09-DOCUMENTS-AND-AUTHORITIES-FOR-USE-IN-COURT.md","PART-10-JUDGMENTS-AND-ORDERS.md","PART-11-FURTHER-ARGUMENTS.md","PART-12-ELECTRONIC-FILING-SERVICE.md","PART-13-ENFORCEMENT-MATTERS.md","PART-14-BILLS-OF-COSTS-FOR-ASSESSMENT.md","PART-15-DEFAMATION-ACTIONS.md","PART-16-REFERENCE-TO-ACTUARIAL-TABLES-IN-PERSONAL-INJURY-AND-DEATH-CLAIMS.md","PART-17-CRIMINAL-MATTERS.md","PART-18-ELECTRONIC-FILING-AND-SERVICE-FOR-CRIMINAL-PROCEEDINGS.md","PART-19-PROCEEDINGS-BEFORE-THE-COMMUNITY-COURTS-AND-TRIBUNALS-CLUSTER.md","APPENDICES.md"]]
+            },
+            
+        {
+                name: "PART-10-JUDGMENTS-AND-ORDERS.md",
+                title: "PART X: JUDGMENTS AND ORDERS",
+                url: "/PART-10-JUDGMENTS-AND-ORDERS.html",
+                escapedPath: "PART-10-JUDGMENTS-AND-ORDERS.md",
+                dir: "/",
+                tocId: "toc_/",
+                documentInfo: ["State Courts Practice Directions 2021","",["PART-01-INTRODUCTION.md","PART-02-GENERAL-MATTERS.md","PART-03-ORIGINATING-PROCESSES-AND-DOCUMENTS.md","PART-04-CASE-MANAGEMENT-AND-COURT-ALTERNATIVE-DISPUTE-RESOLUTION.md","PART-05-DOCUMENTS-ONLY-PROCEEDINGS.md","PART-06-INJUNCTIONS-AND-CERTAIN-OTHER-APPLICATIONS.md","PART-07-REMOTE-HEARINGS.md","PART-08-EVIDENCE–WITNESSES-AFFIDAVITS-AND-EXHIBITS.md","PART-09-DOCUMENTS-AND-AUTHORITIES-FOR-USE-IN-COURT.md","PART-10-JUDGMENTS-AND-ORDERS.md","PART-11-FURTHER-ARGUMENTS.md","PART-12-ELECTRONIC-FILING-SERVICE.md","PART-13-ENFORCEMENT-MATTERS.md","PART-14-BILLS-OF-COSTS-FOR-ASSESSMENT.md","PART-15-DEFAMATION-ACTIONS.md","PART-16-REFERENCE-TO-ACTUARIAL-TABLES-IN-PERSONAL-INJURY-AND-DEATH-CLAIMS.md","PART-17-CRIMINAL-MATTERS.md","PART-18-ELECTRONIC-FILING-AND-SERVICE-FOR-CRIMINAL-PROCEEDINGS.md","PART-19-PROCEEDINGS-BEFORE-THE-COMMUNITY-COURTS-AND-TRIBUNALS-CLUSTER.md","APPENDICES.md"]]
+            },
+            
+        {
+                name: "PART-11-FURTHER-ARGUMENTS.md",
+                title: "PART XI: FURTHER ARGUMENTS",
+                url: "/PART-11-FURTHER-ARGUMENTS.html",
+                escapedPath: "PART-11-FURTHER-ARGUMENTS.md",
+                dir: "/",
+                tocId: "toc_/",
+                documentInfo: ["State Courts Practice Directions 2021","",["PART-01-INTRODUCTION.md","PART-02-GENERAL-MATTERS.md","PART-03-ORIGINATING-PROCESSES-AND-DOCUMENTS.md","PART-04-CASE-MANAGEMENT-AND-COURT-ALTERNATIVE-DISPUTE-RESOLUTION.md","PART-05-DOCUMENTS-ONLY-PROCEEDINGS.md","PART-06-INJUNCTIONS-AND-CERTAIN-OTHER-APPLICATIONS.md","PART-07-REMOTE-HEARINGS.md","PART-08-EVIDENCE–WITNESSES-AFFIDAVITS-AND-EXHIBITS.md","PART-09-DOCUMENTS-AND-AUTHORITIES-FOR-USE-IN-COURT.md","PART-10-JUDGMENTS-AND-ORDERS.md","PART-11-FURTHER-ARGUMENTS.md","PART-12-ELECTRONIC-FILING-SERVICE.md","PART-13-ENFORCEMENT-MATTERS.md","PART-14-BILLS-OF-COSTS-FOR-ASSESSMENT.md","PART-15-DEFAMATION-ACTIONS.md","PART-16-REFERENCE-TO-ACTUARIAL-TABLES-IN-PERSONAL-INJURY-AND-DEATH-CLAIMS.md","PART-17-CRIMINAL-MATTERS.md","PART-18-ELECTRONIC-FILING-AND-SERVICE-FOR-CRIMINAL-PROCEEDINGS.md","PART-19-PROCEEDINGS-BEFORE-THE-COMMUNITY-COURTS-AND-TRIBUNALS-CLUSTER.md","APPENDICES.md"]]
+            },
+            
+        {
+                name: "PART-12-ELECTRONIC-FILING-SERVICE.md",
+                title: "PART XII: ELECTRONIC FILING SERVICE",
+                url: "/PART-12-ELECTRONIC-FILING-SERVICE.html",
+                escapedPath: "PART-12-ELECTRONIC-FILING-SERVICE.md",
+                dir: "/",
+                tocId: "toc_/",
+                documentInfo: ["State Courts Practice Directions 2021","",["PART-01-INTRODUCTION.md","PART-02-GENERAL-MATTERS.md","PART-03-ORIGINATING-PROCESSES-AND-DOCUMENTS.md","PART-04-CASE-MANAGEMENT-AND-COURT-ALTERNATIVE-DISPUTE-RESOLUTION.md","PART-05-DOCUMENTS-ONLY-PROCEEDINGS.md","PART-06-INJUNCTIONS-AND-CERTAIN-OTHER-APPLICATIONS.md","PART-07-REMOTE-HEARINGS.md","PART-08-EVIDENCE–WITNESSES-AFFIDAVITS-AND-EXHIBITS.md","PART-09-DOCUMENTS-AND-AUTHORITIES-FOR-USE-IN-COURT.md","PART-10-JUDGMENTS-AND-ORDERS.md","PART-11-FURTHER-ARGUMENTS.md","PART-12-ELECTRONIC-FILING-SERVICE.md","PART-13-ENFORCEMENT-MATTERS.md","PART-14-BILLS-OF-COSTS-FOR-ASSESSMENT.md","PART-15-DEFAMATION-ACTIONS.md","PART-16-REFERENCE-TO-ACTUARIAL-TABLES-IN-PERSONAL-INJURY-AND-DEATH-CLAIMS.md","PART-17-CRIMINAL-MATTERS.md","PART-18-ELECTRONIC-FILING-AND-SERVICE-FOR-CRIMINAL-PROCEEDINGS.md","PART-19-PROCEEDINGS-BEFORE-THE-COMMUNITY-COURTS-AND-TRIBUNALS-CLUSTER.md","APPENDICES.md"]]
+            },
+            
+        {
+                name: "PART-13-ENFORCEMENT-MATTERS.md",
+                title: "PART XIII: ENFORCEMENT MATTERS",
+                url: "/PART-13-ENFORCEMENT-MATTERS.html",
+                escapedPath: "PART-13-ENFORCEMENT-MATTERS.md",
+                dir: "/",
+                tocId: "toc_/",
+                documentInfo: ["State Courts Practice Directions 2021","",["PART-01-INTRODUCTION.md","PART-02-GENERAL-MATTERS.md","PART-03-ORIGINATING-PROCESSES-AND-DOCUMENTS.md","PART-04-CASE-MANAGEMENT-AND-COURT-ALTERNATIVE-DISPUTE-RESOLUTION.md","PART-05-DOCUMENTS-ONLY-PROCEEDINGS.md","PART-06-INJUNCTIONS-AND-CERTAIN-OTHER-APPLICATIONS.md","PART-07-REMOTE-HEARINGS.md","PART-08-EVIDENCE–WITNESSES-AFFIDAVITS-AND-EXHIBITS.md","PART-09-DOCUMENTS-AND-AUTHORITIES-FOR-USE-IN-COURT.md","PART-10-JUDGMENTS-AND-ORDERS.md","PART-11-FURTHER-ARGUMENTS.md","PART-12-ELECTRONIC-FILING-SERVICE.md","PART-13-ENFORCEMENT-MATTERS.md","PART-14-BILLS-OF-COSTS-FOR-ASSESSMENT.md","PART-15-DEFAMATION-ACTIONS.md","PART-16-REFERENCE-TO-ACTUARIAL-TABLES-IN-PERSONAL-INJURY-AND-DEATH-CLAIMS.md","PART-17-CRIMINAL-MATTERS.md","PART-18-ELECTRONIC-FILING-AND-SERVICE-FOR-CRIMINAL-PROCEEDINGS.md","PART-19-PROCEEDINGS-BEFORE-THE-COMMUNITY-COURTS-AND-TRIBUNALS-CLUSTER.md","APPENDICES.md"]]
+            },
+            
+        {
+                name: "PART-14-BILLS-OF-COSTS-FOR-ASSESSMENT.md",
+                title: "PART XIV: BILLS OF COSTS FOR ASSESSMENT",
+                url: "/PART-14-BILLS-OF-COSTS-FOR-ASSESSMENT.html",
+                escapedPath: "PART-14-BILLS-OF-COSTS-FOR-ASSESSMENT.md",
+                dir: "/",
+                tocId: "toc_/",
+                documentInfo: ["State Courts Practice Directions 2021","",["PART-01-INTRODUCTION.md","PART-02-GENERAL-MATTERS.md","PART-03-ORIGINATING-PROCESSES-AND-DOCUMENTS.md","PART-04-CASE-MANAGEMENT-AND-COURT-ALTERNATIVE-DISPUTE-RESOLUTION.md","PART-05-DOCUMENTS-ONLY-PROCEEDINGS.md","PART-06-INJUNCTIONS-AND-CERTAIN-OTHER-APPLICATIONS.md","PART-07-REMOTE-HEARINGS.md","PART-08-EVIDENCE–WITNESSES-AFFIDAVITS-AND-EXHIBITS.md","PART-09-DOCUMENTS-AND-AUTHORITIES-FOR-USE-IN-COURT.md","PART-10-JUDGMENTS-AND-ORDERS.md","PART-11-FURTHER-ARGUMENTS.md","PART-12-ELECTRONIC-FILING-SERVICE.md","PART-13-ENFORCEMENT-MATTERS.md","PART-14-BILLS-OF-COSTS-FOR-ASSESSMENT.md","PART-15-DEFAMATION-ACTIONS.md","PART-16-REFERENCE-TO-ACTUARIAL-TABLES-IN-PERSONAL-INJURY-AND-DEATH-CLAIMS.md","PART-17-CRIMINAL-MATTERS.md","PART-18-ELECTRONIC-FILING-AND-SERVICE-FOR-CRIMINAL-PROCEEDINGS.md","PART-19-PROCEEDINGS-BEFORE-THE-COMMUNITY-COURTS-AND-TRIBUNALS-CLUSTER.md","APPENDICES.md"]]
+            },
+            
+        {
+                name: "PART-15-DEFAMATION-ACTIONS.md",
+                title: "PART XV: DEFAMATION ACTIONS",
+                url: "/PART-15-DEFAMATION-ACTIONS.html",
+                escapedPath: "PART-15-DEFAMATION-ACTIONS.md",
+                dir: "/",
+                tocId: "toc_/",
+                documentInfo: ["State Courts Practice Directions 2021","",["PART-01-INTRODUCTION.md","PART-02-GENERAL-MATTERS.md","PART-03-ORIGINATING-PROCESSES-AND-DOCUMENTS.md","PART-04-CASE-MANAGEMENT-AND-COURT-ALTERNATIVE-DISPUTE-RESOLUTION.md","PART-05-DOCUMENTS-ONLY-PROCEEDINGS.md","PART-06-INJUNCTIONS-AND-CERTAIN-OTHER-APPLICATIONS.md","PART-07-REMOTE-HEARINGS.md","PART-08-EVIDENCE–WITNESSES-AFFIDAVITS-AND-EXHIBITS.md","PART-09-DOCUMENTS-AND-AUTHORITIES-FOR-USE-IN-COURT.md","PART-10-JUDGMENTS-AND-ORDERS.md","PART-11-FURTHER-ARGUMENTS.md","PART-12-ELECTRONIC-FILING-SERVICE.md","PART-13-ENFORCEMENT-MATTERS.md","PART-14-BILLS-OF-COSTS-FOR-ASSESSMENT.md","PART-15-DEFAMATION-ACTIONS.md","PART-16-REFERENCE-TO-ACTUARIAL-TABLES-IN-PERSONAL-INJURY-AND-DEATH-CLAIMS.md","PART-17-CRIMINAL-MATTERS.md","PART-18-ELECTRONIC-FILING-AND-SERVICE-FOR-CRIMINAL-PROCEEDINGS.md","PART-19-PROCEEDINGS-BEFORE-THE-COMMUNITY-COURTS-AND-TRIBUNALS-CLUSTER.md","APPENDICES.md"]]
+            },
+            
+        {
+                name: "PART-16-REFERENCE-TO-ACTUARIAL-TABLES-IN-PERSONAL-INJURY-AND-DEATH-CLAIMS.md",
+                title: "PART XVI: REFERENCE TO ACTUARIAL TABLES IN PERSONAL INJURY AND DEATH CLAIMS",
+                url: "/PART-16-REFERENCE-TO-ACTUARIAL-TABLES-IN-PERSONAL-INJURY-AND-DEATH-CLAIMS.html",
+                escapedPath: "PART-16-REFERENCE-TO-ACTUARIAL-TABLES-IN-PERSONAL-INJURY-AND-DEATH-CLAIMS.md",
+                dir: "/",
+                tocId: "toc_/",
+                documentInfo: ["State Courts Practice Directions 2021","",["PART-01-INTRODUCTION.md","PART-02-GENERAL-MATTERS.md","PART-03-ORIGINATING-PROCESSES-AND-DOCUMENTS.md","PART-04-CASE-MANAGEMENT-AND-COURT-ALTERNATIVE-DISPUTE-RESOLUTION.md","PART-05-DOCUMENTS-ONLY-PROCEEDINGS.md","PART-06-INJUNCTIONS-AND-CERTAIN-OTHER-APPLICATIONS.md","PART-07-REMOTE-HEARINGS.md","PART-08-EVIDENCE–WITNESSES-AFFIDAVITS-AND-EXHIBITS.md","PART-09-DOCUMENTS-AND-AUTHORITIES-FOR-USE-IN-COURT.md","PART-10-JUDGMENTS-AND-ORDERS.md","PART-11-FURTHER-ARGUMENTS.md","PART-12-ELECTRONIC-FILING-SERVICE.md","PART-13-ENFORCEMENT-MATTERS.md","PART-14-BILLS-OF-COSTS-FOR-ASSESSMENT.md","PART-15-DEFAMATION-ACTIONS.md","PART-16-REFERENCE-TO-ACTUARIAL-TABLES-IN-PERSONAL-INJURY-AND-DEATH-CLAIMS.md","PART-17-CRIMINAL-MATTERS.md","PART-18-ELECTRONIC-FILING-AND-SERVICE-FOR-CRIMINAL-PROCEEDINGS.md","PART-19-PROCEEDINGS-BEFORE-THE-COMMUNITY-COURTS-AND-TRIBUNALS-CLUSTER.md","APPENDICES.md"]]
+            },
+            
+        {
+                name: "PART-17-CRIMINAL-MATTERS.md",
+                title: "PART XVII: CRIMINAL MATTERS",
+                url: "/PART-17-CRIMINAL-MATTERS.html",
+                escapedPath: "PART-17-CRIMINAL-MATTERS.md",
+                dir: "/",
+                tocId: "toc_/",
+                documentInfo: ["State Courts Practice Directions 2021","",["PART-01-INTRODUCTION.md","PART-02-GENERAL-MATTERS.md","PART-03-ORIGINATING-PROCESSES-AND-DOCUMENTS.md","PART-04-CASE-MANAGEMENT-AND-COURT-ALTERNATIVE-DISPUTE-RESOLUTION.md","PART-05-DOCUMENTS-ONLY-PROCEEDINGS.md","PART-06-INJUNCTIONS-AND-CERTAIN-OTHER-APPLICATIONS.md","PART-07-REMOTE-HEARINGS.md","PART-08-EVIDENCE–WITNESSES-AFFIDAVITS-AND-EXHIBITS.md","PART-09-DOCUMENTS-AND-AUTHORITIES-FOR-USE-IN-COURT.md","PART-10-JUDGMENTS-AND-ORDERS.md","PART-11-FURTHER-ARGUMENTS.md","PART-12-ELECTRONIC-FILING-SERVICE.md","PART-13-ENFORCEMENT-MATTERS.md","PART-14-BILLS-OF-COSTS-FOR-ASSESSMENT.md","PART-15-DEFAMATION-ACTIONS.md","PART-16-REFERENCE-TO-ACTUARIAL-TABLES-IN-PERSONAL-INJURY-AND-DEATH-CLAIMS.md","PART-17-CRIMINAL-MATTERS.md","PART-18-ELECTRONIC-FILING-AND-SERVICE-FOR-CRIMINAL-PROCEEDINGS.md","PART-19-PROCEEDINGS-BEFORE-THE-COMMUNITY-COURTS-AND-TRIBUNALS-CLUSTER.md","APPENDICES.md"]]
+            },
+            
+        {
+                name: "PART-18-ELECTRONIC-FILING-AND-SERVICE-FOR-CRIMINAL-PROCEEDINGS.md",
+                title: "PART XVIII: ELECTRONIC FILING AND SERVICE FOR CRIMINAL PROCEEDINGS",
+                url: "/PART-18-ELECTRONIC-FILING-AND-SERVICE-FOR-CRIMINAL-PROCEEDINGS.html",
+                escapedPath: "PART-18-ELECTRONIC-FILING-AND-SERVICE-FOR-CRIMINAL-PROCEEDINGS.md",
+                dir: "/",
+                tocId: "toc_/",
+                documentInfo: ["State Courts Practice Directions 2021","",["PART-01-INTRODUCTION.md","PART-02-GENERAL-MATTERS.md","PART-03-ORIGINATING-PROCESSES-AND-DOCUMENTS.md","PART-04-CASE-MANAGEMENT-AND-COURT-ALTERNATIVE-DISPUTE-RESOLUTION.md","PART-05-DOCUMENTS-ONLY-PROCEEDINGS.md","PART-06-INJUNCTIONS-AND-CERTAIN-OTHER-APPLICATIONS.md","PART-07-REMOTE-HEARINGS.md","PART-08-EVIDENCE–WITNESSES-AFFIDAVITS-AND-EXHIBITS.md","PART-09-DOCUMENTS-AND-AUTHORITIES-FOR-USE-IN-COURT.md","PART-10-JUDGMENTS-AND-ORDERS.md","PART-11-FURTHER-ARGUMENTS.md","PART-12-ELECTRONIC-FILING-SERVICE.md","PART-13-ENFORCEMENT-MATTERS.md","PART-14-BILLS-OF-COSTS-FOR-ASSESSMENT.md","PART-15-DEFAMATION-ACTIONS.md","PART-16-REFERENCE-TO-ACTUARIAL-TABLES-IN-PERSONAL-INJURY-AND-DEATH-CLAIMS.md","PART-17-CRIMINAL-MATTERS.md","PART-18-ELECTRONIC-FILING-AND-SERVICE-FOR-CRIMINAL-PROCEEDINGS.md","PART-19-PROCEEDINGS-BEFORE-THE-COMMUNITY-COURTS-AND-TRIBUNALS-CLUSTER.md","APPENDICES.md"]]
+            },
+            
+        {
+                name: "PART-19-PROCEEDINGS-BEFORE-THE-COMMUNITY-COURTS-AND-TRIBUNALS-CLUSTER.md",
+                title: "PART XIX: PROCEEDINGS BEFORE THE COMMUNITY COURTS AND TRIBUNALS CLUSTER",
+                url: "/PART-19-PROCEEDINGS-BEFORE-THE-COMMUNITY-COURTS-AND-TRIBUNALS-CLUSTER.html",
+                escapedPath: "PART-19-PROCEEDINGS-BEFORE-THE-COMMUNITY-COURTS-AND-TRIBUNALS-CLUSTER.md",
+                dir: "/",
+                tocId: "toc_/",
+                documentInfo: ["State Courts Practice Directions 2021","",["PART-01-INTRODUCTION.md","PART-02-GENERAL-MATTERS.md","PART-03-ORIGINATING-PROCESSES-AND-DOCUMENTS.md","PART-04-CASE-MANAGEMENT-AND-COURT-ALTERNATIVE-DISPUTE-RESOLUTION.md","PART-05-DOCUMENTS-ONLY-PROCEEDINGS.md","PART-06-INJUNCTIONS-AND-CERTAIN-OTHER-APPLICATIONS.md","PART-07-REMOTE-HEARINGS.md","PART-08-EVIDENCE–WITNESSES-AFFIDAVITS-AND-EXHIBITS.md","PART-09-DOCUMENTS-AND-AUTHORITIES-FOR-USE-IN-COURT.md","PART-10-JUDGMENTS-AND-ORDERS.md","PART-11-FURTHER-ARGUMENTS.md","PART-12-ELECTRONIC-FILING-SERVICE.md","PART-13-ENFORCEMENT-MATTERS.md","PART-14-BILLS-OF-COSTS-FOR-ASSESSMENT.md","PART-15-DEFAMATION-ACTIONS.md","PART-16-REFERENCE-TO-ACTUARIAL-TABLES-IN-PERSONAL-INJURY-AND-DEATH-CLAIMS.md","PART-17-CRIMINAL-MATTERS.md","PART-18-ELECTRONIC-FILING-AND-SERVICE-FOR-CRIMINAL-PROCEEDINGS.md","PART-19-PROCEEDINGS-BEFORE-THE-COMMUNITY-COURTS-AND-TRIBUNALS-CLUSTER.md","APPENDICES.md"]]
+            },
+            
+        {
+                name: "PART-03A-Documents-Only-Proceedings.md",
+                title: "Part IIIA: “Documents-Only” Proceedings",
+                url: "/archive/PART-03A-Documents-Only-Proceedings.html",
+                escapedPath: "archive/PART-03A-Documents-Only-Proceedings.md",
+                dir: "/archive/",
+                tocId: "toc_/archive/",
+                documentInfo: ["Archive",null,null]
+            },
+            
+        {
+                name: "PART-20-Employment-Claims.md",
+                title: "Part XX: Employment Claims",
+                url: "/archive/PART-20-Employment-Claims.html",
+                escapedPath: "archive/PART-20-Employment-Claims.md",
+                dir: "/archive/",
+                tocId: "toc_/archive/",
+                documentInfo: ["Archive",null,null]
+            },
+            
+        {
+                name: "PART-21-Defamation-Actions.md",
+                title: "Part XXI: Defamation Actions",
+                url: "/archive/PART-21-Defamation-Actions.html",
+                escapedPath: "archive/PART-21-Defamation-Actions.md",
+                dir: "/archive/",
+                tocId: "toc_/archive/",
+                documentInfo: ["Archive",null,null]
+            },
+            
+        {
+                name: "Part-23-Reference-to-Actuarial-Tables.md",
+                title: "PART XXIII: Reference to Actuarial Tables for the Assessment of Damages in Personal Injury and Death Claims",
+                url: "/archive/Part-23-Reference-to-Actuarial-Tables.html",
+                escapedPath: "archive/Part-23-Reference-to-Actuarial-Tables.md",
+                dir: "/archive/",
+                tocId: "toc_/archive/",
+                documentInfo: ["Archive",null,null]
+            },
+            
+        {
+                name: "Part-24-Simplified-proceedings-under-the-protection-from-harrasment-act.md",
+                title: "PART XXIV: Simplified Proceedings under the Protection from Harrassment Act",
+                url: "/archive/Part-24-Simplified-proceedings-under-the-protection-from-harrasment-act.html",
+                escapedPath: "archive/Part-24-Simplified-proceedings-under-the-protection-from-harrasment-act.md",
+                dir: "/archive/",
+                tocId: "toc_/archive/",
+                documentInfo: ["Archive",null,null]
+            },
+            
+        {
+                name: "Part-25-Electronic-Filing-and-case-management-for-matters.md",
+                title: "PART XXV: Electronic Filing and Case Management System for matters Before the Community Courts and Tribunals Cluster",
+                url: "/archive/Part-25-Electronic-Filing-and-case-management-for-matters.html",
+                escapedPath: "archive/Part-25-Electronic-Filing-and-case-management-for-matters.md",
+                dir: "/archive/",
+                tocId: "toc_/archive/",
+                documentInfo: ["Archive",null,null]
+            },
+            
+        {
+                name: "appendix b.md",
+                title: "APPENDIX B: Pre-Action Protocol for Personal Injury Claims and Non-Injury Motor Accident Claims",
+                url: "/archive/appendix%20b.html",
+                escapedPath: "archive/appendix%20b.md",
+                dir: "/archive/",
+                tocId: "toc_/archive/",
+                documentInfo: ["Archive",null,null]
+            },
+            
+        {
+                name: "appendix c.md",
+                title: "APPENDIX C: Guidelines for Court Dispute Resolution Case Conferences for Personal Injury Claims and Non-Injury Motor Accident Claims",
+                url: "/archive/appendix%20c.html",
+                escapedPath: "archive/appendix%20c.md",
+                dir: "/archive/",
+                tocId: "toc_/archive/",
+                documentInfo: ["Archive",null,null]
+            },
+            
+        {
+                name: "appendix d.md",
+                title: "APPENDIX D: Benchmark Rates for Cost of Rental and Loss of Use",
+                url: "/archive/appendix%20d.html",
+                escapedPath: "archive/appendix%20d.md",
+                dir: "/archive/",
+                tocId: "toc_/archive/",
+                documentInfo: ["Archive",null,null]
+            },
+            
+        {
+                name: "appendix e.md",
+                title: "APPENDIX E: Protocol for Medical Negligence Claims",
+                url: "/archive/appendix%20e.html",
+                escapedPath: "archive/appendix%20e.md",
+                dir: "/archive/",
+                tocId: "toc_/archive/",
+                documentInfo: ["Archive",null,null]
+            },
+            
+        {
+                name: "appendix f.md",
+                title: "APPENDIX F: Pre-Action Protocol for Defamation Actions",
+                url: "/archive/appendix%20f.html",
+                escapedPath: "archive/appendix%20f.md",
+                dir: "/archive/",
+                tocId: "toc_/archive/",
+                documentInfo: ["Archive",null,null]
+            },
+            
+        {
+                name: "appendix g.md",
+                title: "APPENDIX G: Uploading Redacted Charges Under Practice Direction 124",
+                url: "/archive/appendix%20g.html",
+                escapedPath: "archive/appendix%20g.md",
+                dir: "/archive/",
+                tocId: "toc_/archive/",
+                documentInfo: ["Archive",null,null]
+            },
+            
+        {
+                name: "index.md",
+                title: "State Courts Practice Directions 2021 (To be read with the Rules of Court 2021)",
+                url: "/",
+                escapedPath: "index.md",
+                dir: "/",
+                tocId: "toc_/",
+                documentInfo: ["State Courts Practice Directions 2021","",["PART-01-INTRODUCTION.md","PART-02-GENERAL-MATTERS.md","PART-03-ORIGINATING-PROCESSES-AND-DOCUMENTS.md","PART-04-CASE-MANAGEMENT-AND-COURT-ALTERNATIVE-DISPUTE-RESOLUTION.md","PART-05-DOCUMENTS-ONLY-PROCEEDINGS.md","PART-06-INJUNCTIONS-AND-CERTAIN-OTHER-APPLICATIONS.md","PART-07-REMOTE-HEARINGS.md","PART-08-EVIDENCE–WITNESSES-AFFIDAVITS-AND-EXHIBITS.md","PART-09-DOCUMENTS-AND-AUTHORITIES-FOR-USE-IN-COURT.md","PART-10-JUDGMENTS-AND-ORDERS.md","PART-11-FURTHER-ARGUMENTS.md","PART-12-ELECTRONIC-FILING-SERVICE.md","PART-13-ENFORCEMENT-MATTERS.md","PART-14-BILLS-OF-COSTS-FOR-ASSESSMENT.md","PART-15-DEFAMATION-ACTIONS.md","PART-16-REFERENCE-TO-ACTUARIAL-TABLES-IN-PERSONAL-INJURY-AND-DEATH-CLAIMS.md","PART-17-CRIMINAL-MATTERS.md","PART-18-ELECTRONIC-FILING-AND-SERVICE-FOR-CRIMINAL-PROCEEDINGS.md","PART-19-PROCEEDINGS-BEFORE-THE-COMMUNITY-COURTS-AND-TRIBUNALS-CLUSTER.md","APPENDICES.md"]]
+            },
+            
+        
+    ]
+
+    var pageIndex = {}
+    var documentList = {}
+
+    pages.forEach(function(page) {
+        pageIndex[page.url] = page
+        var documentTitle = page.documentInfo ? page.documentInfo[0] : 'root'
+        if (documentList[documentTitle]) {
+            documentList[documentTitle].push(page)
+        } else {
+            documentList[documentTitle] = [page]
+        }
+    })
+
+    // Expose as global var
+    root = typeof exports !== 'undefined' && exports !== null ? exports : this
+
+    root.pageIndex = pageIndex;
+    root.documentList = documentList;
+})()
