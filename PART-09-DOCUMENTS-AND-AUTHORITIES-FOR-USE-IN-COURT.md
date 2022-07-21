@@ -10,13 +10,13 @@
 
 (3) Subject to the directions of the Court, solicitors may appear before the District Judge, Magistrate or Registrar with paper documents for an urgent hearing. The solicitors so appearing must give an undertaking to file all the documents used at the hearing using the Electronic Filing Service by the next working day after the hearing. Any document not filed using the Electronic Filing Service will not be included in the Court’s case file.
 
-(4) Notwithstanding anything else in this Practice Direction, in the event that a party uses bundles of authorities in paper form for a hearing, the following directions in this paragraph shall apply:
+(4) Notwithstanding anything else in this Practice Direction, a party may choose not to file the bundle of authorities into the electronic case file and instead submit a hard copy of the bundle of authorities:ply:
 
->(a) The party shall still comply with paragraph (7) and file an electronic copy of the bundle of authorities through the Electronic Filing Service.
+>(a) The party shall still comply with paragraph (7) and the court may direct the party to file an electronic copy of the list of authorities (that corresponds to the table of contents of the hard copy of the bundle of authorities) through the Electronic Filing Service.
 
->(b) The party using the paper copy of the bundle of authorities shall bear the onus of producing the bundle at every hearing at which it is required. The Court will neither retain nor undertake to produce for hearings the paper copy of the bundle.
+>(b) The party using the hard copy of the bundle of authorities shall bear the onus of producing the bundle at every hearing at which it is required. The Court will neither retain nor undertake to produce for hearings the hard copy of the bundle.
 
->(c) The judicial officer may, if he so chooses, retain the paper copy of the bundle of authorities for his own reference. The paper copy so retained will not however form part of the Court’s record in respect of the proceedings in which it was used.
+>(c) The judicial officer may, if he so chooses, retain the hard copy of the bundle of authorities for his own reference. The hard copy so retained will not however form part of the Court’s record in respect of the proceedings in which it was used.
 
 ### ***Directions for electronic creation and filing of submissions, bundles of documents, bundles of authorities***
 
@@ -46,7 +46,7 @@
 
 (7) The following directions apply to the preparation and filing of bundles of authorities:
 
->(a) Bundles of authorities shall be filed through the Electronic Filing Service. 
+>(a) A party using a hard copy of the bundle of authorities for a hearing may be directed to file the list of authorities (that corresponds to the table of contents of the hard copy of the bundle of authorities) into the case file through the Electronic Filing Service.  
 
 >(b) The bundle of authorities shall have a table of contents immediately after the first title page. Where the bundle of authorities consists of more than one volume, each volume shall have a table of contents clearly indicating the authorities that are contained in that volume. The first volume shall contain a complete table of contents of all volumes of the bundle.
 
@@ -64,7 +64,13 @@
 
 >(e) A bookmark should be created in the PDF file for each authority in the bundle. The name given to each bookmark should be the same as the table of contents.
 
->(f) The page number of each bundle must correspond to the page number in the PDF version of that bundle. 
+>(f) The bundle of authorities must be paginated consecutively at the top right hand corner of each page. Each separate volume must start at page 1, and every page in that volume must be numbered consecutively. The page number of each bundle must correspond to the page number in the PDF version of that bundle. 
+
+>(g) If a hard copy is prepared: 
+
+>> (i) the bundle of authorities must be properly bound with plastic ring binding or plastic spine thermal binding. The rings or spines should be red for claimants/appellants and blue for defendants/respondents with a transparent plastic cover in front and at the back.
+
+>> (ii) The bundle of authorities must have flags to mark out the authorities. Such flags must bear the appropriate indicium by which the authority is referred to. Flags must be spaced out evenly along the right side of the bundle so that as far as possible they do not overlap one another.
 
 (8) For proceedings using the Electronic Filing Service, a bundle of documents may be created online and filed through the Electronic Filing Service. The electronic bundle must be created in PDF. The electronic bundle may contain the following:
 
@@ -77,69 +83,87 @@
 
 (1) This Practice Direction shall apply to trials in open Court.
 
-(2) Order 9, Rule 25(9)-(10) of the Rules of Court 2021 requires the parties to be directed to file and serve their affidavits of the evidence-in-chief (“**AEICs**”) of all witnesses, a bundle of documents and an opening statement. This Practice Direction prescribes the contents and the format of these documents. 
+(2) Order 9, Rule 25(9) of the Rules of Court 2021 requires the affidavits of evidence-in- chief of all witnesses or other affidavits, the bundles of documents and the opening statements to be filed and served as directed by the Court. Parties are to note that the timeline given pursuant to the Court’s directions under Order 9, Rule 25(9) of the Rules of Court 2021 is to be adhered to strictly, and that the timeline will apply to the filing of the documents into the electronic case file and, if applicable, the submission of the CD-ROM or DVD-ROM (containing the documents in Portable Document Format (PDF)) to the Registry.  
 
-### ***Bundle of AEICs***
+### ***Mode of filing documents***
 
-(3) The claimant is to prepare a bundle of AEICs of all witnesses. Where the AEICs have all been individually filed through the Electronic Filing Service, the bundle of AEICs need not be re-filed but shall be tendered to the Registry in hard copy. 
+(3) The opening statement, the affidavits of the evidence-in-chief of all witnesses or other affidavits, and the bundle of documents must be filed in Court as separate documents using the Electronic Filing Service, and, if required, each of the opening statement, the affidavits of the evidence-in-chief of all witnesses or other affidavits, and the bundle of documents in Portable Document Format (PDF) stored on optical media (CD-ROM or DVD-ROM) may be tendered to the Registry. The documents must comply with the provisions of this Practice Direction.
 
-### ***Bundle of Documents pursuant to Order 9, Rule 25(10)***
+(4) The parties may tender the documents referred to at paragraph (3) above to the Registry in hard copy. The hard copy must tally in all respects with the soft copy, and the page numbers of the hard copy must correspond to the page numbers in the Portable Document Format (PDF) version. Parties should adhere as far as possible to the guidelines set out on the eLitigation website at https://www.elitigation.sg on the resolution to be used when scanning documents into PDF.
 
-(4) The claimant is to prepare the Bundle of Documents referred to in Order 9, Rule 25(10) of the Rules of Court 2021 in the following format.
+### ***Bundles of Documents***
 
->(a) **Volume I** – the last pleading (which incorporates all the previous pleadings), which should also include any further and better particulars to the relevant pleading. The earlier versions of the pleading should not be included. Any particulars to the pleading should be arranged directly below the relevant pleading. The orders of Court given at the Case Conferences which are relevant for the trial should be included at the end. Where directed by the Court, the plaintiff’s solicitors are to prepare a table in the manner and form set out in [Form 20](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2020.pdf) of Appendix A1 to these Practice Directions. The table seeks to provide an overview of the parties’ positions reflected in the last pleading (which incorporates all the previous pleadings). 
+(5) Under Order 9, Rule 25(10) of the Rules of Court 2021, parties are required to file and serve bundles of documents which must contain:
 
->>For example:
+>(a) the last pleading (which incorporates all the previous pleadings);
 
->>Index to Volume I of the Bundle of Documents
+>(b) the orders of the Court given at the case conferences which are relevant for the trial; and
 
->>|**S/n**|**Document**                                                |     **Date filed**|
->>|-------|------------------------------------------------------------|-------------------|
->>|1      |Statement of Claim (Amendment No. 2)                        |         19/1/2020 |
->>|2      |Further and Better Particulars to the Statement of Claim    |        10/12/2019 |
->>|3      |Defence (Amendment No. 1)                                   |          2/2/2021 |
->>|4      |Further and Better Particulars to the Defence               |        15/12/2019 |
->>|5      |Order of Court No. DC/ORC 123/2021                          |         12/2/2021 |
+>(c) the documents which the parties are relying on at the trial, separating them into sections for documents of which authenticity is not in dispute and documents of which authenticity is in dispute.
 
->(b) **Volume II** – the documents which the parties are relying on at the trial for which authenticity is not in dispute. A table of contents in the manner and form set out in [Form 21](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2021.pdf) in Appendix A1 to these Practice Directions must also be furnished. It is the responsibility of solicitors for all parties to agree and prepare an agreed bundle as soon as possible. 
+Where directed by the Court, the plaintiff’s solicitors are to prepare a table in the manner and form set out in Form 20 of Appendix A1 to these Practice Directions. The table seeks to provide an overview of the parties’ positions reflected in the last pleading (which incorporates all the previous pleadings).
 
->(c) **Volume III** – the documents which the parties are relying on at the trial for which authenticity is in dispute. A table of contents in the manner and form set out in [Form 22](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2022.pdf) in Appendix A1 to these Practice Directions must also be furnished.
+(6) The bundles of documents must be prepared in an electronic format. The contents of the bundle of documents must be agreed on between all parties as far as possible. If there are other documents, the relevance of which is uncertain, these documents should be included and any objections taken before the trial Judge. Only documents which are relevant or necessary for the trial may be included in the bundles. In cases where the Court is of the opinion that costs have been wasted by the inclusion of unnecessary documents, the Court will have no hesitation in making a special order for costs against the relevant party. No bundle of documents is necessary in cases where parties are not relying on any document at the trial. 
 
-(5) The Bundle of Documents shall be created in compliance with Practice Direction 72(6) and be filed and served through the Electronic Filing Service. A hard copy is to be tendered to the Registry by the date directed by the Court, or, in the absence of any direction, no later than 5 working days before the trial date. 
+(7) The following directions apply to the electronic creation of bundles of documents:
 
-(6) The hard copy Bundle of Documents should —
+>(a) An index of contents of each bundle in the manner and form set out in Form 21 or 22 of Appendix A1 of these Practice Directions must also be prepared. Bookmarks should be created in the Portable Document Format (PDF) file for each such reference in the index. There should be as many bookmarks in the PDF file as there are references in the index to documents in that PDF file.
 
->(a) be firmly secured together with plastic ring binding or plastic spine thermal binding, and such rings or spines should be red for claimants and blue for defendants with a transparent plastic cover in front and at the back;
+>(b) The name given to each bookmark should be the same as the corresponding reference in the index.
 
->(b) have flags to mark out documents to which repeated references will be made in the course of hearing, and such flags shall —
+>(c) It is the responsibility of the solicitors for all parties to agree and prepare a bundle of agreed documents. The scope to which the agreement extends must be stated in the index sheet of the bundle of agreed documents. If the parties are unable to agree on the inclusion of certain documents, those documents on which agreement cannot be reached must be prepared by the party that intends to rely on or refer to those documents. It is the responsibility of the solicitors for the party filing the bundle of documents under Order 9, Rule 25(10) of the Rules of Court 2021 to separate the documents into sections for documents of which authenticity is not in dispute and documents of which authenticity is in dispute and to indicate in the index sheet the documents of which authenticity is in dispute and by whom. Apart from the above, the various PDF documents should be arranged chronologically or in some logical order.
 
->>(i) bear the appropriate indicium by which the document is indicated in the index of contents; and
+>(d) The page number of each printed volume of the bundle of documents must correspond to the page number in the Portable Document Format (PDF) version of that volume of the bundle. Each separate volume must start at page 1, and every page must be numbered consecutively.
 
->>(ii) be spaced out evenly along the right side of the bundle so that as far as possible they do not overlap one another; and
+(8) The following directions apply to hard copies tendered to the Registry or the Court:
 
->(c) be legible (for which purpose clear legible photo-copies of original documents may be exhibited instead of the originals provided the originals are made available for inspection by the other parties before the hearing and by the Judge at the hearing).
+>(a) The bundles of documents should be paginated consecutively throughout at the top right hand corner and may be printed on one side or both sides of each page. Each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
 
-(7) Where originals and copies of documents are included in one bundle, it should be stated in the index which documents are originals and which are copies.
+>(b) Where the bundle of documents consists of more than 1 volume:
 
-(8) Only documents which are relevant or necessary for the trial shall be included in the bundles. In cases where costs have been wasted by the inclusion of unnecessary documents, the Court may make a special order for costs against the relevant person. 
+>>(i) the index of contents of all volumes of the bundle of documents must be placed at the beginning of Volume I; and
+
+>>(ii) each volume must have an index of contents indicating the documents that are contained in that volume
+
+>(c) The documents in the bundles should:
+
+>>(i) be firmly secured together with plastic ring binding or plastic spine thermal binding. The rings or spines should be red for claimants and blue for defendants with a transparent plastic cover in front and at the back;
+
+>>(ii) have flags to mark out documents to which repeated references will be made in the course of hearing. Such flags must bear the appropriate indicium by which the document is indicated in the index of contents. Flags must be spaced out evenly along the right side of the bundle so that, as far as possible, they do not overlap one another; and
+
+>>(iii) be legible. Clear and legible photocopies of original documents may be exhibited instead of the originals. The originals must be made available for inspection by the other parties or the Judge upon request.
+
+>(d) Where originals and copies of documents are included in 1 bundle, it should be stated in the index which documents are originals and which are copies.
 
 (9) Additional documents tendered in Court that are not part of the Bundle of Documents must be filed using the Electronic Filing Service in accordance with Practice Direction 72(2).
 
-### ***Bundle of authorities***
+### ***Core bundle of documents***
 
-(10) The bundle of authorities to be prepared by each party should be prepared in accordance with Practice Direction 72(4) and filed and served on all relevant parties at least 3 working days before trial.
+(10) In addition to the bundles of documents required to be filed and served under Order 9, Rule 25(9) of the Rules of Court 2021, parties should endeavour to file a core bundle of documents for trial, unless one is clearly unnecessary. This core bundle should comprise only the most important documents that are relevant to the hearing in question, or which will be repeatedly referred to in the course of the hearing.
 
-(11) Only authorities which are relevant or necessary for the trial shall be included in the bundles. No bundle of authorities is necessary in cases where parties are not relying on any authority at the trial. In cases where the Court is of the opinion that costs have been wasted by the inclusion of unnecessary authorities, the Court may make an order for costs against the relevant person.
+(11) The documents in the core bundle of documents should not only be paginated but should also be cross-referenced to copies of the documents included in the main bundles. The core bundle of documents must be prepared in an electronic format and tendered to the Court in a loose-leaf file which can easily have further documents added to it if required.
 
 ### ***Opening statements and closing submissions***
 
-(12) The opening statement shall be subject to any page limit provided for in the Rules of Court 2021 and shall comply with Practice Direction 72(5).
+(12) A proper opening statement is of great assistance to the Court as it sets out the case in a nutshell, both as to facts and law. It is intended to identify both for the parties and the Judge the issues that are, and are not, in dispute. It enables the Judge to appreciate what the case is about, and what he or she is to look out for when reading and listening to the evidence that will follow. The need for brevity is emphasised as opening statements that contain long and elaborate arguments, and citations from and references to numerous authorities, do not serve this purpose:
 
->(a) The claimant’s statement as provided for in sub-paragraph (c) below, should be filed and served on all other relevant parties not less than 3 working days before the commencement of the trial or as otherwise directed.
+>(a) Opening statements will be required from all parties in all originating claims in the State Courts, except where otherwise provided for in these Practice Directions or as directed by the Court.
 
->(b) The other counsel should each similarly not later than 2 working days before the start of the trial or as otherwise directed provide to the Court (with copies at the same time to their opponents) a statement which should concisely state the nature of their case on each of the issues to be tried and summarise the propositions of law to be advanced with references to the main authorities to be relied on. The character and length of this document will depend on the circumstances and whether there is any counterclaim or third party proceedings.
+>(b) All opening statements must include the following:
 
->(c) The following format must be adhered to when preparing opening statements:
+>> (i) the nature of the case generally and the background facts insofar as they are relevant to the matter before the Court and indicating which facts, if any, are agreed;
+
+>> (ii) the precise legal and factual issues involved are to be identified with cross- references as appropriate to the pleadings. These issues should be numbered and listed, and each point should be stated in no more than one or two sentences. The object here is to identify the issues in dispute and state each party’s position clearly, not to argue or elaborate on them;
+
+>> (iii)	the principal authorities in support of each legal proposition should be listed, while the key documents and witnesses supporting each factual proposition should be identified;
+
+>> (iv)	where there is a counterclaim or third party action, the opening statement must similarly address all issues raised therein; and
+
+>> (v)	an explanation of the reliefs claimed (if these are unusual or complicated).
+
+>(c)	In cases where the Court is of the opinion that costs or hearing days have been wasted by a poorly drafted opening statement, the Court will have no hesitation in making a special order for costs against the relevant party.
+
+>(d) The following format must be adhered to when preparing opening statements:
 
 >>(i) all pages must be paginated, with the first page numbered as “Page 1” so that the page numbers of the hard copy correspond to the page numbers in the Portable Document Format (PDF) version;
 
@@ -151,42 +175,28 @@
 
 >>(v) every page must have a margin on all four sides, each of at least 35mm in width.
 
->(d) In the case of the claimant, the statement must include the following:
+>(e) Opening statements should not exceed 25 pages (including the cover page, table of contents and all annexes and appendices). All opening statements must include a cover page and a table of contents. Parties are to note that where the Court allows the prescribed page limit to be exceeded, fees are payable under the Fourth Schedule to the Rules of Court 2021.
 
->>(i) a summary of essential facts indicating which, if any, are agreed;
+>(f) Opening statements may be amended at trial, but counsel will be expected to explain the reasons for the amendments.
 
->>(ii) an indication of how these facts are to be proved, identifying relevant witnesses and documents;
+### ***Bundle of authorities***
 
->>(iii) a summary of the issues involved with cross-references as appropriate to the pleadings;
-
->>(iv) a summary of the claimant’s case in relation to each of the issues with references to the key documents relied upon, and a summary of the propositions of law to be advanced with references to the main authorities to be relied on; and
-
->>(v) an explanation of the reliefs claimed (if these are unusual or complicated).
-
->(e) Counsel will be at liberty to amend their statements at the trial but in such event will be expected to explain the reasons for the amendments.
-
-(13) Where parties are directed to file and serve written closing submissions, Practice Direction 72(5) should be complied with. Where parties have already filed and served a bundle of authorities pursuant to paragraph (10) above, the closing submissions should refer to that bundle. Any supplemental bundle of authorities should contain only any additional authorities.
-
-### ***Core bundle of documents***
-
-(14) In addition to the bundles of documents required to be filed and served under Order 9, Rule 25(9) of the Rules of Court 2021, parties should endeavour to file a core bundle of documents for trial, unless one is clearly unnecessary. This core bundle should comprise only the most important documents that are relevant to the hearing in question, or which will be repeatedly referred to in the course of the hearing.
-
-(15) The documents in the core bundle of documents should not only be paginated but should also be cross-referenced to copies of the documents included in the main bundles. The core bundle of documents must be prepared in an electronic format and tendered to the Court in a loose-leaf file which can easily have further documents added to it if required.
+(13) In addition to the documents required to be filed and served under Order 9, Rule 25(9) of the Rules of Court 2021, the Court may direct parties to file and serve bundles of authorities.
 
 ### ***Failure to tender documents in the proper manner and time***
 
-(16) At the trial of the cause or matter, an adjournment may be ordered if:
+(14) At the trial of the cause or matter, an adjournment may be ordered if:
 
 >(a) the above documents or any of them were not filed and served within the prescribed time or in the prescribed manner or at all; or
 
 >(b) one party seeks to tender any of the above documents or supplements thereto except for supplements to the opening statement at the trial of the cause or matter.
 
-(17) If an adjournment is ordered for any of the reasons set out in paragraph (16) above, the party who has failed to file or serve his documents within the prescribed time or at all or who seeks to tender a document or supplement thereto except for supplements to the opening statement may be ordered by the Court to bear the costs of the adjournment.
+(15) If an adjournment is ordered for any of the reasons set out in paragraph (14) above, the party who has failed to file or serve his documents within the prescribed time or at all or who seeks to tender a document or supplement thereto except for supplements to the opening statement may be ordered by the Court to bear the costs of the adjournment.
 
 
 ## 74. Hearing in Chambers
 
-(1) In all hearings in chambers before a Judge or Registrar, counsel shall submit their written submissions, bundles of documents and their own bundle of authorities as appropriate for the hearing. The requirements of Practice Directions 72 and 73 shall, with the necessary modifications, be complied with in this regard, save that any bundles to be relied on at the hearing shall be filed and served no later than 3 working days in advance of the hearing and hard copies of any bundles may (if necessary) be submitted at the hearing itself before the Judge or Registrar, as the case may be.
+(1) In all hearings in chambers before a Judge or Registrar, counsel shall submit their written submissions, bundles of documents and their own bundle of authorities as appropriate for the hearing. The requirements of Practice Directions 72 and 73 shall, with the necessary modifications, be complied with in this regard, save that any bundles to be relied on at a contested special date hearing shall be filed and served no later than 1 working days in advance of the hearing and hard copies of any bundles may (if necessary) be submitted at the hearing itself before the Judge or Registrar, as the case may be, unless the court directs otherwise.
 
 (2) The written submissions filed by parties shall, subject to such page limits as may be provided for in the Rules of Court 2021, set out as concisely as possible:
 
