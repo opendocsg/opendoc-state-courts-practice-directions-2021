@@ -461,7 +461,7 @@
 
 ### 16. **Early agreement on liability**
 
-16.1 Where parties have agreed on the issue of liability prior to the commencement of proceedings and wish to issue an originating claim in order for damages to be assessed, the claimant must file an originating claim endorsed with a simplified statement of claim. If a notice of intention to contest is not filed and served after the originating claim is served, the claimant may, in the manner prescribed under the Rules of Court 2021, proceed to enter default interlocutory judgment and take out an application for directions for the assessment of damages.
+16.1 Where parties have agreed on the issue of liability prior to the commencement of proceedings and wish to issue an originating claim in order for damages to be assessed, the claimant must file an originating claim endorsed with a simplified statement of claim. If a notice of intention to contest is not filed and served after the originating claim is served, the claimant may, in the manner prescribed under the Rules of Court 2021, proceed to enter default judgment on liability and take out an application for directions for the assessment of damages.
 
 ### 17. **Lodgement of claims below $3,000 with FIDReC** 
 
@@ -635,7 +635,7 @@
 
 >(c) Where a party is relying on the factual account of any witness in support of his case, a signed statement or affidavit of evidence-in-chief should be procured from that witness and submitted to the Court at the first CDR CC to enable the Court to be fully apprised of all the relevant evidence. 
 
->(d) Insurers should notify their solicitors if, to their knowledge, other claims arising from the same accident have been filed in Court. Solicitors should assist the Court in identifying these related claims so that all the claims may be dealt with together at the CDR CC for a consistent outcome on liability. If an ENE on liability has been given or interlocutory judgment has been entered in any related claim(s), solicitors should notify the Court accordingly and endeavour to resolve the remaining claims(s) on the same basis.
+>(d) Insurers should notify their solicitors if, to their knowledge, other claims arising from the same accident have been filed in Court. Solicitors should assist the Court in identifying these related claims so that all the claims may be dealt with together at the CDR CC for a consistent outcome on liability. If an ENE on liability has been given or judgment on liability has been entered in any related claim(s), solicitors should notify the Court accordingly and endeavour to resolve the remaining claims(s) on the same basis.
 
 >(e) Third party proceedings, if any, should be commenced before the first CDR CC. 
 
@@ -697,7 +697,7 @@ The Court will appoint the single joint expert after hearing submissions on the 
 
 8.1 Solicitors must inform their clients of the outcome of a CDR CC and render their advice expeditiously on the ENE on liability and/or quantum given by the Court. To facilitate settlement, solicitors should obtain their clients’ instructions and make the necessary proposals or offers of settlement early to enable the other party to consider their position or proposal and respond before the next CDR CC date. Reasons shall be given by parties for the position taken on liability and/or quantum so that the solicitors can inform the Court of the basis for their clients’ mandate at the next CDR CC.
 
-8.2 Rather than refraining from taking a position on liability or insisting that agreement on liability is *contingent* on quantum being settled at a particular sum (as is sometimes the case), parties who are able to agree on the issue of liability but not quantum shall consider allowing an *Interlocutory Judgment* to be recorded for liability and proceed for assessment of damages. A hearing to assess damages is generally less costly than a full trial.
+8.2 Rather than refraining from taking a position on liability or insisting that agreement on liability is *contingent* on quantum being settled at a particular sum (as is sometimes the case), parties who are able to agree on the issue of liability but not quantum shall consider allowing a *Judgment on Liability* to be recorded for liability and proceed for assessment of damages. A hearing to assess damages is generally less costly than a full trial.
 
 
 ## APPENDIX D: Benchmark Rates for Cost of Rental and Loss of Use
