@@ -65,21 +65,18 @@
 
 >(f) Equity and Trust; 
 
->(g) Professional Negligence; 
+>(g) Construction Disputes; and
 
->(h) Construction Disputes; 
+>(h) Consolidated suits where the total claim exceeds $150,000.
 
->(i) Medical Law; 
+(2A) In addition to paragraph (2) above, civil claims in the following categories are also included in the SMCL:
 
->(j) All cases that are transferred to the State Courts from the High Court, except for motor and industrial accident cases which undergo the Court Dispute Resolution (“**CDR**”) process at the Court Dispute Resolution Cluster (“**CDRC**”);
+>(a) District Court cases concerning:
 
->(k) Consolidated suits where the total claim exceeds $150,000; 
+>> (i) representative proceedings under Order 4, Rule 6 of the Rules of Court 2021; and 
+>> (ii) defamation actions; and 
 
->(l) Representative proceedings under Order 4, Rule 6 of the Rules of Court 2021; 
-
->(m) Defamation actions commenced in the District Courts (“**DC**”); and 
-
->(n) Any case deemed suitable for the SMCL at the discretion of the Court or on the application of parties. 
+>(b)any case deemed suitable for the SMCL at the discretion of the Court or on the application of parties. 
 
 ### ***First SMCL CC***
 
