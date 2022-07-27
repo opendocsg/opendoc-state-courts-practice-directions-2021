@@ -10,7 +10,7 @@
 
 (3) Subject to the directions of the Court, solicitors may appear before the District Judge, Magistrate or Registrar with paper documents for an urgent hearing. The solicitors so appearing must give an undertaking to file all the documents used at the hearing using the Electronic Filing Service by the next working day after the hearing. Any document not filed using the Electronic Filing Service will not be included in the Court’s case file.
 
-(4) Notwithstanding anything else in this Practice Direction, a party may choose not to file the bundle of authorities into the electronic case file and instead submit a hard copy of the bundle of authorities:ply:
+(4) Notwithstanding anything else in this Practice Direction, a party may choose not to file the bundle of authorities into the electronic case file and instead submit a hard copy of the bundle of authorities:
 
 >(a) The party shall still comply with paragraph (7) and the court may direct the party to file an electronic copy of the list of authorities (that corresponds to the table of contents of the hard copy of the bundle of authorities) through the Electronic Filing Service.
 
@@ -83,7 +83,7 @@
 
 (1) This Practice Direction shall apply to trials in open Court.
 
-(2) Order 9, Rule 25(9) of the Rules of Court 2021 requires the affidavits of evidence-in- chief of all witnesses or other affidavits, the bundles of documents and the opening statements to be filed and served as directed by the Court. Parties are to note that the timeline given pursuant to the Court’s directions under Order 9, Rule 25(9) of the Rules of Court 2021 is to be adhered to strictly, and that the timeline will apply to the filing of the documents into the electronic case file and, if applicable, the submission of the CD-ROM or DVD-ROM (containing the documents in Portable Document Format (PDF)) to the Registry.  
+(2) Order 9, Rule 25(9) of the Rules of Court 2021 requires the affidavits of evidence-in-chief of all witnesses or other affidavits, the bundles of documents and the opening statements to be filed and served as directed by the Court. Parties are to note that the timeline given pursuant to the Court’s directions under Order 9, Rule 25(9) of the Rules of Court 2021 is to be adhered to strictly, and that the timeline will apply to the filing of the documents into the electronic case file and, if applicable, the submission of the CD-ROM or DVD-ROM (containing the documents in Portable Document Format (PDF)) to the Registry.  
 
 ### ***Mode of filing documents***
 
@@ -101,7 +101,7 @@
 
 >(c) the documents which the parties are relying on at the trial, separating them into sections for documents of which authenticity is not in dispute and documents of which authenticity is in dispute.
 
-Where directed by the Court, the plaintiff’s solicitors are to prepare a table in the manner and form set out in Form 20 of Appendix A1 to these Practice Directions. The table seeks to provide an overview of the parties’ positions reflected in the last pleading (which incorporates all the previous pleadings).
+>Where directed by the Court, the plaintiff’s solicitors are to prepare a table in the manner and form set out in Form 20 of Appendix A1 to these Practice Directions. The table seeks to provide an overview of the parties’ positions reflected in the last pleading (which incorporates all the previous pleadings).
 
 (6) The bundles of documents must be prepared in an electronic format. The contents of the bundle of documents must be agreed on between all parties as far as possible. If there are other documents, the relevance of which is uncertain, these documents should be included and any objections taken before the trial Judge. Only documents which are relevant or necessary for the trial may be included in the bundles. In cases where the Court is of the opinion that costs have been wasted by the inclusion of unnecessary documents, the Court will have no hesitation in making a special order for costs against the relevant party. No bundle of documents is necessary in cases where parties are not relying on any document at the trial. 
 
