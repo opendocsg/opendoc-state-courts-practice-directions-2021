@@ -72,6 +72,7 @@
 > (a) District Court cases concerning:
 
 >> (i) representative proceedings under Order 4, Rule 6 of the Rules of Court 2021; and <br/>
+>> <br/>
 >> (ii) defamation actions; and 
 
 > (b) any case deemed suitable for the SMCL at the discretion of the Court or on the application of parties. 
