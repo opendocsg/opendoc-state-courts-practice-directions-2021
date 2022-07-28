@@ -196,7 +196,7 @@
 
 ## 74. Hearing in Chambers
 
-(1) In all hearings in chambers before a Judge or Registrar, counsel shall submit their written submissions, bundles of documents and their own bundle of authorities as appropriate for the hearing. The requirements of Practice Directions 72 and 73 shall, with the necessary modifications, be complied with in this regard, save that any bundles to be relied on at a contested special date hearing shall be filed and served no later than 1 working days in advance of the hearing and hard copies of any bundles may (if necessary) be submitted at the hearing itself before the Judge or Registrar, as the case may be, unless the court directs otherwise.
+(1) In all hearings in chambers before a Judge or Registrar, counsel shall submit their written submissions, bundles of documents and their own bundle of authorities as appropriate for the hearing. The requirements of Practice Directions 72 and 73 shall, with the necessary modifications, be complied with in this regard, save that any bundles to be relied on at a contested special date hearing shall be filed and served no later than 1 working day in advance of the hearing and hard copies of any bundles may (if necessary) be submitted at the hearing itself before the Judge or Registrar, as the case may be, unless the court directs otherwise.
 
 (2) The written submissions filed by parties shall, subject to such page limits as may be provided for in the Rules of Court 2021, set out as concisely as possible:
 
