@@ -73,7 +73,7 @@
 
 >(a) District Court cases concerning:
 
->> (i) representative proceedings under Order 4, Rule 6 of the Rules of Court 2021; and 
+>> (i) representative proceedings under Order 4, Rule 6 of the Rules of Court 2021; and
 >> (ii) defamation actions; and 
 
 >(b)any case deemed suitable for the SMCL at the discretion of the Court or on the application of parties. 
@@ -87,7 +87,7 @@
 >(b) An SMCL Notice will be issued to the claimant and any other party who has filed a notice of intention to contest notifying parties that the case has been identified for the SMCL, of the date of the first SMCL CC, and directing parties to provide to the Court within a prescribed time:
 
 >>(i) an update on the progress of the matter including attempts at amicable resolution; and
-
+>>
 >>(ii) a list of directions sought, including the timeframe for each direction. 
 
 >(c) The SMCL Notice may also include further directions from the Court, for example: 
