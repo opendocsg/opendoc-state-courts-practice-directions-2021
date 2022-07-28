@@ -46,7 +46,6 @@
 
 
 ## 35. The SMCL Process
-
 ### ***Scope of the SMCL Process***
 
 (1) The Specially Managed Civil List (“**SMCL**”) comprises cases which would benefit from a dedicated and rigorous pre-trial management process in order to bring about an expeditious resolution of the dispute. These cases will be tracked by a docketed team of judicial officers who will deal with all the pre-trial applications and give directions to facilitate the timely disposal of the dispute.
@@ -69,6 +68,13 @@
 
 >(h) Consolidated suits where the total claim exceeds $150,000.
 
+(2A) In addition to paragraph (2) above, civil claims in the following categories are also included in the SMCL:
+> (a) District Court cases concerning:
+
+>> (i) representative proceedings under Order 4, Rule 6 of the Rules of Court 2021; and
+>> (ii) defamation actions; and 
+
+> (b)any case deemed suitable for the SMCL at the discretion of the Court or on the application of parties. 
 
 ### ***First SMCL CC***
 
