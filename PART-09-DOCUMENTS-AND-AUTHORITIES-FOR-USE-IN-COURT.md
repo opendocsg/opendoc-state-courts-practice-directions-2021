@@ -123,7 +123,7 @@
 
 >>(i) the index of contents of all volumes of the bundle of documents must be placed at the beginning of Volume I; and
 
->>(ii) each volume must have an index of contents indicating the documents that are contained in that volume
+>>(ii) each volume must have an index of contents indicating the documents that are contained in that volume.
 
 >(c) The documents in the bundles should:
 
