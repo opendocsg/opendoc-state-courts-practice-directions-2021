@@ -9,7 +9,7 @@
 <li><a href="./Forms/Appendix%20A1/Form%203.pdf" download>Form 3 : Consent for the Application of Order 65 (Simplified Process) to Proceedings in the District Court</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%204.pdf" download>Form 4 : Sample Letter of Offer</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%205.pdf" download>Form 5 : Claimant’s/ Defendant’s List of Issues in Dispute and List Of Witnesses</a></li>
-<li><a href="./Forms/Appendix%20A1/Form%206-v2.pdf" download>Form 6 : Court Alternative Dispute Resolution (Court ADR) Form</a></li>
+<li><a href="./Forms/Appendix%20A1/Form%206-v3.pdf" download>Form 6 : Court Alternative Dispute Resolution (Court ADR) Form</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%207-v2.pdf" download>Form 7 : Recording Settlement / Entering Judgment by Consent (NIMA/PI/PIMA)</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%208.pdf" download>Form 8 : Opening Statement for Claimant/Defendant (Mediation/Conciliation)</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%209.pdf" download>Form 9 : Opening Statement for Claimant/Defendant (Neutral Evaluation)</a></li>
@@ -18,7 +18,8 @@
 <li><a href="./Forms/Appendix%20A1/Form%2012.pdf" download>Form 12 : Joint Opening Statement (For Personal Injury Claims)</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2013.pdf" download>Form 13 : Joint Opening Statement (For Non-Injury Motor Accident Claims)</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2014.pdf" download>Form 14 : Joint Opening Statement (For General Claims excluding Personal Injury and Non-Injury Motor Accident claims)</a></li>
-<li><a href="../Forms/Appendix%20A1/Form%2015.pdf" download>Form 15 : Receiver’s Security by Undertaking</a></li>
+<li><a href="./Forms/Appendix%20A1/Form%2014A.pdf" download>Form 14A : Request for Permission to File Application</a></li>
+<li><a href="./Forms/Appendix%20A1/Form%2015.pdf" download>Form 15 : Receiver’s Security by Undertaking</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2016.pdf" download>Form 16 : Request Form for Civil Trial or Assessment of Damages to be Conducted on a Documents-Only Basis</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2017.pdf" download>Form 17 : Request for Production of Document Filed in Court or Court’s Records</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2018.pdf" download>Form 18 : Notice of Objections to Contents of Affidavits of Evidence-In-Chief</a></li>
@@ -37,7 +38,7 @@
 <li><a href="./Forms/Appendix%20A1/Form%2027-v2.pdf" download>Form 27 : Bill of Costs for Non-Contentious Business </a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2028.pdf" download>Form 28 : Notice Of Dispute</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2029.pdf" download>Form 29 : Noting Of Appearance Of Advocates/Prosecutors / Mention Slip</a></li>
-<li><a href="./Forms/Appendix%20A1/Form%2030-v2.pdf" download>Form 30 : Application For Records Of Criminal Proceedings For Non-ICMS Cases</a></li>
+<li><a href="./Forms/Appendix%20A1/Form%2030-v3.pdf" download>Form 30 : Application For Records Of Criminal Proceedings For Non-ICMS Cases</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2031-v2.pdf" download>Form 31 : Checklist For Referral Of Cases To Protection From Harassment Court</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2032.pdf" download>Form 32 : Sample Letter Of Request For Medical Report And Medical Records</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2033.pdf" download>Form 33 : Sample Consent Form Authorising Release Of Medical Report And Other Related Medical Records To Solicitors</a></li>
@@ -461,7 +462,7 @@
 
 ### 16. **Early agreement on liability**
 
-16.1 Where parties have agreed on the issue of liability prior to the commencement of proceedings and wish to issue an originating claim in order for damages to be assessed, the claimant must file an originating claim endorsed with a simplified statement of claim. If a notice of intention to contest is not filed and served after the originating claim is served, the claimant may, in the manner prescribed under the Rules of Court 2021, proceed to enter default interlocutory judgment and take out an application for directions for the assessment of damages.
+16.1 Where parties have agreed on the issue of liability prior to the commencement of proceedings and wish to issue an originating claim in order for damages to be assessed, the claimant must file an originating claim endorsed with a simplified statement of claim. If a notice of intention to contest is not filed and served after the originating claim is served, the claimant may, in the manner prescribed under the Rules of Court 2021, proceed to enter default judgment on liability and take out an application for directions for the assessment of damages.
 
 ### 17. **Lodgement of claims below $3,000 with FIDReC** 
 
@@ -635,7 +636,7 @@
 
 >(c) Where a party is relying on the factual account of any witness in support of his case, a signed statement or affidavit of evidence-in-chief should be procured from that witness and submitted to the Court at the first CDR CC to enable the Court to be fully apprised of all the relevant evidence. 
 
->(d) Insurers should notify their solicitors if, to their knowledge, other claims arising from the same accident have been filed in Court. Solicitors should assist the Court in identifying these related claims so that all the claims may be dealt with together at the CDR CC for a consistent outcome on liability. If an ENE on liability has been given or interlocutory judgment has been entered in any related claim(s), solicitors should notify the Court accordingly and endeavour to resolve the remaining claims(s) on the same basis.
+>(d) Insurers should notify their solicitors if, to their knowledge, other claims arising from the same accident have been filed in Court. Solicitors should assist the Court in identifying these related claims so that all the claims may be dealt with together at the CDR CC for a consistent outcome on liability. If an ENE on liability has been given or judgment on liability has been entered in any related claim(s), solicitors should notify the Court accordingly and endeavour to resolve the remaining claims(s) on the same basis.
 
 >(e) Third party proceedings, if any, should be commenced before the first CDR CC. 
 
@@ -697,7 +698,7 @@ The Court will appoint the single joint expert after hearing submissions on the 
 
 8.1 Solicitors must inform their clients of the outcome of a CDR CC and render their advice expeditiously on the ENE on liability and/or quantum given by the Court. To facilitate settlement, solicitors should obtain their clients’ instructions and make the necessary proposals or offers of settlement early to enable the other party to consider their position or proposal and respond before the next CDR CC date. Reasons shall be given by parties for the position taken on liability and/or quantum so that the solicitors can inform the Court of the basis for their clients’ mandate at the next CDR CC.
 
-8.2 Rather than refraining from taking a position on liability or insisting that agreement on liability is *contingent* on quantum being settled at a particular sum (as is sometimes the case), parties who are able to agree on the issue of liability but not quantum shall consider allowing an *Interlocutory Judgment* to be recorded for liability and proceed for assessment of damages. A hearing to assess damages is generally less costly than a full trial.
+8.2 Rather than refraining from taking a position on liability or insisting that agreement on liability is *contingent* on quantum being settled at a particular sum (as is sometimes the case), parties who are able to agree on the issue of liability but not quantum shall consider allowing a *Judgment on Liability* to be recorded for liability and proceed for assessment of damages. A hearing to assess damages is generally less costly than a full trial.
 
 
 ## APPENDIX D: Benchmark Rates for Cost of Rental and Loss of Use

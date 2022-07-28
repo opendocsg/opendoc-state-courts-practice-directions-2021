@@ -46,7 +46,6 @@
 
 
 ## 35. The SMCL Process
-
 ### ***Scope of the SMCL Process***
 
 (1) The Specially Managed Civil List (“**SMCL**”) comprises cases which would benefit from a dedicated and rigorous pre-trial management process in order to bring about an expeditious resolution of the dispute. These cases will be tracked by a docketed team of judicial officers who will deal with all the pre-trial applications and give directions to facilitate the timely disposal of the dispute.
@@ -65,21 +64,18 @@
 
 >(f) Equity and Trust; 
 
->(g) Professional Negligence; 
+>(g) Construction Disputes; and
 
->(h) Construction Disputes; 
+>(h) Consolidated suits where the total claim exceeds $150,000.
 
->(i) Medical Law; 
+(2A) In addition to paragraph (2) above, civil claims in the following categories are also included in the SMCL:
+> (a) District Court cases concerning:
 
->(j) All cases that are transferred to the State Courts from the High Court, except for motor and industrial accident cases which undergo the Court Dispute Resolution (“**CDR**”) process at the Court Dispute Resolution Cluster (“**CDRC**”);
+>> (i) representative proceedings under Order 4, Rule 6 of the Rules of Court 2021; and <br/>
+>> <br/>
+>> (ii) defamation actions; and 
 
->(k) Consolidated suits where the total claim exceeds $150,000; 
-
->(l) Representative proceedings under Order 4, Rule 6 of the Rules of Court 2021; 
-
->(m) Defamation actions commenced in the District Courts (“**DC**”); and 
-
->(n) Any case deemed suitable for the SMCL at the discretion of the Court or on the application of parties. 
+> (b) any case deemed suitable for the SMCL at the discretion of the Court or on the application of parties. 
 
 ### ***First SMCL CC***
 
@@ -90,7 +86,7 @@
 >(b) An SMCL Notice will be issued to the claimant and any other party who has filed a notice of intention to contest notifying parties that the case has been identified for the SMCL, of the date of the first SMCL CC, and directing parties to provide to the Court within a prescribed time:
 
 >>(i) an update on the progress of the matter including attempts at amicable resolution; and
-
+>>
 >>(ii) a list of directions sought, including the timeframe for each direction. 
 
 >(c) The SMCL Notice may also include further directions from the Court, for example: 
@@ -131,7 +127,7 @@
 
 (14) All updates and requests for directions by the parties, as well as directions given by the Court, shall be communicated to and by the Court through the Electronic Filing Service, unless the Court determines that it is necessary for the parties or their counsel to attend Court for such directions to be dealt with. 
 
-(15) If judgment is entered on liability for damages to be assessed, a further SMCL CC will be fixed around 7 weeks after the date judgment is entered. A fresh SMCL CC Notice will be issued to the claimant and any party against whom judgment on liability has been entered (if that party has filed a notice of intention to contest), notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
+(15) If judgment is entered on liability for damages to be assessed, a further SMCL CC will be fixed around 3 weeks after the date judgment is entered. A fresh SMCL CC Notice will be issued to the claimant and any party against whom judgment on liability has been entered (if that party has filed a notice of intention to contest), notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
 
 
 ## 36. Simplified Process under Order 65 of the Rules of Court 2021
@@ -218,7 +214,7 @@
 
 (16) The Court will consider, at each Civil Simplified CC, all available options in the case jointly with the parties. Accordingly, at any Civil Simplified CC where the attendance of parties is required, the solicitor in charge of the case for that party (ie, the solicitor who has actual conduct of the case for that party and who is familiar with it) shall attend the Civil Simplified CC. Solicitors for both parties shall attend the Civil Simplified CC.
 
-(17) If judgment is entered on liability for damages to be assessed, an Assessment of Damages CC will be fixed around 7 weeks after the date judgment is entered. A CC Notice will be issued to the claimant and any party against whom judgment on liability has been entered (if that party has filed a notice of intention to contest) notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
+(17) If judgment is entered on liability for damages to be assessed, an Assessment of Damages CC will be fixed around 3 weeks after the date judgment is entered. A CC Notice will be issued to the claimant and any party against whom judgment on liability has been entered (if that party has filed a notice of intention to contest) notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
 
 
 ## 37. General Process
@@ -247,7 +243,7 @@
 
 (7) Where the action is not disposed of by the Court or settled or otherwise resolved through the actions of the parties, the Court will at an appropriate stage give directions for the matter to be set down for trial. If the matter is set down by the date fixed by the Court, the matter will be fixed for Pre-Trial CC and the further General Process CC will be vacated. Where the matter has been set down, parties should seek extended timelines and/or permission to file any further applications at the Pre-Trial CC or from the trial judge if one has been allocated. 
 
-(8) If judgment is entered on liability for damages to be assessed, an Assessment of Damages CC will be fixed around 7 weeks after the date judgment is entered. A CC Notice will be issued to the claimant and the parties against whom judgment on liability has been entered notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
+(8) If judgment is entered on liability for damages to be assessed, an Assessment of Damages CC will be fixed around 3 weeks after the date judgment is entered. A CC Notice will be issued to the claimant and the parties against whom judgment on liability has been entered notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
 
 ### ***General provisions for General Process CCs***
 
@@ -371,7 +367,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (16) Where no party attends the CDR CC, or if the claimant is absent, the Court may exercise its powers under Order 9, Rule 4(1) of the Rules of Court 2021 to dismiss the action. 
 
-### ***Recording of terms of settlement agreement, consent interlocutory judgment or consent judgment***
+### ***Recording of terms of settlement agreement, consent judgment on liability or consent judgment***
 
 (17) If the parties reach agreement on the issue of liability for the claim or quantum of damages or both, they must submit [Form 7](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%207.pdf) of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent judgment on liability or consent judgment as the case may be.
 
@@ -388,9 +384,9 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (1) In this Practice Direction, “medical negligence claims” refers generally to all claims arising out of an alleged negligent act or omission in connection with medical or dental diagnosis or treatment.
 
-(2) Parties in medical negligence claims must comply with the terms of the Protocol for Medical Negligence Claims at Appendix E of these Practice Directions (“**the protocol**”) both in substance and spirit. A breach by one party will not exempt the other parties in the claim from following the protocol.
+(2) Parties in medical negligence claims must comply with the terms of the Protocol for Medical Negligence Claims at Appendix E of these Practice Directions (“**the Medical Negligence protocol**”) both in substance and spirit. A breach by one party will not exempt the other parties in the claim from following the protocol.
 
-(3) In exercising its discretion as to costs, the Court will consider compliance with the protocol. If non-compliance with the protocol has led to unnecessary costs, the Court may make, *inter alia*, the following orders:
+(3) In exercising its discretion as to costs, the Court will consider compliance with the Medical Negligence protocol. If non-compliance has led to unnecessary costs, the Court may make, *inter alia*, the following orders:
 
 >(a) an order disallowing a defaulting party his costs, or some part of his costs, even if he succeeds;
 
@@ -422,7 +418,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (10) Where no party attends the CDR CC, or if the claimant is absent, the Court may exercise its powers under Order 9, Rule 4(1) of the Rules of Court 2021 to dismiss the action.  
 
-### ***Recording of terms of settlement agreement, consent interlocutory judgment or consent judgment***
+### ***Recording of terms of settlement agreement, consent judgment on liability or consent judgment***
 
 (11) If the parties reach agreement on the issue of liability for the claim or quantum of damages or both, they must submit [Form 7](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%207.pdf) of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent judgment on liability or consent judgment as the case may be.
 
@@ -457,7 +453,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (9) Where no party attends the CDR CC, or if the claimant is absent, the Court may exercise its powers under Order 9, Rule 4(1) of the Rules of Court 2021 to dismiss the action. 
 
-### ***Recording of terms of settlement agreement, consent interlocutory judgment or consent judgment***
+### ***Recording of terms of settlement agreement, consent judgment on liability or consent judgment***
 
 (10) If the parties reach agreement on the issue of liability for the claim or quantum of damages or both, they must submit [Form 7](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%207.pdf) of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent judgment on liability or consent judgment as the case may be.
 
@@ -555,25 +551,31 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 (10) More information on the Neutral Evaluation process and relevant procedure is set out at the Singapore Courts website at <https://www.judiciary.gov.sg>.
 
 
-## 45. Assessment of Damages
+## 45. Assessment of Damages and Taking of Accounts
 
 ### ***Convening of Assessment of Damages Case Conference***
 
-(1)(1)               Where judgment on liability is entered in any action in the State Courts, in which bifurcation was ordered, for damages to be assessed or for the taking of accounts, an Assessment of Damages Case Conference (“**Assessment CC**”) will be fixed around 7 weeks after the date on which judgment on liability is entered. An Assessment CC Notice will be issued to the claimant and any party against whom judgment on liability has been entered (if that party has filed a notice of intention to contest), notifying parties of the date of the Assessment CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
+(1) This Practice Direction applies where a case is bifurcated, and the Court gives judgment on liability and for damages to be assessed or the taking of accounts. References to the “assessment phase” of the proceedings and to an “Assessment of Damages” hearing should be read as including the proceedings leading up to the taking of accounts and the hearing for the taking of accounts respectively
 
-(2) At the Assessment CC, and upon an application by the party entitled to the benefit of the judgment in accordance with Order 15, Rule 15 of the Rules of Court 2021, the Court will give such directions as are necessary including, but not limited to, directions for:
+(1A) Where judgment on liability is entered in any action in the State Courts, in which bifurcation was ordered, for damages to be assessed or for the taking of accounts, an Assessment of Damages Case Conference (“**Assessment CC**”) will be fixed around 3 weeks after the date on which judgment on liability is entered. An Assessment CC Notice will be issued to the claimant and any party against whom judgment on liability has been entered (if that party has filed a notice of intention to contest), notifying parties of the date of the Assessment CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
 
->(a) the production of documents for the Assessment of Damages hearing;
+(2) The parties are to inform the Court at the Assessment CC (or in accordance with the Court’s directions) whether they intend to file any interlocutory application(s) in the assessment phase. 
 
->(b) the filing and exchange of affidavits of evidence-in-chief for the Assessment of Damages hearing; and
+(2A) Pursuant to Order 15, Rule 15(4) read with Order 9, Rule 25(9) and Order 9, Rule 25(12) of the Rules of Court 2021, the party entitled to the benefit of the judgment on liability must file and serve an application for directions. The party must include all interlocutory application(s) he or she intends to make in the assessment phase in the application for directions, which must deal with all matters that are necessary for the case to proceed expeditiously in the assessment phase. 
 
->(c) the filing of any notice of appointment for assessment of damages (“**NOAD**”).
+(2B) Where any other party intends to file any interlocutory application(s), he or she must also file and serve an application for directions including all the interlocutory application(s) he or she intends to make in the assessment phase. 
 
-(2A) In addition to the directions listed in sub-paragraph 2 above, directions for a Single Application Pending Trial (“**SAPT**”) to be filed may also be given at an Assessment CC, even if an SAPT has previously been filed in the liability phase of proceedings by a party. In both phases, in accordance with the Ideals in Order 3, Rule 1 of the Rules of Court 2021, the Court has the discretion to order a single application dealing with all matters that are necessary for the case to proceed expeditiously towards trial or assessment. 
+(2C) Directions for the filing of any application(s) for directions and/or any supporting or reply affidavit(s) necessary will be given at the Assessment CC. In general: 
+
+>(a) within 21 days after the Assessment CC, any application(s) for directions is to be filed and served, together with a supporting affidavit (where the application for directions includes interlocutory applications); and 
+
+>(b) within 21 days after service of an application for directions and supporting affidavit, an affidavit in reply may be filed and served. 
+
+(2D) Save for the applications referred to in Order 9, Rule 9(7) of the Rules of Court 2021, no other application may be taken out by any party in the assessment phase other than as directed at the Assessment CC or with the Court’s approval.
 
 ### ***Convening of Assessment of Damages Court Dispute Resolution Conferences***
 
-(3) The Court will generally convene the first Assessment of Damages Court Dispute Resolution Conference (“**ADCDR**”) within 4 weeks after the filing and acceptance of the NOAD.
+(3) The Court will generally convene the first Assessment of Damages Court Dispute Resolution Conference (“**ADCDR**”) within 4 weeks after the filing and acceptance of the Notice of Appointment for Assessment of Damages (“**NOAD**”).
 
 (4) The Court retains the discretion to reject the filing of a NOAD when any of the following requirements are not satisfied prior to the filing of said NOAD:
 
@@ -651,13 +653,17 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (19) Notwithstanding any other provision of these Practice Directions, in all Assessment of Damages hearings fixed before a Registrar in Chambers, and unless otherwise directed by the Court —
 
->(a) the claimant shall, within 3 weeks prior to the date of the Assessment of Damages hearing, serve on the defendant a draft Joint Opening Statement (referred to in sub-paragraph (b) below) with the claimant’s portions duly completed along with the Bundle(s) of Documents;
+>(a) for hearings for the taking of accounts, parties shall each file through the Electronic Filing Service and serve Opening Statements and Bundle(s) of Documents within 1 week prior to the hearing date;
 
->(b) the defendant shall, within 2 weeks prior to the date of the Assessment of Damages hearing, serve on the claimant the draft Joint Opening Statement with the defendant’s portions duly completed; and
+>(b) in all other cases,
 
->(c) the claimant shall, within 1 week prior to the date of the Assessment of Damages hearing, file through the Electronic Filing Service and serve the duly completed Joint Opening Statement as well as file the Bundle(s) of Documents.
+>> (i) the claimant shall, within 3 weeks prior to the date of the Assessment of Damages hearing, serve on the defendant a draft Joint Opening Statement (referred to in sub-paragraph (b) below) with the claimant’s portions duly completed along with the Bundle(s) of Documents;
 
-(20) The format to be used for the Joint Opening Statement shall be as follows:
+>> (ii) the defendant shall, within 2 weeks prior to the date of the Assessment of Damages hearing, serve on the claimant the draft Joint Opening Statement with the defendant’s portions duly completed; and
+
+>> (iii) the claimant shall, within 1 week prior to the date of the Assessment of Damages hearing, file through the Electronic Filing Service and serve the duly completed Joint Opening Statement as well as file the Bundle(s) of Documents.
+
+(20) The format to be used for the Joint Opening Statements referred to in sub-paragraph (19)(b) above shall be as follows:
 
 >(a) Joint Opening Statement for Assessment of Damages for Personal Injury Claims (including loss of dependency claims under section 20 of the Civil Law Act 1909) — [Form 12](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2012.pdf) of Appendix A1 to these Practice Directions;
 
@@ -717,7 +723,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 ### ***Request for approval to file further application***
 
-(5) No application may be taken out by any party other than as directed at the relevant Case Conference (“**CC**”) or with the Court’s approval, save for the applications specified in Order 9, Rule 9(7) of the Rules of Court 2021. The Court’s approval to file further applications must be sought by filing a “Request for Permission to file Application”. The request must set out the nature of the intended application, the date of intended filing if approval is granted, whether it is being made within 14 days of the commencement of the trial, and the reasons for why the intended application is necessary at the relevant stage of the proceedings or, in the case of an application to be taken out within 14 days of the commencement of the trial, pursuant to Order 9, Rule 9(10) of the Rules of Court 2021, why there is a special case. The Court will consider the request and may issue directions summarily or alternatively convene a CC. The CC may be conducted on a “documents-only” basis, by video conferencing or telephone conferencing, or with parties in attendance physically in chambers. Where parties are of the view that it would be more appropriate for submissions to be made at a physical or remote Case Conference, a “Request for Case Conference” may be filed in lieu of the “Request for Permission to file Application”. The “Request for Case Conference” should set out the reasons why the request for the Court’s approval to file further applications cannot or should not be dealt with asynchronously.
+(5) No application may be taken out by any party other than as directed at the relevant Case Conference (“**CC**”) or with the Court’s approval, save for the applications specified in Order 9, Rule 9(7) of the Rules of Court 2021. The Court’s approval to file further applications must be sought by filing a “Request for Permission to file Application” ([Form 14A](./Forms/Appendix%20A1/Form%2014A.pdf) of Appendix A1 to these Practice Directions). The request must set out the nature of the intended application, the date of intended filing if approval is granted, whether it is being made within 14 days of the commencement of the trial, and the reasons for why the intended application is necessary at the relevant stage of the proceedings or, in the case of an application to be taken out within 14 days of the commencement of the trial, pursuant to Order 9, Rule 9(10) of the Rules of Court 2021, why there is a special case. The Court will consider the request and may issue directions summarily or alternatively convene a CC. The CC may be conducted on a “documents-only” basis, by video conferencing or telephone conferencing, or with parties in attendance physically in chambers. Where parties are of the view that it would be more appropriate for submissions to be made at a physical or remote Case Conference, a “Request for Case Conference” may be filed in lieu of the “Request for Permission to file Application”. The “Request for Case Conference” should set out the reasons why the request for the Court’s approval to file further applications cannot or should not be dealt with asynchronously.
 
 ### ***“Documents-only” hearing of specified categories of civil applications***
 

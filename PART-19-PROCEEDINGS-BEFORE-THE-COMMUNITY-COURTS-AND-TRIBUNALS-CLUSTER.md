@@ -53,7 +53,7 @@
 > 
 > (d) Rule 7 of the Supreme Court of Judicature (Protection from Harassment) Rules 2021,
 
-the electronic filing and case management system established is the Community Justice and Tribunals System (“**CJTS**”) and is accessible at <https://www.judiciary.gov.sg/services/CJTS>.
+the electronic filing and case management system established is the Community Justice and Tribunals System (“**CJTS**”) and is accessible at https://cjts.judiciary.gov.sg.
 
 (2) In relation to paragraph (1), for the purpose of Tribunal / Simplified POHA Proceedings, the applicable electronic filing and case management system shall be CJTS.
 

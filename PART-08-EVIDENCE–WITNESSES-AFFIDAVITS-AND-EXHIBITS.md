@@ -4,7 +4,9 @@
 
 ### ***Issuance of Order to Attend Court***
 
-(1) A request for the Registrar to issue an Order to Attend Court pursuant to Order 15, Rule 4(1) of the Rules of Court 2021 is made by filing [Form 29](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2029.pdf) of Appendix A2 to these Practice Directions. An Order to Attend Court is issued when it is sealed by an officer of the Registry.
+(1) A request for the Registrar to issue an order to attend court or an order to produce documents pursuant to Order 15, Rule 4(1) of the Rules of Court 2021 is made by filing [Form 29](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A2/Form%2029.pdf) of Appendix A2 to these Practice Directions. An order to attend court or order to produce documents is issued when it is sealed by an officer of the Registry.
+
+(1A) Where the issuance of an order to attend or order to produce documents is made under any written law for the purposes of a cause or matter that is not before the Court, the party must submit to the Registry 1 hardcopy each of his or her Request and the order to attend or order to produce documents to be sealed. An order to attend or order to produce documents is issued when the hard copy is sealed by an officer of the Registry.
 
 (2) In Tribunal / Simplified POHA Proceedings, an application for a summons to a witness to attend court is to be made by applying for a Summons to Witness on the Community Justice and Tribunals System.
 

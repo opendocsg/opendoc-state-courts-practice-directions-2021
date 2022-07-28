@@ -22,7 +22,7 @@ In exercise of the powers conferred by Order 28, Rules 2 and 3 of the Rules of C
 
 ## 84. Appointment of agent to establish service bureau
 
-Pursuant to Order 28, Rule 5 of the Rules of Court 2021, the Registrar hereby appoints CrimsonLogic Pte Ltd as an agent to establish a service bureau at 133 New Bridge Road #19 01/02 Chinatown Point Singapore 059413 (or such other address in Singapore as may be deemed suitable).  
+Pursuant to Order 28, Rule 5 of the Rules of Court 2021, the Registrar hereby appoints CrimsonLogic Pte Ltd as an agent to establish a service bureau or service bureaux at such address(es) in Singapore as may be deemed suitable.  
 
 
 ## 85. Documents which must be filed, served, delivered and/or conveyed etc., using the Electronic Filing Service
@@ -103,12 +103,10 @@ Every single page of a document *must* be paginated so that the pagination on th
 
 (5) Documents to be filed through the service bureau must comply with these Practice Directions and all applicable administrative instructions and procedures prescribed by the service bureau with the approval of the superintendent. 
 
-(6) Documents filed through the service bureau shall be subject to the Manual Handling Fees prescribed at <https://www.elitigation.sg>, and additional services made available by the service bureau may be subject to other administrative charges imposed by the service bureau with the approval of the superintendent. 
 
+## 92. Filing of documents to the State Courts through another service bureau
 
-## 92. Filing of documents to the State Courts through a Supreme Court or Family Justice Courts service bureau
-
-Pursuant to Order 28, Rules 17(4) and 17(6) of the Rules of Court 2021, the Registrar hereby prescribes that any service bureau established or authorised to be established by the Registrar of the Supreme Court or the Registrar of the Family Justice Courts may assist in the filing, service, delivery or conveyance of documents pertaining to proceedings in the State Courts using the Electronic Filing Service if the service bureau, or, if there are more than one, all the service bureaux, established or authorised to be established by the Registrar are unable to provide such services owing to failure of hardware or software, or both.
+Pursuant to Order 28, Rules 17(4) and 17(6) of the Rules of Court 2021, the Registrar hereby prescribes that any service bureau established or authorised to be established by the Registrar of the Supreme Court or the Registrar of the Family Justice Courts may assist in the filing, service, delivery or conveyance of documents pertaining to proceedings in the State Courts using the Electronic Filing Service in all cases and circumstances where the staff of these service bureaux are able to provide such assistance pertaining to State Courts proceedings.
 
 
 ## 93. Hard copies of documents filed electronically
