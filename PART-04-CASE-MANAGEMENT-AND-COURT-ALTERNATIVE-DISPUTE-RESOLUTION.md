@@ -160,7 +160,7 @@
 
 >>(i) [Form 5](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%205.pdf) of Appendix A1 to these Practice Directions stating the list of issues in the dispute and the list of witnesses they intend to call in support of their case; 
 
->>(ii) the Court ADR Form ([Form 6](https://staging.dbkqusmjhblxs.amplifyapp.com/Forms/Appendix%20A1/Form%206-v3.pdf) of Appendix A1 to these Practice Directions) in order to facilitate a considered decision on Court alternative dispute resolution (“**Court ADR**”) options. The Court ADR Form must be read and completed by each party. If there is a solicitor acting for the party, the solicitor must also complete the Form; and
+>>(ii) the Court ADR Form ([Form 6](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%206-v3.pdf) of Appendix A1 to these Practice Directions) in order to facilitate a considered decision on Court alternative dispute resolution (“**Court ADR**”) options. The Court ADR Form must be read and completed by each party. If there is a solicitor acting for the party, the solicitor must also complete the Form; and
 
 >>(iii) the completed checklist enclosed with the Civil Simplified CC Notice.
 
@@ -369,7 +369,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 ### ***Recording of terms of settlement agreement, consent judgment on liability or consent judgment***
 
-(17) If the parties reach agreement on the issue of liability for the claim or quantum of damages or both, they must submit [Form 7](https://staging.dbkqusmjhblxs.amplifyapp.com/Forms/Appendix%20A1/Form%207-v2.pdf) of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent judgment on liability or consent judgment as the case may be.
+(17) If the parties reach agreement on the issue of liability for the claim or quantum of damages or both, they must submit [Form 7](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%207-v2.pdf) of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent judgment on liability or consent judgment as the case may be.
 
 ### ***Benchmark rates for cost of rental and loss of use***
 
