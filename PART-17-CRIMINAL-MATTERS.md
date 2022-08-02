@@ -35,7 +35,7 @@
 
 (2) An application for a copy of any part of the record of any criminal proceedings for a case registered via the Integrated Case Management System (“**ICMS**”) must be made via ICMS under “Request for Court Records”.
 
-(3) Applications for all other cases must be made in [Form 30](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2030.pdf) in Appendix A1 to these Practice Directions.
+(3) Applications for all other cases must be made in [Form 30](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2030-v3.pdf) in Appendix A1 to these Practice Directions.
 
 (4) On approval of an application that has been electronically filed via ICMS, the record of proceedings will be available for online downloading via ICMS or collection depending on the delivery mode chosen.
 
