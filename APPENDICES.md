@@ -446,7 +446,7 @@
 
 >**PI claims**
 
-13.1 As a guide, where the sum settled (excluding interest if any) is less than $20,000, the pre-trial costs should be between $1,500 and $2,500, exclusive of disbursements.
+13.3 As a guide, where the sum settled (excluding interest if any) is less than $20,000, the pre-action costs should be between $1,500 and $2,500, exclusive of disbursements.
 
 ### 14. **Costs sanctions in relation to pre-repair survey and post repair inspection**
 
@@ -915,6 +915,10 @@ The benchmark rates in this Appendix shall apply to claims for rental and loss o
 8.1 The State Courts will have regard to the compliance with this Protocol or lack thereof in exercising its discretion and powers in relation to costs orders.
 
 8.2 Where there are good reasons for non-compliance, the Court will not impose sanctions against the party in default. 
+
+8.3 If parties enter into a judgment on liability, an assessment of damages case conference will be called and the procedure set out in Practice Direction 45 shall apply.
+
+8.4 If parties are not able to reach an amicable resolution, a Personal Injury, NIMA or Negligence Case Conference ("PNN CC") will be fixed around 7 weeks after the last CDR CC. A PNN CC Notice will be issued to the claimant and any other party who has filed a notice of intention to contest and/or Defence, notifying parties that the case has been identified for a PNN CC, of the date of the first PNN CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards trial. A PNN CC will be conducted on a "documents-only" basis, unless otherwise directed by the Court. Subject to the necessary modifications, the directions applicable to the conduct of General Process CCs stated at Practice Direction 37(3) to 37(7) and 37(10) to 37(12) apply to the conduct of PNN CCs.
 
 
 ## APPENDIX G: Uploading Redacted Charges Under Practice Direction 124
