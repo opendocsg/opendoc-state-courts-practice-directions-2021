@@ -575,7 +575,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 ### ***Convening of Assessment of Damages Court Dispute Resolution Case Conferences***
 
-(3) The Court will generally convene the first Assessment of Damages Court Dispute Resolution Case Conference (“**ADCDR**”) within 4 weeks after the filing and acceptance of the Notice of Appointment for Assessment of Damages (“**NOAD**”).
+(3) The Court will generally convene the first Assessment of Damages Court Dispute Resolution Case Conference (“**ADCDR CC**”) within 4 weeks after the filing and acceptance of the Notice of Appointment for Assessment of Damages (“**NOAD**”).
 
 (4) The Court retains the discretion to reject the filing of a NOAD when any of the following requirements are not satisfied prior to the filing of said NOAD:
 
