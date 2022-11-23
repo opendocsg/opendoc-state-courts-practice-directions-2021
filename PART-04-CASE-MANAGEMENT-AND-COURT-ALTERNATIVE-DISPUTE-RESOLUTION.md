@@ -83,7 +83,7 @@
 
 >(a) The first SMCL Case Conference (“**CC**”) will be fixed around 7 weeks from the date that the Defence was filed.
 
->(b) An SMCL Notice will be issued to the claimant and any other party who has filed a notice of intention to contest notifying parties that the case has been identified for the SMCL, of the date of the first SMCL CC, and directing parties to provide to the Court within a prescribed time:
+>(b) An SMCL Notice will be issued to the claimant and any other party who has filed a notice of intention to contest and/or Defence notifying parties that the case has been identified for the SMCL, of the date of the first SMCL CC, and directing parties to provide to the Court within a prescribed time:
 
 >>(i) an update on the progress of the matter including attempts at amicable resolution; and
 >>
@@ -127,7 +127,7 @@
 
 (14) All updates and requests for directions by the parties, as well as directions given by the Court, shall be communicated to and by the Court through the Electronic Filing Service, unless the Court determines that it is necessary for the parties or their counsel to attend Court for such directions to be dealt with. 
 
-(15) If judgment is entered on liability for damages to be assessed, a further SMCL CC will be fixed around 3 weeks after the date judgment is entered. A fresh SMCL CC Notice will be issued to the claimant and any party against whom judgment on liability has been entered (if that party has filed a notice of intention to contest), notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
+(15) If judgment is entered on liability for damages to be assessed, a further SMCL CC will be fixed around 3 weeks after the date judgment is entered. A fresh SMCL CC Notice will be issued to the claimant and any party against whom judgment on liability has been entered (if that party has filed a notice of intention to contest and/or Defence), notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
 
 
 ## 36. Simplified Process under Order 65 of the Rules of Court 2021
@@ -148,7 +148,7 @@
 
 >(a) A first Civil Simplified CC will be fixed around 7 weeks from the date that the Defence was filed.
 
->(b) A Civil Simplified CC Notice will be issued to the claimant and any other party who has filed a notice of intention to contest notifying parties that the case has been identified for the Simplified Process, of the date of the first Civil Simplified CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for the purposes of the Civil Simplified CC. 
+>(b) A Civil Simplified CC Notice will be issued to the claimant and any other party who has filed a notice of intention to contest and/or Defence notifying parties that the case has been identified for the Simplified Process, of the date of the first Civil Simplified CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for the purposes of the Civil Simplified CC.  
 
 >(c) Where both parties are represented, a Civil Simplified CC will be fixed to be conducted by remote hearing via video conferencing. Where at least one party is unrepresented, a physical Civil Simplified CC will be fixed. 
 
@@ -214,7 +214,7 @@
 
 (16) The Court will consider, at each Civil Simplified CC, all available options in the case jointly with the parties. Accordingly, at any Civil Simplified CC where the attendance of parties is required, the solicitor in charge of the case for that party (ie, the solicitor who has actual conduct of the case for that party and who is familiar with it) shall attend the Civil Simplified CC. Solicitors for both parties shall attend the Civil Simplified CC.
 
-(17) If judgment is entered on liability for damages to be assessed, an Assessment of Damages CC will be fixed around 3 weeks after the date judgment is entered. A CC Notice will be issued to the claimant and any party against whom judgment on liability has been entered (if that party has filed a notice of intention to contest) notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
+(17) If judgment is entered on liability for damages to be assessed, an Assessment of Damages CC will be fixed around 3 weeks after the date judgment is entered. A CC Notice will be issued to the claimant and any party against whom judgment on liability has been entered (if that party has filed a notice of intention to contest and/or Defence) notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
 
 
 ## 37. General Process
@@ -243,7 +243,7 @@
 
 (7) Where the action is not disposed of by the Court or settled or otherwise resolved through the actions of the parties, the Court will at an appropriate stage give directions for the matter to be set down for trial. If the matter is set down by the date fixed by the Court, the matter will be fixed for Pre-Trial CC and the further General Process CC will be vacated. Where the matter has been set down, parties should seek extended timelines and/or permission to file any further applications at the Pre-Trial CC or from the trial judge if one has been allocated. 
 
-(8) If judgment is entered on liability for damages to be assessed, an Assessment of Damages CC will be fixed around 3 weeks after the date judgment is entered. A CC Notice will be issued to the claimant and the parties against whom judgment on liability has been entered notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
+(8) If judgment is entered on liability for damages to be assessed, an Assessment of Damages CC will be fixed around 3 weeks after the date judgment is entered. A CC Notice will be issued to the claimant and the parties against whom judgment on liability has been entered (if that party has filed a notice of intention to contest and/or Defence) notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
 
 ### ***General provisions for General Process CCs***
 
@@ -557,7 +557,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (1) This Practice Direction applies where a case is bifurcated, and the Court gives judgment on liability and for damages to be assessed or the taking of accounts. References to the “assessment phase” of the proceedings and to an “Assessment of Damages” hearing should be read as including the proceedings leading up to the taking of accounts and the hearing for the taking of accounts respectively
 
-(1A) Where judgment on liability is entered in any action in the State Courts, in which bifurcation was ordered, for damages to be assessed or for the taking of accounts, an Assessment of Damages Case Conference (“**Assessment CC**”) will be fixed around 3 weeks after the date on which judgment on liability is entered. An Assessment CC Notice will be issued to the claimant and any party against whom judgment on liability has been entered (if that party has filed a notice of intention to contest), notifying parties of the date of the Assessment CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
+(1A) Where judgment on liability is entered in any action in the State Courts, in which bifurcation was ordered, for damages to be assessed or for the taking of accounts, an Assessment of Damages Case Conference (“**Assessment CC**”) will be fixed around 3 weeks after the date on which judgment on liability is entered. An Assessment CC Notice will be issued to the claimant and any party against whom judgment on liability has been entered (if that party has filed a notice of intention to contest and/or Defence), notifying parties of the date of the Assessment CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
 
 (2) The parties are to inform the Court at the Assessment CC (or in accordance with the Court’s directions) whether they intend to file any interlocutory application(s) in the assessment phase. 
 
@@ -573,15 +573,15 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 (2D) Save for the applications referred to in Order 9, Rule 9(7) of the Rules of Court 2021, no other application may be taken out by any party in the assessment phase other than as directed at the Assessment CC or with the Court’s approval.
 
-### ***Convening of Assessment of Damages Court Dispute Resolution Conferences***
+### ***Convening of Assessment of Damages Court Dispute Resolution Case Conferences***
 
-(3) The Court will generally convene the first Assessment of Damages Court Dispute Resolution Conference (“**ADCDR**”) within 4 weeks after the filing and acceptance of the Notice of Appointment for Assessment of Damages (“**NOAD**”).
+(3) The Court will generally convene the first Assessment of Damages Court Dispute Resolution Case Conference (“**ADCDR**”) within 4 weeks after the filing and acceptance of the Notice of Appointment for Assessment of Damages (“**NOAD**”).
 
 (4) The Court retains the discretion to reject the filing of a NOAD when any of the following requirements are not satisfied prior to the filing of said NOAD:
 
 >(a) All affidavits of evidence-in-chief and/or expert reports which parties intend to rely on at the Assessment of Damages have been duly exchanged at least 5 working days before the filing of the NOAD. 
 
->(b) The Checklist for ADCDR in [Form 10](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2010.pdf) of Appendix A1 to these Practice Directions (“**Checklist**”) has been duly completed by all legally represented parties taking part in the proceedings and filed as a supporting document to the NOAD. (Please note that the claimant need not obtain the endorsement of unrepresented individuals/entities for the purposes of completing the Checklist.)
+>(b) The Checklist for ADCDR CC in [Form 10](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2010.pdf) of Appendix A1 to these Practice Directions (“**Checklist**”) has been duly completed by all legally represented parties taking part in the proceedings and filed as a supporting document to the NOAD. (Please note that the claimant need not obtain the endorsement of unrepresented individuals/entities for the purposes of completing the Checklist.)
 
 >(c) The NOAD is filed within the timeline for filing as stipulated by the Court in an order or otherwise directed. 
 
@@ -589,11 +589,11 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 >(a) strike off the NOAD and the Checklist; and/or 
 
->(b) vacate ADCDR(s) commenced as a result of the inaccurate confirmations provided.
+>(b) vacate ADCDR CC(s) commenced as a result of the inaccurate confirmations provided.
 
-### ***Conduct of ADCDRs***
+### ***Conduct of ADCDR CCs***
 
-(6) At ADCDRs, the Court will: —
+(6) At ADCDR CCs, the Court will: —
 
 >(a) facilitate settlement between parties;
 
@@ -601,7 +601,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 >(c) conduct a final check on the status of the proceedings between the parties to ensure that they are ready for the Assessment of Damages hearing.
 
-(7) All ADCDRs are to be conducted on a documents-only basis through the Electronic Filing Service, electronic mail or any other electronic means in accordance with Registrar’s Circular No. 13 of 2020. 
+(7) All ADCDR CCs are to be conducted on a documents-only basis through the Electronic Filing Service, electronic mail or any other electronic means in accordance with Registrar’s Circular No. 13 of 2020. 
 
 (8) For the avoidance of doubt, the Court at all times retains the full discretion to direct parties to attend a physical hearing or remote hearing via video or telephone conferencing where it deems fit. Parties may make written requests to Court for hearings to be conducted via video conferencing or in person.
 
@@ -613,9 +613,9 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 >(c) loss of dependency under section 20 of the Civil Law Act 1909 (“**Civil Law Act**”). 
 
-(10) At the first ADCDR, all parties should be in a position to assess the relative merits of their cases to facilitate a settlement with all relevant information at their disposal. 
+(10) At the first ADCDR CC, all parties should be in a position to assess the relative merits of their cases to facilitate a settlement with all relevant information at their disposal. 
 
-(11) For matters falling within Practice Direction 45(9), parties are to submit to the Court, before the first ADCDR, the Quantum Neutral Evaluation Form in [Form 11](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2011.pdf) of Appendix A1 to these Practice Directions for neutral evaluation of such heads of claim in accordance with Registrar’s Circular No. 13 of 2020. 
+(11) For matters falling within Practice Direction 45(9), parties are to submit to the Court, before the first ADCDR CC, the Quantum Neutral Evaluation Form in [Form 11](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2011.pdf) of Appendix A1 to these Practice Directions for neutral evaluation of such heads of claim in accordance with Registrar’s Circular No. 13 of 2020. 
 
 (12) Upon submission of a duly completed Quantum Neutral Evaluation Form, the Court will proceed on the hearing date to —
 
@@ -627,23 +627,23 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 >(a) issue directions and fix the matter for a further hearing; or
 
->(b) vacate the ADCDR and fix the matter for an Assessment of Damages hearing.
+>(b) vacate the ADCDR CC and fix the matter for an Assessment of Damages hearing.
 
-(14) If the case is not one for which a neutral evaluation will be given, or if parties decide not to obtain a neutral evaluation from the Court, parties are to update the Court at the first ADCDR on whether there are any on-going negotiations and seek directions on the same, or inform the Court of their availability so an Assessment of Damages hearing may be fixed.
+(14) If the case is not one for which a neutral evaluation will be given, or if parties decide not to obtain a neutral evaluation from the Court, parties are to update the Court at the first ADCDR CC on whether there are any on-going negotiations and seek directions on the same, or inform the Court of their availability so an Assessment of Damages hearing may be fixed.
 
-(15) After the first ADCDR, parties may generally expect 2 to 5 more ADCDR hearings before directions moving the matter towards an Assessment of Damages are given.
+(15) After the first ADCDR CC, parties may generally expect 2 to 5 more ADCDR CC hearings before directions moving the matter towards an Assessment of Damages are given.
 
-(16) During the ADCDR process, if there is no settlement or if the Court thinks fit, the Court may —
+(16) During the ADCDR CC process, if there is no settlement or if the Court thinks fit, the Court may —
 
 >(a) direct that the matter should proceed for an Assessment of Damages hearing; and/or 
 
 >(b) make such orders or give such directions as it thinks fit for the just, expeditious and economical disposal of the matter. 
 
-(17) If parties wish to request for an adjournment of an ADCDR, they are to do so at least 5 working days before the date of the ADCDR by way of a “Other Hearing Related Request” filed under the specific Assessment of Damages Sub-Case No. as found in the accepted copy of the NOAD. 
+(17) If parties wish to request for an adjournment of an ADCDR CC, they are to do so at least 5 working days before the date of the ADCDR CC by way of a “Other Hearing Related Request” filed under the specific Assessment of Damages Sub-Case No. as found in the accepted copy of the NOAD. 
 
 ### ***Fixing of Assessment of Damages Hearings***
 
-(18) In all requests for Assessment of Damages hearing dates during the ADCDR process, parties should: 
+(18) In all requests for Assessment of Damages hearing dates during the ADCDR CC process, parties should: 
 
 >(a) specify whether parties require a half-day hearing slot or a shorter hearing slot (as may be suitable where, for example, no defendant or intervener is expected to attend or make contesting submissions at the Assessment of Damages hearing); 
 
@@ -723,7 +723,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 ### ***Request for approval to file further application***
 
-(5) No application may be taken out by any party other than as directed at the relevant Case Conference (“**CC**”) or with the Court’s approval, save for the applications specified in Order 9, Rule 9(7) of the Rules of Court 2021. The Court’s approval to file further applications must be sought by filing a “Request for Permission to file Application” ([Form 14A](./Forms/Appendix%20A1/Form%2014A.pdf) of Appendix A1 to these Practice Directions). The request must set out the nature of the intended application, the date of intended filing if approval is granted, whether it is being made within 14 days of the commencement of the trial, and the reasons for why the intended application is necessary at the relevant stage of the proceedings or, in the case of an application to be taken out within 14 days of the commencement of the trial, pursuant to Order 9, Rule 9(10) of the Rules of Court 2021, why there is a special case. The Court will consider the request and may issue directions summarily or alternatively convene a CC. The CC may be conducted on a “documents-only” basis, by video conferencing or telephone conferencing, or with parties in attendance physically in chambers. Where parties are of the view that it would be more appropriate for submissions to be made at a physical or remote Case Conference, a “Request for Case Conference” may be filed in lieu of the “Request for Permission to file Application”. The “Request for Case Conference” should set out the reasons why the request for the Court’s approval to file further applications cannot or should not be dealt with asynchronously.
+(5) No application may be taken out by any party other than as directed at the relevant Case Conference (“**CC**”) or with the Court’s approval, save for the applications specified in Order 9, Rule 9(7) of the Rules of Court 2021. The Court’s approval to file further applications must be sought by filing a “Request for Permission to file Application” ([Form 14A](./Forms/Appendix%20A1/Form%2014A.pdf) of Appendix A1 to these Practice Directions). The request must set out the nature of the intended application, the date of intended filing if approval is granted, whether it is being made within 14 days of the commencement of the trial, and the reasons for why the intended application is necessary at the relevant stage of the proceedings or, in the case of an application to be taken out within 14 days of the commencement of the trial, pursuant to Order 9, Rule 9(10) of the Rules of Court 2021, why there is a special case. The Court will consider the request and may issue directions summarily or alternatively convene a CC. The CC may be conducted on a “documents-only” basis, by video conferencing or telephone conferencing, or with parties in attendance physically in chambers. Where parties are of the view that it would be more appropriate for submissions to be made at a physical or remote CC, a “Request for Case Conference” may be filed in lieu of the “Request for Permission to file Application”. The “Request for Case Conference” should set out the reasons why the request for the Court’s approval to file further applications cannot or should not be dealt with asynchronously.
 
 ### ***“Documents-only” hearing of specified categories of civil applications***
 
