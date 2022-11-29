@@ -581,7 +581,7 @@ The Court Dispute Resolution Cluster (“**CDRC**”) oversees the provision of 
 
 >(a) All affidavits of evidence-in-chief and/or expert reports which parties intend to rely on at the Assessment of Damages have been duly exchanged at least 5 working days before the filing of the NOAD. 
 
->(b) The Checklist for ADCDR CC in [Form 10](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2010.pdf) of Appendix A1 to these Practice Directions (“**Checklist**”) has been duly completed by all legally represented parties taking part in the proceedings and filed as a supporting document to the NOAD. (Please note that the claimant need not obtain the endorsement of unrepresented individuals/entities for the purposes of completing the Checklist.)
+>(b) The Checklist for ADCDR CC in [Form 10](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2010-v2.pdf) of Appendix A1 to these Practice Directions (“**Checklist**”) has been duly completed by all legally represented parties taking part in the proceedings and filed as a supporting document to the NOAD. (Please note that the claimant need not obtain the endorsement of unrepresented individuals/entities for the purposes of completing the Checklist.)
 
 >(c) The NOAD is filed within the timeline for filing as stipulated by the Court in an order or otherwise directed. 
 
