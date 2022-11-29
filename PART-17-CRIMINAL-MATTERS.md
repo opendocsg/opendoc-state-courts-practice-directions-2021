@@ -12,7 +12,7 @@
 
 ## 110A. Judge Case Conference Checklist for criminal trials
 
-For every criminal case at the State Courts that is scheduled for a Judge Case Conference before trial, unless the Defence has indicated that the accused wishes to plead guilty or the Court otherwise directs, the Prosecution and the Defence must each file, at least 7 days before the date of the Judge Case Conference, a Judge Case Conference Checklist, in [Form 29A](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2029A.pdf) of Appendix A1.
+For every criminal case at the State Courts that is scheduled for a Judge Case Conference before trial, unless the Defence has indicated that the accused wishes to plead guilty or the Court otherwise directs, the Prosecution and the Defence must each file, at least 7 days before the date of the Judge Case Conference, a Judge Case Conference Checklist, in [Form 29A](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2029A-v2.pdf) of Appendix A1.
 
 
 ## 111. Bundles of authorities for criminal proceedings
