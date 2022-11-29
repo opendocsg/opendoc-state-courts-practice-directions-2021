@@ -701,6 +701,11 @@ The Court will appoint the single joint expert after hearing submissions on the 
 
 8.2 Rather than refraining from taking a position on liability or insisting that agreement on liability is *contingent* on quantum being settled at a particular sum (as is sometimes the case), parties who are able to agree on the issue of liability but not quantum shall consider allowing a *Judgment on Liability* to be recorded for liability and proceed for assessment of damages. A hearing to assess damages is generally less costly than a full trial.
 
+8.3 If parties enter into a judgment on liability, an assessment of damages case conference will be called and the procedure set out in Practice Direction 45 shall apply.
+
+8.4 If parties are not able to reach an amicable resolution, a Personal Injury, NIMA or Negligence Case Conference ("PNN CC") will be fixed around 7 weeks after the last CDR CC. A PNN CC Notice will be issued to the claimant and any other party who has filed a notice of intention to contest and/or Defence, notifying parties that the case has been identified for a PNN CC, of the date of the first PNN CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards trial. A PNN CC will be conducted on a "documents-only" basis, unless otherwise directed by the Court. Subject to the necessary modifications, the directions applicable to the conduct of General Process CCs stated at Practice Direction 37(3) to 37(7) and 37(10) to 37(12) apply to the conduct of PNN CCs.
+
+
 
 ## APPENDIX D: Benchmark Rates for Cost of Rental and Loss of Use
 
