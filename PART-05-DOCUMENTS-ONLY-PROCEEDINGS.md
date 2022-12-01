@@ -34,9 +34,9 @@
 
 >(a) in the case of all civil matters where all issues concerning liability have not been agreed or determined, the first Case Conference (“**CC**”) convened under Order 9, Rule 1 of the Rules of Court 2021; or
 
->(b) in the case of civil matters where judgment on liability has been entered for damages to be assessed, the first Assessment of Damages Court Dispute Resolution Conference (“**ADCDR**”) convened pursuant to Practice Direction 45 after the filing of the Notice of Appointment for Assessment of Damages. 
+>(b) in the case of civil matters where judgment on liability has been entered for damages to be assessed, the first Assessment of Damages Court Dispute Resolution Case Conference (“**ADCDR CC**”) convened pursuant to Practice Direction 45 after the filing of the Notice of Appointment for Assessment of Damages. 
 
-(7) The judicial officer conducting the CC (including ADCDR, as the case may be) will discuss with parties the suitability of the case for a “Documents-Only” Civil Trial or Assessment.
+(7) The judicial officer conducting the CC (including ADCDR CC, as the case may be) will discuss with parties the suitability of the case for a “Documents-Only” Civil Trial or Assessment.
 
 (8) Where parties agree to a “Documents-Only” Civil Trial or Assessment, they must personally execute and file the Request Form set out in [Form 16](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2016.pdf) in Appendix A1 to these Practice Directions. Any Request Form that is executed by solicitors on behalf of their clients will not be accepted.
 
@@ -56,11 +56,11 @@
 
 >(a) in the case of a “Documents-Only” Civil Trial, the CC convened after the matter has been set down pursuant to Order 9, Rule 25 of the Rules of Court 2021; and/or
 
->(b) in the case of a “Documents-Only” Assessment, the ADCDR convened after parties have filed the Notice of Appointment for the Assessment for Damages.
+>(b) in the case of a “Documents-Only” Assessment, the ADCDR CC convened after parties have filed the Notice of Appointment for the Assessment for Damages.
 
 (12) In the case of a “Documents-Only” Civil Trial, at the CC referred to in sub-paragraph 11(a) above, in addition to any usual directions for the filing of bundles, directions will be given for parties to file their respective written submissions and Bundles of Authorities. Where requested by the parties, a half-day hearing slot will also be given for them to make any oral submissions they wish to before the trial judge in open Court.
 
-(13) In the case of a “Documents-Only” Assessment, at the ADCDR referred to in sub-paragraph 11(b) above, in addition to any usual directions for the filing of bundles, directions will be given for parties to file their respective written submissions and Bundles of Authorities. Where requested by the parties, a half-day hearing slot will also be given for parties to make any oral submissions they wish to before the judicial officer hearing the Assessment in Chambers.
+(13) In the case of a “Documents-Only” Assessment, at the ADCDR CC referred to in sub-paragraph 11(b) above, in addition to any usual directions for the filing of bundles, directions will be given for parties to file their respective written submissions and Bundles of Authorities. Where requested by the parties, a half-day hearing slot will also be given for parties to make any oral submissions they wish to before the judicial officer hearing the Assessment in Chambers.
 
 (14) In certain cases, where necessary, the trial judge or the judicial officer hearing the Assessment may issue further directions for the fair and effective conduct of the Civil Trial or Assessment, including directions for the following matters: 
 

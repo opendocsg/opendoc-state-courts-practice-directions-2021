@@ -26,7 +26,7 @@
 
 >If the EO provides that a method of enforcement has more than one address for enforcement or more than one financial institution or non-party, in the absence of any indication of sequence or any direction from the Court, the Bailiff will by default carry out the terms of the EO sequentially in the order of the address(es) as stated in the EO.
 
-(6) Once an EO has been granted, the enforcement applicant should take steps to extract the Order of Court expeditiously. When extracting the EO, the enforcement applicant shall also attach the draft Notice(s) of Seizure or Attachment required for the Bailiff to effect seizure or attachment under the EO. Each draft Notice of Seizure or Attachment should pertain to one enforcement type and one enforcement address only. 
+(6) Once an EO has been granted, the enforcement applicant should take steps to extract the EO (using the Enforcement Order electronic form available through the Electronic Filing Service) expeditiously. When extracting the EO, the enforcement applicant shall also attach the draft Notice(s) of Seizure or Attachment required for the Bailiff to effect seizure or attachment under the EO. Each draft Notice of Seizure or Attachment should pertain to one enforcement type and one enforcement address only. 
 
 >*Illustrations:*
 
@@ -47,7 +47,7 @@
 
 (1) After the enforcement applicant extracts the Enforcement Order ("**EO**"), the Bailiff shall fix a first appointment for enforcement, and shall issue a Letter of Appointment (including a request for deposit) to inform the enforcement applicant of the date and time of the first enforcement attempt. Enforcement may be carried out between the hours of 9.00am and 5.00pm, at the Bailiff’s discretion, unless the Bailiff or Court otherwise orders. 
 
-(1A) Where, under Order 22, Rule 6(4) of the Rules of Court 2021, an enforcement order is carried out by the Bailiff serving:
+(1A) Where, under Order 22, Rule 6(4) of the Rules of Court 2021, an EO is carried out by the Bailiff serving:
 
 >(a)	a notice of seizure on any person or entity; 
 
@@ -57,7 +57,7 @@
  
 the Bailiff may engage, or direct the enforcement applicant to engage, the services of any appropriate persons or service provider, including the enforcement applicant's solicitors, to effect service of such notice of seizure or attachment.
 
-(2) Upon the Bailiff’s request, the enforcement applicant or the enforcement applicant’s solicitor or other authorised representative must accompany the Bailiff when the Bailiff carries out the enforcement order: 
+(2) Upon the Bailiff’s request, the enforcement applicant or the enforcement applicant’s solicitor or other authorised representative must accompany the Bailiff when the Bailiff carries out the EO: 
 
 >(a) Pursuant to Order 22, Rule 6(3) of the Rules of Court 2021, the enforcement applicant or the enforcement applicant’s solicitor or other authorised representative must be present with the Bailiff at the appointed date, time and address of any enforcement attempt, upon the Bailiff’s request. 
 
@@ -113,7 +113,7 @@ the Bailiff may engage, or direct the enforcement applicant to engage, the servi
 
 ## 100. Examination of enforcement respondent
 
-(1) The enforcement applicant may apply for the enforcement respondent to be examined orally in Court or to make an affidavit or both on the enforcement respondent's properties, by filing an "Summons for Examination of Enforcement Respondent" through the Electronic Filing Service. 
+(1) The enforcement applicant may apply for the enforcement respondent to be examined orally in Court or to make an affidavit or both on the enforcement respondent's properties, by filing an "Summons for Examination of Enforcement Respondent" (for orders or judgments by the Small Claims Tribunals, Employment Claims Tribunals, Community Disputes Resolution Tribunals or Protection from Harassment Court (in simplified proceedings) for the payment of money or the delivery of vacant possession of premises, an originating application) through the Electronic Filing Service. 
 
 (2) A questionnaire in the recommended format as set out in Form 23 or 24 of Appendix A1 to these Practice Directions (whichever is appropriate) shall be annexed to any Order for Examination when the said Order is served on the enforcement respondent. Enforcement applicants may modify the questionnaires according to the circumstances of each case.
 

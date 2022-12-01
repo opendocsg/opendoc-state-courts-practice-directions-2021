@@ -56,7 +56,7 @@ The various courts, offices and counters within the State Courts have different 
 
 (1) The duties of the Duty Registrar are —
 
->(a) to hear applications made without notice or by consent provided that the summons has been filed in the Electronic Filing System;
+>(a) to hear applications made without notice or by consent provided that the summons has been filed in the Electronic Filing Service;
 
 >(b) to grant approval for any matter pertaining to the administration of the Registry, including giving early or urgent dates and allowing inspection of files; and
 

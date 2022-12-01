@@ -13,7 +13,7 @@
 <li><a href="./Forms/Appendix%20A1/Form%207-v2.pdf" download>Form 7 : Recording Settlement / Entering Judgment by Consent (NIMA/PI/PIMA)</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%208.pdf" download>Form 8 : Opening Statement for Claimant/Defendant (Mediation/Conciliation)</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%209.pdf" download>Form 9 : Opening Statement for Claimant/Defendant (Neutral Evaluation)</a></li>
-<li><a href="./Forms/Appendix%20A1/Form%2010.pdf" download>Form 10 : Checklist for Assessment of Damages Court Dispute Resolution Conferences (“ADCDR”)</a></li>
+<li><a href="./Forms/Appendix%20A1/Form%2010-v2.pdf" download>Form 10 : Checklist for Assessment of Damages Court Dispute Resolution Case Conferences ("ADCDR CC")</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2011.pdf" download>Form 11 : Quantum Neutral Evaluation Form</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2012.pdf" download>Form 12 : Joint Opening Statement (For Personal Injury Claims)</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2013.pdf" download>Form 13 : Joint Opening Statement (For Non-Injury Motor Accident Claims)</a></li>
@@ -38,7 +38,8 @@
 <li><a href="./Forms/Appendix%20A1/Form%2027-v2.pdf" download>Form 27 : Bill of Costs for Non-Contentious Business </a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2028.pdf" download>Form 28 : Notice Of Dispute</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2029.pdf" download>Form 29 : Noting Of Appearance Of Advocates/Prosecutors / Mention Slip</a></li>
-<li><a href="./Forms/Appendix%20A1/Form%2030-v3.pdf" download>Form 30 : Application for Records of Criminal Proceedings</a></li>
+<li><a href="./Forms/Appendix%20A1/Form%2029A-v2.pdf" download>Form 29A : Judge Case Conference Checklist</a></li>
+<li><a href="./Forms/Appendix%20A1/Form%2030-v2.pdf" download>Form 30 : Application for Records of Criminal Proceedings</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2031-v2.pdf" download>Form 31 : Checklist For Referral Of Cases To Protection From Harassment Court</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2032.pdf" download>Form 32 : Sample Letter Of Request For Medical Report And Medical Records</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2033.pdf" download>Form 33 : Sample Consent Form Authorising Release Of Medical Report And Other Related Medical Records To Solicitors</a></li>
@@ -446,7 +447,7 @@
 
 >**PI claims**
 
-13.1 As a guide, where the sum settled (excluding interest if any) is less than $20,000, the pre-trial costs should be between $1,500 and $2,500, exclusive of disbursements.
+13.3 As a guide, where the sum settled (excluding interest if any) is less than $20,000, the pre-action costs should be between $1,500 and $2,500, exclusive of disbursements.
 
 ### 14. **Costs sanctions in relation to pre-repair survey and post repair inspection**
 
@@ -700,6 +701,11 @@ The Court will appoint the single joint expert after hearing submissions on the 
 
 8.2 Rather than refraining from taking a position on liability or insisting that agreement on liability is *contingent* on quantum being settled at a particular sum (as is sometimes the case), parties who are able to agree on the issue of liability but not quantum shall consider allowing a *Judgment on Liability* to be recorded for liability and proceed for assessment of damages. A hearing to assess damages is generally less costly than a full trial.
 
+8.3 If parties enter into a judgment on liability, an assessment of damages case conference will be called and the procedure set out in Practice Direction 45 shall apply.
+
+8.4 If parties are not able to reach an amicable resolution, a Personal Injury, NIMA or Negligence Case Conference ("PNN CC") will be fixed around 7 weeks after the last CDR CC. A PNN CC Notice will be issued to the claimant and any other party who has filed a notice of intention to contest and/or Defence, notifying parties that the case has been identified for a PNN CC, of the date of the first PNN CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards trial. A PNN CC will be conducted on a "documents-only" basis, unless otherwise directed by the Court. Subject to the necessary modifications, the directions applicable to the conduct of General Process CCs stated at Practice Direction 37(3) to 37(7) and 37(10) to 37(12) apply to the conduct of PNN CCs.
+
+
 
 ## APPENDIX D: Benchmark Rates for Cost of Rental and Loss of Use
 
@@ -915,6 +921,10 @@ The benchmark rates in this Appendix shall apply to claims for rental and loss o
 8.1 The State Courts will have regard to the compliance with this Protocol or lack thereof in exercising its discretion and powers in relation to costs orders.
 
 8.2 Where there are good reasons for non-compliance, the Court will not impose sanctions against the party in default. 
+
+8.3 If parties enter into a judgment on liability, an assessment of damages case conference will be called and the procedure set out in Practice Direction 45 shall apply.
+
+8.4 If parties are not able to reach an amicable resolution, a Personal Injury, NIMA or Negligence Case Conference ("PNN CC") will be fixed around 7 weeks after the last CDR CC. A PNN CC Notice will be issued to the claimant and any other party who has filed a notice of intention to contest and/or Defence, notifying parties that the case has been identified for a PNN CC, of the date of the first PNN CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards trial. A PNN CC will be conducted on a "documents-only" basis, unless otherwise directed by the Court. Subject to the necessary modifications, the directions applicable to the conduct of General Process CCs stated at Practice Direction 37(3) to 37(7) and 37(10) to 37(12) apply to the conduct of PNN CCs.
 
 
 ## APPENDIX G: Uploading Redacted Charges Under Practice Direction 124
