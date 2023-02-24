@@ -57,6 +57,8 @@
  
 the Bailiff may engage, or direct the enforcement applicant to engage, the services of any appropriate persons or service provider, including the enforcement applicant's solicitors, to effect service of such notice of seizure or attachment.
 
+(1B) Where, under Order 22, Rule 6(6) of the Rules of Court 2021, a copy of the notice of seizure or attachment must be served on the enforcement respondent, the Bailiff may engage, or direct the enforcement applicant to engage, the services of any appropriate persons or service provider, including the enforcement applicant's solicitors, to effect service of such copy of the notice of seizure or attachment.
+
 (2) Upon the Bailiff’s request, the enforcement applicant or the enforcement applicant’s solicitor or other authorised representative must accompany the Bailiff when the Bailiff carries out the EO: 
 
 >(a) Pursuant to Order 22, Rule 6(3) of the Rules of Court 2021, the enforcement applicant or the enforcement applicant’s solicitor or other authorised representative must be present with the Bailiff at the appointed date, time and address of any enforcement attempt, upon the Bailiff’s request. 
