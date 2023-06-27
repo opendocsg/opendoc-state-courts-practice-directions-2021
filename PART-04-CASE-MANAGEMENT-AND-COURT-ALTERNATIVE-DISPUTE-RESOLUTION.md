@@ -157,11 +157,11 @@
 
 > #### Before the first Civil Simplified CC
 
-(3) (3)	Subject to the discretion of the Court, where a case is identified for the Civil Simplified Process case management framework:
+(3) Subject to the discretion of the Court, where a case is identified for the Civil Simplified Process case management framework:
 
 >(a) A first Civil Simplified CC will be fixed around 7 weeks from the date that the Defence was filed.
 
->(b) (b)	A Civil Simplified CC Notice will be issued to the claimant and any other party who has filed a notice of intention to contest and/or Defence notifying parties that the case has been identified for the Civil Simplified Process, of the date of the first Civil Simplified CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for the purposes of the Civil Simplified CC.  
+>(b) A Civil Simplified CC Notice will be issued to the claimant and any other party who has filed a notice of intention to contest and/or Defence notifying parties that the case has been identified for the Civil Simplified Process, of the date of the first Civil Simplified CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for the purposes of the Civil Simplified CC.  
 
 >(c) Where both parties are represented, a Civil Simplified CC will be fixed to be conducted by remote hearing via video conferencing. Where at least one party is unrepresented, a physical Civil Simplified CC will be fixed. 
 
