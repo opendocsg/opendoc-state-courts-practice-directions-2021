@@ -178,9 +178,9 @@ Any affidavit or exhibit which does not comply with the Practice Directions cont
 
 ## 65A. Notice to admit hearsay evidence
 
-(1)	For the purposes of Order 15, Rule 16(9) of the Rules of Court 2021, the notice in Order 15, Rule 16(7) of those Rules must be in Form 18A of Appendix A1 of these Practice Directions. 
+(1)	For the purposes of Order 15, Rule 16(9) of the Rules of Court 2021, the notice in Order 15, Rule 16(7) of those Rules must be in [Form 18A](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2018A.pdf) of Appendix A1 of these Practice Directions. 
 
-(2)	For the purposes of Order 15, Rule 16(10) of the Rules of Court 2021, the notice in Order 15, Rule 16(7) of those Rules must be in Form 18B of Appendix A1 of these Practice Directions.
+(2)	For the purposes of Order 15, Rule 16(10) of the Rules of Court 2021, the notice in Order 15, Rule 16(7) of those Rules must be in Form [Form 18B](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2018B.pdf) of Appendix A1 of these Practice Directions.
 
 ## 66. Request for Court interpreters
 
