@@ -282,6 +282,7 @@ Pursuant to Order 15, Rule 11(10) of the Rules of Court 2021, the Registrar here
 >(a)	the judicial officer having conduct of the proceedings, or in the absence of the judicial officer, any other judicial officer as directed by the Registrar; or
 
 >(b)	with the approval of the Court, the service provider.
+
  
 ## 71. Application for Court records for civil matters
 
