@@ -8,7 +8,7 @@
 
 >(a) the Specially Managed Civil List (“**SMCL**”);
 
->(b) the Civil Simplified Process (“**Civil Simplified Process**”);
+>(b) the Simplified Process pursuant to Order 65 of the Rules of Court 2021 (“**Simplified Process**”);
 
 >(c) the General Process (“**General Process**”); or
 
@@ -18,7 +18,7 @@
 
 >(a) The provisions pertaining to matters undergoing the SMCL process are provided for in Practice Direction 35.
 
->(b) The provisions pertaining to matters undergoing the Civil Simplified Process are provided for in Practice Direction 36.
+>(b) The provisions pertaining to matters undergoing the Simplified Process are provided for in Practice Direction 36.
 
 >(c) The provisions pertaining to matters undergoing the General Process are provided for in Practice Direction 37.
 
@@ -130,38 +130,25 @@
 (15) If judgment is entered on liability for damages to be assessed, a further SMCL CC will be fixed around 3 weeks after the date judgment is entered. A fresh SMCL CC Notice will be issued to the claimant and any party against whom judgment on liability has been entered (if that party has filed a notice of intention to contest and/or Defence), notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
 
 
-## 36. Civil Simplified Process
+## 36. Simplified Process under Order 65 of the Rules of Court 2021
 
-### ***Scope of Order 65 of the Rules of Court 2021***
+### ***Scope of the Simplified Process***
 
-(1)	All Originating Claims filed in the Magistrate’s Court on or after 1 April 2022 are subject to Order 65 of the Rules of Court 2021. Where parties to Originating Claims filed in the District Courts ("**DC**") on or after 1 April 2022 consent for Order 65 to apply to those proceedings by filing Form 3 of Appendix A1 to these Practice Directions, those proceedings will also be subject to Order 65 upon the filing of Form 3. 
+(1) All Originating Claims filed in the Magistrate’s Court on or after 1 April 2022, save for personal injury claims, non-injury motor accident claims, claims in negligence (including professional negligence claims) and medical negligence claims, are subject to the Simplified Process under Order 65 of the Rules of Court 2021 (“**Simplified Process**”). Where parties to Originating Claims filed in the District Courts (“**DC**”) on or after 1 April 2022 consent for Order 65 to apply to those proceedings by filing [Form 3](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%203.pdf) of Appendix A1 to these Practice Directions, those proceedings will also be subject to the Simplified Process. Where parties to a DC claim have filed Form 3 consenting to the Simplified Process, the parties shall also separately file a Request through the Electronic Filing Service for a Civil Simplified Case Conference (“**CC**”) to be convened.
 
 ### ***Upfront Production of Documents***
 
 (2) Where copies of documents to be provided together with pleadings, pursuant to Order 65, Rule 2 of the Rules of Court 2021, are voluminous, parties are encouraged to consider supplying the documents in a common electronic format and using storage media that the other party can use.
 
-### ***CCs under the Civil Simplified Process case management framework ("Civil Simplified CC")***
-
-(2A)   	The provisions relating to the Civil Simplified Process case management framework set out below in this Practice Direction apply to all cases in paragraph (1), save for:
-> (a)	Personal injury claims;
-
-> (b)	Non-injury motor accident claims;
-
-> (c)	Claims in negligence (including professional negligence claims); and
-
-> (d)	Medical negligence claims.
-
-> The Court Dispute Resolution case management process under Practice Directions 38 to 41 will apply to the proceedings referred to in paragraph (2A)(a) to (d).
-
-> (2B) Where parties to a DC claim have filed Form 3 of Appendix A1 to these Practice Directions consenting for Order 65 to apply to those proceedings and the Civil Simplified Process case management framework applies, the parties shall also separately file a Request through the Electronic Filing Service for a Civil Simplified CC to be convened.
+### ***CCs under the Simplified Process (“Civil Simplified CC”)***
 
 > #### Before the first Civil Simplified CC
 
-(3) Subject to the discretion of the Court, where a case is identified for the Civil Simplified Process case management framework:
+(3) Subject to the discretion of the Court, where a case is identified for the Simplified Process:
 
 >(a) A first Civil Simplified CC will be fixed around 7 weeks from the date that the Defence was filed.
 
->(b) A Civil Simplified CC Notice will be issued to the claimant and any other party who has filed a notice of intention to contest and/or Defence notifying parties that the case has been identified for the Civil Simplified Process, of the date of the first Civil Simplified CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for the purposes of the Civil Simplified CC.  
+>(b) A Civil Simplified CC Notice will be issued to the claimant and any other party who has filed a notice of intention to contest and/or Defence notifying parties that the case has been identified for the Simplified Process, of the date of the first Civil Simplified CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for the purposes of the Civil Simplified CC.  
 
 >(c) Where both parties are represented, a Civil Simplified CC will be fixed to be conducted by remote hearing via video conferencing. Where at least one party is unrepresented, a physical Civil Simplified CC will be fixed. 
 
@@ -234,7 +221,7 @@
 
 ### ***Scope of the General Process***
 
-(1) All Originating Claims filed in the District Courts on or after 1 April 2022 that are not subject to the Specially Managed Civil List ("**SMCL**"), Civil Simplified Process or Court Dispute Resolution ("**CDR**") Process will be subject to the General Process described in this Practice Direction.. 
+(1) All Originating Claims filed in the District Courts on or after 1 April 2022 that are not subject to the Specially Managed Civil List (“**SMCL**”), Simplified Process or Court Dispute Resolution (“**CDR**”) Process will be subject to the General Process described in this Practice Direction. 
 
 ### ***General Process CCs and SAPT***
 
