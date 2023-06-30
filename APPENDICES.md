@@ -23,6 +23,8 @@
 <li><a href="./Forms/Appendix%20A1/Form%2016.pdf" download>Form 16 : Request Form for Civil Trial or Assessment of Damages to be Conducted on a Documents-Only Basis</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2017.pdf" download>Form 17 : Request for Production of Document Filed in Court or Court’s Records</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2018.pdf" download>Form 18 : Notice of Objections to Contents of Affidavits of Evidence-In-Chief</a></li>
+<li><a href="./Forms/Appendix%20A1/Form%2018A.pdf" download>Form 18A : Notice to Admit Documentary Hearsay Evidence</a></li>
+<li><a href="./Forms/Appendix%20A1/Form%2018B.pdf" download>Form 18B : Notice to Admit Non-Documentary Hearsay Evidence</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2019.pdf" download>Form 19 : Note to Expert Witness</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2020.pdf" download>Form 20 : Form of Table for the Last Pleading Under Order 9, Rule 25(10)(a) of the Rules of Court 2021</a></li>
 <li><a href="./Forms/Appendix%20A1/Form%2021.pdf" download>Form 21 : Volume II – Index to Agreed Bundle of Documents</a></li>

@@ -253,9 +253,18 @@ For example:
 
 >(r) the claim is in respect of matters in which the defendant has submitted or agreed to submit to the jurisdiction of the Court;
 
->(s) the claim concerns the construction, effect or enforcement of any written law; or
+>(s)	the claim concerns the construction, effect or enforcement of any written law;
 
->(t) the claim is for a committal order under Order 23 of the Rules of Court 2021.
+>(t)	the claim is for a committal order under Order 23 of the Rules of Court 2021; or
+
+>(u)        the application is for the production of documents or information:
+
+>>(i)	to identify possible parties to proceedings before the commencement of those proceedings in Singapore;
+
+>>(ii)	to enable tracing of property before the commencement of proceedings in Singapore relating to the property; or
+
+>>(iii)	where the production of the documents or information is in the interests of justice.
+
  
 
 ## 28. Substituted service 
