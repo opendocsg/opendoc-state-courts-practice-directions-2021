@@ -176,11 +176,6 @@ Any affidavit or exhibit which does not comply with the Practice Directions cont
 
 (3) An adjudication on the material objected to in affidavits of evidence-in-chief filed pursuant to an order of the Court should only be sought at the trial or hearing of the cause or matter for which the affidavits of evidence-in-chief were filed, and not before. If an adjudication is sought prior to the trial or hearing of the cause or matter, the application for the adjudication will be adjourned to be dealt with at the trial or hearing of the cause or matter, and the applicant may be ordered to pay the costs of the adjournment.
 
-## 65A. Notice to admit hearsay evidence
-
-(1)	For the purposes of Order 15, Rule 16(9) of the Rules of Court 2021, the notice in Order 15, Rule 16(7) of those Rules must be in [Form 18A](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2018A.pdf) of Appendix A1 of these Practice Directions. 
-
-(2)	For the purposes of Order 15, Rule 16(10) of the Rules of Court 2021, the notice in Order 15, Rule 16(7) of those Rules must be in [Form 18B](https://epd-statecourts-2021.opendoc.gov.sg/Forms/Appendix%20A1/Form%2018B.pdf) of Appendix A1 of these Practice Directions.
 
 ## 66. Request for Court interpreters
 
@@ -275,15 +270,12 @@ Any affidavit or exhibit which does not comply with the Practice Directions cont
 
 (9) The provisions of paragraph (8) are subject to any directions (including directions as to the means of producing transcripts) made by the judicial officer having conduct of the proceedings, or by the Registrar. Any transcript of the notes of hearing made pursuant to such directions shall, pursuant to Order 15, Rule 11(7) of the Rules of Court 2021, constitute the official record of hearing.
 
+
 ## 70. Certification of transcripts
 
-Pursuant to Order 15, Rule 11(10) of the Rules of Court 2021, the Registrar hereby directs that the transcript(s) of the official record of the hearing may be certified by: 
+Pursuant to Order 15, Rule 11(10) of the Rules of Court 2021, the Registrar hereby directs that the transcript(s) of any record of hearing or notes of hearing will be certified by the judicial officer having conduct of the proceedings, or in the absence of the judicial officer, any other judicial officer as directed by the Registrar. 
 
->(a)	the judicial officer having conduct of the proceedings, or in the absence of the judicial officer, any other judicial officer as directed by the Registrar; or
 
->(b)	with the approval of the Court, the service provider.
-
- 
 ## 71. Application for Court records for civil matters
 
 (1) For proceedings which have been commenced using the Electronic Filing Service, every application for the Court records in those proceedings (including notes of evidence, certified transcripts or grounds of decision) must be made by way of filing the appropriate Request in the Electronic Filing Service.
