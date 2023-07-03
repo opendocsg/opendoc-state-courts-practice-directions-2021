@@ -153,9 +153,9 @@
 
 > The Court Dispute Resolution case management process under Practice Directions 38 to 41 will apply to the proceedings referred to in paragraph (2A)(a) to (d).
 
-> (2B) Where parties to a DC claim have filed Form 3 of Appendix A1 to these Practice Directions consenting for Order 65 to apply to those proceedings and the Civil Simplified Process case management framework applies, the parties shall also separately file a Request through the Electronic Filing Service for a Civil Simplified CC to be convened.
+(2B) Where parties to a DC claim have filed Form 3 of Appendix A1 to these Practice Directions consenting for Order 65 to apply to those proceedings and the Civil Simplified Process case management framework applies, the parties shall also separately file a Request through the Electronic Filing Service for a Civil Simplified CC to be convened.
 
-> #### Before the first Civil Simplified CC
+#### Before the first Civil Simplified CC
 
 (3) Subject to the discretion of the Court, where a case is identified for the Civil Simplified Process case management framework:
 
