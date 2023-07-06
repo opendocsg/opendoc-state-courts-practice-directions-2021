@@ -23,7 +23,7 @@ hide_toolbar:
 
 folders:
   - name: '/'
-    title: 'State Courts Practice Directions 2021><script src="/assets/redirect.js"></script>'
+    title: 'State Courts Practice Directions 2021<script src="/assets/redirect.js"></script>'
     subtitle: ''
     order:
       - 'PART-01-INTRODUCTION.md'
