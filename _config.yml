@@ -23,7 +23,7 @@ hide_toolbar:
 
 folders:
   - name: '/'
-    title: 'State Courts Practice Directions 2021<script>window.location.replace("https://www.judiciary.gov.sg");</script>'
+    title: 'State Courts Practice Directions 2021'
     subtitle: ''
     order:
       - 'PART-01-INTRODUCTION.md'
